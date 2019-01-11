@@ -1,0 +1,74 @@
+.event-classes {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 0;
+  li {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 13px;
+    padding-right: 20px;
+    &::before {
+      content: " ";
+      display: inline-block;
+      width: 12px;
+      height: 12px;
+      background: #000000;
+      margin-right: 8px;
+    }
+    &:first-child {
+      &::before {
+        background: $olive-color;
+      }
+    }
+    &:nth-child(2) {
+      &::before {
+        background: $cyan-color;
+      }
+    }
+  }
+}
+
+.event-card {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  border-color: #000;
+  border-top: 12px solid;
+  box-shadow: 7px 7px 12px 1px #aaa;
+
+  .event-type {
+    text-align: right;
+    text-transform: uppercase;
+    font-size: 8px;
+    font-weight: bold;
+  }
+
+  .event-details {
+    position: relative;
+    flex: 1;
+    padding: 8px 8px 40px 20px;
+    background-color: #e6e6e6;
+    p {
+      margin-bottom: 0;
+    }
+    button.sign-up {
+      color: #fff;
+      background: #000;
+      position: absolute;
+      bottom: -14px;
+      right: 30px;
+      font-size: 10px;
+    }
+  }
+
+  .event-date {
+    padding: 20px 20px;
+    background-color: #fff;
+  }
+  &.meetup {
+    border-color: $cyan-color !important;
+  }
+  &.class {
+    border-color: $olive-color !important;
+  }
+}

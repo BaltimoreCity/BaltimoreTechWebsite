@@ -1,0 +1,56 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-6">
+      <h2 class="company-name text-uppercase">
+        <strong>Baltimore</strong> Tech
+      </h2>
+      <span class="powered-by"
+        >powered by <strong>Betamore</strong> & <strong>Fearless</strong></span
+      >
+    </div>
+    <div class="col-sm">
+      <h6 class="text-uppercase">Community</h6>
+      <ul class="list-unstyled">
+        <li><a href="{{ '/work' | prepend: site.baseurl }}">Jobs</a></li>
+        <li><a href="{{ '/learn' | prepend: site.baseurl }}">Events</a></li>
+        <li><a href="{{ '/explore' | prepend: site.baseurl }}">People</a></li>
+        <li><a href="#">Companies</a></li>
+      </ul>
+    </div>
+    <div class="col-sm">
+      <h6 class="text-uppercase">Connect</h6>
+      <ul class="list-unstyled">
+        <li><a href="#">Twitter</a></li>
+        <li><a href="#">Facebook</a></li>
+        <li><a href="#">Linkedin</a></li>
+        <li><a href="#">Slack</a></li>
+      </ul>
+    </div>
+    <div class="col-sm">
+      <h6 class="text-uppercase">Learn</h6>
+      <ul class="list-unstyled">
+        <li><a href="#">About</a></li>
+        <li><a href="#">Partners</a></li>
+        <li><a href="#">Betamore</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="row mt-5">
+    <div class="col-sm-6">
+      <h3>
+        <ul class="list-inline social-list">
+          {% for socialsite in site.data.socials %}
+          <li class="list-inline-item">
+            <a href="{{ socialsite.url }}" target="_blank"
+              ><i class="{{ socialsite.icon }}"></i
+            ></a>
+          </li>
+          {% endfor %}
+        </ul>
+      </h3>
+    </div>
+    <div class="col-sm-6">
+      <div class="text-right">{{ site.copyright }}</div>
+    </div>
+  </div>
+</div>

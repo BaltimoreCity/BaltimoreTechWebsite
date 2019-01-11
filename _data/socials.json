@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://facebook.com",
+    "icon": "fab fa-facebook-f",
+    "text": "Friend us on Facebook to find out about the latest news, community events, jobs and upcoming training opportunities"
+  },
+  {
+    "url": "https://slack.com",
+    "icon": "fab fa-slack",
+    "text": "Stay connected with your tech peers on our private Slack channel"
+  },
+  {
+    "url": "https://twitter.com",
+    "icon": "fab fa-twitter",
+    "text": "Follow us on Twitter to get up-to-date information about what is happening"
+  },
+  {
+    "url": "https://instagram.com",
+    "icon": "fab fa-instagram",
+    "text": "See what's happening in the Baltimore area on our Instagram page"
+  },
+  {
+    "url": "https://linkedin.com",
+    "icon": "fab fa-linkedin-in",
+    "text": "Make professional connections with other tech experts on our LinkedIn"
+  },
+  {
+    "url": "https://github.com",
+    "icon": "fab fa-github",
+    "text": "Collaborate and share code with the community on GitHub"
+  }
+]

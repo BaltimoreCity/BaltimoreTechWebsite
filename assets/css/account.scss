@@ -1,0 +1,32 @@
+---
+---
+
+
+#accountpage,
+#profilepage {
+  padding: 40px;
+  padding-top: 60px;
+  background: none;
+  // background: #fff;
+  .links {
+    li {
+      margin-bottom: 10px;
+    }
+    a {
+      color: #000;
+    }
+  }
+  #btnSave {
+    padding: 6px 32px;
+    font-size: 12px;
+  }
+  #btnUpload {
+    padding: 8px;
+    background: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    &:hover {
+      color: #000;
+    }
+  }
+}

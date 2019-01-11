@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Calvin Han",
+    "type": "meetup",
+    "profession": "Full-Stack Developer | Photographer",
+    "education": "B.E. in Engineering from Johns Hopkins University",
+    "skills": [
+      "React",
+      "Javascript",
+      "HTML5 / CSS3",
+      "SQL",
+      "Heroku",
+      "Ruby on Rails",
+      "jQuery",
+      "Git"
+    ],
+    "picture": "people_1.jpg"
+  },
+  {
+    "name": "Vince Branson",
+    "type": "class",
+    "profession": "Strategic Communications",
+    "education": "B.S. in Marketinging from Pepperdine University",
+    "skills": [
+      "Social Media",
+      "HTML5 / CSS3",
+      "Wordpress",
+      "Copy Editing",
+      "Marketing"
+    ],
+    "picture": "people_2.jpg"
+  },
+  {
+    "name": "Samantha Sheer",
+    "type": "event",
+    "profession": "Developer",
+    "education": "B.F.A. in Graphic Design from Maryland Insititute College of Art",
+    "skills": [
+      "Visual Design",
+      "UX",
+      "Development",
+      "HTML5 / CSS3",
+      "SQL",
+      "Heroku",
+      "Ruby on Rails",
+      "jQuery"
+    ],
+    "picture": "people_3.jpg"
+  }
+]

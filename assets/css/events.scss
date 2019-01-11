@@ -1,0 +1,96 @@
+---
+---
+
+
+@import "colors";
+@import "custom";
+@import "event-card";
+@import "events-calendar";
+
+#eventspage {
+  position: relative;
+  overflow: hidden;
+  .gap {
+    width: 29px;
+  }
+  #eventsHappeningMap {
+    flex: 1;
+  }
+}
+
+.upcoming-events {
+  padding: 40px;
+  background-color: #e6e6e6;
+  position: relative;
+  z-index: 1;
+
+  .search-bar {
+    display: flex;
+    margin-bottom: 40px;
+
+    .selectized {
+      text-align: left;
+      width: 100%;
+      .selectize-input {
+        padding: 16px;
+        border-radius: 0;
+        box-shadow: none;
+        font-weight: 600;
+        font-size: 16px;
+        > input {
+          display: block;
+          font-family: "Montserrat", sans-serif;
+          font-weight: 600;
+          font-size: 16px;
+          color: #333;
+          &::placeholder {
+            color: #ccc;
+          }
+        }
+        &::after {
+          display: none;
+        }
+      }
+      .search-result-item {
+        padding: 6px;
+        font-size: 16px;
+        font-weight: 600;
+      }
+    }
+    #btnSearch {
+      height: 52px;
+      border-radius: 0;
+      text-transform: uppercase;
+      color: #fff;
+      padding: 0 20px;
+    }
+  }
+
+  // override event card
+  .event-card {
+    border-top-width: 0;
+    border-left: 12px solid;
+    margin-bottom: 60px;
+    background-color: #fff;
+    padding: 12px 20px;
+    box-shadow: 12px 12px 30px 0 #aaa;
+
+    .event-details {
+      flex: 4;
+      background-color: #fff;
+      padding: 0;
+    }
+    .event-date {
+      flex: 1;
+      font-size: 14px;
+      button {
+        padding: 3px 20px;
+        font-size: 12px;
+      }
+    }
+    .event-summary {
+      font-size: 14px;
+      font-weight: 500;
+    }
+  }
+}

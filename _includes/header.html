@@ -1,0 +1,64 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <button
+    class="navbar-toggler"
+    type="button"
+    data-toggle="collapse"
+    data-target="#navbarNav"
+    aria-controls="navbarNav"
+    aria-expanded="false"
+    aria-label="Toggle navigation"
+  >
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <ul class="list-inline social-list d-lg-none">
+    {% for socialsite in site.data.socials %}
+    <li class="list-inline-item">
+      <a href="{{ socialsite.url }}" target="_blank"
+        ><i class="{{ socialsite.icon }}"></i
+      ></a>
+    </li>
+    {% endfor %}
+  </ul>
+  <button class="btn btn-olive text-uppercase rounded-0 d-lg-none">
+    <strong>Login</strong>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <div class="col-sm d-none d-lg-block">
+      <ul class="list-inline social-list">
+        {% for socialsite in site.data.socials %}
+        <li class="list-inline-item">
+          <a href="{{ socialsite.url }}" target="_blank"
+            ><i class="{{ socialsite.icon }}"></i
+          ></a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="col-sm">
+      <ul class="navbar-nav">
+        {% for nav in site.data.navs %} {% assign active = nil %} {% if nav.path
+        == page.permalink %} {% assign active = ' active'%} {% endif %}
+        <li class="nav-item{{ active }}">
+          <a class="nav-link" href="{{ nav.path | prepend: site.baseurl }}">{{
+            nav.title
+          }}</a>
+        </li>
+        {% endfor %}
+        <li class="nav-item">
+          <a class="nav-link" href="javascript: showSignUpModal();"> Join </a>
+        </li>
+      </ul>
+    </div>
+    <div class="col-sm text-right d-none d-lg-block">
+      <a href="{{ site.baseurl }}/account" id="greetingUser" class="text-white"
+        >Hi, John Doe!</a
+      >
+      <button
+        class="btn btn-olive text-uppercase rounded-0"
+        onclick="showLoginModal();"
+      >
+        <strong>Login</strong>
+      </button>
+    </div>
+  </div>
+</nav>

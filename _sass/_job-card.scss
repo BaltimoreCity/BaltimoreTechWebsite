@@ -1,0 +1,35 @@
+// job card
+.job-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: #e6e6e6;
+  .job-details {
+    flex: 1;
+    position: relative;
+    padding: 20px 30px;
+    .job-title {
+      white-space: pre-wrap;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+      font-weight: bold;
+      font-size: 1.3rem;
+    }
+    .job-company {
+      font-weight: bold;
+      margin-bottom: 30px;
+    }
+    .apply {
+      position: absolute;
+      bottom: -14px;
+      right: 30px;
+      font-weight: bold;
+      font-size: 12px;
+    }
+  }
+  .job-location {
+    background-color: #fff;
+    padding: 20px 30px;
+    font-size: 13px;
+  }
+}

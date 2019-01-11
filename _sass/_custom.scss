@@ -1,0 +1,71 @@
+@import "colors";
+
+.text-cyan {
+  color: $cyan-color;
+}
+
+.btn-olive {
+  background: $olive-color;
+  &:hover,
+  &:focus {
+    color: #fff;
+  }
+  &:focus {
+    box-shadow: 0 0 0 0.2rem rgba(155, 197, 67, 0.25);
+  }
+}
+
+.btn-cyan {
+  background: $cyan-color;
+  &:hover,
+  &:focus {
+    color: #fff;
+  }
+  &:focus {
+    box-shadow: 0 0 0 0.2rem rgba(82, 196, 196, 0.25);
+  }
+}
+
+.btn-outline-cyan {
+  border-color: $cyan-color;
+  &:hover {
+    background-color: $cyan-color;
+    color: #fff;
+  }
+  &:focus {
+    box-shadow: 0 0 0 0.2rem rgba(82, 196, 196, 0.25);
+  }
+}
+
+.btn-outline-olive {
+  border-color: $olive-color;
+  &:hover {
+    background-color: $olive-color;
+    color: #fff;
+  }
+  &:focus {
+    box-shadow: 0 0 0 0.2rem rgba(155, 197, 67, 0.25);
+  }
+}
+
+.btn-tweet,
+.btn-share {
+  padding: 2px;
+  text-transform: uppercase;
+  font-size: 11px;
+  border-radius: 0;
+  color: #fff;
+  width: 110px;
+
+  > svg {
+    margin-right: 8px;
+  }
+}
+
+.btn-tweet {
+  background-color: #1c94e0;
+}
+
+.btn-share {
+  background-color: #4267b2;
+}

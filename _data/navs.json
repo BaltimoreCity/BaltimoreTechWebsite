@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/",
+    "title": "Home"
+  },
+  {
+    "path": "/explore",
+    "title": "Explore"
+  },
+  {
+    "path": "/learn",
+    "title": "Learn"
+  },
+  {
+    "path": "/work",
+    "title": "Work"
+  },
+  {
+    "path": "/connect",
+    "title": "Connect"
+  }
+]

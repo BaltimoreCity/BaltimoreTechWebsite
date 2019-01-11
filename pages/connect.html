@@ -1,0 +1,39 @@
+---
+title: Baltimore Tech - Connect
+layout: default
+permalink: /connect
+css-list:
+  - "/assets/css/connect.css"
+---
+
+<div id="connectpage" class="container">
+  <h2 class="page-title mb-5 text-uppercase">Connect</h2>
+  <div class="row justify-content-center">
+    <div class="col-md-7">
+      <h3 class="text-center mb-4">
+        Explore our social channels to learn more about the latest happenings in
+        the vibrant Baltimore Tech community.
+      </h3>
+      <div class="socials-connect">
+        {% for social in site.data.socials %}
+        <div class="d-flex">
+          <div class="link">
+            <a href="{{ social.url }}" target="_blank"
+              ><i class="{{ social.icon }}"></i
+            ></a>
+          </div>
+          <div class="text">{{ social.text }}</div>
+        </div>
+        {% endfor %}
+      </div>
+      <div class="text-center text-uppercase">
+        <span class="d-inline-block hr-line mb-5"></span>
+        <h6 class="mb-3 font-weight-bold">More ways to connect</h6>
+        <h5 class="mb-5 font-weight-bolder">
+          The Baltimore City Open Data Portal
+        </h5>
+        <h5 class="mb-4 font-weight-bolder">Betamore</h5>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,23 @@
+---
+---
+
+
+#jobpostpage {
+  border: 1px solid #eee;
+  .banner {
+    background: url({{site.baseurl}}/assets/img/map.png) no-repeat;
+    background-size: cover;
+    padding: 40px;
+  }
+  .btn.apply {
+    padding: 4px;
+    width: 128px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 14px;
+  }
+
+  pre {
+    white-space: pre-wrap;
+  }
+}
