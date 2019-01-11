@@ -1,0 +1,31 @@
+---
+---
+
+
+@import "colors";
+@import "custom";
+.form-fill {
+  background-image: url({{site.baseurl}}/assets/img/map.png);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-color: #e4e4e4;
+  input,
+  select,
+  textarea {
+    border-radius: 0;
+  }
+  label {
+    font-weight: 600;
+  }
+  textarea {
+    min-height: 130px;
+  }
+  .btn-submit {
+    margin: 20px 0;
+    padding: 6px 40px;
+    font-size: 13px;
+  }
+  #event-date .bootstrap-datetimepicker-widget {
+    width: 300px;
+  }
+}

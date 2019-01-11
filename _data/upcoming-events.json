@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "type": "meetup",
+    "title": "Tech Meetup",
+    "location": "Spark Baltimore",
+    "date": "Tue, Oct 9th",
+    "time": "6:00pm - 9:00pm",
+    "summary": "The Baltimore Tech Meetup gathers the broader tech community for learning, networking and sharing. The meetup will serve as a roundup of the area's innovation scene and a meeting place to foster connections between entrepreneurs, developers, designers, founders, investors, companies, educators, technologists and other interested parties."
+  },
+  {
+    "id": "2",
+    "type": "class",
+    "title": "React JS 101",
+    "location": "Maryland Science Center, Baltimore",
+    "date": "Tue, Oct 9th",
+    "time": "6:00pm - 9:00pm",
+    "summary": "The Baltimore Tech Meetup gathers the broader tech community for learning, networking and sharing. The meetup will serve as a roundup of the area's innovation scene and a meeting place to foster connections between entrepreneurs, developers, designers, founders, investors, companies, educators, technologists and other interested parties."
+  },
+  {
+    "id": "3",
+    "type": "event",
+    "title": "Successful Makerspaces",
+    "location": "B&O Railroad Museum, Baltimore",
+    "date": "Tue, Oct 11th",
+    "time": "6:00pm",
+    "summary": "The Baltimore Tech Meetup gathers the broader tech community for learning, networking and sharing. The meetup will serve as a roundup of the area's innovation scene and a meeting place to foster connections between entrepreneurs, developers, designers, founders, investors, companies, educators, technologists and other interested parties."
+  },
+  {
+    "id": "4",
+    "type": "meetup",
+    "title": "LeaderShift",
+    "location": "Spark Baltimore",
+    "date": "Tue, Oct 9th",
+    "time": "6:00pm - 9:00pm",
+    "summary": "The Baltimore Tech Meetup gathers the broader tech community for learning, networking and sharing. The meetup will serve as a roundup of the area's innovation scene and a meeting place to foster connections between entrepreneurs, developers, designers, founders, investors, companies, educators, technologists and other interested parties."
+  },
+  {
+    "id": "5",
+    "type": "event",
+    "title": "WordCamp Meetup",
+    "location": "City Garage, Baltimore",
+    "date": "Tue, Oct 9th",
+    "time": "6:00pm - 9:00pm",
+    "summary": "The Baltimore Tech Meetup gathers the broader tech community for learning, networking and sharing. The meetup will serve as a roundup of the area's innovation scene and a meeting place to foster connections between entrepreneurs, developers, designers, founders, investors, companies, educators, technologists and other interested parties."
+  },
+  {
+    "id": "6",
+    "type": "meetup",
+    "title": "EntrepenuHER",
+    "location": "City Garage, Baltimore",
+    "date": "Tue, Oct 9th",
+    "time": "6:00pm - 9:00pm",
+    "summary": "The Baltimore Tech Meetup gathers the broader tech community for learning, networking and sharing. The meetup will serve as a roundup of the area's innovation scene and a meeting place to foster connections between entrepreneurs, developers, designers, founders, investors, companies, educators, technologists and other interested parties."
+  }
+]

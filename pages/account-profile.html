@@ -1,0 +1,111 @@
+---
+title: Baltimore Tech - My Account
+layout: default
+permalink: /profile
+css-list:
+  - "/assets/css/form-fill.css"
+  - "/assets/css/account.css"
+---
+
+<div id="profilepage" class="form-fill container">
+  <div class="row">
+    <div class="col-sm-3">
+      <h6 class="font-weight-bold mb-3">My Account</h6>
+      <ul class="list-unstyled links">
+        <li><a href="{{ site.baseurl }}/account">Settings</a></li>
+        <li><a href="{{ site.baseurl }}/profile">Profile</a></li>
+      </ul>
+    </div>
+    <div class="col-sm-9 col-lg-7">
+      <h3 class="font-weight-bold">
+        Settings
+        <div class="float-right">
+          <button
+            name="resume"
+            id="btnUpload"
+            class="btn btn-outline-olive"
+            onclick="selectFile();"
+          >
+            Upload your resume
+          </button>
+          <input
+            type="file"
+            id="uploadResume"
+            name="uploadResume"
+            class="d-none"
+          />
+        </div>
+      </h3>
+      <form>
+        <div class="form-group">
+          <label for="title">Title</label>
+          <input
+            type="text"
+            name="title"
+            class="form-control"
+            placeholder="e.g. Developer, UI/UX Designer"
+          />
+        </div>
+        <div class="form-group">
+          <label for="education">Education</label>
+          <input
+            type="text"
+            name="education"
+            class="form-control"
+            placeholder="Your Degree"
+          />
+        </div>
+        <div class="form-group">
+          <label for="skills">Skills</label>
+          <input
+            type="text"
+            name="skills"
+            class="form-control"
+            placeholder="Your Skills (separated by comma)"
+          />
+        </div>
+        <div class="form-group">
+          <label for="password">Slack</label>
+          <input
+            type="text"
+            name="slack"
+            class="form-control"
+            placeholder="#"
+          />
+        </div>
+        <div class="form-group">
+          <label for="twitter">Twitter</label>
+          <input
+            type="text"
+            name="twitter"
+            class="form-control"
+            placeholder="@"
+          />
+        </div>
+        <div class="form-group">
+          <label for="linkedin">LinkedIn</label>
+          <input
+            type="text"
+            name="linkedin"
+            class="form-control"
+            placeholder="/.."
+          />
+        </div>
+        <div class="form-group">
+          <button
+            id="btnSave"
+            class="btn btn-olive rounded-pill mt-4 text-white text-uppercase"
+          >
+            Save
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  function selectFile() {
+    document.getElementById("uploadResume").click();
+  }
+</script>

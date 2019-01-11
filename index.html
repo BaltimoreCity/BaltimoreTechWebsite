@@ -1,0 +1,177 @@
+---
+title: Baltimore Tech
+layout: default
+permalink: /
+css-list:
+  - "/assets/vendor/owlcarousel2/assets/owl.carousel.min.css"
+  - "/assets/vendor/owlcarousel2/assets/owl.theme.default.min.css"
+  - "/assets/vendor/selectize/css/selectize.css"
+  - "/assets/vendor/datepicker/tempusdominus-bootstrap-4.min.css"
+  - "/assets/css/home.css"
+js-list:
+  - "/assets/vendor/datepicker/moment.js"
+  - "/assets/vendor/datepicker/tempusdominus-bootstrap-4.min.js"
+  - "/assets/vendor/owlcarousel2/owl.carousel.min.js"
+  - "/assets/vendor/selectize/js/standalone/selectize.min.js"
+  - "/assets/js/events-calendar.js"
+  - "/assets/js/homepage.js"
+---
+
+<div id="homepage" class="container-fluid">
+  <!-- landing -->
+  <div id="homepageLanding" class="row">
+    <div class="city-fg"></div>
+    <div class="container">
+      <div>
+        <h1 class="text-uppercase"><strong>Baltimore</strong> Tech</h1>
+        <!-- powered by -->
+        <span
+          >powered by <strong>Betamore</strong> &
+          <strong>Fearless</strong></span
+        >
+        <!-- search -->
+        <div class="search-bar">
+          <select
+            id="mainSearch"
+            class="selectized"
+            placeholder="Start typing a keyword here..."
+          ></select>
+          <div class="dropup">
+            <button
+              class="btn btn-dark"
+              type="button"
+              data-toggle="dropdown"
+              aria-haspopup="true"
+              aria-expanded="false"
+            >
+              <i class="fas fa-chevron-down"></i>
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <a class="dropdown-item">Jobs</a>
+              <a class="dropdown-item">Events</a>
+            </div>
+          </div>
+          <button id="btnSearch" class="btn btn-olive">Search</button>
+        </div>
+      </div>
+    </div>
+    <!-- include events-calendar -->
+    {% include events-calendar.html %}
+  </div>
+  <!-- about -->
+  <div class="row about">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-7">
+          <h3 class="text-uppercase"><strong>About Baltimore Tech</strong></h3>
+          <strong class="text-cyan">A free community resource</strong
+          ><br /><br />
+          <p>{{ site.description }}</p>
+        </div>
+        <div class="col-sm-4 offset-sm-1">
+          <a
+            href="{{ '/post-event' | prepend: site.baseurl }}"
+            class="btn btn-outline-cyan btn-block btn-lg"
+          >
+            <strong>Join the Community</strong>
+          </a>
+          <br />
+          <a
+            href="{{ '/explore' | prepend: site.baseurl }}"
+            class="btn btn-outline-olive btn-block btn-lg"
+          >
+            <strong>Get Hired</strong>
+          </a>
+          <br />
+          <a
+            href="{{ '/post-job' | prepend: site.baseurl }}"
+            class="btn btn-outline-secondary btn-block btn-lg"
+          >
+            <strong>Post a Job</strong>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- latest jobs -->
+  <div class="row latest-jobs">
+    <div class="container">
+      <div class="row">
+        <div class="d-flex justify-content-between w-100 mb-5">
+          <div><h3 class="text-cyan text-uppercase">Latest Jobs</h3></div>
+          <div>
+            <a href="{{ site.baseurl }}/work" class="text-white"
+              ><u>See All Jobs</u></a
+            >
+          </div>
+        </div>
+        <div id="latestJobsCarousel" class="owl-carousel owl-theme">
+          {% for job in site.jobs %}
+          <div class="item">
+            <div class="job-card">
+              <div class="job-details">
+                <div class="job-title">{{ job.title }}</div>
+                <div class="job-company">{{ job.company }}</div>
+                <a
+                  href="{{ job.url | prepend: site.baseurl }}"
+                  class="apply btn btn-olive text-uppercase rounded-pill"
+                >
+                  Apply
+                </a>
+              </div>
+              <div class="job-location">{{ job.location }}</div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- upcoming events -->
+  <div class="row upcoming-events">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm">
+          <h3 class="d-inline-block text-uppercase"><b>Upcoming Events</b></h3>
+        </div>
+        <div
+          class="col-sm d-flex flex-row align-items-center justify-content-between"
+        >
+          <ul class="list-inline event-classes">
+            <li class="list-inline-item">Meetup</li>
+            <li class="list-inline-item">Class</li>
+            <li class="list-inline-item">Event</li>
+          </ul>
+          <div>
+            <a class="text-dark" href="{{ site.baseurl }}/learn"
+              ><strong><u>See All Events</u></strong></a
+            >
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        {% for event in site.data.upcoming-events %}
+        <div class="col-sm-6 col-lg-4 my-4">
+          <div class="event-card {{ event.type }}">
+            <div class="event-details">
+              <div class="event-type">#{{ event.type }}</div>
+              <h4>
+                <strong>{{ event.title }}</strong>
+              </h4>
+              <p>{{ event.location }}</p>
+              <button class="sign-up btn btn-dark text-uppercase rounded-pill">
+                Sign up
+              </button>
+            </div>
+            <div class="event-date">
+              <strong>{{ event.date }}</strong
+              ><br />
+              <strong>{{ event.time }}</strong>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

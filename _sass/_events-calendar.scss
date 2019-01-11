@@ -1,0 +1,135 @@
+#eventsCalendarSlider {
+  transition: left 0.4s ease-in-out;
+  position: absolute;
+  top: 0;
+  left: -531px;
+  height: 100%;
+  display: flex;
+  width: 560px;
+  border-bottom: 1px solid #ccc;
+  &.show {
+    z-index: 2;
+    left: 0;
+  }
+
+  #eventsCalendar {
+    background: #fff;
+    flex: 1;
+  }
+
+  #eventsCalendarBar {
+    white-space: nowrap;
+    padding-top: 78px;
+    width: 29px;
+    color: #000;
+    background-color: $olive-color;
+    font-weight: 600;
+    font-size: 12px;
+    .calendar-button {
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 42px;
+      height: 42px;
+      font-size: 20px;
+      background-color: $olive-color;
+      border-radius: 50%;
+      transition: background-color 0.15s;
+      &:hover {
+        background-color: darken($olive-color, 7%);
+      }
+    }
+    .text {
+      padding-top: 110px;
+      span {
+        display: block;
+        -webkit-transform: rotate(-90deg);
+        -moz-transform: rotate(-90deg);
+        transform: rotate(-90deg);
+      }
+    }
+  }
+
+  @media only screen and (max-width: 991px) {
+    width: 100%;
+    left: calc(-100% + 29px);
+    &.show {
+      left: 0;
+    }
+  }
+}
+
+.events-calendar {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+
+  > .label {
+    color: $olive-color;
+    font-weight: 600;
+    padding: 8px;
+    margin-bottom: 12px;
+  }
+
+  .calendar {
+    .calendar-month {
+      text-transform: uppercase;
+      font-weight: 600;
+    }
+    .calendar-year {
+      color: $olive-color;
+      font-size: 5.4rem;
+      font-weight: 600;
+    }
+    #inlineCalendar {
+      table {
+        th,
+        td {
+          border: 0;
+        }
+        thead {
+          tr:first-child {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+
+  .events-filter {
+    display: flex;
+    .input-group {
+      margin-left: -1px;
+    }
+    .input-group-prepend .input-group-text {
+      background: #fff;
+      border-radius: 0;
+      font-weight: 600;
+      color: #aaa;
+    }
+    .selectized {
+      flex: 1;
+      .selectize-input {
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        height: 100%;
+        padding: 8px;
+        font-size: 14px;
+        border-radius: 0;
+        > .item {
+          vertical-align: middle;
+        }
+      }
+    }
+  }
+  .events-list {
+    flex: 1;
+    overflow: auto;
+    text-align: center;
+    .list-group-item {
+      border-radius: 0;
+    }
+  }
+}

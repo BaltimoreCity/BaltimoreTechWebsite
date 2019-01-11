@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "date": "8.18.18",
+    "weekday": "sat",
+    "timeslots": [
+      {
+        "time": "1:30PM",
+        "title": "Coding Skills - UB Training Room"
+      },
+      {
+        "time": "5:30PM",
+        "title": "Tech Meeting - Rm. 308"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "date": "8.19.18",
+    "weekday": "sun",
+    "timeslots": [
+      {
+        "time": "1:45PM",
+        "title": "Marketing Forum"
+      },
+      {
+        "time": "10:00PM",
+        "title": "Night Cap"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "date": "8.20.18",
+    "weekday": "mon",
+    "timeslots": [
+      {
+        "time": "1:30PM",
+        "title": "Coding Skills - UB Training Room"
+      },
+      {
+        "time": "6:00PM",
+        "title": "BmoreTech Advisory Board Meeting"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "date": "8.21.18",
+    "weekday": "tue",
+    "timeslots": [
+      {
+        "time": "1:30PM",
+        "title": "Design Central"
+      },
+      {
+        "time": "2:00PM",
+        "title": "CityPlan Staff Meeting"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "date": "8.22.18",
+    "weekday": "wed",
+    "timeslots": [
+      {
+        "time": "1:30PM",
+        "title": "Branding Workshop"
+      },
+      {
+        "time": "2:00PM",
+        "title": "Networking Works"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "date": "8.23.18",
+    "weekday": "thu",
+    "timeslots": [
+      {
+        "time": "1:30PM",
+        "title": "Branding Workshop"
+      },
+      {
+        "time": "2:00PM",
+        "title": "Networking Works"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "date": "8.24.18",
+    "weekday": "fri",
+    "timeslots": [
+      {
+        "time": "1:30PM",
+        "title": "Branding Workshop"
+      },
+      {
+        "time": "2:00PM",
+        "title": "Networking Works"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "date": "8.25.18",
+    "weekday": "sat",
+    "timeslots": [
+      {
+        "time": "1:30PM",
+        "title": "Branding Workshop"
+      },
+      {
+        "time": "2:00PM",
+        "title": "Networking Works"
+      }
+    ]
+  }
+]

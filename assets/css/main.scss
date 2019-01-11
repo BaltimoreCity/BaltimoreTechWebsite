@@ -1,0 +1,194 @@
+---
+# Front-matter are needed in order for Jekyll to recognize and convert it to css
+---
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i");
+@import "colors";
+@import "custom";
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  > .container {
+    position: relative;
+    box-shadow: 0 0 3px 1px #999;
+    padding: 0;
+    > section {
+      display: flex;
+      min-height: 800px;
+    }
+  }
+  &.no-scroll {
+    overflow: hidden;
+  }
+}
+
+// commons
+.social-list {
+  li {
+    padding-right: 6px;
+    a {
+      color: #ddd;
+      &:hover {
+        text-decoration: none;
+        color: $olive-color;
+      }
+    }
+  }
+}
+
+.company-name,
+.powered-by {
+  color: #ddd;
+}
+
+#greetingUser {
+  font-size: 12px;
+  padding: 12px;
+}
+// header
+nav.navbar.navbar-dark.bg-dark {
+  position: relative;
+  background-color: #1a1a1a !important;
+  padding: 0;
+
+  .navbar-toggler {
+    border-radius: 0;
+    &:focus {
+      outline: none;
+    }
+  }
+
+  ul.list-inline {
+    margin-bottom: 0;
+  }
+
+  .navbar-nav {
+    .nav-item {
+      padding-left: 12px;
+      padding-right: 12px;
+      &.active > .nav-link {
+        color: $olive-color;
+        text-transform: uppercase;
+        font-weight: 600;
+      }
+    }
+    .nav-link {
+      font-size: 14px;
+      color: #fff;
+      &:hover {
+        color: $olive-color;
+      }
+    }
+  }
+
+  .col-sm:last-child {
+    padding-right: 0;
+    .btn.btn-olive {
+      color: #000;
+      font-size: 12px;
+      line-height: 1.75rem;
+    }
+  }
+}
+
+// footer
+footer {
+  background: #111;
+  color: #fff;
+  padding: 60px;
+  a {
+    color: #fff;
+    &:hover {
+      text-decoration: none;
+      color: $olive-color;
+    }
+  }
+  .social-list {
+    li {
+      padding: 0 6px;
+    }
+  }
+}
+
+// sign up modal
+.join {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  padding: 40px;
+  background-image: url({{site.baseurl}}/assets/img/map.png);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-color: #e4e4e4;
+  z-index: 2000;
+
+  &.show {
+    display: flex;
+  }
+
+  .close {
+    float: none;
+    position: absolute;
+    right: 60px;
+    top: 30px;
+    opacity: 1;
+    font-size: 30px;
+    color: #333;
+  }
+
+  .join-form {
+    padding: 40px 56px;
+    background: #fff;
+    max-width: 490px;
+    box-shadow: 12px 12px 28px 0 #aaa;
+    border-radius: 14px;
+    .company-name,
+    .powered-by {
+      color: #000;
+    }
+    .powered-by {
+      font-size: 14px;
+    }
+    .form-header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    input {
+      background: #e6e6e6;
+      margin-bottom: 20px;
+      border-radius: 0;
+      border: 0;
+      &:focus {
+        box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.25);
+      }
+      &::-webkit-input-placeholder {
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 12px;
+      }
+      &::-moz-placeholder {
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 12px;
+      }
+    }
+    .btn {
+      font-weight: 700;
+      font-size: 12px;
+      padding: 5px 25px;
+    }
+    .forget-password {
+      font-size: 12px;
+      color: #000;
+    }
+  }
+}
