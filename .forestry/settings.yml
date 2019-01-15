@@ -22,4 +22,6 @@ use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_command: jekyll build --drafts --unpublished --future
+  publish_command: jekyll build
   preview_output_directory: _site
+  output_directory: _site
