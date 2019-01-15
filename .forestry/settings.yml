@@ -20,3 +20,6 @@ public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
+build:
+  preview_command: jekyll build --drafts --unpublished --future
+  preview_output_directory: _site
