@@ -8,7 +8,7 @@ sections:
   path: _data
   label: Data
   create: documents
-  match: "**/*"
+  match: "*.json"
   new_doc_ext: json
 - type: document
   path: _data/events.json
