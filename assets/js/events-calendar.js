@@ -63,4 +63,19 @@ $(document).ready(function() {
   $("#inlineCalendar").on("change.datetimepicker", function(e) {
     loadEvents();
   });
+  $(".formatEventDate").each(function() {
+    const dateStr = $(this).data("date");
+    if (dateStr) {
+      const date = moment(dateStr);
+      const prettierDate = date.format("M.DD.YY");
+      $(this).text(prettierDate);
+    }
+  });
+  $(".formatEventDay").each(function() {
+    const dateStr = $(this).data("date");
+    if (dateStr) {
+      const date = moment(dateStr);
+      $(this).text(date.format("ddd"));
+    }
+  });
 });
