@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2018-12-05",
+    "start": "6:00pm",
+    "end": "9:00pm",
+    "location": "Spark Baltimore, Baltimore",
+    "title": "Tech meetup",
+    "type": "meetup",
+    "summary": "The Baltimore Tech Meetup gathers the broader tech community for learning, networking and sharing. The meetup will serve as a roundup of the area's innovation scene and a meeting place to foster connections between entrepreneurs, developers, designers, founders, investors, companies, educators, technologists and other interested parties.",
+    "link": "https://www.meetup.com/Inspiremum/events/bzncdqyzcbdc/"
+  },
+  {
+    "date": "2018-12-26",
+    "start": "1:30pm",
+    "end": "3:00pm",
+    "location": "Maryland Science Center, Baltimore",
+    "title": "React JS 101",
+    "type": "class",
+    "summary": "The Baltimore Tech Meetup gathers the broader tech community for learning, networking and sharing. The meetup will serve as a roundup of the area's innovation scene and a meeting place to foster connections between entrepreneurs, developers, designers, founders, investors, companies, educators, technologists and other interested parties.",
+    "link": "https://www.meetup.com/Inspiremum/events/bzncdqyzcbdc/"
+  }
+]

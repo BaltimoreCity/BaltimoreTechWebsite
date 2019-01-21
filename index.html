@@ -159,9 +159,13 @@ js-list:
                 <strong>{{ event.title }}</strong>
               </h4>
               <p>{{ event.location }}</p>
-              <button class="sign-up btn btn-dark text-uppercase rounded-pill">
+              <a
+                class="sign-up btn btn-dark text-uppercase rounded-pill"
+                href="{{ event.link }}"
+                target="_blank"
+              >
                 Sign up
-              </button>
+              </a>
             </div>
             <div class="event-date">
               <strong>{{ event.date }}</strong
