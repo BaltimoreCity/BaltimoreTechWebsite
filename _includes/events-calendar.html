@@ -42,41 +42,12 @@
           <select class="selectized event-type">
             <option vlaue="all">All</option>
             <option value="meetup">Meetups</option>
-            <option value="events">Events</option>
+            <option value="event">Events</option>
             <option value="class">Classes</option>
           </select>
         </div>
       </div>
-      <div class="events-list">
-        <div class="list-group">
-          {% for event in site.data.events["2018"]["12"] %}
-          <a href="#" class="list-group-item list-group-item-action">
-            <div
-              class="d-flex w-100 justify-content-between mb-3 align-items-center"
-            >
-              <h4 class="formatEventDate" data-date="{{ event.date }}"></h4>
-              <h6
-                class="text-uppercase formatEventDay"
-                data-date="{{ event.date }}"
-              >
-                SAT
-              </h6>
-            </div>
-            <ul class="list-unstyled text-left">
-              <li>{{ event.start }} - {{ event.title }}</li>
-            </ul>
-          </a>
-          {% endfor %}
-        </div>
-        <!-- loader -->
-        <div
-          class="spinner-grow text-primary"
-          role="status"
-          style="display: none;"
-        >
-          <span class="sr-only">Loading...</span>
-        </div>
-      </div>
+      <div id="events-list"></div>
     </div>
   </div>
   <div id="eventsCalendarBar">

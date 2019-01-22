@@ -1,3 +1,128 @@
+---
+---
+$(document).ready(function() {
+  const initDate = moment();
+  const events = eventListing("#events-list", initDate);
+
+  const $calendarMonth = $(".events-calendar .calendar .calendar-month");
+  const $calendarYear = $(".events-calendar .calendar .calendar-year");
+  const $eventMonthSelect = $(".events-calendar .selectized.month");
+  const $eventTypeSelect = $(".events-calendar .selectized.event-type");
+  const $bsCalendar = $("#inlineCalendar");
+  // init
+  $calendarMonth.html(initDate.format("MMMM"));
+  $calendarYear.html(initDate.format("YYYY"));
+
+  $bsCalendar.datetimepicker({
+    inline: true,
+    format: "L"
+  });
+
+  $bsCalendar.on("change.datetimepicker", function(e) {
+    // clicked on calendar's day
+  });
+
+  $eventMonthSelect.selectize({
+    onChange: function(value) {
+      events.filterByMonth(value);
+      $calendarMonth.html(getMonth(value));
+    }
+  });
+
+  $eventTypeSelect.selectize({
+    onChange: function(value) {
+      events.filterByType(value);
+    }
+  });
+});
+
+function eventListing(containerId, initialDate = moment()) {
+  const data = JSON.parse(`{{site.data.events | jsonify}}`);
+  const $container = $(containerId);
+  const $listGroup = $(`<div class="list-group"></div>`);
+  const filterdate = initialDate;
+  var filterEventType = "all";
+
+  function listGroupItem(date, links) {
+    return $(`<div class="list-group-item list-group-item-action">
+      <div class="d-flex w-100 justify-content-between mb-3 align-items-center">
+        <h4>${moment(date).format("M.DD.YY")}</h4>
+        <h6 class="text-uppercase">${moment(date).format("ddd")}</h6>
+      </div>
+      <ul class="list-unstyled text-left">
+        ${links}
+      </ul>
+    </div>`);
+  }
+
+  function listItem(event) {
+    return `<li><a href="${
+      event.link
+    }" target="_blank"><i class="fas fa-external-link-alt"></i></i></a>&nbsp;${
+      event.start
+    } - ${event.title}</li>`;
+  }
+
+  const render = function() {
+    $listGroup.empty();
+    const year = filterdate.year(),
+      month = filterdate.month() + 1;
+    const events = data[year][month] || [];
+    const filteredEvents =
+      filterEventType === "all"
+        ? events
+        : events.filter(event => event.type === filterEventType);
+
+    if (filteredEvents.length) {
+      const eventsByDate = filteredEvents.reduce(function(acc, event) {
+        if (acc[event.date]) {
+          acc[event.date].push(event);
+        } else {
+          acc[event.date] = [event];
+        }
+        return acc;
+      }, {});
+
+      const $items = Object.keys(eventsByDate).map(key => {
+        const dateEvents = eventsByDate[key];
+        const eventLinks = dateEvents.map(e => listItem(e));
+
+        return eventLinks.length ? listGroupItem(key, eventLinks.join("")) : "";
+      });
+
+      $listGroup.append($items);
+    } else {
+      $listGroup.append("No results");
+    }
+
+    $container.append($listGroup);
+  };
+
+  render();
+
+  return {
+    filterByYear: function(year) {
+      filterdate.year(year);
+      render();
+    },
+    filterByMonth: function(month) {
+      filterdate.month(month);
+      render();
+    },
+    filterByType: function(type) {
+      filterEventType = type.toLowerCase();
+      render();
+    }
+  };
+}
+
+function toggleEventsCalendar() {
+  const $calendarSlider = $("#eventsCalendarSlider");
+  const active = $calendarSlider.hasClass("show");
+  if (active) $calendarSlider.removeClass("show");
+  else $calendarSlider.addClass("show");
+}
+
 function getMonth(s) {
   switch (s) {
     case "jan":
@@ -26,56 +151,3 @@ function getMonth(s) {
       return "December";
   }
 }
-
-function toggleEventsCalendar() {
-  const $calendarSlider = $("#eventsCalendarSlider");
-  const active = $calendarSlider.hasClass("show");
-  if (active) $calendarSlider.removeClass("show");
-  else $calendarSlider.addClass("show");
-}
-
-function loadEvents() {
-  // mock loading data
-  $(".events-list .list-group").hide();
-  $(".events-list .spinner-grow").show();
-  setTimeout(function() {
-    $(".events-list .list-group").show();
-    $(".events-list .spinner-grow").hide();
-  }, Math.random() * 1500 + 500);
-}
-
-$(document).ready(function() {
-  $(".events-calendar .selectized.month").selectize({
-    onChange: function(value) {
-      $(".events-calendar .calendar .calendar-month").html(getMonth(value));
-      loadEvents();
-    }
-  });
-  $(".events-calendar .selectized.event-type").selectize({
-    onChange: function(value) {
-      loadEvents();
-    }
-  });
-  $("#inlineCalendar").datetimepicker({
-    inline: true,
-    format: "L"
-  });
-  $("#inlineCalendar").on("change.datetimepicker", function(e) {
-    loadEvents();
-  });
-  $(".formatEventDate").each(function() {
-    const dateStr = $(this).data("date");
-    if (dateStr) {
-      const date = moment(dateStr);
-      const prettierDate = date.format("M.DD.YY");
-      $(this).text(prettierDate);
-    }
-  });
-  $(".formatEventDay").each(function() {
-    const dateStr = $(this).data("date");
-    if (dateStr) {
-      const date = moment(dateStr);
-      $(this).text(date.format("ddd"));
-    }
-  });
-});
