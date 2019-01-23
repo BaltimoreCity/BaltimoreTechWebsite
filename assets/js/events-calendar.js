@@ -47,7 +47,7 @@ function eventListing(containerId, initialDate = moment()) {
     return $(`<div class="list-group-item list-group-item-action">
       <div class="d-flex w-100 justify-content-between mb-3 align-items-center">
         <h4>${moment(date).format("M.DD.YY")}</h4>
-        <h6 class="text-uppercase">${moment(date).format("ddd")}</h6>
+        <h6 class="text-uppercase">${moment(date).format("ddd")}.</h6>
       </div>
       <ul class="list-unstyled text-left">
         ${links}
@@ -56,11 +56,9 @@ function eventListing(containerId, initialDate = moment()) {
   }
 
   function listItem(event) {
-    return `<li><a href="${
+    return `<li>${event.start} - ${event.title}&nbsp;&nbsp;<a href="${
       event.link
-    }" target="_blank"><i class="fas fa-external-link-alt"></i></i></a>&nbsp;${
-      event.start
-    } - ${event.title}</li>`;
+    }" target="_blank" class="btn btn-olive event-btn"><i class="fas fa-globe"></i>&nbsp;visit</a><a href="/event-register" class="btn btn-olive event-btn">sign up</a></li>`;
   }
 
   const render = function() {
