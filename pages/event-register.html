@@ -1,0 +1,82 @@
+---
+title: Baltimore Tech - Event registration
+layout: default
+permalink: /event-register
+css-list:
+  - "/assets/css/event-register.css"
+---
+
+<div id="eventRegisterPage" class="container">
+  <h3 class="mb-4"><strong>Event Registration</strong></h3>
+  <form>
+    <div class="form-group mb-5">
+      <div class="form-row">
+        <div class="col">
+          <h4 class="mb-4"><strong>React JS 101</strong></h4>
+          <p>City Garage</p>
+          <p>Tue, Oct 9th<br />6:00pm</p>
+        </div>
+        <div class="col d-flex flex-column align-items-end">
+          <label for="pax">No of pax</label>
+          <select class="form-control" id="pax" style="max-width: 60px">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+          <br />
+          <small class="text-uppercase"><strong>Total</strong></small>
+          <h5><strong>$300</strong>&nbsp;<small>USD</small></h5>
+        </div>
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="name">Name on Card</label>
+      <input
+        type="text"
+        class="form-control"
+        id="name"
+        placeholder="Your full name"
+      />
+    </div>
+    <div class="form-group">
+      <label for="card">Credit Card Number</label>
+      <input type="text" class="form-control" id="card" placeholder="#" />
+    </div>
+    <div class="form-group">
+      <label>Expiration Date</label>
+      <div class="form-row">
+        <div class="col">
+          <input
+            type="text"
+            id="exp-month"
+            class="form-control"
+            placeholder="Month"
+          />
+        </div>
+        <div class="col">
+          <input
+            type="text"
+            id="exp-year"
+            class="form-control"
+            placeholder="Year"
+          />
+        </div>
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="code">Security code</label>
+      <input type="text" class="form-control" id="code" placeholder="#" />
+    </div>
+    <div class="form-group mt-5">
+      <button
+        id="btn-pay"
+        type="submit"
+        class="btn btn-olive border-rounded text-uppercase btn-sm"
+      >
+        Pay now
+      </button>
+    </div>
+  </form>
+</div>
