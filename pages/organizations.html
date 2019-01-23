@@ -1,0 +1,64 @@
+---
+title: Baltimore Tech - Organizations
+layout: default
+permalink: /organizations
+css-list:
+  - "/assets/vendor/selectize/css/selectize.css"
+  - "/assets/css/organizations.css"
+js-list:
+  - "/assets/vendor/selectize/js/standalone/selectize.min.js"
+  - "/assets/js/organizationspage.js"
+---
+
+<div id="organizationpage" class="container-fluid">
+  <div class="container m-auto">
+    <div class="row mb-3">
+      <div class="col"><h3 class="title text-uppercase">Organizations</h3></div>
+      <div class="col text-right">
+        <a href="#" class="register-link">Register an orgnization</a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        <div class="search-bar">
+          <select
+            id="organizationSearch"
+            class="selectized"
+            placeholder="Start typing a keyword here..."
+          ></select>
+          <button id="btnSearch" class="btn btn-olive">Search</button>
+        </div>
+      </div>
+    </div>
+    <div class="row flex-column">
+      {% for org in site.data.organization %}
+      <div class="col-sm-10 m-auto">
+        <div class="org-card">
+          <div class="row">
+            <div class="col-auto mb-3">
+              <img src="/assets/img/{{ org.image }}" class="thumbnail" />
+            </div>
+            <div class="col flex-grow-1">
+              <h3 class="font-weight-bold mb-4">{{ org.name }}</h3>
+              <h6 class="font-weight-bold">{{ org.location }}</h6>
+            </div>
+            <div class="col-auto">
+              <a
+                href="{{ org.url }}"
+                target="_blank"
+                class="btn btn-olive btn-sm rounded-pill px-3 py-1 text-white mb-3"
+                >Website</a
+              >
+              <br />
+              <a href="#" class="link">View jobs</a>
+            </div>
+          </div>
+          <div>
+            <p class="description">{{ org.description }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

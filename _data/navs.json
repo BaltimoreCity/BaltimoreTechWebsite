@@ -18,5 +18,9 @@
   {
     "path": "/connect",
     "title": "Connect"
+  },
+  {
+    "path": "/organizations",
+    "title": "Organizations"
   }
 ]
