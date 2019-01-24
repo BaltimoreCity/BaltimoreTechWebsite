@@ -4,7 +4,6 @@ name: Test create org from template
 location: Southeast Baltimore
 url: https://baltimore.com
 date: 2019-01-24 02:17:42 -0500
-published: false
 
 ---
 Lorem ipsum description...
