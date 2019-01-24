@@ -23,9 +23,9 @@ js-list:
             class="col-sm d-flex flex-row align-items-center justify-content-between"
           >
             <ul class="list-inline event-classes">
-              <li class="list-inline-item">Meetup</li>
-              <li class="list-inline-item">Class</li>
-              <li class="list-inline-item">Event</li>
+              <li class="list-inline-item">Full-time</li>
+              <li class="list-inline-item">Part-time</li>
+              <li class="list-inline-item">Remote</li>
             </ul>
             <div>
               <a class="text-dark" href="#"
@@ -47,7 +47,8 @@ js-list:
       </div>
     </div>
     <div class="row flex-column align-items-center">
-      {% for people in site.data.people %}
+      {% for people_hash in site.data.peoples %} {% assign people =
+      people_hash[1] %}
       <div class="col-sm-11 people-card {{ people.type }}">
         <div class="row">
           <div class="col-sm-12 col-lg-3 mb-4 text-center">
@@ -80,9 +81,12 @@ js-list:
                 ></a>
               </li>
             </ul>
-            <button class="btn-resume btn btn-dark text-uppercase rounded-pill">
+            <a
+              href="{{ people.resume_url }}"
+              class="btn-resume btn btn-dark text-uppercase rounded-pill"
+            >
               Resume
-            </button>
+            </a>
           </div>
           <div class="col-sm-4 col-lg-2">
             <ul class="list-unstyled skills-list">

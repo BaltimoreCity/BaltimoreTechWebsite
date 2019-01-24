@@ -31,7 +31,8 @@ js-list:
       </div>
     </div>
     <div class="row flex-column">
-      {% for org in site.data.organization %}
+      {% for org_hash in site.data.organizations %} {% assign org = org_hash[1]
+      %}
       <div class="col-sm-10 m-auto">
         <div class="org-card">
           <div class="row">
