@@ -56,9 +56,7 @@ function eventListing(containerId, initialDate = moment()) {
   }
 
   function listItem(event) {
-    return `<li>${event.start} - ${event.title}&nbsp;&nbsp;<a href="${
-      event.link
-    }" target="_blank" class="btn btn-olive event-btn"><i class="fas fa-globe"></i>&nbsp;visit</a><a href="/event-register" class="btn btn-olive event-btn">sign up</a></li>`;
+    return `<li>${event.start} - ${event.title}&nbsp;&nbsp;<a href="${event.link}" target="_blank" class="btn btn-olive event-btn">sign up</a></li>`;
   }
 
   const render = function() {
