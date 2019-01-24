@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: _jobs
+  label: Jobs
+  create: all
+  match: "**/*"
+- type: directory
   path: _data/peoples
   label: Peoples
   create: all
@@ -26,17 +31,9 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: json
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: jekyll-pages
   label: Pages
   create: all
-- type: directory
-  path: _jobs
-  label: Jobs
-  create: all
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
