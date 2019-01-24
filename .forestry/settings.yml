@@ -8,8 +8,8 @@ sections:
   path: _data
   label: Organizations
   create: documents
-  match: organization
-  new_doc_ext: ".json"
+  match: organization.json
+  new_doc_ext: ''
 - type: directory
   path: _data/events
   label: Events
