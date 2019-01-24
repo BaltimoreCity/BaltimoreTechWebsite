@@ -9,7 +9,7 @@ sections:
   label: Organizations
   create: documents
   match: organization.json
-  new_doc_ext: ''
+  new_doc_ext: '20190123200815'
 - type: directory
   path: _data/events
   label: Events
