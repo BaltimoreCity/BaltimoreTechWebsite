@@ -33,5 +33,3 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-pages:
-- _data/organizations/betamore.json
