@@ -8,8 +8,12 @@
     "title": "Explore"
   },
   {
-    "path": "/learn",
-    "title": "Learn"
+    "path": "/events",
+    "title": "Events"
+  },
+  {
+    "path": "/peoples",
+    "title": "Peoples"
   },
   {
     "path": "/work",

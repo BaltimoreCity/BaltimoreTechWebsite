@@ -1,0 +1,103 @@
+---
+title: Baltimore Tech - Peoples
+layout: default
+permalink: /peoples
+css-list:
+  - "/assets/vendor/selectize/css/selectize.css"
+  - "/assets/css/search-bar.css"
+  - "/assets/css/peoples.css"
+js-list:
+  - "/assets/vendor/selectize/js/standalone/selectize.min.js"
+  - "/assets/js/peoples.js"
+---
+
+<div id="peoplesPage" class="container-fluid">
+  <div class="container m-auto">
+    <div class="row flex-column">
+      <div class="col-sm mb-3">
+        <div class="row">
+          <div class="col-sm">
+            <h3 class="d-inline-block text-uppercase"><b>People</b></h3>
+          </div>
+          <div
+            class="col-sm d-flex flex-row align-items-center justify-content-between"
+          >
+            <ul class="list-inline event-classes">
+              <li class="list-inline-item">Full-time</li>
+              <li class="list-inline-item">Part-time</li>
+              <li class="list-inline-item">Remote</li>
+            </ul>
+            <div>
+              <a class="text-dark" href="#"
+                ><strong><u>See All People</u></strong></a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm mb-4">
+        <div class="search-bar">
+          <select
+            id="peopleSearch"
+            class="selectized"
+            placeholder="Start typing a keyword here..."
+          ></select>
+          <button id="btnSearch" class="btn btn-olive">Search</button>
+        </div>
+      </div>
+    </div>
+    <div class="row flex-column align-items-center">
+      {% for people_hash in site.data.peoples %} {% assign people =
+      people_hash[1] %}
+      <div class="col-sm-11 people-card {{ people.type }}">
+        <div class="row">
+          <div class="col-sm-12 col-lg-3 mb-4 text-center">
+            <img
+              src="{{ site.baseurl }}/assets/img/{{ people.picture }}"
+              alt="{{ people.name }}"
+              class="people-thumbnail"
+            />
+          </div>
+          <div class="col-sm-8 col-lg-7 mb-4">
+            <h3 class="text-uppercase">
+              <strong>{{ people.name }}</strong>
+            </h3>
+            <h6 class="mb-4">{{ people.profession }}</h6>
+            <h6 class="mb-4">{{ people.education }}</h6>
+            <ul class="list-inline social-list">
+              <li class="list-inline-item">
+                <a href="https://slack.com" target="_blank"
+                  ><i class="fab fa-slack"></i
+                ></a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://twitter.com" target="_blank"
+                  ><i class="fab fa-twitter"></i
+                ></a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://linkedin.com" target="_blank"
+                  ><i class="fab fa-linkedin-in"></i
+                ></a>
+              </li>
+            </ul>
+            <a
+              href="{{ people.resume_url }}"
+              class="btn-resume btn btn-dark text-uppercase rounded-pill"
+            >
+              Resume
+            </a>
+          </div>
+          <div class="col-sm-4 col-lg-2">
+            <ul class="list-unstyled skills-list">
+              {% for skill in people.skills %}
+              <li>{{ skill }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

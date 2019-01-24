@@ -4,40 +4,25 @@ layout: default
 permalink: /explore
 css-list:
   - "/assets/vendor/selectize/css/selectize.css"
+  - "/assets/css/search-bar.css"
   - "/assets/css/explore.css"
 js-list:
   - "/assets/vendor/selectize/js/standalone/selectize.min.js"
-  - "/assets/js/explorepage.js"
+  - "/assets/js/explore.js"
 ---
 
-<div id="explorepage" class="container-fluid">
-  <div class="container m-auto">
-    <div class="row flex-column">
-      <div class="col-sm mb-3">
-        <div class="row">
-          <div class="col-sm">
-            <h3 class="d-inline-block text-uppercase"><b>People</b></h3>
-          </div>
-          <div
-            class="col-sm d-flex flex-row align-items-center justify-content-between"
-          >
-            <ul class="list-inline event-classes">
-              <li class="list-inline-item">Meetup</li>
-              <li class="list-inline-item">Class</li>
-              <li class="list-inline-item">Event</li>
-            </ul>
-            <div>
-              <a class="text-dark" href="#"
-                ><strong><u>See All People</u></strong></a
-              >
-            </div>
-          </div>
-        </div>
+<div id="explorePage" class="container-fluid">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <h3 class="font-weight-bold text-uppercase mb-3">Explore</h3>
       </div>
-      <div class="col-sm mb-4">
+    </div>
+    <div class="row">
+      <div class="col">
         <div class="search-bar">
           <select
-            id="peopleSearch"
+            id="exploreSearch"
             class="selectized"
             placeholder="Start typing a keyword here..."
           ></select>
@@ -45,54 +30,25 @@ js-list:
         </div>
       </div>
     </div>
-    <div class="row flex-column align-items-center">
-      {% for people in site.data.people %}
-      <div class="col-sm-11 people-card {{ people.type }}">
-        <div class="row">
-          <div class="col-sm-12 col-lg-3 mb-4 text-center">
-            <img
-              src="{{ site.baseurl }}/assets/img/{{ people.picture }}"
-              alt="{{ people.name }}"
-              class="people-thumbnail"
-            />
-          </div>
-          <div class="col-sm-8 col-lg-7 mb-4">
-            <h3 class="text-uppercase">
-              <strong>{{ people.name }}</strong>
-            </h3>
-            <h6 class="mb-4">{{ people.profession }}</h6>
-            <h6 class="mb-4">{{ people.education }}</h6>
-            <ul class="list-inline social-list">
-              <li class="list-inline-item">
-                <a href="https://slack.com" target="_blank"
-                  ><i class="fab fa-slack"></i
-                ></a>
-              </li>
-              <li class="list-inline-item">
-                <a href="https://twitter.com" target="_blank"
-                  ><i class="fab fa-twitter"></i
-                ></a>
-              </li>
-              <li class="list-inline-item">
-                <a href="https://linkedin.com" target="_blank"
-                  ><i class="fab fa-linkedin-in"></i
-                ></a>
-              </li>
-            </ul>
-            <button class="btn-resume btn btn-dark text-uppercase rounded-pill">
-              Resume
-            </button>
-          </div>
-          <div class="col-sm-4 col-lg-2">
-            <ul class="list-unstyled skills-list">
-              {% for skill in people.skills %}
-              <li>{{ skill }}</li>
-              {% endfor %}
-            </ul>
-          </div>
-        </div>
+    <div class="row">
+      <div class="col">
+        <!-- social media feeds -->
+        <script
+          src="https://assets.juicer.io/embed.js"
+          type="text/javascript"
+        ></script>
+        <link
+          href="https://assets.juicer.io/embed.css"
+          media="all"
+          rel="stylesheet"
+          type="text/css"
+        />
+        <ul class="juicer-feed" data-feed-id="baltimoretech">
+          <h1 class="referral">
+            <a href="https://www.juicer.io">Powered by Juicer</a>
+          </h1>
+        </ul>
       </div>
-      {% endfor %}
     </div>
   </div>
 </div>
