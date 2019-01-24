@@ -19,13 +19,6 @@ fields:
   label: Location
   config:
     required: true
-- type: textarea
-  name: description
-  label: Description
-  config:
-    wysiwyg: false
-    schema:
-      format: markdown
 - type: text
   name: url
   label: Url
