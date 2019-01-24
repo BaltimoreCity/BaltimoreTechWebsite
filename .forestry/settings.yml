@@ -5,11 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: _data
+  path: _data/events
   label: Events
   create: all
-  match: events/*
-  new_doc_ext: ".json"
+  match: "**/*"
+  new_doc_ext: json
 - type: jekyll-posts
   label: Posts
   create: all
