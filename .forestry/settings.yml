@@ -5,11 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: _data
+  path: _data/organizations
   label: Organizations
   create: documents
-  match: organization.json
-  new_doc_ext: '20190123200815'
+  match: "**/*"
+  new_doc_ext: ".json"
 - type: directory
   path: _data/events
   label: Events
