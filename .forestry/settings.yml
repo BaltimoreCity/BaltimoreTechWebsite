@@ -4,9 +4,12 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: _data/people.json
+- type: directory
+  path: _data/peoples
   label: Peoples
+  create: all
+  match: "**/*"
+  new_doc_ext: ".yml"
 - type: directory
   path: _data/organizations
   label: Organizations
