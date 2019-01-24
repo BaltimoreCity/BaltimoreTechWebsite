@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/people.json
   label: Peoples
-  match: "**/*"
 - type: directory
   path: _data/organizations
   label: Organizations
