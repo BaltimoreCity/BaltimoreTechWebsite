@@ -1,0 +1,39 @@
+---
+label: Event
+hide_body: true
+is_partial: false
+fields:
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: YYYY-MM-DD
+    required: true
+- type: text
+  name: location
+  label: location
+  config:
+    required: true
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: select
+  name: type
+  config:
+    source:
+      type: simple
+    options:
+    - class
+    - meetup
+    - event
+  label: type
+- type: textarea
+  name: summary
+  label: summary
+- type: text
+  name: link
+  label: link
+  config:
+    required: true
