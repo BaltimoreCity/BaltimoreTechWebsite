@@ -9,7 +9,7 @@ sections:
   label: Peoples
   create: all
   match: "**/*"
-  new_doc_ext: ".yml"
+  new_doc_ext: yml
 - type: directory
   path: _data/organizations
   label: Organizations

@@ -1,0 +1,48 @@
+---
+label: People
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: name
+  label: name
+  config:
+    required: true
+- type: select
+  name: type
+  config:
+    source:
+      type: simple
+    options:
+    - full-time
+    - part-time
+    - remote
+    required: false
+  label: type
+- type: text
+  name: profession
+  label: Profession
+  config:
+    required: true
+- type: text
+  name: education
+  label: Education
+  config:
+    required: false
+- type: list
+  name: skills
+  label: Skills
+  config:
+    use_select: false
+    source:
+      type: documents
+    min: '3'
+    max: '10'
+- type: file
+  name: picture
+  label: picture
+  config:
+    maxSize: '5'
+- type: text
+  name: resume_url
+  label: resume_url
