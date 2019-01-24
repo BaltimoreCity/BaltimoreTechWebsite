@@ -14,46 +14,6 @@
   background-size: 100% auto;
   background-color: #e6e6e6;
   background-repeat: no-repeat;
-  .search-bar {
-    display: flex;
-    margin-bottom: 40px;
-    .selectized {
-      text-align: left;
-      width: 100%;
-      .selectize-input {
-        padding: 16px;
-        border-radius: 0;
-        box-shadow: none;
-        font-weight: 600;
-        font-size: 16px;
-        > input {
-          display: block;
-          font-family: "Montserrat", sans-serif;
-          font-weight: 600;
-          font-size: 16px;
-          color: #333;
-          &::placeholder {
-            color: #ccc;
-          }
-        }
-        &::after {
-          display: none;
-        }
-      }
-      .search-result-item {
-        padding: 6px;
-        font-size: 16px;
-        font-weight: 600;
-      }
-    }
-    #btnSearch {
-      height: 52px;
-      border-radius: 0;
-      text-transform: uppercase;
-      color: #fff;
-      padding: 0 20px;
-    }
-  }
 }
 
 .people-card {
