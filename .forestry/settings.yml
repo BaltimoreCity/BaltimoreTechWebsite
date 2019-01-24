@@ -9,7 +9,7 @@ sections:
   label: Organizations
   create: documents
   match: "**/*"
-  new_doc_ext: ".json"
+  new_doc_ext: json
 - type: directory
   path: _data/events
   label: Events

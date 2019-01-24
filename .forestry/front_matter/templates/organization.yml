@@ -1,6 +1,6 @@
 ---
 label: Organization
-hide_body: false
+hide_body: true
 is_partial: false
 fields:
 - type: file
@@ -25,5 +25,11 @@ fields:
   hidden: false
   config:
     required: true
-pages:
-- _data/betamore.20190123200815
+- type: textarea
+  name: description
+  label: Description
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
