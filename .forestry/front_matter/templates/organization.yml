@@ -25,5 +25,3 @@ fields:
   hidden: false
   config:
     required: true
-pages:
-- _data/testorg.20190123200815
