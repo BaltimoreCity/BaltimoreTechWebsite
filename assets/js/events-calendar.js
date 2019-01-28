@@ -56,14 +56,22 @@ function eventListing(containerId, initialDate = moment()) {
   }
 
   function listItem(event) {
-    return `<li>${event.start} - ${event.title}&nbsp;&nbsp;<a href="${event.link}" target="_blank" class="btn btn-olive event-btn">sign up</a></li>`;
+    return `<li>${event.start} - ${event.end} | ${event.title}&nbsp;&nbsp;<a href="${event.link}" target="_blank" class="btn btn-olive event-btn">sign up</a></li>`;
   }
 
   const render = function() {
     $listGroup.empty();
     const year = filterdate.year(),
       month = filterdate.month() + 1;
-    const events = data[year][month] || [];
+    let events = data[year][month] || [];
+    if(typeof events === "object"){
+      // convert events object to array
+      events = Object.keys(events).map(k => events[k]);
+    }
+
+    // sort the events
+    events.sort((a, b) => moment(a.date).diff(moment(b.date)));
+
     const filteredEvents =
       filterEventType === "all"
         ? events
