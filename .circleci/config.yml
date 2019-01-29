@@ -10,6 +10,9 @@ jobs:
       BUNDLE_PATH: ~/repo/vendor/bundle
     steps:
       - checkout
+      - run:
+          name: Update gem bundler
+          command: gem update bundler
       - restore_cache:
           keys:
             - rubygems-v1-{{ checksum "Gemfile.lock" }}
