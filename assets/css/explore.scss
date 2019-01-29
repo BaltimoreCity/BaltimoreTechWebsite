@@ -3,6 +3,8 @@
 
 
 #explorePage {
-  padding: 40px;
   background: #e6e6e6;
+  > .container {
+    padding: 40px;
+  }
 }

@@ -12,6 +12,10 @@ js-list:
 ---
 
 <div id="explorePage" class="container-fluid">
+  <div class="row">
+    <div class="gap"></div>
+    <div id="map" class="w-100" style="height: 460px"></div>
+  </div>
   <div class="container">
     <div class="row">
       <div class="col">
@@ -52,3 +56,118 @@ js-list:
     </div>
   </div>
 </div>
+
+<script type="text/javascript">
+  function getLocationData() {
+    const rawData = {
+      orgs: JSON.parse(`{{site.data.organizations | jsonify}}`),
+      events: JSON.parse(`{{site.data.events | jsonify}}`)
+    };
+
+    const orgs = _.values(rawData.orgs).reduce((result, org) => {
+      result.push({
+        type: "org",
+        title: org.name,
+        location: org.location,
+        url: org.url
+      });
+      return result;
+    }, []);
+
+    const events = _.values(rawData.events).reduce((result, year) => {
+      _.values(year).forEach(months =>
+        _.values(months).forEach(event => {
+          result.push({
+            type: "event",
+            title: event.title,
+            location: event.location,
+            url: event.link
+          });
+        })
+      );
+      return result;
+    }, []);
+
+    const locations = _.reduce(
+      [...orgs, ...events],
+      function(result, value) {
+        const location = value.location;
+        delete value.location;
+        (result[location] || (result[location] = [])).push(value);
+        return result;
+      },
+      {}
+    );
+
+    const results = _.keys(locations).map(key => ({
+      location: key,
+      data: locations[key]
+    }));
+
+    return results;
+  }
+
+  function initMap() {
+    const locationData = getLocationData();
+    const geocoder = new google.maps.Geocoder();
+    const bounds = new google.maps.LatLngBounds();
+    const mapOptions = {
+      mapTypeId: "roadmap"
+    };
+    const map = new google.maps.Map(document.getElementById("map"), mapOptions);
+
+    locationData.forEach(ld => {
+      geocoder.geocode({ address: ld.location }, function(results, status) {
+        if (status === google.maps.GeocoderStatus.OK) {
+          // custom infoWindow
+          const infowindow = new google.maps.InfoWindow({
+            content: `<div class="p-2">
+              ${_.flatMap(
+                ld.data,
+                d =>
+                  `<h6><a href="${d.url}" target="_blank">${
+                    d.type === "org"
+                      ? `<i class="far fa-building"></i>`
+                      : `<i class="far fa-calendar-alt"></i>`
+                  }</a>&nbsp;&nbsp;${d.title}&nbsp;</h6>`
+              ).join("")}
+            </div>`
+          });
+          const position = results[0].geometry.location;
+          bounds.extend(position);
+          const marker = new google.maps.Marker({
+            position,
+            map,
+            title: _.flatMap(ld.data, d => `${d.title}`).join(" | ")
+          });
+
+          marker.addListener("click", function() {
+            infowindow.open(map, marker);
+          });
+          // Automatically center the map fitting all markers on the screen
+          map.fitBounds(bounds);
+        } else {
+          console.error(`Geocode unsuccessful: ${status}`);
+        }
+      });
+    });
+
+    // Override our map zoom level once our fitBounds function runs (Make sure it only runs once)
+    const boundsListener = google.maps.event.addListener(
+      map,
+      "bounds_changed",
+      function(event) {
+        this.setZoom(14);
+        google.maps.event.removeListener(boundsListener);
+      }
+    );
+  }
+</script>
+<!-- google maps api -->
+<script
+  src="https://maps.googleapis.com/maps/api/js?key={{
+    site.google_maps_api
+  }}&callback=initMap"
+  async
+  defer
+></script>

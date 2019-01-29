@@ -24,53 +24,61 @@ To replace Google Maps API key, open **\_config.yml**
 
 You will need to enable both **Maps JavaScript API** and **Geocoding API**.
 
-# JSON files
+# JSON/YML files
 
 There are a number of data files that populate the content of the site. The JSON files and their expected formats/inputs are described here.
 
-## Events: \_data/events.json
+## Events: \_data/events/{year}/{month}/{name}.yml
 
 ```
-{
-    "id": "1",
-    "date": "8.18.18", // in MM.DD.YY
-    "weekday": "sat",
-    "timeslots": [
-      {
-        "time": "1:30PM",
-        "title": "Coding Skills - UB Training Room"
-      },
-      {
-        "time": "5:30PM",
-        "title": "Tech Meeting - Rm. 308"
-      }
-    ]
-  }
-```
-
-## Peoples: \_data/people.json
+start: "2019-01-24T14:15:00Z"
+end: "2019-01-29T15:45:00Z"
+location: "City Garage, Baltimore"
+title: "Your event title"
+type: "class | meetup | event"
+summary: "Describe your event..."
+link: "https://link-to-your-event.com"
 
 ```
-{
-    "name": "Calvin Han",
-    "type": "meetup",
-    "profession": "Full-Stack Developer | Photographer",
-    "education": "B.E. in Engineering from Johns Hopkins University",
-    "skills": [
-      "React",
-      "Javascript",
-      "HTML5 / CSS3",
-      "SQL",
-      "Heroku",
-      "Ruby on Rails",
-      "jQuery",
-      "Git"
-    ],
-    "picture": "people_1.jpg"
-  }
+
+## Organizations: \_data/organizations/{name}.yml
+
+```
+image: fearless.png
+name: Fearless
+location: Southeast Baltimore
+description:
+  "We're constantly pushing the envelope so that we don’t just stay ahead
+  of the tech industry: we drive it forward. Fearless was founded in 2009 to be a
+  different kind of digital services company, so we’ve made it our mission to do more
+  than just build software. We create tools that empower users and change lives. We're
+  committed to building software with a soul, so we don't measure our success just
+  in profits, but by our impact."
+url: "https://org-homepage.com"
+
 ```
 
-## Upcoming events: \_data/challenges.json
+## Peoples: \_data/peoples/{name}.yml
+
+```
+name: Calvin Han
+type: full-time
+profession: Full-Stack Developer | Photographer
+education: B.E. in Engineering from Johns Hopkins University
+skills:
+  - React
+  - Javascript
+  - HTML5 / CSS3
+  - SQL
+  - Heroku
+  - Ruby on Rails
+  - jQuery
+  - Git
+picture: people_1.jpg
+resume_url: "https://link-to-resume.com"
+```
+
+## Upcoming events: \_data/upcoming-events.json
 
 ```
 {
@@ -80,11 +88,14 @@ There are a number of data files that populate the content of the site. The JSON
   "location": "Spark Baltimore",
   "date": "Tue, Oct 9th",
   "time": "6:00pm - 9:00pm",
-  "summary": "The Baltimore Tech Meetup gathers the broader tech community for learning, networking and sharing. The meetup will serve as a roundup of the area's innovation scene and a meeting place to foster connections between entrepreneurs, developers, designers, founders, investors, companies, educators, technologists and other interested parties."
+  "summary": "The Baltimore Tech Meetup gathers the broader tech community for learning, networking and sharing. The meetup will serve as a roundup of the area's innovation scene and a meeting place to foster connections between entrepreneurs, developers, designers, founders, investors, companies, educators, technologists and other interested parties.",
+  "link": "https://link-to-your-event.com"
 }
 ```
 
 ## Social links: \_data/socials.json
+
+Update your social media urls and text here
 
 ```
 {

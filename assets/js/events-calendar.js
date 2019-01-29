@@ -56,7 +56,9 @@ function eventListing(containerId, initialDate = moment()) {
   }
 
   function listItem(event) {
-    return `<li>${event.start} - ${event.end} | ${event.title}&nbsp;&nbsp;<a href="${event.link}" target="_blank" class="btn btn-olive event-btn">sign up</a></li>`;
+    const start = moment(event.start).format("h:mm a");
+    const end = moment(event.end).format("h:mm a");
+    return `<li>${start} - ${end} | ${event.title}&nbsp;&nbsp;<a href="${event.link}" target="_blank" class="btn btn-olive event-btn">sign up</a></li>`;
   }
 
   const render = function() {
@@ -70,7 +72,7 @@ function eventListing(containerId, initialDate = moment()) {
     }
 
     // sort the events
-    events.sort((a, b) => moment(a.date).diff(moment(b.date)));
+    events.sort((a, b) => moment(a.start).diff(moment(b.start)));
 
     const filteredEvents =
       filterEventType === "all"
@@ -79,10 +81,10 @@ function eventListing(containerId, initialDate = moment()) {
 
     if (filteredEvents.length) {
       const eventsByDate = filteredEvents.reduce(function(acc, event) {
-        if (acc[event.date]) {
-          acc[event.date].push(event);
+        if (acc[event.start]) {
+          acc[event.start].push(event);
         } else {
-          acc[event.date] = [event];
+          acc[event.start] = [event];
         }
         return acc;
       }, {});
