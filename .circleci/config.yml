@@ -19,7 +19,10 @@ jobs:
             - rubygems-v1-fallback
       - run:
           name: Bundle Install
-          command: bundle install
+          command: bundle check || bundle install
+      - run:
+          name: Install html-proofer
+          command: gem install html-proofer
       - run:
           name: HTMLProofer tests
           command: |
