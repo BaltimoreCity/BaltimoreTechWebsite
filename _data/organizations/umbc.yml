@@ -1,8 +1,8 @@
-image: umbc.jpg
+---
+image: "/uploads/UMBC-no-tagline-black-300x83.png"
 name: UMBC
 location: West Baltimore
-description:
-  UMBC is defined by makers, explorers, doers and dreamers. Whatever your
+description: UMBC is defined by makers, explorers, doers and dreamers. Whatever your
   passion, at UMBC you’ll find a program to truly challenge and excite you, while
   working side by side with phenomenal professors, accomplished mentors, and leading
   researchers. Ours is an incredible and diverse community, but what makes it unique
