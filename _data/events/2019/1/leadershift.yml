@@ -1,6 +1,6 @@
 ---
-start: '2019-01-24T14:15:00Z'
-end: '2019-01-29T15:45:00Z'
+start: 2019-01-08 20:30:00 -0500
+end: 2019-01-08 21:30:00 -0500
 location: City Garage, Baltimore
 title: Introduction to Python 3
 type: class
