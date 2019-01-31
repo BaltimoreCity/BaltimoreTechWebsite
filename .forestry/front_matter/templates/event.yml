@@ -4,10 +4,15 @@ hide_body: true
 is_partial: false
 fields:
 - type: datetime
-  name: date
-  label: date
+  name: start
+  label: Event start date
   config:
     date_format: YYYY-MM-DD
+    required: true
+- type: datetime
+  name: end
+  label: Event end date
+  config:
     required: true
 - type: text
   name: location
