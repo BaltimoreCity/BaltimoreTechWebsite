@@ -38,7 +38,7 @@ js-list:
           <div class="row">
             <div class="col-auto mb-3">
               <img
-                src="{{ site.baseurl }}/assets/img/{{ org.image }}"
+                src="{{ org.image | prepend: site.baseurl }}"
                 class="thumbnail"
               />
             </div>
