@@ -37,7 +37,10 @@ js-list:
         <div class="org-card">
           <div class="row">
             <div class="col-auto mb-3">
-              <img src="/assets/img/{{ org.image }}" class="thumbnail" />
+              <img
+                src="{{ site.baseurl }}/assets/img/{{ org.image }}"
+                class="thumbnail"
+              />
             </div>
             <div class="col flex-grow-1">
               <h3 class="font-weight-bold mb-4">{{ org.name }}</h3>
