@@ -3,11 +3,9 @@ title: Baltimore Tech - Peoples
 layout: default
 permalink: /peoples
 css-list:
-  - "/assets/vendor/selectize/css/selectize.css"
   - "/assets/css/search-bar.css"
   - "/assets/css/peoples.css"
 js-list:
-  - "/assets/vendor/selectize/js/standalone/selectize.min.js"
   - "/assets/js/peoples.js"
 ---
 
@@ -37,16 +35,16 @@ js-list:
       </div>
       <div class="col-sm mb-4">
         <div class="search-bar">
-          <select
-            id="peopleSearch"
-            class="selectized"
+          <input
+            type="text"
+            id="search"
             placeholder="Start typing a keyword here..."
-          ></select>
-          <button id="btnSearch" class="btn btn-olive">Search</button>
+            autocomplete="off"
+          />
         </div>
       </div>
     </div>
-    <div class="row flex-column align-items-center">
+    <div class="list row flex-column align-items-center">
       {% for people_hash in site.data.peoples %} {% assign people =
       people_hash[1] %}
       <div class="col-sm-11 people-card {{ people.type }}">
@@ -59,11 +57,11 @@ js-list:
             />
           </div>
           <div class="col-sm-8 col-lg-7 mb-4">
-            <h3 class="text-uppercase">
+            <h3 class="text-uppercase people.name">
               <strong>{{ people.name }}</strong>
             </h3>
-            <h6 class="mb-4">{{ people.profession }}</h6>
-            <h6 class="mb-4">{{ people.education }}</h6>
+            <h6 class="mb-4 people.profession">{{ people.profession }}</h6>
+            <h6 class="mb-4 people.education">{{ people.education }}</h6>
             <ul class="list-inline social-list">
               <li class="list-inline-item">
                 <a href="https://slack.com" target="_blank"
@@ -89,7 +87,7 @@ js-list:
             </a>
           </div>
           <div class="col-sm-4 col-lg-2">
-            <ul class="list-unstyled skills-list">
+            <ul class="people.skills list-unstyled skills-list">
               {% for skill in people.skills %}
               <li>{{ skill }}</li>
               {% endfor %}

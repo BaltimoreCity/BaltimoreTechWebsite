@@ -3,10 +3,11 @@ title: Baltimore Tech
 layout: default
 permalink: /
 css-list:
+  - "/assets/vendor/selectize/css/selectize.css"
   - "/assets/vendor/owlcarousel2/assets/owl.carousel.min.css"
   - "/assets/vendor/owlcarousel2/assets/owl.theme.default.min.css"
-  - "/assets/vendor/selectize/css/selectize.css"
   - "/assets/vendor/datepicker/tempusdominus-bootstrap-4.min.css"
+  - "/assets/css/search-bar.css"
   - "/assets/css/home.css"
 js-list:
   - "/assets/vendor/datepicker/moment.js"
@@ -26,11 +27,15 @@ js-list:
         <h1 class="text-uppercase"><strong>Baltimore</strong> Tech</h1>
         <!-- search -->
         <div class="search-bar">
-          <select
-            id="mainSearch"
-            class="selectized"
-            placeholder="Start typing a keyword here..."
-          ></select>
+          <div class="search-container w-100">
+            <input
+              type="text"
+              id="search"
+              placeholder="Start typing a keyword here..."
+              autocomplete="off"
+            />
+            <div id="search-results"></div>
+          </div>
           <div class="dropup">
             <button
               class="btn btn-dark"

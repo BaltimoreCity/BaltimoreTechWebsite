@@ -3,10 +3,9 @@ title: Baltimore Tech - Work
 layout: default
 permalink: /work
 css-list:
-  - "/assets/vendor/selectize/css/selectize.css"
+  - "/assets/css/search-bar.css"
   - "/assets/css/work.css"
 js-list:
-  - "/assets/vendor/selectize/js/standalone/selectize.min.js"
   - "/assets/js/work.js"
 ---
 
@@ -17,12 +16,12 @@ js-list:
         <div class="col-sm">
           <h2 class="text-uppercase mb-3"><strong>Jobs</strong></h2>
           <div class="search-bar">
-            <select
-              id="jobSearch"
-              class="selectized"
+            <input
+              type="text"
+              id="search"
               placeholder="Start typing a keyword here..."
-            ></select>
-            <button id="btnSearch" class="btn btn-olive">Search</button>
+              autocomplete="off"
+            />
           </div>
         </div>
       </div>
@@ -31,20 +30,13 @@ js-list:
 
   <div class="row job-posting">
     <div class="container">
-      <div class="row">
-        <div class="col-sm mb-4 text-right">
-          <!-- <a class="text-white" href="{{ '/post-job' | prepend: site.baseurl }}"
-            ><strong><u>Post a Job</u></strong></a
-          > -->
-        </div>
-      </div>
-      <div class="row">
+      <div class="row list">
         {% for job in site.jobs %}
         <div class="col-sm-6 col-lg-4 mb-5">
           <div class="job-card">
             <div class="job-details">
-              <div class="job-title">{{ job.position }}</div>
-              <div class="job-company">{{ job.company }}</div>
+              <div class="job-title job.title">{{ job.position }}</div>
+              <div class="job-company job.company">{{ job.company }}</div>
               <a
                 class="apply btn btn-olive text-uppercase rounded-pill"
                 href="{{ job.url | prepend: site.baseurl }}"
@@ -53,10 +45,12 @@ js-list:
               </a>
             </div>
             <div class="job-location">
-              <small
+              <small class="job.tags"
                 ><strong>{{ job.tag }}</strong></small
               ><br /><br />
-              <strong style="font-size: 14px;">{{ job.location }}</strong>
+              <strong style="font-size: 14px;" class="job.location">{{
+                job.location
+              }}</strong>
             </div>
           </div>
         </div>

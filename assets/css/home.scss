@@ -1,7 +1,6 @@
 ---
 ---
 
-
 @import "colors";
 @import "custom";
 @import "job-card";
@@ -150,6 +149,36 @@
   }
 }
 
+.search-container {
+  position: relative;
+  > input[type="text"] {
+    height: 100%;
+    padding: 0 12px;
+  }
+  #search-results {
+    position: absolute;
+    width: 100%;
+    background: #fff;
+    border: 1px solid #ccc;
+    left: 0;
+    top: 51px;
+    text-align: left;
+    padding: 0;
+    max-height: 300px;
+    overflow: auto;
+    .result-item {
+      display: block;
+      padding: 6px 12px;
+      text-decoration: none;
+      color: #333;
+      font-size: 14px;
+      font-weight: 500;
+      &:hover {
+        background: #eee;
+      }
+    }
+  }
+}
 .about,
 .latest-jobs,
 .upcoming-events {
