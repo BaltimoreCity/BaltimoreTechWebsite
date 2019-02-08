@@ -3,9 +3,11 @@ title: Baltimore Tech - Work
 layout: default
 permalink: /work
 css-list:
+  - "/assets/vendor/pagination/pagination.css"
   - "/assets/css/search-bar.css"
   - "/assets/css/work.css"
 js-list:
+  - "/assets/vendor/pagination/pagination.min.js"
   - "/assets/js/work.js"
 ---
 
@@ -27,35 +29,10 @@ js-list:
       </div>
     </div>
   </div>
-
   <div class="row job-posting">
     <div class="container">
-      <div class="row list">
-        {% for job in site.jobs %}
-        <div class="col-sm-6 col-lg-4 mb-5">
-          <div class="job-card">
-            <div class="job-details">
-              <div class="job-title job.title">{{ job.position }}</div>
-              <div class="job-company job.company">{{ job.company }}</div>
-              <a
-                class="apply btn btn-olive text-uppercase rounded-pill"
-                href="{{ job.url | prepend: site.baseurl }}"
-              >
-                Apply
-              </a>
-            </div>
-            <div class="job-location">
-              <small class="job.tags"
-                ><strong>{{ job.tag }}</strong></small
-              ><br /><br />
-              <strong style="font-size: 14px;" class="job.location">{{
-                job.location
-              }}</strong>
-            </div>
-          </div>
-        </div>
-        {% endfor %}
-      </div>
+      <div id="dataContainer"></div>
+      <div id="paginationContainer"></div>
     </div>
   </div>
 </div>

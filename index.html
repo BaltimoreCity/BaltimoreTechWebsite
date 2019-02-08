@@ -83,12 +83,6 @@ js-list:
             <strong>Get Hired</strong>
           </a>
           <br />
-          <!-- <a
-            href="{{ '/post-job' | prepend: site.baseurl }}"
-            class="btn btn-outline-secondary btn-block btn-lg"
-          >
-            <strong>Post a Job</strong>
-          </a> -->
         </div>
       </div>
     </div>
@@ -150,7 +144,8 @@ js-list:
         </div>
       </div>
       <div class="row">
-        {% for event in site.data.upcoming-events %}
+        {% assign events = site.data.upcoming-events | slice: 0, 6 %} {% for
+        event in events %}
         <div class="col-sm-6 col-lg-4 my-4">
           <div class="event-card {{ event.type }}">
             <div class="event-details">

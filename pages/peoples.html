@@ -3,9 +3,11 @@ title: Baltimore Tech - Peoples
 layout: default
 permalink: /peoples
 css-list:
+  - "/assets/vendor/pagination/pagination.css"
   - "/assets/css/search-bar.css"
   - "/assets/css/peoples.css"
 js-list:
+  - "/assets/vendor/pagination/pagination.min.js"
   - "/assets/js/peoples.js"
 ---
 
@@ -44,58 +46,10 @@ js-list:
         </div>
       </div>
     </div>
-    <div class="list row flex-column align-items-center">
-      {% for people_hash in site.data.peoples %} {% assign people =
-      people_hash[1] %}
-      <div class="col-sm-11 people-card {{ people.type }}">
-        <div class="row">
-          <div class="col-sm-12 col-lg-3 mb-4 text-center">
-            <img
-              src="{{ people.picture | prepend: site.baseurl }}"
-              alt="{{ people.name }}"
-              class="people-thumbnail"
-            />
-          </div>
-          <div class="col-sm-8 col-lg-7 mb-4">
-            <h3 class="text-uppercase people.name">
-              <strong>{{ people.name }}</strong>
-            </h3>
-            <h6 class="mb-4 people.profession">{{ people.profession }}</h6>
-            <h6 class="mb-4 people.education">{{ people.education }}</h6>
-            <ul class="list-inline social-list">
-              <li class="list-inline-item">
-                <a href="https://slack.com" target="_blank"
-                  ><i class="fab fa-slack"></i
-                ></a>
-              </li>
-              <li class="list-inline-item">
-                <a href="https://twitter.com" target="_blank"
-                  ><i class="fab fa-twitter"></i
-                ></a>
-              </li>
-              <li class="list-inline-item">
-                <a href="https://linkedin.com" target="_blank"
-                  ><i class="fab fa-linkedin-in"></i
-                ></a>
-              </li>
-            </ul>
-            <a
-              href="{{ people.resume_url }}"
-              class="btn-resume btn btn-dark text-uppercase rounded-pill"
-            >
-              Resume
-            </a>
-          </div>
-          <div class="col-sm-4 col-lg-2">
-            <ul class="people.skills list-unstyled skills-list">
-              {% for skill in people.skills %}
-              <li>{{ skill }}</li>
-              {% endfor %}
-            </ul>
-          </div>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
+    <div
+      id="dataContainer"
+      class="row flex-column align-items-center list"
+    ></div>
+    <div id="paginationContainer" class="px-4"></div>
   </div>
 </div>

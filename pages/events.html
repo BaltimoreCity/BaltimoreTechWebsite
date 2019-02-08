@@ -3,11 +3,13 @@ title: Baltimore Tech - Upcoming Events
 layout: default
 permalink: /events
 css-list:
+  - "/assets/vendor/pagination/pagination.css"
   - "/assets/vendor/selectize/css/selectize.css"
   - "/assets/vendor/datepicker/tempusdominus-bootstrap-4.min.css"
   - "/assets/css/search-bar.css"
   - "/assets/css/events.css"
 js-list:
+  - "/assets/vendor/pagination/pagination.min.js"
   - "/assets/vendor/datepicker/moment.js"
   - "/assets/vendor/datepicker/tempusdominus-bootstrap-4.min.js"
   - "/assets/vendor/selectize/js/standalone/selectize.min.js"
@@ -57,39 +59,15 @@ js-list:
           </div>
         </div>
         <div class="col-sm">
-          <div class="row list events flex-column align-items-center">
-            {% for event in site.data.upcoming-events %}
-            <div class="col-sm-10">
-              <div class="event-card {{ event.type }}">
-                <div class="event-type event.type">#{{ event.type }}</div>
-                <div class="d-flex justify-content-between">
-                  <div class="event-details">
-                    <h4 class="mb-3 event.title">
-                      <strong>{{ event.title }}</strong>
-                    </h4>
-                    <h6 class="event.location">
-                      <strong>{{ event.location }}</strong>
-                    </h6>
-                  </div>
-                  <div class="event-date">
-                    <strong class="event.date">{{ event.date }}</strong
-                    ><br />
-                    <strong class="event.time">{{ event.time }}</strong> <br />
-                    <button class="btn btn-olive rounded-pill text-white mt-2">
-                      Register
-                    </button>
-                  </div>
-                </div>
-                <p class="event-summary event.summary">{{ event.summary }}</p>
-              </div>
-            </div>
-            {% endfor %}
-          </div>
+          <div
+            id="dataContainer"
+            class="row list events flex-column align-items-center"
+          ></div>
+          <div id="paginationContainer" class="row px-5"></div>
         </div>
       </div>
     </div>
   </div>
-
   {% include events-calendar.html %}
 </div>
 

@@ -3,9 +3,11 @@ title: Baltimore Tech - Organizations
 layout: default
 permalink: /organizations
 css-list:
+  - "/assets/vendor/pagination/pagination.css"
   - "/assets/css/search-bar.css"
   - "/assets/css/organizations.css"
 js-list:
+  - "/assets/vendor/pagination/pagination.min.js"
   - "/assets/js/organizations.js"
 ---
 
@@ -29,39 +31,7 @@ js-list:
         </div>
       </div>
     </div>
-    <div class="row list flex-column">
-      {% for org_hash in site.data.organizations %} {% assign org = org_hash[1]
-      %}
-      <div class="col-sm-10 m-auto">
-        <div class="org-card">
-          <div class="row">
-            <div class="col-auto mb-3">
-              <img
-                src="{{ org.image | prepend: site.baseurl }}"
-                class="thumbnail"
-              />
-            </div>
-            <div class="col flex-grow-1">
-              <h3 class="font-weight-bold mb-4 org.name">{{ org.name }}</h3>
-              <h6 class="font-weight-bold org.location">{{ org.location }}</h6>
-            </div>
-            <div class="col-auto">
-              <a
-                href="{{ org.url }}"
-                target="_blank"
-                class="btn btn-olive btn-sm rounded-pill px-3 py-1 text-white mb-3"
-                >Website</a
-              >
-              <br />
-              <a href="#" class="link">View jobs</a>
-            </div>
-          </div>
-          <div>
-            <p class="description org.description">{{ org.description }}</p>
-          </div>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
+    <div id="dataContainer" class="row list flex-column"></div>
+    <div id="paginationContainer" class="px-5"></div>
   </div>
 </div>
