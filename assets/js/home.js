@@ -1,4 +1,6 @@
-// scripts for homepage
+---
+---
+
 function initLatestJobsCarousel() {
   $("#latestJobsCarousel").owlCarousel({
     margin: 30,
@@ -21,36 +23,46 @@ function initLatestJobsCarousel() {
   });
 }
 
-function initMainSearch() {
-  $("#mainSearch").selectize({
-    valueField: "url",
-    labelField: "name",
-    searchField: "name",
-    create: false,
-    render: {
-      option: function(item, escape) {
-        return `<div class="search-result-item">${escape(item.name)}</div>`;
-      }
+function initSearch() {
+  const sjs = SimpleJekyllSearch({
+    searchInput: document.getElementById("search"),
+    resultsContainer: document.getElementById("search-results"),
+    json: `{{"/search.json" | prepend: site.baseurl}}`,
+    searchResultTemplate: `<a href="{url}" target="_blank" class="result-item">{title}</a>`,
+    exclude: ["job"]
+  });
+
+  return {
+    sjs,
+    byEvents: function() {
+      sjs.repo.setOptions({
+        exclude: ["job"]
+      });
     },
-    load: function(query, callback) {
-      if (!query.length) return callback();
-      $.ajax({
-        url:
-          "https://api.github.com/legacy/repos/search/" +
-          encodeURIComponent(query),
-        type: "GET",
-        error: function() {
-          callback();
-        },
-        success: function(res) {
-          callback(res.repositories.slice(0, 10));
-        }
+    byJobs: function() {
+      sjs.repo.setOptions({
+        exclude: ["event"]
       });
     }
-  });
+  };
 }
 
 $(document).ready(function() {
   initLatestJobsCarousel();
-  initMainSearch();
+  const search = initSearch();
+
+  const clear = () => {
+    $('#search').val('');
+    search.sjs.empty();
+  };
+
+  $('.search-bar .dropdown-menu .dropdown-item:first-child').on('click', function(){
+    clear();
+    search.byJobs();
+  });
+
+  $('.search-bar .dropdown-menu .dropdown-item:last-child').on('click', function(){
+    clear();
+    search.byEvents();
+  })
 });

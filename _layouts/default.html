@@ -52,6 +52,10 @@
       integrity="sha384-EIHISlAOj4zgYieurP0SdoiBYfGJKkgWedPHH4jCzpCXLmzVsw1ouK59MuUtP4a1"
       crossorigin="anonymous"
     ></script>
+    <script src="{{
+        '/assets/vendor/sjs-modified.js' | prepend: site.baseurl
+      }}"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
     <script src="{{ '/assets/js/main.js' | prepend: site.baseurl }}"></script>
     {% for js in page.js-list %}
     <script

@@ -1,0 +1,28 @@
+---
+---
+
+[
+  {% for job in site.jobs %}
+  {
+    "title": "{{job.title | escape}}",
+    "url": "{{job.url | prepend: site.baseurl}}",
+    "resultType": "job"
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ,
+  {% for event_year_hash in site.data.events %}
+    {% for event_month_hash in event_year_hash[1] %}
+      {% for event_hash in event_month_hash[1] %}
+        {% assign event = event_hash[1] %}
+        {
+          "title": "{{event.title}}",
+          "url": "{{event.link}}",
+          "resultType": "event"
+        }
+        {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

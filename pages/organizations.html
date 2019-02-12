@@ -3,66 +3,35 @@ title: Baltimore Tech - Organizations
 layout: default
 permalink: /organizations
 css-list:
-  - "/assets/vendor/selectize/css/selectize.css"
+  - "/assets/vendor/pagination/pagination.css"
+  - "/assets/css/search-bar.css"
   - "/assets/css/organizations.css"
 js-list:
-  - "/assets/vendor/selectize/js/standalone/selectize.min.js"
+  - "/assets/vendor/pagination/pagination.min.js"
   - "/assets/js/organizations.js"
 ---
 
-<div id="organizationpage" class="container-fluid">
+<div id="orgPage" class="container-fluid">
   <div class="container m-auto">
     <div class="row mb-3">
       <div class="col"><h3 class="title text-uppercase">Organizations</h3></div>
       <div class="col text-right">
-        <a href="#" class="register-link">Register an orgnization</a>
+        <a href="#" class="register-link">Register an organization</a>
       </div>
     </div>
     <div class="row">
       <div class="col">
         <div class="search-bar">
-          <select
-            id="organizationSearch"
-            class="selectized"
+          <input
+            type="text"
+            id="search"
             placeholder="Start typing a keyword here..."
-          ></select>
-          <button id="btnSearch" class="btn btn-olive">Search</button>
+            autocomplete="off"
+          />
         </div>
       </div>
     </div>
-    <div class="row flex-column">
-      {% for org_hash in site.data.organizations %} {% assign org = org_hash[1]
-      %}
-      <div class="col-sm-10 m-auto">
-        <div class="org-card">
-          <div class="row">
-            <div class="col-auto mb-3">
-              <img
-                src="{{ org.image | prepend: site.baseurl }}"
-                class="thumbnail"
-              />
-            </div>
-            <div class="col flex-grow-1">
-              <h3 class="font-weight-bold mb-4">{{ org.name }}</h3>
-              <h6 class="font-weight-bold">{{ org.location }}</h6>
-            </div>
-            <div class="col-auto">
-              <a
-                href="{{ org.url }}"
-                target="_blank"
-                class="btn btn-olive btn-sm rounded-pill px-3 py-1 text-white mb-3"
-                >Website</a
-              >
-              <br />
-              <a href="#" class="link">View jobs</a>
-            </div>
-          </div>
-          <div>
-            <p class="description">{{ org.description }}</p>
-          </div>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
+    <div id="dataContainer" class="row list flex-column"></div>
+    <div id="paginationContainer" class="px-5"></div>
   </div>
 </div>
