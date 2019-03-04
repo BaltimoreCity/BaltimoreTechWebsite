@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/06/croppedImg_769800011.png
-name: Citelighter
-location: 1111 Light Street, Baltimore, MD, United States
+coordinate:
+  lat: 39.2767702
+  lng: -76.612139
 description: Citelighter is an easy-to-use academic research tool that utilizes a
   community of students to help you find valuable content, automatically cite sources,
   and provide an organizational framework for writing papers. By streamlining the
   research and citation process, Citelighter allows users to write and conduct research
   more efficiently, while providing a searchable database of useful information.
+image: http://baltimoretech.org/wp-content/uploads/2015/06/croppedImg_769800011.png
+location: 1111 Light Street, Baltimore, MD, United States
+name: Citelighter
 url: https://www.citelighter.com/

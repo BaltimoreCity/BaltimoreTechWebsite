@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1625660739.png
-name: Maharawal Cabs
-location: Jaipur, Rajasthan, India
+coordinate:
+  lat: 26.9124336
+  lng: 75.7872709
 description: Maharawal Cabs provide you cab rental services with comfortable travelling
   of Jaipur, Rajasthan at reasonable price. Our sole purpose is to provide door step
   services for for any car rental requirement for local or outstation.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1625660739.png
+location: Jaipur, Rajasthan, India
+name: Maharawal Cabs
 url: http://www.maharawalcabs.com

@@ -1,9 +1,14 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_744059872.jpeg
-name: Atharva System
-location: 1451 Bayberry Park Cir, Canton, Michigan 48188, USA
-description: |-
-  Atharva System is a well reputed IT company, established in 2011. We have 30+ certified developers who provide quality service for customized web development and software development. Atharva System was found to bring businesses into the e-world by improving efficiency and online effectiveness.
+coordinate:
+  lat: 42.2949773
+  lng: -83.45012009999999
+description: 'Atharva System is a well reputed IT company, established in 2011. We
+  have 30+ certified developers who provide quality service for customized web development
+  and software development. Atharva System was found to bring businesses into the
+  e-world by improving efficiency and online effectiveness.
 
-  For more information Contact us email at : contact@atharvasystem.com
+
+  For more information Contact us email at : contact@atharvasystem.com'
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_744059872.jpeg
+location: 1451 Bayberry Park Cir, Canton, Michigan 48188, USA
+name: Atharva System
 url: https://www.atharvasystem.com

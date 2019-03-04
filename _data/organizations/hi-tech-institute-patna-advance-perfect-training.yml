@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_411011688.png
-name: Hi Tech Institute Patna Advance Perfect Training
-location: Patna Drive, Katy, TX, USA
+coordinate:
+  lat: 29.8137198
+  lng: -95.8164559
 description: Hi-tech is one of the leading repairing training institute in Patna and
   offer training in Mobile Repairing Course, Advance Mobile Repairing, Tablet Repairing,
   Laptop Chip Level and Card Level Repairing a/nd Computer Hardware Repairing Course
@@ -9,4 +8,7 @@ description: Hi-tech is one of the leading repairing training institute in Patna
   our students that were trained by us are now successful in their career and got
   their desired job and most of them have set up their own business organization.
   We aim to provid
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_411011688.png
+location: Patna Drive, Katy, TX, USA
+name: Hi Tech Institute Patna Advance Perfect Training
 url: http://www.hitechinstitutepatna.com

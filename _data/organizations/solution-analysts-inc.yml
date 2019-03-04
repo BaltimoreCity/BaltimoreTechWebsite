@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1212913809.png
-name: Solution Analysts Inc
-location: 31236 Meadowview Square, Delmar, DE 19940, United States
+coordinate:
+  lat: 38.5053151
+  lng: -75.5711314
 description: Solution Analysts, a renowned mobile application development company
   and IoT solutions provider, has offices in the US and India. We serve the global
   clientele with innovative and high-quality enterprise IT solutions in the domains
   of mobile app development, web development, IoT, and eCommerce.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1212913809.png
+location: 31236 Meadowview Square, Delmar, DE 19940, United States
+name: Solution Analysts Inc
 url: https://www.solutionanalysts.com/

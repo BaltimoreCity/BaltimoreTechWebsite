@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2017/12/croppedImg_466028029-1.jpeg
-name: Nufoot Shop Buy Slippers Online
-location: Diablo, CA 94528, USA
+coordinate:
+  lat: 37.8353026
+  lng: -121.955525
 description: The First pair of Nufoot was introduced in the year 2012 at a collegiate
   retail convention in USA. Nufoot is designed to be the most comfortable footwear
   on the planet Earth. Nufoot delivers all across the US against a minimal shipping
@@ -9,4 +8,7 @@ description: The First pair of Nufoot was introduced in the year 2012 at a colle
   and it would heal your toes. Nufoot is the best indoor shoes which you can wear
   on a number of places for instance on a plane, in the hospital, in the garden area,
   on a cruise shi
+image: http://baltimoretech.org/wp-content/uploads/2017/12/croppedImg_466028029-1.jpeg
+location: Diablo, CA 94528, USA
+name: Nufoot Shop Buy Slippers Online
 url: https://www.nufoot.com/

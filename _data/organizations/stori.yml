@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1557228878.png
-name: Stori
-location: '25133 Avenue Tibbitts, Suite: J Valencia, CA 91355'
+coordinate:
+  lat: 34.429863
+  lng: -118.5733347
 description: MEET STORI is an all-in-one visual word-of-mouth marketing system for
   creating, sourcing, publishing and engaging with influencers who submit user-generated
   visuals.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1557228878.png
+location: '25133 Avenue Tibbitts, Suite: J Valencia, CA 91355'
+name: Stori
 url: https://meetstori.com

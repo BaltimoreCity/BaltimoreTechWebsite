@@ -1,7 +1,9 @@
----
-image: http://baltimoretech.org/wp-includes/images/media/default.png
-name: Propr Design
-location: 4717 Harford Rd, Studio 2B, Baltimore, MD, United States
+coordinate:
+  lat: 39.3437813
+  lng: -76.5680307
 description: Propr is a professional creative firm with expertise in brand identity
   design and web design.
+image: http://baltimoretech.org/wp-includes/images/media/default.png
+location: 4717 Harford Rd, Studio 2B, Baltimore, MD, United States
+name: Propr Design
 url: http://proprdesign.com/

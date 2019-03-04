@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2017/03/croppedImg_1741428590-1.jpeg
-name: magePoint - Magento Website Development Company
-location: 5E/22 BP, 2nd Floor, NIT Faridabad, Haryana, India
+coordinate:
+  lat: 28.392949
+  lng: 77.30201799999999
 description: magePoint is one of the leading Magento eCommerce website development,
   designing and digital marketing solution provider based in India. We provide high
   edge magento development services to various enterprises across the world and help
   them grow. We take pride in maintaining long-lasting partnerships with our clients
   and are ardent about helping them to fulfill their needs.
+image: http://baltimoretech.org/wp-content/uploads/2017/03/croppedImg_1741428590-1.jpeg
+location: 5E/22 BP, 2nd Floor, NIT Faridabad, Haryana, India
+name: magePoint - Magento Website Development Company
 url: http://www.magepoint.com/

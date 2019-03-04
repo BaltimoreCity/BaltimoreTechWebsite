@@ -1,11 +1,13 @@
----
+coordinate:
+  lat: 38.8555841
+  lng: -77.04859979999999
+description: "JanBask Training has been providing quality online education since 2007\
+  \ in the latest IT Technologies like JAVA, Salesforce, iOS, Oracle, SQL,PMP Certification,Oracle\
+  \ DBA, DevOps Certification, Selenium Testing Training etc. \n\nContact Details:\n\
+  2011 Crystal Drive, Suite - 400 Arlington, VA - 22202\nEmail ID: info@janbask.com\n\
+  Call us: +1 9086526151\nWebsite: https://www.janbasktraining.com/"
 image: http://baltimoretech.org/wp-content/uploads/2017/08/croppedImg_903969864-1.jpeg
-name: JanBask Training
 location: 2011 Crystal Drive Arlington VA 22202, Crystal Drive, Arlington, VA, United
   States
-description: "JanBask Training has been providing quality online education since 2007
-  in the latest IT Technologies like JAVA, Salesforce, iOS, Oracle, SQL,PMP Certification,Oracle
-  DBA, DevOps Certification, Selenium Testing Training etc. \n\nContact Details:\n2011
-  Crystal Drive, Suite - 400 Arlington, VA - 22202\nEmail ID: info@janbask.com\nCall
-  us: +1 9086526151\nWebsite: https://www.janbasktraining.com/"
+name: JanBask Training
 url: https://www.janbasktraining.com/

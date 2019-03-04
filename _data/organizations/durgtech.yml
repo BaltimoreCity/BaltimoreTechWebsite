@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1782811696.png
-name: Durgtech
-location: New Delhi Restaurant, Chestnut Street, Philadelphia, PA, USA
+coordinate:
+  lat: 39.9553921
+  lng: -75.2026195
 description: 'Durgtech: A directory of technology blog for everyone. We covers tutorials,
   tips and tricks on mobile, apps and software, internet, digital marketing, SEO,
   social media, web design, web development, blogging, product reviews, make money
   other topics: Showcase, infographics &amp; discover amazing wallpapers.'
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1782811696.png
+location: New Delhi Restaurant, Chestnut Street, Philadelphia, PA, USA
+name: Durgtech
 url: http://www.durgtech.com/

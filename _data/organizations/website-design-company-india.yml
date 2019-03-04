@@ -1,9 +1,14 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1905532477.jpeg
-name: Website Design Company India
-location: LEO Towers, 60/10, Sathy Main road, Ganapathy, Coimbatore
-description: |-
-  We provide a wide variety of digital services including WordPress website development services, website design services, branding, digital marketing and much more. Our team has a wide range of skills and expertise and we always put our clients’ satisfaction first.
+coordinate:
+  lat: 11.0440097
+  lng: 76.9854984
+description: 'We provide a wide variety of digital services including WordPress website
+  development services, website design services, branding, digital marketing and much
+  more. Our team has a wide range of skills and expertise and we always put our clients’
+  satisfaction first.
 
-  https://colorwhistle.com
+
+  https://colorwhistle.com'
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1905532477.jpeg
+location: LEO Towers, 60/10, Sathy Main road, Ganapathy, Coimbatore
+name: Website Design Company India
 url: https://colorwhistle.com/

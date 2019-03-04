@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1541365939.jpeg
-name: TaskQue
-location: Oak Shores Drive, Plano, TX, United States
+coordinate:
+  lat: 33.09263790000001
+  lng: -96.7870042
 description: TaskQue is easy task management software that provides all the features
   you need. Whether it is assigning tasks, conducting meetings or tracking progress,
   you can do it and much more with TaskQue. Stay updated with everything even when
@@ -9,4 +8,7 @@ description: TaskQue is easy task management software that provides all the feat
   and leave the rest to TaskQue. TaskQue adjusts automatically to the way you work
   and help you achieve higher productivity by automating and streamlining task assignment
   and task
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1541365939.jpeg
+location: Oak Shores Drive, Plano, TX, United States
+name: TaskQue
 url: https://taskque.com

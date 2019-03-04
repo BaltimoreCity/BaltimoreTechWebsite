@@ -1,7 +1,9 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1456502330.jpeg
-name: Productivity Apps
-location: United States Capitol, Washington, DC, USA
+coordinate:
+  lat: 38.8899389
+  lng: -77.0090505
 description: here are our favorite productivity apps that you can install now on your
   iOS or Android device.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1456502330.jpeg
+location: United States Capitol, Washington, DC, USA
+name: Productivity Apps
 url: https://www.productivityapps.org/

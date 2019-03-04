@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/06/croppedImg_1165678974.png
-name: Hexis Cyber Solutions, Inc.
-location: 7740 Milestone Parkway, Suite 150, Hanover, Maryland 21076
+coordinate:
+  lat: 39.1514472
+  lng: -76.74833989999999
 description: 'Hexis Cyber Solutions, Inc., a wholly-owned subsidiary of The KEYW Holding
   Corporation (NASDAQ: KEYW) based in Hanover, Maryland, provides complete cybersecurity
   solutions for commercial companies, and government agencies and the Intelligence
   Community (IC).'
+image: http://baltimoretech.org/wp-content/uploads/2016/06/croppedImg_1165678974.png
+location: 7740 Milestone Parkway, Suite 150, Hanover, Maryland 21076
+name: Hexis Cyber Solutions, Inc.
 url: https://www.hexiscyber.com/

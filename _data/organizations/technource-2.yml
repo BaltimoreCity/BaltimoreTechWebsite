@@ -1,9 +1,15 @@
----
+coordinate:
+  lat: 22.9935519
+  lng: 72.4987754
+description: 'Technource is a well-managed IT solution company which enriched with
+  team of dedicated and experienced web developers, designers and SEO experts who
+  strive to provide cost-effective and organized web solutions that satisfy our clients’
+  requirements. We are leading the way in social media marketing and also create new
+  designs &amp; develop unique Android Apps.
+
+  In a hotly-competitive, get your Business explored with Technource.'
 image: http://baltimoretech.org/wp-content/uploads/2017/12/croppedImg_1460336276-1.jpeg
-name: Technource
 location: B - 401, Siddhivinayak Towers, Nr. D.A.V. School, Next to Kataria House,
   Off. S.G. Road, Makarba, Ahmedabad, 380051, Gujarat, India
-description: |-
-  Technource is a well-managed IT solution company which enriched with team of dedicated and experienced web developers, designers and SEO experts who strive to provide cost-effective and organized web solutions that satisfy our clients’ requirements. We are leading the way in social media marketing and also create new designs &amp; develop unique Android Apps.
-  In a hotly-competitive, get your Business explored with Technource.
+name: Technource
 url: https://www.technource.com/

@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_773773736.jpeg
-name: iMOBDEV Technologies
-location: iMOBDEV Technologies, Village Green, Westfield, NJ, United States
+coordinate:
+  lat: 40.6297071
+  lng: -74.34164090000002
 description: iMOBDEV Technologies is a renowned IT firm constantly provides Mobile
   app development and customized web development services and solutions, delivered
   to the clients on decided time frame and in reasonable budget completely as per
   their fundamentals regarding the development. Expert team working very hard to satisfy
   esteemed customers 100%.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_773773736.jpeg
+location: iMOBDEV Technologies, Village Green, Westfield, NJ, United States
+name: iMOBDEV Technologies
 url: https://www.imobdevtech.com

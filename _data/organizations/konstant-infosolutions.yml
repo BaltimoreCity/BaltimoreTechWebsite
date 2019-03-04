@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2017/08/croppedImg_103844413-1-1.jpeg
-name: Konstant Infosolutions
-location: '221 Main Street, Ste # 1706, Los Altos, CA 94022, United States'
-description: 'Konstant Infosolutions is a globally recognized <strong><a href="https://www.konstantinfo.com">mobile
+coordinate:
+  lat: 37.378586
+  lng: -122.1158798
+description: 'Konstant Infosolutions is a globally recognized <strong><a href=&#34;https://www.konstantinfo.com&#34;>mobile
   app development company</a></strong> along with a successful work experience in
   web development. The whole team is focused on one thing: creating world-class digital
   experiences implementing various cutting-edge technologies like IoT, wearable, enterprise
   mobility, cloud and mobile solutions that exceed client’s and their customer’s expectations
   and establish them as category leaders.'
+image: http://baltimoretech.org/wp-content/uploads/2017/08/croppedImg_103844413-1-1.jpeg
+location: '221 Main Street, Ste # 1706, Los Altos, CA 94022, United States'
+name: Konstant Infosolutions
 url: https://plus.google.com/+Konstantinfo

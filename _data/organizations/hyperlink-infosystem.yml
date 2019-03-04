@@ -1,9 +1,16 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2017/08/croppedImg_909723916-1-1.jpeg
-name: Hyperlink Infosystem
-location: 607 Arcadia Terrace Unit 201, Sunnyvale, CA 94085
-description: |-
-  <a href="https://www.hyperlinkinfosystem.com">Hyperlink InfoSystem</a> is leading mobile app development company based in USA &amp; India. The company offers mobile app development services for Android, iOS and Windows platform and web development.
+coordinate:
+  lat: 37.3924219
+  lng: -122.0130514
+description: '<a href=&#34;https://www.hyperlinkinfosystem.com&#34;>Hyperlink InfoSystem</a>
+  is leading mobile app development company based in USA &amp; India. The company
+  offers mobile app development services for Android, iOS and Windows platform and
+  web development.
 
-  Established in 2011, Hyperlink InfoSystem, with its dedicated and skilled team of professionals has able to create dynamic and cost effective solutions for its clients that are based all over the USA, UK, Japan, Canada and other part
+
+  Established in 2011, Hyperlink InfoSystem, with its dedicated and skilled team of
+  professionals has able to create dynamic and cost effective solutions for its clients
+  that are based all over the USA, UK, Japan, Canada and other part'
+image: http://baltimoretech.org/wp-content/uploads/2017/08/croppedImg_909723916-1-1.jpeg
+location: 607 Arcadia Terrace Unit 201, Sunnyvale, CA 94085
+name: Hyperlink Infosystem
 url: https://www.hyperlinkinfosystem.com

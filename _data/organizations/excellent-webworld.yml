@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_2135069548.gif
-name: Excellent WebWorld
-location: South 4th Street, Phoenix, Arizona, United States
+coordinate:
+  lat: 33.4013276
+  lng: -112.0691141
 description: Excellent WebWorld is a bunch of talented young minds of designers, marketers,
   communication specialist, project managers and mobile and website developers. We
   transform app ideas into experiences for a wide range of connected devices. We build
   on each other’s expertise, working together in teams to generate great outcomes
   for projects.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_2135069548.gif
+location: South 4th Street, Phoenix, Arizona, United States
+name: Excellent WebWorld
 url: https://excellentwebworld.com/

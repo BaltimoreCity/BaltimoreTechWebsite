@@ -1,11 +1,21 @@
----
+coordinate:
+  lat: 39.2634099
+  lng: -76.6161796
+description: 'Betamore is an award-winning coworking, incubator and campus for technology
+  and entrepreneurship.
+
+
+  Our mission is to make Baltimore a leading global entrepreneurship destination that
+  aligns businesses, government, not-for-profit entities, and centers of education
+  with entrepreneurs who drive creative commercialization.
+
+
+  We aim to stimulate the establishment and growth of technology-based startup companies
+  through business collaboration and incubation. We also offer a career-focused education
+  led by current industry experts to a growing public community of learners. Our education
+  aims to fill the gap between a traditional liberal arts education and the demand
+  of 21st century jobs.'
 image: http://baltimoretech1.wpengine.com/wp-content/uploads/2014/12/betamore-logo.jpg
-name: Betamore
 location: Betamore, Light Street, Baltimore, MD, United States
-description: |-
-  Betamore is an award-winning coworking, incubator and campus for technology and entrepreneurship.
-
-  Our mission is to make Baltimore a leading global entrepreneurship destination that aligns businesses, government, not-for-profit entities, and centers of education with entrepreneurs who drive creative commercialization.
-
-  We aim to stimulate the establishment and growth of technology-based startup companies through business collaboration and incubation. We also offer a career-focused education led by current industry experts to a growing public community of learners. Our education aims to fill the gap between a traditional liberal arts education and the demand of 21st century jobs.
+name: Betamore
 url: http://betamore.com

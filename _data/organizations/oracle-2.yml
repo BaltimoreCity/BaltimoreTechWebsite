@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/08/croppedImg_1834149406.jpeg
-name: Oracle
-location: '7031 Columbia Gateway Dr #1, Columbia, MD 21046'
+coordinate:
+  lat: 39.1735814
+  lng: -76.8015619
 description: With more than 420,000 customers and deployments in more than 145 countries,
   Oracle offers a comprehensive and fully integrated stack of cloud applications,
   platform services, and engineered systems. Learn more about Oracle and who we are.
+image: http://baltimoretech.org/wp-content/uploads/2016/08/croppedImg_1834149406.jpeg
+location: '7031 Columbia Gateway Dr #1, Columbia, MD 21046'
+name: Oracle
 url: https://www.oracle.com/index.html

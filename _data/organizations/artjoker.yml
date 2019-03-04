@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1684057107.jpeg
-name: Artjoker
-location: NY, United States
+coordinate:
+  lat: 40.7127753
+  lng: -74.0059728
 description: Artjoker is a broad web development company with its headquarters and
   core resources located in the USA, New York. Large experienced stuff has already
   spent eight years building web resources, blogs apps for the clients not only in
@@ -9,4 +8,7 @@ description: Artjoker is a broad web development company with its headquarters a
   company got an opportunity to open more markets and because of it gain not only
   a tremendous experience but also a wide popularity among businessmen, startuppers,
   and developers.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1684057107.jpeg
+location: NY, United States
+name: Artjoker
 url: https://artjoker.net

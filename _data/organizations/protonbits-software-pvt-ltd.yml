@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2017/12/croppedImg_701065416-1.jpeg
-name: Protonbits Web and Mobile App Development Company
-location: 239th Street, New York, Queens, NY 11426, USA
+coordinate:
+  lat: 40.7283371
+  lng: -73.72850389999999
 description: Protonbits is a leading mobile application &amp; Website development
   company providing expert services of mobile app, android app development, magento
   development, wordpress development, joomla development, cakephp development, php
   development, yii development &amp; codeigniter development.
+image: http://baltimoretech.org/wp-content/uploads/2017/12/croppedImg_701065416-1.jpeg
+location: 239th Street, New York, Queens, NY 11426, USA
+name: Protonbits Web and Mobile App Development Company
 url: http://www.protonbits.com

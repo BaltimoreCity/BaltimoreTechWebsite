@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1327312533.png
-name: Web Experts
-location: Allama Shabbir Ahmed Usmani Rd, Karachi – Pakistan
+coordinate:
+  lat: 24.9253757
+  lng: 67.0927761
 description: A leading digital marketing firm in Karachi is treating with the best
   services itself to all over Pakistan, including web designing, web development,
   Logo designing, content marketing strategies and graphic designing.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1327312533.png
+location: Allama Shabbir Ahmed Usmani Rd, Karachi – Pakistan
+name: Web Experts
 url: https://www.webexperts.pk/website-design/

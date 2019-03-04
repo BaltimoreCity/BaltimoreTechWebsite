@@ -1,9 +1,11 @@
----
-image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/05/croppedImg_1191234155.png
-name: Renegade Communications
-location: 10950 Gilroy Rd, MD, United States
+coordinate:
+  lat: 39.4829883
+  lng: -76.66329
 description: Renegade Communications’ job is to effectively communicate your “why”
   – the reason you do what you do and make what you make – so people become emotionally
   invested in your brand. It’s brand optimization, and it’s the sole purpose of our
   business.
+image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/05/croppedImg_1191234155.png
+location: 10950 Gilroy Rd, MD, United States
+name: Renegade Communications
 url: http://renegadecommunications.com/

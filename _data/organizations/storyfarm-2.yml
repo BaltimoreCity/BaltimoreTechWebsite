@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/02/croppedImg_1447025221.png
-name: Storyfarm
-location: 1909 Thames Street, Baltimore, MD, United States
+coordinate:
+  lat: 39.2818629
+  lng: -76.58887109999999
 description: Storyfarm is an award-winning video production and animation studio based
   in Baltimore's waterfront Fells Point neighborhood.  We make web videos and TV commercials
   for a broad spectrum of clients in just about any industry you can think of.  Founded
   in 2010, Storyfarm is an entrepreneurial business, working daily to be the best
   video partner of the best brands.  We have 12 people full-time currently, and are
   excited to continue our growth.
+image: http://baltimoretech.org/wp-content/uploads/2016/02/croppedImg_1447025221.png
+location: 1909 Thames Street, Baltimore, MD, United States
+name: Storyfarm
 url: http://www.storyfarm.com

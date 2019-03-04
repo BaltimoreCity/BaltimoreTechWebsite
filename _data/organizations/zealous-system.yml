@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_902581537.jpeg
-name: Zealous System
-location: Ahmedabad
+coordinate:
+  lat: 23.022505
+  lng: 72.5713621
 description: Zealous is an established software development company specializing in
   the development of web and mobile applications. We deliver a full spectrum of software
   consulting and development services to clients.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_902581537.jpeg
+location: Ahmedabad
+name: Zealous System
 url: https://www.zealousys.com/

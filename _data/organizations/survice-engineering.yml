@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/06/croppedImg_2113214666.png
-name: SURVICE Engineering
-location: 4695 Millennium Dr, Belcamp, MD 21017, United States
+coordinate:
+  lat: 39.4669123
+  lng: -76.2365964
 description: SURVICE combines small-company values with big-company capabilities by
   providing unparalleled services and technology solutions in support of National
   Defense and the U.S. Warfighter.
+image: http://baltimoretech.org/wp-content/uploads/2015/06/croppedImg_2113214666.png
+location: 4695 Millennium Dr, Belcamp, MD 21017, United States
+name: SURVICE Engineering
 url: http://www.survice.com

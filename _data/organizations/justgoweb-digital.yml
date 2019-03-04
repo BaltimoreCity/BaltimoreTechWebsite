@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2018/07/croppedImg_2107526855-1.jpeg
-name: JustGoWeb Digital
-location: B-150, Sector - 63, Noida - 201301 
+coordinate:
+  lat: 28.6148838
+  lng: 77.37797119999999
 description: At Justgoweb, we help businesses leverage digital marketing solutions
   that drive leads, brand engagement and most importantly ROI.  We have best breed
   of marketing professionals who take a deep dive to understand your business and
   propose solutions that deliver results. Our team has extensive experience in search
   engine optimization, paid search, display advertising and social media marketing.
   Visit http://www.justgoweb.com/services/seo/ for more information.
+image: http://baltimoretech.org/wp-content/uploads/2018/07/croppedImg_2107526855-1.jpeg
+location: B-150, Sector - 63, Noida - 201301 
+name: JustGoWeb Digital
 url: http://www.justgoweb.com/services/seo/

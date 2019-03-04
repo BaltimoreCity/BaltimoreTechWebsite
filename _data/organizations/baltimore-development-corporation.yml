@@ -1,9 +1,16 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/07/croppedImg_64194680.png
-name: Baltimore Development Corporation
-location: 36 South Charles Street Suite 2100 Baltimore, MD 21201 United States
-description: |-
-  The Baltimore Development Corporation (BDC) is a non-profit organization, which serves as the economic development agency for the City of Baltimore. Our mission is to retain and expand existing businesses, support cultural resources, and attract new opportunities that spur economic growth and help create jobs. BDC serves as a one-stop shop for anyone interested in opening, relocating or expanding a business in Baltimore City.
+coordinate:
+  lat: 39.2879203
+  lng: -76.6155026
+description: 'The Baltimore Development Corporation (BDC) is a non-profit organization,
+  which serves as the economic development agency for the City of Baltimore. Our mission
+  is to retain and expand existing businesses, support cultural resources, and attract
+  new opportunities that spur economic growth and help create jobs. BDC serves as
+  a one-stop shop for anyone interested in opening, relocating or expanding a business
+  in Baltimore City.
 
-  For more information, please visit www.BaltimoreDevelopment.com
+
+  For more information, please visit www.BaltimoreDevelopment.com'
+image: http://baltimoretech.org/wp-content/uploads/2016/07/croppedImg_64194680.png
+location: 36 South Charles Street Suite 2100 Baltimore, MD 21201 United States
+name: Baltimore Development Corporation
 url: http://www.BaltimoreDevelopment.com

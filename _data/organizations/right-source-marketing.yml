@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1336449683.png
-name: Right Source Marketing
-location: 11350 McCormick Road, Suite 705 Hunt Valley, MD 21031
+coordinate:
+  lat: 39.493491
+  lng: -76.6602547
 description: Right Source is a strategic marketing consulting firm that helps companies
   create and implement content-driven, digital-focused initiatives designed to fuel
   business growth. Unique among marketing firms, we deliver results by first aligning
   strategy with execution, and then supporting that structure with a full team of
   modern marketers.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1336449683.png
+location: 11350 McCormick Road, Suite 705 Hunt Valley, MD 21031
+name: Right Source Marketing
 url: http://www.rightsourcemarketing.com/

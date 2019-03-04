@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/08/croppedImg_861831069.jpeg
-name: Edaptive Systems
-location: Owings Mills, MD, United States
+coordinate:
+  lat: 39.4195499
+  lng: -76.7802528
 description: Edaptive employs over 300 dedicated professionals ranging from Business
   Analysts and Software Engineers to Project Managers. We are a trusted partner in
   the Healthcare IT industry.We are growing rapidly as a result of our demonstrated
   performance and anticipate we will continue to expand our staff of technically superior
   professionals over the next year.
+image: http://baltimoretech.org/wp-content/uploads/2015/08/croppedImg_861831069.jpeg
+location: Owings Mills, MD, United States
+name: Edaptive Systems
 url: http://www.edaptivesys.com/

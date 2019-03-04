@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/07/croppedImg_361261709.jpeg
-name: Howard Tech Council
-location: 9250 Bendix Rd, Columbia, Maryland 21045, United States
+coordinate:
+  lat: 39.2372089
+  lng: -76.8283082
 description: At the HTC we stimulate and ignite innovation within Howard County and
   Central Maryland's vibrant technology community by providing a platform for engagement,
   collaboration and learning and leading.
+image: http://baltimoretech.org/wp-content/uploads/2015/07/croppedImg_361261709.jpeg
+location: 9250 Bendix Rd, Columbia, Maryland 21045, United States
+name: Howard Tech Council
 url: http://hceda.org/maryland-center-for-entrepreneurship/howard-tech-council.aspx

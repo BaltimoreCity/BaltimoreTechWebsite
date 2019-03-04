@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1907279927.png
-name: Ennovations TechServ Pvt Ltd
-location: Sector-7, Noida, India
+coordinate:
+  lat: 28.596026
+  lng: 77.31449359999999
 description: Ennovations TechServ is one of the leading software development companies
   offering services like Web Application Development, e-Commerce Solutions, Mobile
   Application Development, Cloud computing, Big Data Services and Digital Marketing.
   Founded by three techies Siddharth Kumar, Alok Kumar, and Shikha Sharma and with
   offices in the United States, India, Dubai, Canada, UK, Singapore &amp; Australia.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1907279927.png
+location: Sector-7, Noida, India
+name: Ennovations TechServ Pvt Ltd
 url: http://ennovationstechserv.com

@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1718994690.jpeg
-name: Star Swim Schools Pty Ltd
-location: 2/1 Normanby St, Cranbourne, VIC 3977 Australia
+coordinate:
+  lat: -38.0996591
+  lng: 145.2838685
 description: Our Learn to Swim program gives uninterrupted learning for your children
   all year round. Baby Swimming Lessons are accompanied 49 weeks of the year to support
   for consistent training and to present students with the possibility to grow through
   levels at a quicker rate. The Star Swim Schools provides you peace of mind that
   your kid will receive a high-quality swimming education.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1718994690.jpeg
+location: 2/1 Normanby St, Cranbourne, VIC 3977 Australia
+name: Star Swim Schools Pty Ltd
 url: https://www.starswimschools.com.au

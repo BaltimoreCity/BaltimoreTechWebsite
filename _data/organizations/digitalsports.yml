@@ -1,9 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/01/croppedImg_1825733419.png
-name: DigitalSports
-location: Columbia, MD, United States
-description: |-
-  Acquired by Vantage Learning.
+coordinate:
+  lat: 39.2037144
+  lng: -76.86104619999999
+description: 'Acquired by Vantage Learning.
 
-  DigitalSports is a national forum for communities, schools and teams to share stories, photos and videos from the perspective of those who know the athletes best—parents, friends and facu
+
+  DigitalSports is a national forum for communities, schools and teams to share stories,
+  photos and videos from the perspective of those who know the athletes best—parents,
+  friends and facu'
+image: http://baltimoretech.org/wp-content/uploads/2016/01/croppedImg_1825733419.png
+location: Columbia, MD, United States
+name: DigitalSports
 url: http://digitalsports.com/

@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2018/05/croppedImg_1551255768.jpg
-name: Optima Technology Printed Circuit Board (PCB) Design, Inc
-location: 515 Fishing Creek Road, Lewisberry, PA, USA
+coordinate:
+  lat: 40.179758
+  lng: -76.8413516
 description: Optima Technology Associates, Incorporation is the most reputed contract
   manufacturer of electronic assemblies. Optima Technology Associates, Inc is a one-stop
   destination from idea to production for printed circuit assemblies, engineering
   services, and more. Whether your requirement is for design, little volume prototypes,
   mediocre to high volume fabrication, Optima is committed to always provide great
   quality products and services, in time, and within budget.
+image: http://baltimoretech.org/wp-content/uploads/2018/05/croppedImg_1551255768.jpg
+location: 515 Fishing Creek Road, Lewisberry, PA, USA
+name: Optima Technology Printed Circuit Board (PCB) Design, Inc
 url: https://www.optimatech.net/

@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/10/croppedImg_1012794497.png
-name: EduPal
-location: 10607 Narrowleaf Ct, Upper Marlboro, Maryland 20774, United States
+coordinate:
+  lat: 38.8778908
+  lng: -76.82381459999999
 description: EduPal is an education-technology startup that allows educators, corporations,
   and governments to create and distribute virtual, augmented, and holographic reality
   learning experiences to inspire action and results.
+image: http://baltimoretech.org/wp-content/uploads/2015/10/croppedImg_1012794497.png
+location: 10607 Narrowleaf Ct, Upper Marlboro, Maryland 20774, United States
+name: EduPal
 url: http://edupal.io/

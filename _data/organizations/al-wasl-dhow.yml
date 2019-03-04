@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_2129028381.png
-name: Al Wasl Dhow
-location: Al Owais Building, Airport Road, Dubai, United Arab Emirates
+coordinate:
+  lat: 25.2688469
+  lng: 55.3048453
 description: Al wasl dhow offers you breathtaking view of the city while you are on
   dhow cruise dubai. Additionally, you can enjoy the fine dinning experience on the
   floating restaurant and make your evenings memorable with Al Wasl Dhow. Enjoy appetizers,
   main course, salads, desserts and beverages on a dhow cruise.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_2129028381.png
+location: Al Owais Building, Airport Road, Dubai, United Arab Emirates
+name: Al Wasl Dhow
 url: https://www.alwasldhow.com/

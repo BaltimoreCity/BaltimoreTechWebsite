@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/02/croppedImg_1171579729.png
-name: Verb8tm
-location: 6600 York Road, Baltimore, MD, United States
+coordinate:
+  lat: 39.3765425
+  lng: -76.6092822
 description: Verb8tm marks a disruptive improvement in the speech-to-text industry.
   We are a patent-pending software product and services company focused on making
   complex audio (multi-speaker, cross-talk/over-talk, speaker attribution, grammar,
   etc.) accessible and discoverable as searchable text.
+image: http://baltimoretech.org/wp-content/uploads/2016/02/croppedImg_1171579729.png
+location: 6600 York Road, Baltimore, MD, United States
+name: Verb8tm
 url: http://www.verb8tm.com

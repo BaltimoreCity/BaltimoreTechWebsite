@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1139233630.png
-name: Ingresos Pvt Ltd
-location: Door No.1-96/4, Above Hyderabad Hosts, Madhapur
+coordinate:
+  lat: 17.4415596
+  lng: 78.3903837
 description: Ingresos offers integrated software solutions to its clients discerning
   integrity and sustainability. We are one of the best software development companies
   in Hyderabad with an excellent team of skilled engineers who are professional in
   understand your requirements and come up with optimum solutions. Profoundly versatile
   in various domains like Web Application development, Mobile Application development,
   Custom software development, ERP solutions, E-commerce application and HR Services
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1139233630.png
+location: Door No.1-96/4, Above Hyderabad Hosts, Madhapur
+name: Ingresos Pvt Ltd
 url: http://www.ingresos.in

@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2017/12/croppedImg_1068435312-1.jpeg
-name: Space-O Technologies
-location: '1501 West Fountainhead Pkwy #501 Tempe, Arizona'
-description: "<strong>Space-O Technologies</strong> is an ISO certified custom mobile
+coordinate:
+  lat: 33.4028202
+  lng: -111.9626357
+description: <strong>Space-O Technologies</strong> is an ISO certified custom mobile
   app development company from India. From startup to a successful company, Space-O
   has formed a team of 200+ expert Android and iPhone app developers, UI &amp; UX
   designers, web development professionals, artificial intelligence, machine learning
   and blockchain application development team who have built and delivered 3500+ mobile
-  apps over the 8 years of their Journey."
+  apps over the 8 years of their Journey.
+image: http://baltimoretech.org/wp-content/uploads/2017/12/croppedImg_1068435312-1.jpeg
+location: '1501 West Fountainhead Pkwy #501 Tempe, Arizona'
+name: Space-O Technologies
 url: https://www.spaceotechnologies.com/

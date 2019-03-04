@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1778076758.png
-name: VOCSO Technologies
-location: Faridabad, Haryana, India
+coordinate:
+  lat: 28.4089123
+  lng: 77.3177894
 description: VOCSO is a certified web and mobile solutions company based in India,
   USA, and UAE. VOCSO is a one-stop web and mobile solutions agency, offers website
   design and development, mobile application design &amp; development, and digital
@@ -9,4 +8,7 @@ description: VOCSO is a certified web and mobile solutions company based in Indi
   responsive website development, and results-driven digital marketing services to
   engage more customers and drive sales with cost-effective price. Get a free strategy
   from the experts at
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1778076758.png
+location: Faridabad, Haryana, India
+name: VOCSO Technologies
 url: https://www.vocso.com/

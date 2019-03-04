@@ -1,9 +1,14 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_2043692491.jpeg
-name: TeamGantt
-location: 1810 York Road, Lutherville-Timonium, MD, United States
-description: |-
-  TeamGantt is a simple, beautiful way to visually plan, track, and communicate on projects online.
+coordinate:
+  lat: 39.4307203
+  lng: -76.6233105
+description: 'TeamGantt is a simple, beautiful way to visually plan, track, and communicate
+  on projects online.
 
-  We have thousands of customers from over 60 countries. They are from all types of industries including creative agencies, marketing teams, education, construction, non-profits, and manufacturing.
+
+  We have thousands of customers from over 60 countries. They are from all types of
+  industries including creative agencies, marketing teams, education, construction,
+  non-profits, and manufacturing.'
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_2043692491.jpeg
+location: 1810 York Road, Lutherville-Timonium, MD, United States
+name: TeamGantt
 url: https://www.teamgantt.com

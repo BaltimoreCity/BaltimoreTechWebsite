@@ -1,9 +1,15 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/06/croppedImg_165638247.png
-name: Accella
-location: 303 Cloverleaf Ln, Severna Park, MD, United States
-description: |-
-  Accella is a digital interactive agency that specializes in designing and developing websites and mobile applications.
+coordinate:
+  lat: 39.0943077
+  lng: -76.58028759999999
+description: 'Accella is a digital interactive agency that specializes in designing
+  and developing websites and mobile applications.
 
-  Our team uses creativity and communication to ensure that your project gets done right the first time. From the simplest web page to the most complex mobile app, our project managers, designers and developers work with you from step one to bring your vision to life.
+
+  Our team uses creativity and communication to ensure that your project gets done
+  right the first time. From the simplest web page to the most complex mobile app,
+  our project managers, designers and developers work with you from step one to bring
+  your vision to life.'
+image: http://baltimoretech.org/wp-content/uploads/2016/06/croppedImg_165638247.png
+location: 303 Cloverleaf Ln, Severna Park, MD, United States
+name: Accella
 url: http://www.accella.net

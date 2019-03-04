@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/09/croppedImg_1241982308.png
-name: Bestgate Engineering
-location: 5520 Research Park Dr, Suite 235 Baltimore, MD 21228
+coordinate:
+  lat: 39.2479699
+  lng: -76.71462
 description: Founded in 2013, Bestgate Engineering is a small Maryland-based business
   located in the Baltimore/Washington Metro area. We provide professional services
   to the U.S. Intelligence Community, Department of Defense, and their industry partners.
   Our primary NAICS codes are 541511 and 541412.
+image: http://baltimoretech.org/wp-content/uploads/2015/09/croppedImg_1241982308.png
+location: 5520 Research Park Dr, Suite 235 Baltimore, MD 21228
+name: Bestgate Engineering
 url: http://www.bestgateeng.com

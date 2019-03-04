@@ -1,9 +1,15 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2018/01/croppedImg_1307846402-1.jpeg
-name: CatSmart Supply & Distribution Pte Ltd
-location: 14 Jalan Leban, Singapore 577553
-description: |-
-  CatSmart started as a retail shop at Woodlands in 2015. In order to better serve our growing customer base, we shifted to a bigger and brighter shop space at 14 Jalan Leban Singapore 577553 in November 2015.
+coordinate:
+  lat: 1.371605
+  lng: 103.829254
+description: 'CatSmart started as a retail shop at Woodlands in 2015. In order to
+  better serve our growing customer base, we shifted to a bigger and brighter shop
+  space at 14 Jalan Leban Singapore 577553 in November 2015.
 
-  CatSmart pride ourselves as the biggest cat shop in Singapore, stocking the largest range of cat products! We strive to provide cat lovers and their cats with Amazing Care, Astonishing Value and Awesome Service each and every day.
+
+  CatSmart pride ourselves as the biggest cat shop in Singapore, stocking the largest
+  range of cat products! We strive to provide cat lovers and their cats with Amazing
+  Care, Astonishing Value and Awesome Service each and every day.'
+image: http://baltimoretech.org/wp-content/uploads/2018/01/croppedImg_1307846402-1.jpeg
+location: 14 Jalan Leban, Singapore 577553
+name: CatSmart Supply & Distribution Pte Ltd
 url: https://catsmart.com.sg/

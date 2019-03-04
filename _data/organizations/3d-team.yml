@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1444572202.jpeg
-name: 3D Team
-location: Level 21, ASB Bank Centre, 135 Albert Street, Auckland 1010 New Zealand
+coordinate:
+  lat: -36.8498097
+  lng: 174.7625735
 description: We present 3D architectural rendering services, products, Industrial
   and Animation of high-quality roles that can only modify your understanding of buildings
   and designs. 3D Team help you to reflect the quality and execution have given us
   the possibility to continue serving the needs of clients in Auckland, New Zealand
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1444572202.jpeg
+location: Level 21, ASB Bank Centre, 135 Albert Street, Auckland 1010 New Zealand
+name: 3D Team
 url: http://www.3dteam.co.nz/

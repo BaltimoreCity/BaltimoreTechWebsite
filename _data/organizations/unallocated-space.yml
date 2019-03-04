@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/07/croppedImg_712379114.png
-name: Unallocated Space
-location: 512 Shaw Ct Suite 105, Severn, Maryland 21144
+coordinate:
+  lat: 39.1482612
+  lng: -76.66852
 description: Unallocated Space (UAS) is a 501(c)(3) non-profit hackerspace and open
   technology-based community lab located in Anne Arundel County (Severn, MD), supporting
-  the DC / Baltimore area. Our mission is to foster our community to "Teach, Learn,
+  the DC / Baltimore area. Our mission is to foster our community to &#34;Teach, Learn,
   Build”. Equipped with a wide range of tools, UAS welcomes DIY tech enthusiasts of
   all skill levels and interests. Our space enables everyday people to share ideas
   and work on their personal projects.
+image: http://baltimoretech.org/wp-content/uploads/2015/07/croppedImg_712379114.png
+location: 512 Shaw Ct Suite 105, Severn, Maryland 21144
+name: Unallocated Space
 url: http://www.unallocatedspace.org/uas/

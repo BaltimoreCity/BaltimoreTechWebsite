@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/06/croppedImg_672903450.jpeg
-name: Stanley Black & Decker, Inc.
-location: 701 E Joppa Rd, Towson, MD 21286, United States
+coordinate:
+  lat: 39.399188
+  lng: -76.592345
 description: Stanley Black &amp; Decker is a world-leading provider of tools and storage,
   commercial electronic security and engineered fastening systems, with unique growth
   platforms and a track record of sustained profitable growth.
+image: http://baltimoretech.org/wp-content/uploads/2016/06/croppedImg_672903450.jpeg
+location: 701 E Joppa Rd, Towson, MD 21286, United States
+name: Stanley Black & Decker, Inc.
 url: http://www.stanleyblackanddecker.com/

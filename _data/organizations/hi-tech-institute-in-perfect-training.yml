@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1613586930.png
-name: Hi-Tech Institute In Perfect Training
-location: 202 Shaligram Complex Near B.N Collage, Ashok Rajpath, Patna
+coordinate:
+  lat: 25.6193967
+  lng: 85.15243889999999
 description: Hi Tech Institute is the most famous institute of advance technology
   in Patna, India. We offers various course like mobile repairing course, laptop repairing
   course, tablet repairing course, computer hardware course, advance mobile repairing
@@ -9,4 +8,7 @@ description: Hi Tech Institute is the most famous institute of advance technolog
   to make our students technically equipped. With our specialist and expert faculties
   we are capable of imparting technical help to our students with such an easy and
   suitable m
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1613586930.png
+location: 202 Shaligram Complex Near B.N Collage, Ashok Rajpath, Patna
+name: Hi-Tech Institute In Perfect Training
 url: https://www.hi-techinstitute.in/

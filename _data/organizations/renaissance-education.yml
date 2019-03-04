@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_781107025.png
-name: Renaissance Education
-location: 306, Venus Amadeus, Jodhpur Cross Roads, Ahmedabad – 380015, Gujarat, India
+coordinate:
+  lat: 23.024978
+  lng: 72.52685
 description: Renaissance Education is Education Consultant Based in Ahmedabad, which
   provides Top Quality Consultation for USA Medical Study. Contact Renaissance Education,
   one of the Top MBBS USA Consultants for getting complete information on how to proceed
   ahead in pursuing Medical Education in USA.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_781107025.png
+location: 306, Venus Amadeus, Jodhpur Cross Roads, Ahmedabad – 380015, Gujarat, India
+name: Renaissance Education
 url: https://www.renesaedu.com/

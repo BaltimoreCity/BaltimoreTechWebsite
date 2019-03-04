@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/11/croppedImg_1439369172.jpeg
-name: Phalanx Secure
-location: 1131 Benfield Boulevard, Millersville, MD, United States
+coordinate:
+  lat: 39.093871
+  lng: -76.6348634
 description: Raven Data Technologies (RDT) installs, designs, maintains, and develops
   IT technology and security solutions for customers through the US and the world.
   Raven Data Technologies specializes in IT (Cyber) Security, IT Projects, and Risk
   Management. By combing these three elements Raven Data Technologies is able to build
   the most robust secure solutions for our client such as threat detection, virtual
   infrastructure, enterprise storage, security device monitoring, and backup and recovery.
+image: http://baltimoretech.org/wp-content/uploads/2015/11/croppedImg_1439369172.jpeg
+location: 1131 Benfield Boulevard, Millersville, MD, United States
+name: Phalanx Secure
 url: http://www.phalanxsecure.com

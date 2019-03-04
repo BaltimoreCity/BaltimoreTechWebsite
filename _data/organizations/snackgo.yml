@@ -1,9 +1,14 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_312790136.jpeg
-name: SnackGo
-location: Dunsmure Road LONDON N16 5HT
-description: |-
-  Forty years ago, snacking equalled unhealthy. One man set about providing his community with healthy delicious snacks. That man was my father.
+coordinate:
+  lat: 51.5705987
+  lng: -0.07806389999999999
+description: 'Forty years ago, snacking equalled unhealthy. One man set about providing
+  his community with healthy delicious snacks. That man was my father.
 
-  What began as a small business selling nuts morphed into something much bigger, but the underlying goal has remained unchanged- to provide delicious, energy boosting snacks to the busy workforce out there.
+
+  What began as a small business selling nuts morphed into something much bigger,
+  but the underlying goal has remained unchanged- to provide delicious, energy boosting
+  snacks to the busy workforce out there.'
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_312790136.jpeg
+location: Dunsmure Road LONDON N16 5HT
+name: SnackGo
 url: http://www.snackgo.co.uk/

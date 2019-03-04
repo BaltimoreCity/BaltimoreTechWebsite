@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_776490755.png
-name: Pinnacle Themes
-location: 185 Greenwich St, New York, NY 10007, USA
+coordinate:
+  lat: 40.7115663
+  lng: -74.0114261
 description: Pinnacle Themes provides beautiful WordPress themes for all kind of companies
   for global clients so that they can develop their websites at very cheap rates by
   just buying these high quality, well coded WordPress templates using simple gateway.
@@ -9,4 +8,7 @@ description: Pinnacle Themes provides beautiful WordPress themes for all kind of
   scripting, scrolling effects and Parallax visual, HTML5 elements, with professional
   quality results every time. Each and every WordPress theme template design is distinct
   fro
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_776490755.png
+location: 185 Greenwich St, New York, NY 10007, USA
+name: Pinnacle Themes
 url: https://www.pinnaclethemes.net/

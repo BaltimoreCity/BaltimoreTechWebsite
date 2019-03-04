@@ -1,9 +1,16 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_473233425.jpeg
-name: The CEO Views
-location: Farmington Hills, MI, USA
-description: |-
-  The CEO Views aims at providing the perfect platform for entrepreneurs to connect with the peers of their industry. Our passion and thirst for knowledge in the field of business and technology have been the dominant reason we have emerged and continue to thrive in the marketplace.
+coordinate:
+  lat: 42.4989936
+  lng: -83.3677168
+description: 'The CEO Views aims at providing the perfect platform for entrepreneurs
+  to connect with the peers of their industry. Our passion and thirst for knowledge
+  in the field of business and technology have been the dominant reason we have emerged
+  and continue to thrive in the marketplace.
 
-  The trends and innovations impacting the technology landscape today are numerous. Identifying the cause, the effect, and the overall outcome of a breakthrough becomes significant; because on pursuit there is somethi
+
+  The trends and innovations impacting the technology landscape today are numerous.
+  Identifying the cause, the effect, and the overall outcome of a breakthrough becomes
+  significant; because on pursuit there is somethi'
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_473233425.jpeg
+location: Farmington Hills, MI, USA
+name: The CEO Views
 url: http://theceoviews.com/

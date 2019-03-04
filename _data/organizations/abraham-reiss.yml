@@ -1,7 +1,9 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_641311014.jpeg
-name: Abraham Reiss
-location: Hawthorne, NJ 07506, United States
+coordinate:
+  lat: 40.9616599
+  lng: -74.1533563
 description: Abraham Reiss News, Photos &amp; Videos. Abraham Reiss was born in 1950
   at Gochsheim.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_641311014.jpeg
+location: Hawthorne, NJ 07506, United States
+name: Abraham Reiss
 url: http://www.abrahamreiss.com/

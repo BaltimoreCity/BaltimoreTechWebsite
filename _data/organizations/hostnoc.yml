@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_728705753.png
-name: HostNoc
-location: Broadway, NY, New York, USA
+coordinate:
+  lat: 40.908288
+  lng: -73.896564
 description: HOSTNOC is one of the established players in the market offering exceptional
   support concerning dedicated server management, Cloud management and DDOS protection
   of our customers. We offer state-of-the-art and highly targeted services for customers
   located across the globe. Get in touch with us for further detail.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_728705753.png
+location: Broadway, NY, New York, USA
+name: HostNoc
 url: https://hostnoc.com

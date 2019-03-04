@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/06/croppedImg_527997429.jpeg
-name: Mooki
-location: Washington, DC, United States
+coordinate:
+  lat: 38.9071923
+  lng: -77.0368707
 description: My Mooki is a unique collegiate platform that blends together features
   of a freelance & Job Board marketplace with that of a resume posting service. My
   Mooki is developed with universities in mind, providing their scholars with online
@@ -9,4 +8,7 @@ description: My Mooki is a unique collegiate platform that blends together featu
   incomes around their existing work and school schedules. In conjunction, My Mooki
   provides employers a new platform to vet, and hire candidates through verifiable
   metrics.
+image: http://baltimoretech.org/wp-content/uploads/2015/06/croppedImg_527997429.jpeg
+location: Washington, DC, United States
+name: Mooki
 url: http://www.mooki.co/

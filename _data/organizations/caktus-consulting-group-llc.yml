@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/06/croppedImg_503303835.png
-name: Caktus Consulting Group, LLC
-location: 111 Light St 4th Flr, Baltimore, MD, United States
+coordinate:
+  lat: 39.2877209
+  lng: -76.61358899999999
 description: Application development done right. Since 2007, we’ve helped build sharp
   custom web, mobile, and SMS apps, reaching over 70 million people. Django, RapidSMS,
   and RapidPro specialists.
+image: http://baltimoretech.org/wp-content/uploads/2015/06/croppedImg_503303835.png
+location: 111 Light St 4th Flr, Baltimore, MD, United States
+name: Caktus Consulting Group, LLC
 url: https://www.caktusgroup.com/

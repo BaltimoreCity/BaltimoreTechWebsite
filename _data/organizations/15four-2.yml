@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/06/croppedImg_1922979604.png
-name: 15Four
-location: 3618 Falls Rd
+coordinate:
+  lat: 39.331269
+  lng: -76.635328
 description: We believe in collaboration, open and honest communication, the importance
   of clients who value our partnership, and the delivery of creative that fits the
   brands we serve. We believe in growth, quality, and the currency of relevance. In
   putting those beliefs into practice, we work together with our clients to Create.
   Amazing.
+image: http://baltimoretech.org/wp-content/uploads/2015/06/croppedImg_1922979604.png
+location: 3618 Falls Rd
+name: 15Four
 url: http://www.15four.com

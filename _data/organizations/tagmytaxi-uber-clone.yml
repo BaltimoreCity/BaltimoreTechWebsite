@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_136645246.png
-name: Tagmytaxi-Uber Clone
-location: 1159 Sonora Court, Suite 204, Sunnyvale, CA 94086, United States
+coordinate:
+  lat: 37.3718445
+  lng: -121.9992487
 description: Tagmytaxi is an uber clone app development company, they develop uber-like
   applications for your on-demand dispatch business operations. They develop apps
   similar to uber which is automated in its best form for easy fleet management system.
   The uber like apps/uber clone script from Tagmytaxi offers extensive possibilities
   for taxi business with hassle-free functionalities that improve fleet efficiencies.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_136645246.png
+location: 1159 Sonora Court, Suite 204, Sunnyvale, CA 94086, United States
+name: Tagmytaxi-Uber Clone
 url: http://www.tagmytaxi.com

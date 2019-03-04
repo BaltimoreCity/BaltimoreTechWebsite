@@ -1,8 +1,15 @@
----
+coordinate:
+  lat: 42.3474569
+  lng: -71.1514767
+description: 'AppClues Infotech is a well renowned Mobile Application Development
+  Company in USA. We have dedicated team of developers who can create custom mobile
+  applications for the startups as well as enterprises. We provide highest quality
+  services at competitive prices. We have delivered 700+ projects successfully to
+  our clients.
+
+  Our additional services include App Store Optimization, App Installs, App Marketing,
+  Video Development etc.'
 image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_59480133.jpeg
-name: AppClues Infotech
 location: 4 Winship Pl, Brighton, MA 02135, USA
-description: |-
-  AppClues Infotech is a well renowned Mobile Application Development Company in USA. We have dedicated team of developers who can create custom mobile applications for the startups as well as enterprises. We provide highest quality services at competitive prices. We have delivered 700+ projects successfully to our clients.
-  Our additional services include App Store Optimization, App Installs, App Marketing, Video Development etc.
+name: AppClues Infotech
 url: https://www.appcluesinfotech.com/

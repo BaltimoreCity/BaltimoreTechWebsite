@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1365433485.png
-name: Juego Studios
-location: '1000 Island BLVD, #1806, Aventura, Florida'
+coordinate:
+  lat: 25.9386917
+  lng: -80.1380464
 description: A leading technology venture and game development company in Florida,
   USA. Juego Studios provides high-quality design and development solutions for games,
   apps, virtual reality, augmented reality, AI, machine learning, simulation, Big
   Data, IoT and more.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1365433485.png
+location: '1000 Island BLVD, #1806, Aventura, Florida'
+name: Juego Studios
 url: https://www.juegostudio.com/

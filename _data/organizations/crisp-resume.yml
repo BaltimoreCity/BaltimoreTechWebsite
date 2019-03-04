@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_871606069.jpeg
-name: Crisp Resume
-location: 247K Burwood Road NSW 2137 Australia
+coordinate:
+  lat: -33.8589662
+  lng: 151.1197218
 description: Crisp Resume is Australia's most innovative Resume Writing Services based
   in Sydney. Our core skills are highlighting your competencies, repertoire, achievements,
   experience, and qualifications in a very impressive way that can prompt a potential
   recruiter to consider your application for the applied job without a second thought!
   Also, our professional Resume Services targets the specific industry and region
   where you are looking to apply to.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_871606069.jpeg
+location: 247K Burwood Road NSW 2137 Australia
+name: Crisp Resume
 url: http://www.crispresume.com.au/

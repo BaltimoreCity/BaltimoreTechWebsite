@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1582504114.png
-name: FuGenX Technologies
-location: Office 1003, Damac XL Tower, Business Bay, Dubai UAE, Middle East
+coordinate:
+  lat: 25.18065
+  lng: 55.267589
 description: FuGenX is one of the foremost mobile apps and game development companies
   Dubai, which develops best quality apps that can easily communicate with people.
   More than 97% of FuGenX clients praise the company’s app development methodology,
   passion for creating new ideas, delivery model, creativity and distinct ability
   to deliver successful solution to their Mobile needs, which has helped FuGenX to
   maintain long-term partnership with their clients.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1582504114.png
+location: Office 1003, Damac XL Tower, Business Bay, Dubai UAE, Middle East
+name: FuGenX Technologies
 url: http://fugenx.ae/mobile-application-development-company-dubai/

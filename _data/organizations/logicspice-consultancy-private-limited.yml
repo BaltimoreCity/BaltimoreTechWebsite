@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-includes/images/media/default.png
-name: LogicSpice Consultancy Private Limited
-location: Beverly Hills, CA, United States
+coordinate:
+  lat: 34.0736204
+  lng: -118.4003563
 description: Logicspice is an web and mobile app development company that provide
   web and app development solutions at affordable cost. Our expert app developers
   and web developers are highly experienced in app and web development. We provide
   extremely secured apps for both android and iphone mobiles. Hire our mobile app
   developers for end to end app development solutions at effective cost. Our app developers
   are highly specialized in android app development &amp; iPhone application development.
+image: http://baltimoretech.org/wp-includes/images/media/default.png
+location: Beverly Hills, CA, United States
+name: LogicSpice Consultancy Private Limited
 url: https://www.logicspice.com/mobile-app-development/

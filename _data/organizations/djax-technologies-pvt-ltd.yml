@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1486085687.jpeg
-name: dJAX Technologies Pvt Ltd
-location: 114E4, 4th Floor, S M Towers, Race Course Road, Coimbatore India – 641018
+coordinate:
+  lat: 11.0029289
+  lng: 76.9746742
 description: Leading providers of Ad Server Implementation and Display advertising
   tool; Develop and deploy solutions as white label which primarily targets ad server
   technology. In addition we also expertise in Blockchain based technologies, Cryptocurrency,
   ICO, Marketing technology and Consultation services.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1486085687.jpeg
+location: 114E4, 4th Floor, S M Towers, Race Course Road, Coimbatore India – 641018
+name: dJAX Technologies Pvt Ltd
 url: http://www.djaxtech.com

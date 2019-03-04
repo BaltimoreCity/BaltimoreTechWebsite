@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_893660393.jpeg
-name: Digital Express
-location: Office 706, Thuraya Building, Barsha Heights, http://www.digitalexpress.agency/
+coordinate:
+  lat: 25.096763
+  lng: 55.173243
 description: Digital Express specialize in digital advertising and marketing. We not
   only minimize costs but maximize efficiency too and offering affordable services
   with extremely fast turnaround and technical adeptness.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_893660393.jpeg
+location: Office 706, Thuraya Building, Barsha Heights, http://www.digitalexpress.agency/
+name: Digital Express
 url: http://www.digitalexpress.agency/

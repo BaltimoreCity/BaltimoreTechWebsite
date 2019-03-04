@@ -1,10 +1,18 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2018/01/croppedImg_536172591.jpg
-name: CSSChopper
-location: A-2, Sector-63, Noida, Uttar Pradesh 201301, India
-description: |-
-  CSSChopper is a well-known web design and development company bestowed with a professional team using the advanced resources. We cater adorable web development services to bring the best outcomes for your online business. We inject all the modern market trends and technologies to proffer custom web development. This made us receive positive feedback and tons of praising words for our finest performance, and thus motivate us to work better.
+coordinate:
+  lat: 28.624401
+  lng: 77.380712
+description: 'CSSChopper is a well-known web design and development company bestowed
+  with a professional team using the advanced resources. We cater adorable web development
+  services to bring the best outcomes for your online business. We inject all the
+  modern market trends and technologies to proffer custom web development. This made
+  us receive positive feedback and tons of praising words for our finest performance,
+  and thus motivate us to work better.
+
 
   Tel: (IND) +91-120-473-5100
-  Id: sales@csschopper.com
+
+  Id: sales@csschopper.com'
+image: http://baltimoretech.org/wp-content/uploads/2018/01/croppedImg_536172591.jpg
+location: A-2, Sector-63, Noida, Uttar Pradesh 201301, India
+name: CSSChopper
 url: http://www.csschopper.com

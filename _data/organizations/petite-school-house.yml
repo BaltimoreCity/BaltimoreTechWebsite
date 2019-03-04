@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2017/11/croppedImg_1998044658-1.jpeg
-name: Petite School House
-location: 17643 Roscoe Boulevard, CA, United States
+coordinate:
+  lat: 34.2215335
+  lng: -118.5180307
 description: Petite School House is a Northridge based early learning academy that
   provides integrated and well balanced day care, preschool and kindergarten programs
   for children. Their programs offer secure as well as positive early childhood education
@@ -9,4 +8,7 @@ description: Petite School House is a Northridge based early learning academy th
   They have been successful in developing the most unique and well-balanced curriculum
   that helps in nurturing the physical, intellectual, emotional, social and brain
   development
+image: http://baltimoretech.org/wp-content/uploads/2017/11/croppedImg_1998044658-1.jpeg
+location: 17643 Roscoe Boulevard, CA, United States
+name: Petite School House
 url: http://petiteschoolhouse.com

@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_2064496805.jpeg
-name: Kopa Global Technologies
-location: 12155, Tributary Point Dr, APT 111, Rancho Cordova
+coordinate:
+  lat: 38.63027
+  lng: -121.222352
 description: Kopatech is a leading Web and Mobile Application Development Company.
   We are a team of 45+ who are dedicated to serve the customers and have been functioning
   in the IT industry since 2011. Kopatech specializes in the fields of web development,
   mobile application development and ecommerce application development. We engage
   in a massive endeavor of inventing and developing multiple web and mobile applications
   that are suitable for all verticals of the industry
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_2064496805.jpeg
+location: 12155, Tributary Point Dr, APT 111, Rancho Cordova
+name: Kopa Global Technologies
 url: https://www.kopatech.com

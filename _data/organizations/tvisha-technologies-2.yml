@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2017/08/croppedImg_184617070-1.jpeg
-name: Tvisha Technologies
-location: '998 Toa Payoh north #07-22/23, Singapore 318993'
+coordinate:
+  lat: 1.3433057
+  lng: 103.8504037
 description: Being passionate, creative and innovative, Tvisha Technologies has evolved
   as a leading provider of mobile app Development services along with website design
   and development solutions over ages to achieve and maintain a remarkable position
   to compete the corresponding platform with smart and strategic moves. Its adaptive
   work culture attune with clients requirements specification to serve with value
   to their brand ethics and market reputation.
+image: http://baltimoretech.org/wp-content/uploads/2017/08/croppedImg_184617070-1.jpeg
+location: '998 Toa Payoh north #07-22/23, Singapore 318993'
+name: Tvisha Technologies
 url: http://singapore.tvisha.com/services/mobile-app-development-singapore-android-ios.html

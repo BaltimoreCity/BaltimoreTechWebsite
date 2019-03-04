@@ -1,8 +1,12 @@
----
+coordinate:
+  lat: 13.742862
+  lng: 100.547904
+description: 'Bangkok Best Dining and Entertainment magazine reflects the informative
+  and innovative knowledge of gastronomic delights that Bangkok city has to offer
+  since 1993
+
+  Get informative information,  visit website http://www.bangkokbestdining.com/.'
 image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1420648747.png
-name: Bangkok Best Dining & Entertainment
 location: ARC Media Publishing Co., Ltd., Huaykwang, Bangkok 10310 Thailand
-description: |-
-  Bangkok Best Dining and Entertainment magazine reflects the informative and innovative knowledge of gastronomic delights that Bangkok city has to offer since 1993
-  Get informative information,  visit website http://www.bangkokbestdining.com/.
+name: Bangkok Best Dining & Entertainment
 url: http://www.bangkokbestdining.com

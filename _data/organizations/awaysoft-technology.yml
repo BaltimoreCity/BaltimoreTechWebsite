@@ -1,9 +1,16 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1762852617.jpeg
-name: Awaysoft Technology
-location: Shivnari Chowk, BrahmanPuri, Miraj (Maharashtra)
-description: |-
-  Awaysoft Technology is an IT Firm Focused on Services in Software Development , Website Development, Mobile Application Development. With Experienced and Creative Staff We Always Deliver You Quality Services, We have Successfully Implemented Many Project for Various and Multiple Industries.
+coordinate:
+  lat: 16.8252799
+  lng: 74.6533953
+description: 'Awaysoft Technology is an IT Firm Focused on Services in Software Development
+  , Website Development, Mobile Application Development. With Experienced and Creative
+  Staff We Always Deliver You Quality Services, We have Successfully Implemented Many
+  Project for Various and Multiple Industries.
 
-  We have successfully implemented tons of custom software development projects for diverse industry verticals such as business, real estate, health &amp; fitness, m-commerce and a lot more.
+
+  We have successfully implemented tons of custom software development projects for
+  diverse industry verticals such as business, real estate, health &amp; fitness,
+  m-commerce and a lot more.'
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1762852617.jpeg
+location: Shivnari Chowk, BrahmanPuri, Miraj (Maharashtra)
+name: Awaysoft Technology
 url: http://awaysofttech.com

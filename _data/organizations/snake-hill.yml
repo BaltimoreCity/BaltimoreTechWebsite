@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/09/croppedImg_439178558.png
-name: Snake Hill
-location: 244 South Highland Avenue, Baltimore, MD, United States
+coordinate:
+  lat: 39.2892572
+  lng: -76.5694808
 description: 'Snake Hill creates dynamic web applications with Drupal open source
   content management system. We''re the only dedicated Drupal Shop in Baltimore, Maryland.
   We''re active in the community: contributing to the Drupal Open Source project,
   speaking at events and organizing the local Drupal Community.'
+image: http://baltimoretech.org/wp-content/uploads/2015/09/croppedImg_439178558.png
+location: 244 South Highland Avenue, Baltimore, MD, United States
+name: Snake Hill
 url: http://www.SnakeHill.net

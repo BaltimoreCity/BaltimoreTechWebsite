@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2017/12/croppedImg_1825668579-1.jpeg
-name: Magneto IT Solutions
-location: 848 N Rainbow Blvd, Suite 8000 , Las Vegas , Nevada 89107 United States
+coordinate:
+  lat: 36.1808694
+  lng: -115.2413426
 description: Founded in 2009, We at Magneto work with passion to bring your ideas
   to life and create stunning applications for start-up and corporate. We mainly focus
   on eCommerce, Mobile Application, Customize Web Application, IOT, Chatbot. We understand
   professional service as an opportunity to walk on the path of values. Every day
   is a fresh challenge to adhere to our essential milestone principles.
+image: http://baltimoretech.org/wp-content/uploads/2017/12/croppedImg_1825668579-1.jpeg
+location: 848 N Rainbow Blvd, Suite 8000 , Las Vegas , Nevada 89107 United States
+name: Magneto IT Solutions
 url: https://magnetoitsolutions.com/

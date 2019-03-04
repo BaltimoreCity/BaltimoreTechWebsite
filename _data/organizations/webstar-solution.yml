@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_392227736.jpeg
-name: Webstar Solution
-location: PO Box 11807 Glendale, Arizona, USA 85318
-description: Webstar Solution is one of the leading <a href="http://www.webstarsolution.com/services/">software
+coordinate:
+  lat: 33.5386523
+  lng: -112.1859866
+description: Webstar Solution is one of the leading <a href=&#34;http://www.webstarsolution.com/services/&#34;>software
   &amp; mobile app development agency in Phoenix</a>, Glendale, Arizona USA. We offer
   custom software development, web development services with the best quality &amp;
   excellent end-to-end innovative solutions for all types of businesses. We have a
   successful reach of clients in the Phoenix, United States (USA), United Kingdom
   (UK), Netherlands, Greece, Spain, Saudi Arabia, Sweden, Australia, and South Afric
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_392227736.jpeg
+location: PO Box 11807 Glendale, Arizona, USA 85318
+name: Webstar Solution
 url: http://www.webstarsolution.com

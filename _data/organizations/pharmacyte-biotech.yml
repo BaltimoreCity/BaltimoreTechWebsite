@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/07/croppedImg_316116416.png
-name: PharmaCyte Biotech
-location: 12510 Prosperity Drive Suite 310 Silver Spring, Maryland 20904-1643
+coordinate:
+  lat: 39.0614173
+  lng: -76.9625957
 description: PharmaCyte Biotech is a clinical stage biotechnology company focused
   on developing and preparing to commercialize treatments for cancer and diabetes
   based upon a proprietary cellulose-based live cell encapsulation technology known
   as Cell-in-a-Box®. This unique and patented technology will be used as a platform
   upon which treatments for several types of cancer, including advanced, inoperable
   pancreatic cancer, and diabetes are being built.
+image: http://baltimoretech.org/wp-content/uploads/2015/07/croppedImg_316116416.png
+location: 12510 Prosperity Drive Suite 310 Silver Spring, Maryland 20904-1643
+name: PharmaCyte Biotech
 url: http://www.pharmacytebiotech.com/

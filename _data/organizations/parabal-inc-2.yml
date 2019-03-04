@@ -1,12 +1,14 @@
----
+coordinate:
+  lat: 39.2893937
+  lng: -76.60717269999999
+description: "PaRaBaL, Inc. is a mobility company focused on assisting agencies and\
+  \ organizations with mobile objectives by securing sensitive data on smartphones\
+  \ and tablet computers. PaRaBaL's mission is to ensure that every employee enjoys\
+  \ and utilizes their Mobile Device for work as much as they do for their personal\
+  \ life. \nWhether your organization is embracing mobility for the first time, or\
+  \ looking to take a step toward advanced solutions, PaRaBaL can deliver products\
+  \ and services to meet your goals."
 image: http://baltimoretech.org/wp-content/uploads/2015/08/croppedImg_1629727212.png
-name: PaRaBaL Inc.
 location: 8 Market Place, Baltimore, MD, United States
-description: "PaRaBaL, Inc. is a mobility company focused on assisting agencies and
-  organizations with mobile objectives by securing sensitive data on smartphones and
-  tablet computers. PaRaBaL's mission is to ensure that every employee enjoys and
-  utilizes their Mobile Device for work as much as they do for their personal life.
-  \nWhether your organization is embracing mobility for the first time, or looking
-  to take a step toward advanced solutions, PaRaBaL can deliver products and services
-  to meet your goals."
+name: PaRaBaL Inc.
 url: https://www.parabal.com

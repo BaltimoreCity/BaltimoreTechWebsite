@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_707160559.png
-name: OCDesignsOnline
-location: 507 South Shore Rd. Marmora, NJ 08223
+coordinate:
+  lat: 39.2529636
+  lng: -74.66046870000001
 description: OCDesignsOnline is a highly professional online ecommerce store designs
   provider. They provide smart and innovative custom eBay storefront templates design
   to improve traffic, retention, response and conversion. They offer custom designing
   services for eBay store, Volusion store, Bigcommerce Store and Amazon Webstore businesses
   at an affordable price.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_707160559.png
+location: 507 South Shore Rd. Marmora, NJ 08223
+name: OCDesignsOnline
 url: http://www.ocdesignsonline.com

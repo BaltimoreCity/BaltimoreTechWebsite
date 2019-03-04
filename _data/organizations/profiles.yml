@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/06/croppedImg_1160231814.png
-name: Profiles
-location: 217 North Charles Street, Baltimore, MD 21201, United States
+coordinate:
+  lat: 39.2915747
+  lng: -76.61489329999999
 description: We've been helping organizations just like yours find the right people
   for their Creative, Marketing and Interactive departments for over 17 years. We
   do this by building strong personal relationships with the most talented and ambitious
   individuals in the marketplace. We know it's more than just resumes and skill sets,
   more than analytics and interviews.
+image: http://baltimoretech.org/wp-content/uploads/2016/06/croppedImg_1160231814.png
+location: 217 North Charles Street, Baltimore, MD 21201, United States
+name: Profiles
 url: http://www.careerprofiles.com/

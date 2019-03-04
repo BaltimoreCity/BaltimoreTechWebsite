@@ -1,12 +1,14 @@
----
+coordinate:
+  lat: 39.2634099
+  lng: -76.6161796
+description: "b.well Connected Health: the heart of your healthcare. We are a start-up,\
+  \ technology company aiming to disrupt and ultimately fix our nation’s healthcare\
+  \ crisis.  We offer a cost-effective personal health management solution for a new\
+  \ kind of healthcare consumer.  \n\L \nIndividuals should spend less time managing\
+  \ their health, and more time staying healthy. b.well unifies all aspects of health\
+  \ in a single place, for life, and puts the user in control of their own health.\
+  \ Simply by empowering peopl"
 image: http://baltimoretech.org/wp-includes/images/media/default.png
-name: b.well
 location: Betamore, Light Street, Baltimore, MD, United States
-description: "b.well Connected Health: the heart of your healthcare. We are a start-up,
-  technology company aiming to disrupt and ultimately fix our nation’s healthcare
-  crisis.  We offer a cost-effective personal health management solution for a new
-  kind of healthcare consumer.  \n\L \nIndividuals should spend less time managing
-  their health, and more time staying healthy. b.well unifies all aspects of health
-  in a single place, for life, and puts the user in control of their own health. Simply
-  by empowering peopl"
+name: b.well
 url: http://icanbwell.com

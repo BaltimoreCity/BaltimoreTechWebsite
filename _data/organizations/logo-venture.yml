@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_868152362.jpeg
-name: Logo Venture
-location: 11th Floor, 10940 Wilshire Blvd
+coordinate:
+  lat: 34.0580457
+  lng: -118.4450372
 description: At Logo Venture, we will provide professional and affordable logo design
   packages that meet your guidelines. LogoVenture is the name of the name of creativity
   and an agency with the vision of making business easier by providing immaculate
   logo services.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_868152362.jpeg
+location: 11th Floor, 10940 Wilshire Blvd
+name: Logo Venture
 url: https://www.logoventure.com/

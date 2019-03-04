@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/07/croppedImg_1693142078.png
-name: Gemstone Biotherapeutics
-location: 810 Wyman Park Dr, Baltimore, Maryland 21211, United States
+coordinate:
+  lat: 39.3223543
+  lng: -76.6293127
 description: Gemstone Biotherapeutics is dedicated to pioneering the field of tissue
   engineering and regenerative medicine. We are incubating and commercializing cutting
   edge bioengineering technologies originally developed in the Chemical and Biomolecular
@@ -9,4 +8,7 @@ description: Gemstone Biotherapeutics is dedicated to pioneering the field of ti
   development of a wide range of tissue engineering inventions with particular emphasis
   on vascularization and angiogenesis that will offer advancements in health care
   research.
+image: http://baltimoretech.org/wp-content/uploads/2015/07/croppedImg_1693142078.png
+location: 810 Wyman Park Dr, Baltimore, Maryland 21211, United States
+name: Gemstone Biotherapeutics
 url: http://www.gemstonebio.com/

@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/02/croppedImg_867098794.png
-name: Warby Parker
-location: 807 Aliceanna St, Baltimore, MD, United States
+coordinate:
+  lat: 39.28309489999999
+  lng: -76.60099
 description: 'Warby Parker is a transformative lifestyle brand with a lofty objective:
   to offer designer eyewear at a revolutionary price while leading the way for socially
   conscious businesses. By engaging directly with consumers, we’re able to offer high-quality,
   vintage-inspired frames for $95.  We focus on the bigger picture, too: social innovation
   is woven into the DNA of our company, and for every pair of glasses purchased, a
   pair is distributed to someone in need.'
+image: http://baltimoretech.org/wp-content/uploads/2016/02/croppedImg_867098794.png
+location: 807 Aliceanna St, Baltimore, MD, United States
+name: Warby Parker
 url: https://www.warbyparker.com

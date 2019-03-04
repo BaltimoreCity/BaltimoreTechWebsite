@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1569709747.jpeg
-name: Octal Info Solution
-location: Flat L04 Hester House 72-78 Conington Road, Lewisham London SE13 7FL
+coordinate:
+  lat: 51.4674697
+  lng: -0.0141008
 description: Octal Info Solution Limited (ISO certified) is a leading UK based web
   and mobile application development company. Working over 10 years in the business
   the company has made impeccable mark in the domain serving industry segments like
@@ -9,4 +8,7 @@ description: Octal Info Solution Limited (ISO certified) is a leading UK based w
   among others. The agency portfolio includes clients like Skype, Aviva, Fiat and
   Vodafone among other Blue Chip corporations with more than 1200 customers served
   till dat
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1569709747.jpeg
+location: Flat L04 Hester House 72-78 Conington Road, Lewisham London SE13 7FL
+name: Octal Info Solution
 url: https://www.octalsoftware.co.uk/

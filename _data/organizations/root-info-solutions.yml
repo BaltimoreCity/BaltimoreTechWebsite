@@ -1,14 +1,24 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1253368112.jpeg
-name: Root Info Solutions
-location: California Street, San Francisco, CA, United States
-description: |-
-  Root Info Solutions is a team of skilled and dedicated team of UI-UX designers, app developers for native Android and iOS developers, cross-platform mobile app developers, web designers and developers and quality compliance management staff focused on transforming the digital experience management platforms of today’s entrepreneurs, startups, philanthropists, and governments.
+coordinate:
+  lat: 37.7875445
+  lng: -122.4449271
+description: 'Root Info Solutions is a team of skilled and dedicated team of UI-UX
+  designers, app developers for native Android and iOS developers, cross-platform
+  mobile app developers, web designers and developers and quality compliance management
+  staff focused on transforming the digital experience management platforms of today’s
+  entrepreneurs, startups, philanthropists, and governments.
+
 
   Areas of Expertise
 
+
   UI-UX Design for Mobile and Web
+
   Android App Development
+
   iOS App Development
-  Cross Platform App Devel
+
+  Cross Platform App Devel'
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1253368112.jpeg
+location: California Street, San Francisco, CA, United States
+name: Root Info Solutions
 url: https://www.rootinfosol.com/

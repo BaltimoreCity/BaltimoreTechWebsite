@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_618655083.png
-name: Stannards - Financial Advisors Melbourne
-location: Level 1, 60 Toorak Road, South Yarra, VIC, 3141
-description: '<p style="text-align: justify">We realize that accountants and advisors
-  are in a unique function to make a valuable and large contribution to clients via
-  supporting them with the prudent control in their agencies and economic affairs.
-  We at <strong>Stannards Accountants and Advisors</strong> are the best <a href="http://www.stannards.com.au/"><strong>business
+coordinate:
+  lat: -37.8388338
+  lng: 144.9884421
+description: '<p style=&#34;text-align: justify&#34;>We realize that accountants and
+  advisors are in a unique function to make a valuable and large contribution to clients
+  via supporting them with the prudent control in their agencies and economic affairs.
+  We at <strong>Stannards Accountants and Advisors</strong> are the best <a href=&#34;http://www.stannards.com.au/&#34;><strong>business
   advisor company Melbourne</strong></a> have designed effective strategies for overall
   growth and development of your small business.'
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_618655083.png
+location: Level 1, 60 Toorak Road, South Yarra, VIC, 3141
+name: Stannards - Financial Advisors Melbourne
 url: http://www.stannards.com.au/

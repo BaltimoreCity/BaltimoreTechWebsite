@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_539897173.jpeg
-name: FME Extensions Dubai
-location: Los Angeles, CA, United States
+coordinate:
+  lat: 34.0522342
+  lng: -118.2436849
 description: FME Extensions is a premium web development company based in Dubai. With
   over 500 satisfied clients, FME excels at customized web solutions. FME also offers
   SEO services for startup companies.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_539897173.jpeg
+location: Los Angeles, CA, United States
+name: FME Extensions Dubai
 url: https://www.fmeextensions.com

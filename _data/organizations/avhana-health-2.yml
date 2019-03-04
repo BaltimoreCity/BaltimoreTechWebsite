@@ -1,11 +1,18 @@
----
+coordinate:
+  lat: 39.2903848
+  lng: -76.6121893
+description: 'Redefining Clinical Decision Support
+
+
+  Avhana is redefining Clinical Decision Support (CDS). Utilizing technology and design,
+  we’ve built a platform that puts users at the center of everything we do.
+
+
+  Integrating with the EHR, our algorithms reconcile patient specific data against
+  clinical guidelines. In doing so, we can produce evidence-based recommendations
+  at the point of care. Avhana simplifies the process of guideline management and
+  compliance with quality programs (PQRS, MIPS, MU, etc).'
 image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_238233695.jpeg
-name: Avhana Health
 location: Baltimore, MD, United States
-description: |-
-  Redefining Clinical Decision Support
-
-  Avhana is redefining Clinical Decision Support (CDS). Utilizing technology and design, we’ve built a platform that puts users at the center of everything we do.
-
-  Integrating with the EHR, our algorithms reconcile patient specific data against clinical guidelines. In doing so, we can produce evidence-based recommendations at the point of care. Avhana simplifies the process of guideline management and compliance with quality programs (PQRS, MIPS, MU, etc).
+name: Avhana Health
 url: http://www.avhana.com

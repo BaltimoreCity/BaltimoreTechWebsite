@@ -1,7 +1,9 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/09/croppedImg_869082325.png
-name: Givefit
-location: 10 E North Ave, Baltimore, MD, United States
+coordinate:
+  lat: 39.3117087
+  lng: -76.6155478
 description: GiveFit is a nonprofit building healthy communities with free group fitness
   classes.
+image: http://baltimoretech.org/wp-content/uploads/2016/09/croppedImg_869082325.png
+location: 10 E North Ave, Baltimore, MD, United States
+name: Givefit
 url: http://www.givefit.net

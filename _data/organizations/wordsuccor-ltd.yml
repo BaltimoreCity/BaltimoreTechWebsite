@@ -1,10 +1,12 @@
----
+coordinate:
+  lat: 41.6819935
+  lng: -85.9766671
+description: "WordSuccor Ltd. is the successful name in Web Development World. Having\
+  \ served a number of clients around the globe, We are still growing at a steady\
+  \ rate. Our passionate and determined developers make it possible for us to carry\
+  \ WordPress Development Services efficiently and ensure custom-tailored solutions\
+  \ for our global clients. \n\nPhone: +1 209-386-9543\nEmail: sales@wordsuccor.com"
 image: http://baltimoretech.org/wp-content/uploads/2017/10/croppedImg_1297373558-1.jpeg
-name: WordSuccor Ltd.
 location: Elkhart, IN, United States
-description: "WordSuccor Ltd. is the successful name in Web Development World. Having
-  served a number of clients around the globe, We are still growing at a steady rate.
-  Our passionate and determined developers make it possible for us to carry WordPress
-  Development Services efficiently and ensure custom-tailored solutions for our global
-  clients. \n\nPhone: +1 209-386-9543\nEmail: sales@wordsuccor.com"
+name: WordSuccor Ltd.
 url: https://www.wordsuccor.com/

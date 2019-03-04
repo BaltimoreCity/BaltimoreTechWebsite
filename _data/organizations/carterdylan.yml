@@ -1,10 +1,12 @@
----
+coordinate:
+  lat: 39.2903848
+  lng: -76.6121893
+description: "We are committed to providing creative services to digital minded companies\
+  \ for a fraction of what it costs to bring on a creative agency, full-time hire\
+  \ or recruiter.\n \nAt Carter&amp;Dylan you pick the level of expertise you need\
+  \ for your project, the rate you feel comfortable with and we’ll provide you with\
+  \ an experienced designer, copywriter, developer or marketer that fits your needs."
 image: http://baltimoretech.org/wp-content/uploads/2015/08/croppedImg_292325000.jpeg
-name: Carter&Dylan
 location: Baltimore, MD, United States
-description: "We are committed to providing creative services to digital minded companies
-  for a fraction of what it costs to bring on a creative agency, full-time hire or
-  recruiter.\n \nAt Carter&amp;Dylan you pick the level of expertise you need for
-  your project, the rate you feel comfortable with and we’ll provide you with an experienced
-  designer, copywriter, developer or marketer that fits your needs."
+name: Carter&Dylan
 url: http://carteranddylan.com

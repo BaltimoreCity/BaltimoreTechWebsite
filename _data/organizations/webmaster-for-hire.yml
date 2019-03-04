@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1403274244.png
-name: Webmaster For Hire
-location: 5725 Corporate Way, Suite 205B, West Palm Beach, Florida 33407
+coordinate:
+  lat: 26.7622223
+  lng: -80.0913358
 description: Webmaster for Hire is a digital agency that offers web design and development,
   SEO, internet marketing, UI/UX design, content marketing and online advertising
   services to clients all across the globe. We carry your brand and business and make
   sure it receives the exposure that is sure to generate leads through intelligent
   strategies, cutting-edge technologies and creative concepts.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1403274244.png
+location: 5725 Corporate Way, Suite 205B, West Palm Beach, Florida 33407
+name: Webmaster For Hire
 url: http://webmasterforhire.us/

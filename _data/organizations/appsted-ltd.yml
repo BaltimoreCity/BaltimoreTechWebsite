@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2018/01/croppedImg_1981830873.jpg
-name: Appsted Ltd
-location: MI, United States
+coordinate:
+  lat: 44.3148443
+  lng: -85.60236429999999
 description: Appsted Ltd is a leading offshore mobile app development company, served
   exceptionally by a workforce of 150+ development experts high-performance developers.
   Our Mission is to develop secure mobile apps that can change the way we do our day
   to day work, with a click of a button. Appsted Ltd is one of the pioneers in Mobile
   App Development Services. They have a dedicated team of experienced iOS and android
   app developers who are abreast with all the ongoing and upcoming trends.
+image: http://baltimoretech.org/wp-content/uploads/2018/01/croppedImg_1981830873.jpg
+location: MI, United States
+name: Appsted Ltd
 url: http://www.appsted.com/

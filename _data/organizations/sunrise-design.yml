@@ -1,6 +1,8 @@
----
-image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/03/croppedImg_1201247646.jpeg
-name: Sunrise Design
-location: 2400 Boston Street, Baltimore, MD, United States
+coordinate:
+  lat: 39.2818348
+  lng: -76.58160939999999
 description: Sunrise Design is a creative web studio in Baltimore, Maryland.
+image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/03/croppedImg_1201247646.jpeg
+location: 2400 Boston Street, Baltimore, MD, United States
+name: Sunrise Design
 url: http://baltimoretech.org/company/sunrise-design/

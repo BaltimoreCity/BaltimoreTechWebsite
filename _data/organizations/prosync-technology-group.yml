@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/07/croppedImg_268954820.png
-name: ProSync Technology Group
-location: 6021 University Boulevard, Ellicott City, MD, United States
+coordinate:
+  lat: 39.2105533
+  lng: -76.7970346
 description: ProSync Technology Group is proud to employ many of the sharpest technologists
   in the Baltimore area.  Our technical specialties range from software development
   to systems engineering, administration, integration and test.  Whatever the discipline,
   ProSync is dedicated to bringing the appropriate technologies to bear in assisting
-  our customers with "big data" problems.
+  our customers with &#34;big data&#34; problems.
+image: http://baltimoretech.org/wp-content/uploads/2015/07/croppedImg_268954820.png
+location: 6021 University Boulevard, Ellicott City, MD, United States
+name: ProSync Technology Group
 url: http://baltimoretech.org/company/prosync-technology-group/

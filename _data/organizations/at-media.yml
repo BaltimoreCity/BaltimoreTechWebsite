@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/05/croppedImg_331018178.jpg
-name: Cohere
-location: 101 N Haven St, Baltimore, MD, United States
+coordinate:
+  lat: 39.2941707
+  lng: -76.56227919999999
 description: Formerly known as At Media, Cohere is a creative agency headquartered
   in Philadelphia, PA with an office in Highlandtown, Baltimore. We're focused on
   changing cities through the power of design by working with game-changing real estate
   developers, economic organizations, and retail concepts.
+image: http://baltimoretech.org/wp-content/uploads/2015/05/croppedImg_331018178.jpg
+location: 101 N Haven St, Baltimore, MD, United States
+name: Cohere
 url: http://cohere.city

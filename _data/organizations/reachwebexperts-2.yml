@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_786724231.png
-name: Reachwebexperts
-location: 'No: 402 , 60 Gillingham Dr, Brampton, ON L6X0G9'
+coordinate:
+  lat: 43.7041913
+  lng: -79.7865501
 description: Reach Web Experts is a fast-emerging Information Technology services
   and consulting company based in Toronto, Canada. With offices in Canada and India,
   Reach Web Experts offer cutting-edge IT solutions, services and consulting services
   to our customers improving their business process, business outcome and customer
   satisfaction while reducing operational expenses.Our key offerings include Software
   Development, Web Design, Web Development, Creative Design, Branding services, SEO.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_786724231.png
+location: 'No: 402 , 60 Gillingham Dr, Brampton, ON L6X0G9'
+name: Reachwebexperts
 url: https://www.reachwebexperts.com/

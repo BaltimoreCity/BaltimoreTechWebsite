@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/05/croppedImg_397084376.png
-name: Hines Digital
-location: Severna Park, MD, United States
+coordinate:
+  lat: 39.070388
+  lng: -76.5452409
 description: Hines Digital began in 2013, when our founder &amp; CEO Ian Patrick Hines
   left NationBuilder and began helping campaigns &amp; causes as a freelance web designer
   from his Los Angeles apartment. Now, we’re a remote team of certified NationBuilder
   Experts &amp; Architects helping campaigns and causes around the world design engaging,
   personalized online experiences for their supporters.
+image: http://baltimoretech.org/wp-content/uploads/2016/05/croppedImg_397084376.png
+location: Severna Park, MD, United States
+name: Hines Digital
 url: http://www.hines.digital

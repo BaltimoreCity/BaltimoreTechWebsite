@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/06/croppedImg_1187941464.png
-name: Light Point Security
-location: 5520 Research Park Dr, Suite 100 Baltimore, MD 21228 United States
+coordinate:
+  lat: 39.2479699
+  lng: -76.71462
 description: Light Point Security is focused on developing the next generation of
   cybersecurity products by leveraging the power of the cloud and virtualization to
   protect users from web-based viruses, spyware and other malicious software.
+image: http://baltimoretech.org/wp-content/uploads/2015/06/croppedImg_1187941464.png
+location: 5520 Research Park Dr, Suite 100 Baltimore, MD 21228 United States
+name: Light Point Security
 url: http://lightpointsecurity.com

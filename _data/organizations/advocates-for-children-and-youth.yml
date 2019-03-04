@@ -1,7 +1,9 @@
----
-image: http://baltimoretech.org/wp-includes/images/media/default.png
-name: Advocates for Children and Youth
-location: One N. Charles Street, Suite 2400, Baltimore, MD, 21201
+coordinate:
+  lat: 39.2901707
+  lng: -76.61485619999999
 description: We are a statewide nonprofit advocacy organization that betters the lives
   of children through program improvement and policy change.
+image: http://baltimoretech.org/wp-includes/images/media/default.png
+location: One N. Charles Street, Suite 2400, Baltimore, MD, 21201
+name: Advocates for Children and Youth
 url: http://www.acy.org

@@ -1,12 +1,14 @@
----
+coordinate:
+  lat: 43.0304787
+  lng: -88.11335129999999
+description: "iDesigniBuy develops product customization software/tools for printers,\
+  \ personalized product sellers, online retailers and shop owners. We are a pioneer\
+  \ in developing and providing online product design software to clients across the\
+  \ world. We help print businesses and personalized product sellers to simplify their\
+  \ online business and offer quality user experience with our solutions. \n\nWith\
+  \ a team of experienced and skilled professionals, we build solutions integrated\
+  \ with e-commerce."
 image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_591142258.png
-name: iDesigniBuy
 location: 200 S. Executive Drive, Suite 101 Brookfield, WI
-description: "iDesigniBuy develops product customization software/tools for printers,
-  personalized product sellers, online retailers and shop owners. We are a pioneer
-  in developing and providing online product design software to clients across the
-  world. We help print businesses and personalized product sellers to simplify their
-  online business and offer quality user experience with our solutions. \n\nWith a
-  team of experienced and skilled professionals, we build solutions integrated with
-  e-commerce."
+name: iDesigniBuy
 url: http://www.idesignibuy.com

@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_215905315.jpeg
-name: Animation Sharks
-location: Los Angeles, CA, USA
+coordinate:
+  lat: 34.0522342
+  lng: -118.2436849
 description: Animation Sharks maintains their reputation in providing the top-quality
   video animation services to their customers. We make sure our customers leave the
   place with the sense of satisfaction and believe they invested their money in the
   right place.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_215905315.jpeg
+location: Los Angeles, CA, USA
+name: Animation Sharks
 url: https://animationsharks.com/

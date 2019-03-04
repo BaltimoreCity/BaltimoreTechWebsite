@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2017/10/croppedImg_650702096.jpg
-name: Latlon Technologies
-location: 2015 A/B, Opp. Rajalakshmi Mills,Near VGM Hospital,Trichy Road
+coordinate:
+  lat: 10.998689
+  lng: 77.01293439999999
 description: Latlon Technologies is a leading IT services provider and software development
   company established in the year of 2015, providing enterprise web and mobile applications.
   We have expanded our services with 1000+ happiest clients over the world with teams
   operating in 3+ global countries.Our Major products are ERP, Engage CRM, inventory
   and billing software.Being a top Indian-based IT sector, we offer the best business
   IT solutions, software development, website design and development.
+image: http://baltimoretech.org/wp-content/uploads/2017/10/croppedImg_650702096.jpg
+location: 2015 A/B, Opp. Rajalakshmi Mills,Near VGM Hospital,Trichy Road
+name: Latlon Technologies
 url: http://www.latlontechnologies.com/

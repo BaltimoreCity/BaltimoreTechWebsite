@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1492300499.jpeg
-name: MobileAppDaily
-location: 10517 Abingdon Way, Woodstock, MD, USA
+coordinate:
+  lat: 39.3091698
+  lng: -76.8813059
 description: Mobile App Daily is a mobile app-centric news portal which covers all
   the latest breakthrough in the mobile app industry. We ensure swift delivery of
   any elementary to paramount advancement in mobile app world with our exhaustive
   analysis and views.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1492300499.jpeg
+location: 10517 Abingdon Way, Woodstock, MD, USA
+name: MobileAppDaily
 url: https://www.mobileappdaily.com/

@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_199747591.png
-name: Ipad Hire Manchester,  Renting Ipads
-location: Goswell Road, London EC1M 7AA
+coordinate:
+  lat: 51.5225002
+  lng: -0.0976224
 description: Anytime Tablet Hire is an Express iPad rental company with fail safe
   deliveries at the most in-expensive prices. Request deliveries around the clock
   for your business meeting only from Anytime Tablet Hire. Being part of a holding
   group of Global IT rentals, we eliminate the need for our customers to look elsewhere.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_199747591.png
+location: Goswell Road, London EC1M 7AA
+name: Ipad Hire Manchester,  Renting Ipads
 url: http://anytimetablethire.co.uk/

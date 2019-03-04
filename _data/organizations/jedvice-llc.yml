@@ -1,8 +1,15 @@
----
+coordinate:
+  lat: 39.2767702
+  lng: -76.612139
+description: 'Jedvice delivers unique technologies and solutions for the deployment
+  and operation of physical security systems, based on extensive field experience
+  at the most threatened sites within the Israeli security market.
+
+  Jedvice has developed a unique and powerful system that significantly enhances the
+  operation of security installations of all kinds. The system is designed to prevent
+  and mitigate intrusions by taking advantage of a combination of technologies and
+  algorithms developed by the company.'
 image: http://baltimoretech.org/wp-content/uploads/2015/11/croppedImg_1044139908.jpeg
-name: Jedvice LLC
 location: 1111 Light Street, Baltimore, MD, United States
-description: |-
-  Jedvice delivers unique technologies and solutions for the deployment and operation of physical security systems, based on extensive field experience at the most threatened sites within the Israeli security market.
-  Jedvice has developed a unique and powerful system that significantly enhances the operation of security installations of all kinds. The system is designed to prevent and mitigate intrusions by taking advantage of a combination of technologies and algorithms developed by the company.
+name: Jedvice LLC
 url: http://jedvice.com

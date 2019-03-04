@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1665293440.png
-name: LN Creative Group (LNCG)
-location: 3 Church Circle, Suite 311
+coordinate:
+  lat: 38.978648
+  lng: -76.4934263
 description: LN Creative Group (LNCG), a full-service digital marketing agency uniquely
   positioned to partner with tech companies who have complex solutions for enterprise
   customers.  LNCG offers capabilities in Strategic B2B Marketing, Marketing Automation,
   CRM Implementation and Management, Communications, Web Design &amp; Development,
   App Design &amp; Development, Software Design, User Experience and Digital Brand
   Experiments.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1665293440.png
+location: 3 Church Circle, Suite 311
+name: LN Creative Group (LNCG)
 url: https://www.lncreativegroup.com/

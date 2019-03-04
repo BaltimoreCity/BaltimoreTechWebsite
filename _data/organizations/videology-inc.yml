@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/06/croppedImg_1727932914.jpeg
-name: Videology, Inc.
-location: '1500 Whetstone Way #500, Baltimore, MD 21230'
+coordinate:
+  lat: 39.2698676
+  lng: -76.5999491
 description: Videology was founded in 2007 by Scott Ferber—also the co-founder of
   advertising.com. It is one of the world’s leading video advertising platforms.  Our
   global, market-leading technology enables our customers to manage, measure and optimize
   digital video and TV advertising to achieve the best results in today fast-moving
   media landscape.
+image: http://baltimoretech.org/wp-content/uploads/2016/06/croppedImg_1727932914.jpeg
+location: '1500 Whetstone Way #500, Baltimore, MD 21230'
+name: Videology, Inc.
 url: http://www.videologygroup.com

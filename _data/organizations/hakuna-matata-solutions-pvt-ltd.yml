@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2017/11/croppedImg_713081475.jpg
-name: Hakuna Matata Solutions Pvt Ltd
-location: "# 22/23, Ground Floor, 2nd Main Road, VGP Selva Nagar, Velachery, Chennai"
+coordinate:
+  lat: 12.970993
+  lng: 80.22112849999999
 description: Hakuna Matata is founded in 2006, the company is renowned for providing
   the most innovative web and mobile app development services on all over the world.
   Within a very short period of time, Hakuna Matata has become a leading mobile app
   development company serving many global customers.Hakuna Matata has highly professional
   team of developers and designers has developed over 450+ mobile apps for variety
   business verticals.
+image: http://baltimoretech.org/wp-content/uploads/2017/11/croppedImg_713081475.jpg
+location: '# 22/23, Ground Floor, 2nd Main Road, VGP Selva Nagar, Velachery, Chennai'
+name: Hakuna Matata Solutions Pvt Ltd
 url: https://www.hakunamatata.in/mobile-apps/

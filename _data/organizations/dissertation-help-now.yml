@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_700693609.jpeg
-name: Dissertation Help Now
-location: 89 dean street, W1D 3SU London United Kingdom
+coordinate:
+  lat: 51.5148609
+  lng: -0.1334612
 description: DissertationHelpNow.co.uk provides professional writing assistance to
   the students in the UK. Our work is merely assistance that students can take as
   guidance to complete their projects. In any case, our work cannot be submitted likewise.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_700693609.jpeg
+location: 89 dean street, W1D 3SU London United Kingdom
+name: Dissertation Help Now
 url: https://dissertationhelpnow.co.uk/

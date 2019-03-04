@@ -1,7 +1,9 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1782147353.png
-name: Helispot
-location: 1830 East Monument Street, Baltimore, MD, United States
+coordinate:
+  lat: 39.2987111
+  lng: -76.5912185
 description: Diagnostics have revolutionized health care treatment, but are often
   not in reach for all patients. We’re here to change that.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1782147353.png
+location: 1830 East Monument Street, Baltimore, MD, United States
+name: Helispot
 url: http://www.helispot.bio

@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2018/08/croppedImg_1897546126.jpg
-name: Taxipickr- Uber clone script
-location: Agriya, Durant Place, Stevenson Ranch, CA, USA
+coordinate:
+  lat: 34.38683
+  lng: -118.5987574
 description: Taxipickr is a premium uber clone script, a ready to deploy software
   designed to develop taxi booking app. It enables businesses to efficiently manage
   their operations, users to engage in a seamless booking process, drivers to secure
   a stable income. It brings the whole process under one umbrella, hence gives a much
   clear picture, allows you to easily manage the same. Most of all, it perfectly blends
   the users and drivers, through the technology-driven approach.
+image: http://baltimoretech.org/wp-content/uploads/2018/08/croppedImg_1897546126.jpg
+location: Agriya, Durant Place, Stevenson Ranch, CA, USA
+name: Taxipickr- Uber clone script
 url: https://www.agriya.com/products/uber-clone

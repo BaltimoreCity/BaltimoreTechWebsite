@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/11/croppedImg_1711514982.jpeg
-name: Spark Baltimore
-location: 8 Market Place, Baltimore, MD, United States
+coordinate:
+  lat: 39.2893937
+  lng: -76.60717269999999
 description: Spark is a collaborative workspace for technology and creative focused
   startups, entrepreneurs, and freelancers located in downtown Baltimore. Spark is
   designed with growing companies in mind, with workspace options that range from
   mailbox memberships and dedicated coworking desks, to private offices and custom
   office suites. We aim to provide creatives and innovators with community and space,
   allowing them to ignite ideas that transform into successful companies and organizations.
+image: http://baltimoretech.org/wp-content/uploads/2015/11/croppedImg_1711514982.jpeg
+location: 8 Market Place, Baltimore, MD, United States
+name: Spark Baltimore
 url: http://www.spark-bmore.com

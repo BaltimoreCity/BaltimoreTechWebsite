@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_792185872.png
-name: Terbium Labs
-location: 180 West Ostend Street, Baltimore, MD, United States
+coordinate:
+  lat: 39.2754541
+  lng: -76.6189778
 description: Terbium Labs is the premier dark web intelligence company.  As the maker
   of Matchlight, the world’s most comprehensive and only fully private dark web data
   monitoring system, Terbium gives organizations an unprecedented ability to continuously
   monitor the dark web for its lost or stolen data.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_792185872.png
+location: 180 West Ostend Street, Baltimore, MD, United States
+name: Terbium Labs
 url: https://terbiumlabs.com

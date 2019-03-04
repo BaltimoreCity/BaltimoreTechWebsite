@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_283520797.png
-name: Mobile Sim Card Manufacturer
-location: D67, Dubai Production City-Dubai
+coordinate:
+  lat: 25.1590967
+  lng: 55.23103039999999
 description: Best Mobile solutions and scratch card products provided by us around
   the world. Main product list is, managed chip security, VAS solutions, eSIM, OTA
   remote provisioning and operating systems. We are specialized in logistics of secure
   serialized data management products.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_283520797.png
+location: D67, Dubai Production City-Dubai
+name: Mobile Sim Card Manufacturer
 url: http://www.workz.com/mobile/sim/

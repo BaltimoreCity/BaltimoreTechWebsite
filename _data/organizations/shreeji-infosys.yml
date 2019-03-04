@@ -1,10 +1,18 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1189850185.png
-name: Shreeji Infosys
-location: ahmedabad
-description: |-
-  Shreeji Infosys, founded in 2014 by two young and enthusiastic friends with lots of energy to escalate in eCommerce industry (Especially in Magento). From the beginning, we started with small and medium level projects in Magento. then we enhanced our more service in Magento customization, Magento extension development, support and much more.
+coordinate:
+  lat: 23.022505
+  lng: 72.5713621
+description: 'Shreeji Infosys, founded in 2014 by two young and enthusiastic friends
+  with lots of energy to escalate in eCommerce industry (Especially in Magento). From
+  the beginning, we started with small and medium level projects in Magento. then
+  we enhanced our more service in Magento customization, Magento extension development,
+  support and much more.
+
   Our achievements till date
+
   *20+ Strong Magento Extensions Built
-  *50+ Positive extension  reviews
+
+  *50+ Positive extension  reviews'
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1189850185.png
+location: ahmedabad
+name: Shreeji Infosys
 url: http://shreejiinfosys.co.in/

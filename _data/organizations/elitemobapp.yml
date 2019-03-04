@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2017/02/croppedImg_1006572078-1.jpeg
-name: EliteMobApp
-location: Chicago, IL, United States
+coordinate:
+  lat: 41.8781136
+  lng: -87.6297982
 description: Elite Mobile App has extensive experience in mobile application development.
   Our team of mobile developers are highly skilled and talented, who are committed
   to provide cutting edge mobile and smart phone device technology to our clients
   as per their requirements. We provide the best services of native and cross platform
   application development for iPhone and Android.
+image: http://baltimoretech.org/wp-content/uploads/2017/02/croppedImg_1006572078-1.jpeg
+location: Chicago, IL, United States
+name: EliteMobApp
 url: http://www.elitemobapp.com/

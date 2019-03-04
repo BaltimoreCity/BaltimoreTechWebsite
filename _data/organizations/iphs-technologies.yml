@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2017/09/croppedImg_481083106-1.jpeg
-name: IPHS Technologies
-location: 2nd Floor, ICICI Building, Khun Khun Ji Road, Chowk, Lucknow, Uttar Pradesh,
-  India
+coordinate:
+  lat: 26.8663721
+  lng: 80.9080089
 description: IPHS Technologies provides world class Mobile App development services
   and Software solutions. Get in touch with us and let our enthusiastic and experienced
   IT geeks assist you in making the best use of the IT world for your growth and development.
+image: http://baltimoretech.org/wp-content/uploads/2017/09/croppedImg_481083106-1.jpeg
+location: 2nd Floor, ICICI Building, Khun Khun Ji Road, Chowk, Lucknow, Uttar Pradesh,
+  India
+name: IPHS Technologies
 url: http://iphtechnologies.com

@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_364378328.png
-name: My Vote My India
-location: India
+coordinate:
+  lat: 20.593684
+  lng: 78.96288
 description: My Vote My India is a platform where we provide all the details of Candidates
   with their related Constituency, Background, Political Career and Criminal Cases
   and Property etc.Motive to Developing this platform, to aware the common people
   who don't know about the candidates to whom they are going to vote.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_364378328.png
+location: India
+name: My Vote My India
 url: https://www.myvotemyindia.in/

@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/01/croppedImg_1688747887.png
-name: East Insurance Group LLC
-location: 2200 Maryland Ave, Baltimore, MD, United States
+coordinate:
+  lat: 39.3142847
+  lng: -76.618425
 description: East Insurance Group has been helping growing business get the best commercial
   insurance coverage. Businesses are vulnerable and need a dedicated insurance specialist
   to ensure that they have the correct coverage, something a quote generated insurance
   policy won't get you.
+image: http://baltimoretech.org/wp-content/uploads/2016/01/croppedImg_1688747887.png
+location: 2200 Maryland Ave, Baltimore, MD, United States
+name: East Insurance Group LLC
 url: http://www.eastinsurancegroup.com

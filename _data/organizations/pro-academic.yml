@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_687264965.png
-name: Pro-academic
-location: 69 Mitcham Lane, London, VIC 11970
+coordinate:
+  lat: 51.4262229
+  lng: -0.1374273
 description: We are here to provide your expert with all kinds of academic writing
   help services. A pro-academic team of dedicated writers can assist you for academic
   help.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_687264965.png
+location: 69 Mitcham Lane, London, VIC 11970
+name: Pro-academic
 url: https://www.pro-academic.co.uk

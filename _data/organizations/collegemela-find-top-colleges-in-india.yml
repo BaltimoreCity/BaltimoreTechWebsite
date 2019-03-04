@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1899785287.jpeg
-name: Collegemela - Find Top Colleges In India
-location: California, United States
+coordinate:
+  lat: 36.778261
+  lng: -119.4179324
 description: Are you going to join college after schools but stuck which college should
   you choose to for batter career opportunity. Here at collegemela we offers an direct
   option to find the best colleges and apply directly to the colleges from all across
   the india. Visit us at CollegeMela to get admission in top MBA, Engineering, Management,
   Pharmacy, Architecture, mass communication, Arts, Commerce, Computer, Medical colleges
   of in India with complete details of Ranks, Fees, Cut-off, Placements.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1899785287.jpeg
+location: California, United States
+name: Collegemela - Find Top Colleges In India
 url: https://www.collegemela.com/courses/mba-colleges

@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1678359972.png
-name: FME Extensions Dubai - A Web Design Company Dubai
-location: 1-D-FXD-107, Techno Hub, Dubai Silicon Oasis, Dubai
+coordinate:
+  lat: 25.1212599
+  lng: 55.3768697
 description: FME is a multinational web design company from Dubai, UAE. It is dealing
   with its clients since 2008. Services provided include web design, web development,
   content writing, logo designing, SEO.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1678359972.png
+location: 1-D-FXD-107, Techno Hub, Dubai Silicon Oasis, Dubai
+name: FME Extensions Dubai - A Web Design Company Dubai
 url: https://www.fmeextensions.ae/

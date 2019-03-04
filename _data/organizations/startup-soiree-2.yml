@@ -1,7 +1,6 @@
----
-image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/05/croppedImg_1435115483.jpeg
-name: Startup Soiree
-location: 3200 James St, Baltimore, Maryland, United States
+coordinate:
+  lat: 39.25936
+  lng: -76.663521
 description: Startup Soirée is a monthly party that focuses on creating conversations
   amongst company Founders and leaders in the startup community. Startup Soirée places
   a premium on accelerating relationships with like minded Founders and uncovering
@@ -9,4 +8,7 @@ description: Startup Soirée is a monthly party that focuses on creating convers
   network with other like minded Founders and participate in crowd directed, town-hall
   style, conversation on topics that specifically speak to the challenges of Founder
   Culture.
+image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/05/croppedImg_1435115483.jpeg
+location: 3200 James St, Baltimore, Maryland, United States
+name: Startup Soiree
 url: http://www.startup-soiree.com

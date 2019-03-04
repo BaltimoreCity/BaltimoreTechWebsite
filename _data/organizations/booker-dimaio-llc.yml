@@ -1,9 +1,16 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/07/croppedImg_1699754277.png
-name: Booker DiMaio, LLC
-location: Sykesville, MD, United States
-description: |-
-  Excellence in Engineering of Software Development and Computer Engineering Apps
+coordinate:
+  lat: 39.3737149
+  lng: -76.9677566
+description: 'Excellence in Engineering of Software Development and Computer Engineering
+  Apps
 
-  Booker DiMaio strives to provide excellence in engineering in the areas of Software Development and Computer Engineering. With an expertise in computer engineering, software development and experience delivering tailored solutions to Federal and Commercial customers, the goal is to provide top quality applications with superior quality, tailored for each customer.
+
+  Booker DiMaio strives to provide excellence in engineering in the areas of Software
+  Development and Computer Engineering. With an expertise in computer engineering,
+  software development and experience delivering tailored solutions to Federal and
+  Commercial customers, the goal is to provide top quality applications with superior
+  quality, tailored for each customer.'
+image: http://baltimoretech.org/wp-content/uploads/2016/07/croppedImg_1699754277.png
+location: Sykesville, MD, United States
+name: Booker DiMaio, LLC
 url: http://bookerdimaio.com

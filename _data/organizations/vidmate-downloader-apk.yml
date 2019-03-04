@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_674997622.png
-name: Vidmate Downloader APK
-location: 4254 Driftwood Road Santa Clara, CA 95054
+coordinate:
+  lat: 37.3529114
+  lng: -121.9919127
 description: Vidmate APK is a renowned video downloading application that helps you
   to download most rated and viral videos including bollywood movies and songs. Using
   Vidmate, you can also download YouTube music and video with non buffered speed.
   Loved by 300 million users currently and working on latest to least Android versions.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_674997622.png
+location: 4254 Driftwood Road Santa Clara, CA 95054
+name: Vidmate Downloader APK
 url: https://vidmatedownloaderapk.com/

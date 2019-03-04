@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_906013454.png
-name: The Cottages Senior Living
-location: Round Rock, TX, United States
+coordinate:
+  lat: 30.5082551
+  lng: -97.678896
 description: The right assisted living services can help your loved one live a more
   satisfying and active life. Know more about the cottages senior living. Alzcottages
   an assisted living facility is a housing facility for people with disabilities.
   These facilities provide supervision or help with activities of regular living,
   management of services by external health care providers, and observing of resident
   activities to help to ensure their health, safety, and well-being.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_906013454.png
+location: Round Rock, TX, United States
+name: The Cottages Senior Living
 url: http://alzcottages.com/

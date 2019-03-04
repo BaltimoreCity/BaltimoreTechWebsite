@@ -1,7 +1,9 @@
----
-image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/05/croppedImg_280512879.png
-name: Allovue
-location: 1106 N Charles St, Suite 401, Baltimore, MD, United States
+coordinate:
+  lat: 39.3027666
+  lng: -76.6164053
 description: Our education resource planning software empowers K-12 administrators
   at every level to allocate resources to best support the needs of their students.
+image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/05/croppedImg_280512879.png
+location: 1106 N Charles St, Suite 401, Baltimore, MD, United States
+name: Allovue
 url: http://allovue.com

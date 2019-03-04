@@ -1,9 +1,14 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/08/croppedImg_2146763108.png
-name: NVision4D
-location: Govans, Baltimore, MD, United States
-description: |-
-  NVision4d in Baltimore, Maryland, creates 3d animation, illustration and graphics for advertising and corporate marketing. We specialize in photo real 3d, architectural projection and visual design.
+coordinate:
+  lat: 39.3496003
+  lng: -76.60727659999999
+description: 'NVision4d in Baltimore, Maryland, creates 3d animation, illustration
+  and graphics for advertising and corporate marketing. We specialize in photo real
+  3d, architectural projection and visual design.
 
-  We also can now produce prototypes of work for our product design clients. We have a high quality 3d printer in house.
+
+  We also can now produce prototypes of work for our product design clients. We have
+  a high quality 3d printer in house.'
+image: http://baltimoretech.org/wp-content/uploads/2015/08/croppedImg_2146763108.png
+location: Govans, Baltimore, MD, United States
+name: NVision4D
 url: http://nvision4d.com

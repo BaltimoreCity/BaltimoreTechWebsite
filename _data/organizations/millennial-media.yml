@@ -1,8 +1,10 @@
----
-image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/04/croppedImg_425401133.png
-name: Millennial Media
-location: 2400 Boston Street, Baltimore, MD, United States
+coordinate:
+  lat: 39.2818348
+  lng: -76.58160939999999
 description: Millennial Media is an advertising company that places display ads on
   mobile devices. The company is based in Baltimore, with offices in Boston, London,
   Singapore, New York City and San Francisco.
+image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/04/croppedImg_425401133.png
+location: 2400 Boston Street, Baltimore, MD, United States
+name: Millennial Media
 url: http://www.millennialmedia.com

@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_778070814.jpeg
-name: Pixilated
-location: 3200 James Street, Baltimore, MD, United States
+coordinate:
+  lat: 39.25936
+  lng: -76.663521
 description: Pixilated is an innovative marketing technology company, masquerading
   as a photo booth. We provide open-air photo booth services to weddings, corporate
   events, and parties, as well as brand activations and installations for large scale
   events. Pixilated has a progressive company culture, and we pride ourselves in our
   agility and adaptability.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_778070814.jpeg
+location: 3200 James Street, Baltimore, MD, United States
+name: Pixilated
 url: http://www.pixilated.com

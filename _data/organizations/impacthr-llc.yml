@@ -1,10 +1,12 @@
----
-image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/05/croppedImg_2047401280.png
-name: impactHR, LLC
-location: '10015 Old Columbia Road Suite B-215 Columbia, MD 21046 '
+coordinate:
+  lat: 39.1734966
+  lng: -76.8583127
 description: impactHR, LLC, founded in 2006, is a woman-owned small business that
   provides HR and business solutions to maximize the performance of people and to
   build value for our clients’ organizations. Our mission is to be the most effective
   business partner by providing solutions that improve our clients’ business performance
   through effective management of people, processes and technology.
+image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/05/croppedImg_2047401280.png
+location: '10015 Old Columbia Road Suite B-215 Columbia, MD 21046 '
+name: impactHR, LLC
 url: http://impacthrllc.com/

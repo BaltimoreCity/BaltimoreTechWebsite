@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_835817624.jpeg
-name: EmailChopper
-location: A-2, Sector-63 Noida, Uttar Pradesh 201301, India
+coordinate:
+  lat: 28.624401
+  lng: 77.380712
 description: EmailChopper is a well known name in the industry of email template designing.
   With the help of EmailChopper you can boost your brand image by bringing huge traffic
   with the help of quality email template. Our email template service assists in converting
   the audience into customers and allows entrepreneurs to earn more profits.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_835817624.jpeg
+location: A-2, Sector-63 Noida, Uttar Pradesh 201301, India
+name: EmailChopper
 url: http://www.emailchopper.com

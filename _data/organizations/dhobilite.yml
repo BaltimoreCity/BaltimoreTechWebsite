@@ -1,7 +1,9 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_380612199.png
-name: Dhobilite
-location: Noida, India
+coordinate:
+  lat: 28.5355161
+  lng: 77.3910265
 description: Are you looking for the dry cleaners or laundry services in Noida? dhobilite.com
   is one of the best laundry and drycleaning services provider at Noida, Delhi.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_380612199.png
+location: Noida, India
+name: Dhobilite
 url: https://www.dhobilite.com/

@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/07/croppedImg_1539709935.jpeg
-name: SalesWarp
-location: 101 North Haven Street, Suite 301, Baltimore, Maryland 21224
+coordinate:
+  lat: 39.2941707
+  lng: -76.56227919999999
 description: SALESWARP, is a centralized commerce management system for responsive
   retail. SalesWarp breaks down the barriers in a multi-channel commerce operation
   to manage all product, inventory, order, fulfillment, accounting and customer data
   from one system. Be eliminating operational silos, SalesWarp provides retailers
   with seamless data flow and advanced intelligence that results in more effective
   decision-making for a profitable, streamlined and responsive retail business.
+image: http://baltimoretech.org/wp-content/uploads/2015/07/croppedImg_1539709935.jpeg
+location: 101 North Haven Street, Suite 301, Baltimore, Maryland 21224
+name: SalesWarp
 url: http://www.saleswarp.com/

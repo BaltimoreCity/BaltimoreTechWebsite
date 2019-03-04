@@ -1,11 +1,13 @@
----
-image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/04/croppedImg_773219662.jpeg
-name: Mission Media
-location: 616 Water Street, Baltimore, MD, United States
+coordinate:
+  lat: 39.2888556
+  lng: -76.6074888
 description: Mission is a design and digital agency that believes great work comes
   from the heart, mind and gut. For 15 years, Mission has been producing award-winning,
   creative and highly effective work for regional, national and international brands.
   We are focused on helping our partners effectively utilize their owned media and
   native content to increase awareness, influence perception, inspire action and foster
   a brand's growth.  
+image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/04/croppedImg_773219662.jpeg
+location: 616 Water Street, Baltimore, MD, United States
+name: Mission Media
 url: http://www.missionmedia.com

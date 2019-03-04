@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1586592623.jpeg
-name: SynLogics Inc
-location: Atlanta, 160 Stone Orchard Ct, Milton, Georgia, United States, 30004
+coordinate:
+  lat: 34.1562344
+  lng: -84.2688044
 description: SynLogics is an Enterprise Application and Business Automation Company
   focused on providing Quality services in cross-channel Business Process Automation,
   Cloud Computing, E-Commerce, Digital Marketing, Web and Mobile Application Development.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1586592623.jpeg
+location: Atlanta, 160 Stone Orchard Ct, Milton, Georgia, United States, 30004
+name: SynLogics Inc
 url: https://www.synlogics.com/

@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_298014908.jpeg
-name: Hiteshi Infotech
-location: 8th Floor, Crystal IT Park, Khandwa Road, Indore (MP), India
+coordinate:
+  lat: 22.685652
+  lng: 75.872211
 description: Hiteshi established in 2006, is the most trusted software development
   company based in Indore, India. Hiteshi help businesses to grow faster with innovative
   custom software development services for mobile native apps, web solutions, enterprise
   product development, QA Services, B2B, B2C, e-commerce &amp; hybrid platforms.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_298014908.jpeg
+location: 8th Floor, Crystal IT Park, Khandwa Road, Indore (MP), India
+name: Hiteshi Infotech
 url: https://www.hiteshi.com/

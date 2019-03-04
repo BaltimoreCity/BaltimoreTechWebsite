@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2018/02/croppedImg_2100254982-1.jpeg
-name: HTMLPanda
-location: Fremont, CA, USA
+coordinate:
+  lat: 37.5482697
+  lng: -121.9885719
 description: HTMLPanda is the leading web and app development company based in USA
   that specializes in PSD To HTML / HTML5, sketch to html, PSD To email conversion,
   website development and app development.
+image: http://baltimoretech.org/wp-content/uploads/2018/02/croppedImg_2100254982-1.jpeg
+location: Fremont, CA, USA
+name: HTMLPanda
 url: http://www.htmlpanda.com

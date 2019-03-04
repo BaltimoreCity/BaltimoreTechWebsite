@@ -1,9 +1,15 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_762624004.jpeg
-name: Mobilmindz
-location: New York, NY, United States
-description: |-
-  Mobilmindz was founded in the New York, USA in 2013, by a group of young business and technology experts who were passionately excited about the latest digital trends in mobile and web technologies.
+coordinate:
+  lat: 40.7127753
+  lng: -74.0059728
+description: 'Mobilmindz was founded in the New York, USA in 2013, by a group of young
+  business and technology experts who were passionately excited about the latest digital
+  trends in mobile and web technologies.
 
-  Since then, our company has become a leading driver in mobile application providing design and development innovations for every mobile application platform, including iPhone, Android, and Windows, as well as web platforms.
+
+  Since then, our company has become a leading driver in mobile application providing
+  design and development innovations for every mobile application platform, including
+  iPhone, Android, and Windows, as well as web platforms.'
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_762624004.jpeg
+location: New York, NY, United States
+name: Mobilmindz
 url: http://www.mobilmindz.com

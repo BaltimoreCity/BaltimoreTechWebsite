@@ -1,9 +1,16 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_204480059.jpeg
-name: No.Inc
-location: 3600 Clipper Mill Road, Baltimore, MD, United States
-description: |-
-  We develop large-scale, custom educational technology that is trusted by millions of users.
+coordinate:
+  lat: 39.3307565
+  lng: -76.64269639999999
+description: 'We develop large-scale, custom educational technology that is trusted
+  by millions of users.
 
-  Since 2000, No.Inc has worked at the leading edge of custom software development for educational institutions and nonprofit organizations. Schools, school systems, and education agencies across the country seek our expertise and our proven technologies to help them redefine the power of data management, tracking, and reporting in educational excellence. Built on processes that emphasize quality, user exp
+
+  Since 2000, No.Inc has worked at the leading edge of custom software development
+  for educational institutions and nonprofit organizations. Schools, school systems,
+  and education agencies across the country seek our expertise and our proven technologies
+  to help them redefine the power of data management, tracking, and reporting in educational
+  excellence. Built on processes that emphasize quality, user exp'
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_204480059.jpeg
+location: 3600 Clipper Mill Road, Baltimore, MD, United States
+name: No.Inc
 url: http://www.noinc.com

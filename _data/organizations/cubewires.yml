@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-includes/images/media/default.png
-name: CubeWires
-location: San Francisco, CA, United States
+coordinate:
+  lat: 37.7749295
+  lng: -122.4194155
 description: Cubewires was established in 2012. With an experience of 5 years in the
   app development market, we specialize in design. develop and market. We provide
   mobile app development(Android, iOS &amp; Hybrid App), UI design(Web &amp; Mobile),
   Web Development(PHP. CMS, Drupal, Magento &amp; Wordpress) &amp; Marketing(SEO,
   PPC, SEM, SMM &amp; App Marketing) solutions to clients across all major domains.
+image: http://baltimoretech.org/wp-includes/images/media/default.png
+location: San Francisco, CA, United States
+name: CubeWires
 url: http://cubewires.com

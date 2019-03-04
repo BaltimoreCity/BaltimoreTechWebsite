@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/05/croppedImg_363712269.png
-name: DD buddy
-location: Betamore, Light Street, Baltimore, MD, United States
+coordinate:
+  lat: 39.2634099
+  lng: -76.6161796
 description: A mobile app that optimizes all transportation options for getting home
   after drinking. The app incentives people to be designated drivers to friends and
   family through an Uber-like interface, rewarding designated drivers with rewards
   at local businesses every time they give a ride.
+image: http://baltimoretech.org/wp-content/uploads/2015/05/croppedImg_363712269.png
+location: Betamore, Light Street, Baltimore, MD, United States
+name: DD buddy
 url: http://www.DDbuddyApp.com

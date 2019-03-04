@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2018/09/croppedImg_1732180698-1.jpg
-name: ManekTech - Software Development Company
-location: 4th Floor, Timber Point, Ahmedabad, Gujarat, India
-description: ManekTech is leading Software, Web and <a href="http://www.manektech.com/mobile-application-development.html">Mobile
+coordinate:
+  lat: 23.0122625
+  lng: 72.5085438
+description: ManekTech is leading Software, Web and <a href=&#34;http://www.manektech.com/mobile-application-development.html&#34;>Mobile
   App development company</a> in the USA, Canada who offers the best Enterprise application
   solution for your business. Our mobile and web developers develop the best application
   service with best quality work as per clients requirements.
+image: http://baltimoretech.org/wp-content/uploads/2018/09/croppedImg_1732180698-1.jpg
+location: 4th Floor, Timber Point, Ahmedabad, Gujarat, India
+name: ManekTech - Software Development Company
 url: http://www.manektech.com/

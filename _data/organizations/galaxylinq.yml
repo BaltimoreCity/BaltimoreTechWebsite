@@ -1,8 +1,15 @@
----
+coordinate:
+  lat: 39.3794196
+  lng: -76.45990429999999
+description: 'GalaxyLinq is a technology driven Custom Software Company in Baltimore,
+  Maryland.
+
+  GalaxyLinq proudly offers the turnkey products Galaxy Commerce ™ and Galaxy CMS
+  ™. Galaxy Commerce is a suite of E-Commerce modules which are designed for speed,
+  flexibility, and volume. It includes recurring billing and subscriptions management
+  modules to automate your recurring and subscriptions payments . Galaxy CMS is our
+  own web content management system build based on Microsoft.NET and SQL Server products.'
 image: http://baltimoretech.org/wp-content/uploads/2016/03/croppedImg_1695678044.jpeg
-name: GalaxyLinq
 location: White Marsh, MD, United States
-description: |-
-  GalaxyLinq is a technology driven Custom Software Company in Baltimore, Maryland.
-  GalaxyLinq proudly offers the turnkey products Galaxy Commerce ™ and Galaxy CMS ™. Galaxy Commerce is a suite of E-Commerce modules which are designed for speed, flexibility, and volume. It includes recurring billing and subscriptions management modules to automate your recurring and subscriptions payments . Galaxy CMS is our own web content management system build based on Microsoft.NET and SQL Server products.
+name: GalaxyLinq
 url: http://www.galaxylinq.com/

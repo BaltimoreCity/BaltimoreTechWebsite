@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_707224742.png
-name: Giant Stuffed Animals | Baberoo.net
-location: Diablo, CA, United States
+coordinate:
+  lat: 37.8349258
+  lng: -121.9580149
 description: Baberoo offers giant stuffed animals which have realistic colors and
   made with ultra soft fabric. They serve as an ideal playmate for your kids. You
   can buy soft toys online from Baberoo at cost effective prices online from the convenience
@@ -9,4 +8,7 @@ description: Baberoo offers giant stuffed animals which have realistic colors an
   stuffed animal offered by Baberoo has a silky smooth fur as well as awesome disposition.
   Your kids will surely fall in love with this soft toy. Duck stuffed animal looks
   su
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_707224742.png
+location: Diablo, CA, United States
+name: Giant Stuffed Animals | Baberoo.net
 url: https://twitter.com/BaberooKids

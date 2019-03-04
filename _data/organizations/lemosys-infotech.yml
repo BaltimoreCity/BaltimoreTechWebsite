@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_215046339.jpeg
-name: Lemosys Infotech
-location: Indore, M.P. India 452010
+coordinate:
+  lat: 22.7569083
+  lng: 75.9056753
 description: Lemosys Infotech is an ISO Certified Company having its operations in
   India and United States. The company was formed in 2007 with an aim to become the
   highest quality website development and designing company in the world for offering
   excellent services and delivering standard value to our customers and associates.
   Lemosys is the dominant IT Company in Asia. Our company has reached world-class
   practice in the field of web and mobile applications services.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_215046339.jpeg
+location: Indore, M.P. India 452010
+name: Lemosys Infotech
 url: http://lemosys.com/

@@ -1,11 +1,13 @@
----
-image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/04/croppedImg_862878856.png
-name: Venture for America
-location: 40 W 29th St, New York, NY, United States
+coordinate:
+  lat: 40.7460839
+  lng: -73.9893848
 description: Venture for America is a fellowship program for enterprising recent college
   graduates to launch their careers as entrepreneurs and revitalize American cities.
   After five weeks of training, VFA Fellows spend two years in the trenches of a startup
   in an emerging U.S. city where they learn how to contribute to a high-growth business.
   Afterwards, VFA provides the mentorship, network, and resources Fellows need to
   become entrepreneurs.
+image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/04/croppedImg_862878856.png
+location: 40 W 29th St, New York, NY, United States
+name: Venture for America
 url: http://ventureforamerica.org

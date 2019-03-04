@@ -1,8 +1,15 @@
----
+coordinate:
+  lat: 42.27814009999999
+  lng: -74.91599459999999
+description: '1Solutions is an ISO certified website designing, development and Internet
+  marketing company based in New Delhi, India. The core expertise areas are custom
+  development, open source development, ecommerce store development and online marketing
+  including search engine optimization, link building services and social media marketing.
+  Since its inception, 1Solutions is engaged in providing highly scalable and end
+  to end web solutions with innovative approach.
+
+  Address:  New Delhi, India'
 image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1040915715.jpeg
-name: 1Solutions
 location: Delhi, NY, United States
-description: |-
-  1Solutions is an ISO certified website designing, development and Internet marketing company based in New Delhi, India. The core expertise areas are custom development, open source development, ecommerce store development and online marketing including search engine optimization, link building services and social media marketing. Since its inception, 1Solutions is engaged in providing highly scalable and end to end web solutions with innovative approach.
-  Address:  New Delhi, India
+name: 1Solutions
 url: https://www.1solutions.biz

@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/08/croppedImg_2064417274.png
-name: The Canton Group
-location: 2920 O Donnell Street, Baltimore, MD, United States
+coordinate:
+  lat: 39.2805277
+  lng: -76.57463899999999
 description: The Canton Group is a family-owned and operated company with a 16-year
   track record of delivering award-winning web sites and digital solutions to Baltimore-area
   companies. Located on historic Canton Square in East Baltimore, we are part of a
   growing community within walking distance to boutique shopping, entertainment, and
   Baltimore’s best restaurants.
+image: http://baltimoretech.org/wp-content/uploads/2015/08/croppedImg_2064417274.png
+location: 2920 O Donnell Street, Baltimore, MD, United States
+name: The Canton Group
 url: https://www.cantongroup.com

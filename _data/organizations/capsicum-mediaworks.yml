@@ -1,8 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_100842814.jpeg
-name: Capsicum Mediaworks
-location: Ground Floor, Manusmruti, Tejpal Road, Vile Parle (East), Mumbai 400057.
-  Maharashtra, India
+coordinate:
+  lat: 19.103252
+  lng: 72.845201
 description: 'Being a WordPress specialist is the #1 skillset in the arsenal of the
   Capsicum Mediaworks Company. They have created 350+ responsive websites for varied
   industries and make it their goal to understand each business needs before creating
@@ -10,4 +8,8 @@ description: 'Being a WordPress specialist is the #1 skillset in the arsenal of 
   design and web development services in Mumbai alongside other services like mobile
   app development, PSD to WordPress conversion, eCommerce development, website maintenance
   and more.'
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_100842814.jpeg
+location: Ground Floor, Manusmruti, Tejpal Road, Vile Parle (East), Mumbai 400057.
+  Maharashtra, India
+name: Capsicum Mediaworks
 url: https://capsicummediaworks.com

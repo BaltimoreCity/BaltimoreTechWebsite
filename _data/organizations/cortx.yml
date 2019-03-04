@@ -1,12 +1,19 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/09/croppedImg_769047664.jpeg
-name: Cortx
-location: 621 East Pratt Street, Baltimore, MD, United States
-description: |-
-  Cortx is a profitable artificial intelligence research company that focuses on nascent natural language processing concepts and bringing them to market.
+coordinate:
+  lat: 39.28538169999999
+  lng: -76.60706239999999
+description: 'Cortx is a profitable artificial intelligence research company that
+  focuses on nascent natural language processing concepts and bringing them to market.
+
 
   Some example products we have developed:
+
   - A text paraphraser that takes an article and paraphrases it.
-  - An article writing robot that can take any topic, research that topic, and write an article about it.
-  - A marketing consultant that uses AI to provide actionable advice to clients.
+
+  - An article writing robot that can take any topic, research that topic, and write
+  an article about it.
+
+  - A marketing consultant that uses AI to provide actionable advice to clients.'
+image: http://baltimoretech.org/wp-content/uploads/2016/09/croppedImg_769047664.jpeg
+location: 621 East Pratt Street, Baltimore, MD, United States
+name: Cortx
 url: http://cortx.com

@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_167528758.jpeg
-name: DO4YOU COMPANY LIMITED
-location: 92/24 Soi Sukhumvit 31 (Soi Thawi Suk) Klongtoey, Wattana, Bangkok 10110
-  Thailand
+coordinate:
+  lat: 13.7406418
+  lng: 100.5675111
 description: Do4You, is On Demand Services Provider, provides a Professional Laundry,
   Dry Cleaning and House Cleaning Services in Bangkok. With reliable and affordable
   priced services, we allow you to free up your valuable time. Services include Wash
   &amp; Fold, Wash &amp; Iron, Dry Cleaning or just Ironing, house cleaning along
   with Free Pickup and Delivery.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_167528758.jpeg
+location: 92/24 Soi Sukhumvit 31 (Soi Thawi Suk) Klongtoey, Wattana, Bangkok 10110
+  Thailand
+name: DO4YOU COMPANY LIMITED
 url: https://www.do4you.net/

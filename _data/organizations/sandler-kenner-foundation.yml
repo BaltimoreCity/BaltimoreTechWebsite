@@ -1,9 +1,16 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_347725031.jpeg
-name: Sandler-Kenner Foundation
-location: 7301 N. State Highway 161, Suite 148, Irving, Texas, 75039, USA
-description: |-
-  The Sandler-Kenner Foundation – a Non-profit organization, established in 2007 as the Las Colinas Pancreatic Cancer Center Foundation, was renamed in early 2011 in the memory of Michael Sandler and Peter Kenner, both of whom passed away from pancreatic cancer, a lethal disease that is difficult to diagnose until it has reached an advanced stage.
+coordinate:
+  lat: 32.9073969
+  lng: -96.95655660000001
+description: 'The Sandler-Kenner Foundation – a Non-profit organization, established
+  in 2007 as the Las Colinas Pancreatic Cancer Center Foundation, was renamed in early
+  2011 in the memory of Michael Sandler and Peter Kenner, both of whom passed away
+  from pancreatic cancer, a lethal disease that is difficult to diagnose until it
+  has reached an advanced stage.
 
-  The Sandler-Kenner Foundation’s primary focus is to improve survivability of pancreatic cancer patients by developing early identification tools....
+
+  The Sandler-Kenner Foundation’s primary focus is to improve survivability of pancreatic
+  cancer patients by developing early identification tools....'
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_347725031.jpeg
+location: 7301 N. State Highway 161, Suite 148, Irving, Texas, 75039, USA
+name: Sandler-Kenner Foundation
 url: https://helpfightpancreaticcancer.org/

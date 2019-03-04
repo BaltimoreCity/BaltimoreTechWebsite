@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/09/croppedImg_351369019.jpeg
-name: US Tech Solutions
-location: Baltimore, MD
+coordinate:
+  lat: 39.2903848
+  lng: -76.6121893
 description: USTECH is an industry-leading, global firm providing a wide range of
   talent, technology and total workforce solutions to mid-market and enterprise clients,
   including more than 50 of the Fortune 150. USTECH has been recognized in the business
   community and media with multiple accolades such as the Deloitte “Fast 500” award
   and INC 500’s “Fastest Growing Firm in North America.”
+image: http://baltimoretech.org/wp-content/uploads/2016/09/croppedImg_351369019.jpeg
+location: Baltimore, MD
+name: US Tech Solutions
 url: http://www.ustechsolutions.com/

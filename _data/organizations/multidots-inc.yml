@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_973522144.png
-name: Multidots Inc
-location: 2301 Gallows Road Suite 205, Dunn Loring, Virginia – 22027
+coordinate:
+  lat: 38.8976332
+  lng: -77.22389969999999
 description: Multidots specializes in Enterprise software Services and solutions for
   global enterprises for their varying and business specific needs around software
   consulting, enterprise-grade custom application development, custom mobile and cloud
@@ -9,4 +8,7 @@ description: Multidots specializes in Enterprise software Services and solutions
   and ‘risk-free’ global software service providers.Some of the prominent clients
   include ABUV Media (an Inc 500 company), Turkey’s biggest payment gateway solutions
   – Iyzi
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_973522144.png
+location: 2301 Gallows Road Suite 205, Dunn Loring, Virginia – 22027
+name: Multidots Inc
 url: http://www.multidots.com

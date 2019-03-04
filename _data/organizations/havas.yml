@@ -1,7 +1,9 @@
----
-image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/04/croppedImg_1615920841.jpeg
-name: Havas Helia
-location: 400 E Pratt St, Baltimore, MD, United States
+coordinate:
+  lat: 39.2872494
+  lng: -76.6094095
 description: Global full service ad agency with a Baltimore office focused on data-driven,
   personalized marketing.
+image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/04/croppedImg_1615920841.jpeg
+location: 400 E Pratt St, Baltimore, MD, United States
+name: Havas Helia
 url: http://www.havasdiscovery.com/

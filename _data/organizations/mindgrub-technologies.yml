@@ -1,7 +1,6 @@
----
-image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/05/croppedImg_152320835.png
-name: Mindgrub Technologies
-location: 1215 East Fort Avenue, Baltimore, MD, United States
+coordinate:
+  lat: 39.2685951
+  lng: -76.59776389999999
 description: Mindgrub is an award-winning technology innovation agency that creates
   custom mobile, social and web apps for brands, industry leaders and educational
   organizations. Mindgrub uses emerging technologies, such as augmented reality, wearable
@@ -9,4 +8,7 @@ description: Mindgrub is an award-winning technology innovation agency that crea
   talent in design, user experience and development and marketing. Headquartered in
   Baltimore, Mindgrub has offices in Boston, New York City, Philadelphia and Washington
   D.C
+image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/05/croppedImg_152320835.png
+location: 1215 East Fort Avenue, Baltimore, MD, United States
+name: Mindgrub Technologies
 url: http://mindgrub.com

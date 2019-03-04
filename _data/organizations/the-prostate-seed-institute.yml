@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_141188686.jpeg
-name: The Prostate Seed Institute
-location: 7415 Las Colinas Blvd, Suite 100, Irving, Texas, 75063, USA
+coordinate:
+  lat: 32.908264
+  lng: -96.954608
 description: At The Prostate Seed Institute, we work directly with patients and their
   families to determine which treatment option is right for them. Our goal is to help
   men understand what it means to have been diagnosed with prostate cancer and to
   empower them to explore all of their treatment options. Our main mission is to guide
   a patient on a path that leads to the best possible results in every single case,
   taking into account the circumstances that are particular to the patient.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_141188686.jpeg
+location: 7415 Las Colinas Blvd, Suite 100, Irving, Texas, 75063, USA
+name: The Prostate Seed Institute
 url: https://theprostateseedinstitute.com/

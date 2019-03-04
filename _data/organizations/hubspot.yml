@@ -1,7 +1,9 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/07/croppedImg_1695766692.png
-name: HubSpot
-location: 25 First St, Cambridge, MA 02141, United States
+coordinate:
+  lat: 42.3697647
+  lng: -71.0773545
 description: HubSpot is an inbound marketing software platform that helps companies
   attract visitors, convert leads, and close customers.
+image: http://baltimoretech.org/wp-content/uploads/2016/07/croppedImg_1695766692.png
+location: 25 First St, Cambridge, MA 02141, United States
+name: HubSpot
 url: http://www.hubspot.com/

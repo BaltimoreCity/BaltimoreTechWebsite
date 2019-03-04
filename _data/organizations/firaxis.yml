@@ -1,7 +1,9 @@
----
-image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/05/croppedImg_1854832323.jpeg
-name: Firaxis
-location: Sparks, Maryland 21152, United States
+coordinate:
+  lat: 39.5309389
+  lng: -76.6458043
 description: 'Firaxis Games is a Baltimore-area AAA video game studio. The studio
   behind Civilization, XCOM: Enemy Unknown, and Sid Meier''s games!'
+image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/05/croppedImg_1854832323.jpeg
+location: Sparks, Maryland 21152, United States
+name: Firaxis
 url: http://www.firaxis.com

@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1537068524.png
-name: Synergic Software
-location: Synergic Software, Athens, Greece
+coordinate:
+  lat: 37.99951799999999
+  lng: 23.7219983
 description: Synergic Software E-shop Design &amp; Development Company based in Greece
   have developed and designed numerous E-Shop websites and delivered an excellent
   products to the clients. Designers at Synergic Software know very well that a fabulous
@@ -9,4 +8,7 @@ description: Synergic Software E-shop Design &amp; Development Company based in 
   of the users are attracted just because of the design defined by the designer. Synergic
   Software deliver best custom E-Shop web-design &amp; developement services at the
   very reasonabl
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1537068524.png
+location: Synergic Software, Athens, Greece
+name: Synergic Software
 url: http://www.synergic.gr/

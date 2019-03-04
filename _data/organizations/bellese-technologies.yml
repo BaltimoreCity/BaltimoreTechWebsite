@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_564447738.jpeg
-name: Bellese Technologies
-location: 300 Red Brook Blvd., Suite 202, Owings Mills, MD 21117
+coordinate:
+  lat: 39.4127859
+  lng: -76.8021907
 description: Bellese Technologies is a software development consulting firm providing
   lean software engineering and management services, with a focus on Healthcare. We
   specialize in providing responsive solutions to clinicians and medical practice
   members.  Our engineering approach includes UX and user centered design, mobile-first
   responsive interfaces, healthcare APIs using microservices engineering on AWS.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_564447738.jpeg
+location: 300 Red Brook Blvd., Suite 202, Owings Mills, MD 21117
+name: Bellese Technologies
 url: http://bellese.io

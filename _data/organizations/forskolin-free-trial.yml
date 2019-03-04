@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_56832783.png
-name: Forskolin Free Trial
-location: San Francisco, CA 94102, USA
+coordinate:
+  lat: 37.7786871
+  lng: -122.4212424
 description: Information The Health is a company which working to provide health supplement
   in the United States. We are also work to gives good tips and tricks related to
   health. Our all product are approved by doctors and highly recommended by professionals
@@ -9,4 +8,7 @@ description: Information The Health is a company which working to provide health
   We are specialize in weight loss products in which Forskolin free trail is one the
   best product or supplement for weight loss which helps to burn extra fats from body.
   This
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_56832783.png
+location: San Francisco, CA 94102, USA
+name: Forskolin Free Trial
 url: https://informationthehealth.net/forskolin-free-trial/

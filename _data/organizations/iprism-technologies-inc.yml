@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1500768399.png
-name: iPrism Technologies Inc
-location: iPrism Technologies Inc, Journalist Colony, Rd Number 3, Jubilee Hills,
-  Near Apollo Hospital, Hyderabad- 500033
+coordinate:
+  lat: 17.4170016
+  lng: 78.41215369999999
 description: iPrism Technologies US base Web and Mobile Apps Design Company with development
   center is India. We are specialized in advanced mobile app and web services including
   website design, website development as well as software development and mobile application
   development.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1500768399.png
+location: iPrism Technologies Inc, Journalist Colony, Rd Number 3, Jubilee Hills,
+  Near Apollo Hospital, Hyderabad- 500033
+name: iPrism Technologies Inc
 url: https://www.iprismtech.com

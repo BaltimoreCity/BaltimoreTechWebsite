@@ -27,8 +27,8 @@ baseurl: "/BaltimoreTechWebsite" # the subpath of your site, e.g. /blog
 url: "https://baltimorecity.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 copyright: "© 2019 Baltimore Tech. All rights reserved."
-google_maps_api: AIzaSyBHoSLf1eZT2T4qWXU4K3L2WhPr-UvEu2E
-
+google_maps_api_old: AIzaSyBHoSLf1eZT2T4qWXU4K3L2WhPr-UvEu2E
+google_maps_api: AIzaSyBW1qlXGYSnIJfoRrUH9OExFaHLvjipDbA
 # Build settings
 sass:
   style: compressed

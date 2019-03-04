@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_785054796.jpeg
-name: Pixels Logo Design UK
-location: United kingdom
+coordinate:
+  lat: 55.378051
+  lng: -3.435973
 description: Pixels Logo Design UK is a full-service digital agency based out of UK.
   It offers branding and digital marketing solutions to thousands of brands globally.With
   over a decade of experience, Pixels has made a big name for itself and is internationally
   recognized. Their award winning team of designers have designed and developed award-winning
   brands worldwide through their innovative ideas and expert strategies. They offer
   a wide range of services including logo design, web design, and mobile appli
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_785054796.jpeg
+location: United kingdom
+name: Pixels Logo Design UK
 url: https://www.pixelslogodesign.co.uk/

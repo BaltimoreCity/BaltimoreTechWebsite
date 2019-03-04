@@ -1,9 +1,16 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_543761048.png
-name: Appinventiv
-location: 79 Madison Ave, Manhattan, New York, NY, USA
-description: |-
-  "Founded in 2015, Appinventiv is a leading mobile application development company, with their offices based in India, U.S., and Dubai. They have developed over 500 Android and iOS apps for a global clientele range belonging to a range of different industries.
+coordinate:
+  lat: 40.7440943
+  lng: -73.9853103
+description: '&#34;Founded in 2015, Appinventiv is a leading mobile application development
+  company, with their offices based in India, U.S., and Dubai. They have developed
+  over 500 Android and iOS apps for a global clientele range belonging to a range
+  of different industries.
 
-  Appinventiv has an extensive experience of working with a series of disruptive technologies including AR/VR, Beacons, and Blockchain. Visit www.appinventiv.com to know more about them."
+
+  Appinventiv has an extensive experience of working with a series of disruptive technologies
+  including AR/VR, Beacons, and Blockchain. Visit www.appinventiv.com to know more
+  about them.&#34;'
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_543761048.png
+location: 79 Madison Ave, Manhattan, New York, NY, USA
+name: Appinventiv
 url: https://appinventiv.com

@@ -1,12 +1,22 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_783595828.png
-name: AResourcePool
-location: '478 E. Altamonte Drive #108-715, Altamonte Springs – FL 32701'
-description: |-
-  Aresourcepool is a leading IT services provider with extensive experience in providing Digital
-  Marketing (Internet Marketing &amp; Web Design), Mobile Development, Custom Software Development and
+coordinate:
+  lat: 28.6628533
+  lng: -81.3751085
+description: 'Aresourcepool is a leading IT services provider with extensive experience
+  in providing Digital
+
+  Marketing (Internet Marketing &amp; Web Design), Mobile Development, Custom Software
+  Development and
+
   IT Resource Provider to enterprises globally.
-  Since its inception (2010) the company has been in the outsourcing industry, servicing clients throughout
-  the world, and acting as dependable extension of client's internal teams. Our USP – quality delivery,
-  lowered costs and faster turnaround times.
+
+  Since its inception (2010) the company has been in the outsourcing industry, servicing
+  clients throughout
+
+  the world, and acting as dependable extension of client''s internal teams. Our USP
+  – quality delivery,
+
+  lowered costs and faster turnaround times.'
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_783595828.png
+location: '478 E. Altamonte Drive #108-715, Altamonte Springs – FL 32701'
+name: AResourcePool
 url: https://www.aresourcepool.com/

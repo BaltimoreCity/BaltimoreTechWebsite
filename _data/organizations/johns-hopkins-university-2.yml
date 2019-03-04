@@ -1,7 +1,9 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/06/croppedImg_1181382155.jpeg
-name: Johns Hopkins University
-location: Baltimore, MD 21218
+coordinate:
+  lat: 39.3322127
+  lng: -76.6008334
 description: America's first research university. Hopkins is a world leader in research
   and education in medicine, public health, the arts, sciences, and engineering.
+image: http://baltimoretech.org/wp-content/uploads/2016/06/croppedImg_1181382155.jpeg
+location: Baltimore, MD 21218
+name: Johns Hopkins University
 url: https://www.jhu.edu/

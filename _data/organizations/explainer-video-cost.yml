@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/08/croppedImg_1940851640.jpeg
-name: Explainer Video Cost
-location: 2140 Delta Way, Tallahassee, Florida 32303, United States
+coordinate:
+  lat: 30.4752248
+  lng: -84.2822804
 description: Explainervideocost.com is a tool to simplify the process to get costs
   from multiple Video production companies at one place. The platform aggregates info
   from various explainer video companies and there costs, based on user request it
   matches the most suitable top 5 fits. Aim is to make the end customer journey easy
   to get explainer video costs from various companies easily and customised.
+image: http://baltimoretech.org/wp-content/uploads/2016/08/croppedImg_1940851640.jpeg
+location: 2140 Delta Way, Tallahassee, Florida 32303, United States
+name: Explainer Video Cost
 url: http://www.explainervideocost.com

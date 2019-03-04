@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_736545984.jpeg
-name: HireWebDeveloper
-location: A-2, Sector- 63, Noida
+coordinate:
+  lat: 28.624401
+  lng: 77.380712
 description: HireWebDeveloper offers web developers on hire to the clients across
   the globe at the most competitive price. There are developers deft in a range of
   technologies like CMS development, Front-end development, e-commerce development,
   core PHP development etc.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_736545984.jpeg
+location: A-2, Sector- 63, Noida
+name: HireWebDeveloper
 url: http://www.hirewebdeveloper.com/

@@ -1,10 +1,12 @@
----
-image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/04/croppedImg_1852064733.jpeg
-name: Pixelligent
-location: 6411 Beckley Street, Baltimore, MD, United States
+coordinate:
+  lat: 39.2666707
+  lng: -76.5328633
 description: Pixelligent is an advanced materials company that is leveraging nanotechnology
   to deliver the next generation of optical materials for Solid-State Lighting and
   Optical Components and Films applications. Pixelligent’s PixClear™ products enable
   brighter LED and OLED Lighting and sharper displays, while making these devices
   less expensive and more efficient.
+image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/04/croppedImg_1852064733.jpeg
+location: 6411 Beckley Street, Baltimore, MD, United States
+name: Pixelligent
 url: http://www.pixelligent.com/

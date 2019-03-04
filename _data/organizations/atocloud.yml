@@ -1,8 +1,12 @@
----
+coordinate:
+  lat: 28.4089123
+  lng: 77.3177894
+description: 'Atocloud.com offers a large range of Salesforce services to support
+  your online business. We have experts for Salesforce and all its related aspects.
+
+  Our team of experts performs activity related to Salesforce like Salesforce Customization,
+  Salesforce Administration, Salesforce Data Migration, Salesforce Integration.'
 image: http://baltimoretech.org/wp-content/uploads/2018/03/croppedImg_1713921476.jpg
-name: AtoCloud
 location: Faridabad, haryana, India
-description: |-
-  Atocloud.com offers a large range of Salesforce services to support your online business. We have experts for Salesforce and all its related aspects.
-  Our team of experts performs activity related to Salesforce like Salesforce Customization, Salesforce Administration, Salesforce Data Migration, Salesforce Integration.
+name: AtoCloud
 url: https://www.atocloud.com/

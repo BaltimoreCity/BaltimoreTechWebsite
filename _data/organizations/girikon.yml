@@ -1,9 +1,15 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2017/12/croppedImg_502848123.jpg
-name: Girikon
-location: '15433 N Tatum Blvd #105, Phoenix, AZ 85032'
-description: |-
-  Girikon walks with you, through the ups &amp; downs of your very personalized journeys towards internalizing more agility and efficiency into your business processes. We empower you with not just Salesforce, AEM and ETL Services, but also delight you with engaging experiences with us!
+coordinate:
+  lat: 33.6271054
+  lng: -111.9774471
+description: 'Girikon walks with you, through the ups &amp; downs of your very personalized
+  journeys towards internalizing more agility and efficiency into your business processes.
+  We empower you with not just Salesforce, AEM and ETL Services, but also delight
+  you with engaging experiences with us!
 
-  With over 400+ successful completed engagements, Girikon has been an ardent provider of innovative technology solutions to demanding businesses worldwide.
+
+  With over 400+ successful completed engagements, Girikon has been an ardent provider
+  of innovative technology solutions to demanding businesses worldwide.'
+image: http://baltimoretech.org/wp-content/uploads/2017/12/croppedImg_502848123.jpg
+location: '15433 N Tatum Blvd #105, Phoenix, AZ 85032'
+name: Girikon
 url: https://www.girikon.com/force-com-app-development/

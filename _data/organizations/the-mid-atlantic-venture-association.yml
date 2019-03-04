@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/02/croppedImg_2038547604.jpeg
-name: The Mid-Atlantic Venture Association
-location: Washington, DC, United States
+coordinate:
+  lat: 38.9071923
+  lng: -77.0368707
 description: The Mid-Atlantic Venture Association represents the full spectrum of
   private equity and venture capital firms with investment interests in the mid-Atlantic
   and beyond, entrepreneurs, and their strategic partners. MAVA provides a wide range
   of programs, information and forums designed to stimulate revenue and company growth,
   facilitate quality deal flow, encourage collaboration, and foster relationships
   among entrepreneurs, investors, strategic partners and customers.
+image: http://baltimoretech.org/wp-content/uploads/2016/02/croppedImg_2038547604.jpeg
+location: Washington, DC, United States
+name: The Mid-Atlantic Venture Association
 url: http://www.mava.org

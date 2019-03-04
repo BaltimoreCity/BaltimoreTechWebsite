@@ -1,7 +1,6 @@
----
-image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/05/croppedImg_784663846.jpeg
-name: Communication APPtitude
-location: 7400 York Road, Towson, MD, United States
+coordinate:
+  lat: 39.3852756
+  lng: -76.60705089999999
 description: Communication APPtitude was founded by 2 speech-language pathologists
   to provide technology for teaching language skills in a unique way. CA has three
   versions of InferCabulary (elementary, middle and high school) which teaches nouns
@@ -9,4 +8,7 @@ description: Communication APPtitude was founded by 2 speech-language pathologis
   of verb synonyms using a pictures and videos embedded into a formula. Highly interactive
   and unlike any other vocabulary instruction method! Proud to be members of the TU
   Incubator.
+image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/05/croppedImg_784663846.jpeg
+location: 7400 York Road, Towson, MD, United States
+name: Communication APPtitude
 url: http://communicationAPPtitude.com

@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/06/croppedImg_386599699.png
-name: Infosys
-location: 8327 Capel Dr, Pasadena, MD 21122, United States
+coordinate:
+  lat: 39.117175
+  lng: -76.466841
 description: We help enterprises transform and thrive in a changing world through
   strategic consulting, operational leadership, and the co-creation of breakthrough
   solutions, including those in mobility, sustainability, big data, and cloud computing.
+image: http://baltimoretech.org/wp-content/uploads/2016/06/croppedImg_386599699.png
+location: 8327 Capel Dr, Pasadena, MD 21122, United States
+name: Infosys
 url: https://www.infosys.com/

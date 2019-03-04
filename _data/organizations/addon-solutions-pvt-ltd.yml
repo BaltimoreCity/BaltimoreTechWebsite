@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_2085532199.jpeg
-name: Addon Solutions Pvt. Ltd.
-location: 935 Mariner Street, Brea, California 92821, USA
+coordinate:
+  lat: 33.9200342
+  lng: -117.9114822
 description: Addon solutions is a premier mobile application development company offering
   mobile app development services including iPhone application development, Android
   app development, iPad apps, mobile UI design services and lot more.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_2085532199.jpeg
+location: 935 Mariner Street, Brea, California 92821, USA
+name: Addon Solutions Pvt. Ltd.
 url: https://www.addonsolutions.com

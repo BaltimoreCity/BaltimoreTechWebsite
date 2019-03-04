@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/04/croppedImg_1985094297.jpeg
-name: Calvert Education
-location: 10713 Gilroy Rd, MD, United States
+coordinate:
+  lat: 39.4764412
+  lng: -76.6623175
 description: Calvert Education is dedicated to helping you inspire the best in your
   child by providing a proven curriculum, exceptional online resources, and enabling
   support. Calvert partners with you to create a learning environment that empowers
   students to achieve academic success.
+image: http://baltimoretech.org/wp-content/uploads/2016/04/croppedImg_1985094297.jpeg
+location: 10713 Gilroy Rd, MD, United States
+name: Calvert Education
 url: http://calverteducation.com

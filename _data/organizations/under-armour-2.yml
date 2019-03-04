@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/08/croppedImg_947337111.png
-name: Under Armour
-location: 1020 Hull St, Baltimore, MD 21230
+coordinate:
+  lat: 39.275091
+  lng: -76.5913832
 description: 'Founded in 1996 by former University of Maryland football player Kevin
   Plank, Under Armour is the originator of performance apparel - gear engineered to
   keep athletes cool, dry and light throughout the course of a game, practice or workout.
   The technology behind Under Armour''s diverse product assortment for men, women
   and youth is complex, but the program for reaping the benefits is simple: wear HeatGear®
   when it''s hot, ColdGear® when it''s cold, and AllSeasonGear® between the extremes.'
+image: http://baltimoretech.org/wp-content/uploads/2016/08/croppedImg_947337111.png
+location: 1020 Hull St, Baltimore, MD 21230
+name: Under Armour
 url: https://www.underarmour.com/en-us/

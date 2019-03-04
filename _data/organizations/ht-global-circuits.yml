@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_626450742.gif
-name: ht global circuits
-location: Headquarters-USA 2510 Terminal Drive S St.Petersburg FL 33712
+coordinate:
+  lat: 27.7641502
+  lng: -82.66724719999999
 description: Specializes in printed circuit board manufacturing and PCB assembly,
   including PCB prototype and production circuit boards. Manufacturing with some of
   the highest PCB technology and quality standards found in the industry today.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_626450742.gif
+location: Headquarters-USA 2510 Terminal Drive S St.Petersburg FL 33712
+name: ht global circuits
 url: https://www.htglobalcircuits.com/

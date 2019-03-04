@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1753917526.png
-name: Essays Chief
-location: 2774 Poplar Street, San Diego, CA, USA
+coordinate:
+  lat: 32.7323356
+  lng: -117.1076679
 description: Essays Chief is an academic writing company that offers services in writing
   essays, dissertation, research papers, and a lot more. The key motto of the company
-  is "Academic Writing Within Your Means" and always mind to keep the promises such
-  as quality, prompt delivery, plagiarism free, 24/7 support etc at an affordable
+  is &#34;Academic Writing Within Your Means&#34; and always mind to keep the promises
+  such as quality, prompt delivery, plagiarism free, 24/7 support etc at an affordable
   price. The company has a huge team of professional writers in which most of the
   writers are university professors.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1753917526.png
+location: 2774 Poplar Street, San Diego, CA, USA
+name: Essays Chief
 url: https://www.essayschief.com

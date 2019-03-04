@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/01/croppedImg_1726020479.png
-name: Roadi
-location: University of Baltimore, North Charles Street, Baltimore, MD, United States
+coordinate:
+  lat: 39.3059585
+  lng: -76.61736189999999
 description: Roadi is a social transportation platform that provides users on and
   off street parking suggestions. Our vision is to revolutionize transportation; our
   mission is to provide users and customers a way to transform parking into meaningful
   collaboration.
+image: http://baltimoretech.org/wp-content/uploads/2016/01/croppedImg_1726020479.png
+location: University of Baltimore, North Charles Street, Baltimore, MD, United States
+name: Roadi
 url: http://GoRoadi.com

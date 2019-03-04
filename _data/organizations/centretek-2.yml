@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/07/croppedImg_1241526146.png
-name: Centretek
-location: Ellicott City, MD, United States
+coordinate:
+  lat: 39.2673283
+  lng: -76.7983067
 description: Centretek is a full service digital agency. We are a relatively small
   company doing big work across a number of markets including healthcare, government,
   nonprofit, and finance. Some of our clients include Rush University Medical Center,
@@ -9,4 +8,7 @@ description: Centretek is a full service digital agency. We are a relatively sma
   Children's Hospital, Georgetown University Hospital, University of Maryland, CDC,
   FAA, Department of Defense. Specializing in large scale CMS implementation - Drupal,
   Sitefinity, WP
+image: http://baltimoretech.org/wp-content/uploads/2016/07/croppedImg_1241526146.png
+location: Ellicott City, MD, United States
+name: Centretek
 url: http://www.centretek.com

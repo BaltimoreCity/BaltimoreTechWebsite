@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/07/croppedImg_1227746066.png
-name: Loyal Tap
-location: 44 North Market Street, Suite 2B, Frederick, MD, United States
+coordinate:
+  lat: 39.4150402
+  lng: -77.4105326
 description: 'The unique offering of LoyalTap allows your customers to have one loyalty
   app for all local businesses. This increases use and adoption, and gives all businesses
   equal access to the platform. At the core of LoyalTap is a program designed to bring
   out the best in local shopping. It’s about supporting our local businesses.  Rewards
   can even be guided back to where they matter most: our communities.'
+image: http://baltimoretech.org/wp-content/uploads/2015/07/croppedImg_1227746066.png
+location: 44 North Market Street, Suite 2B, Frederick, MD, United States
+name: Loyal Tap
 url: http://www.loyaltap.com/

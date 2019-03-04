@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1832135330.jpeg
-name: Workbench Platform
-location: 101 W Dickman St, Baltimore, MD, United States
+coordinate:
+  lat: 39.2634099
+  lng: -76.6161796
 description: Workbench provides a ready-made platform for makers of great products
   to connect with end users and build online communities. Makers can find new ways
   to use products, teachers can find new ways to teach, and everyone can share their
   own programming code, lessons, and experiences within the community.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1832135330.jpeg
+location: 101 W Dickman St, Baltimore, MD, United States
+name: Workbench Platform
 url: https://www.workbenchplatform.com

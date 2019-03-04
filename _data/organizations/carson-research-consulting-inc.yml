@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/08/croppedImg_742724637.png
-name: Carson Research Consulting, Inc.
-location: 904 West 36th Street, Baltimore, MD, United States
+coordinate:
+  lat: 39.33126040000001
+  lng: -76.6317692
 description: Our team of researchers and evaluators put their love for numbers and
   data to work to help our clients improve their projects and programs.  No matter
   how large or small your project is, we will help your program be as effective as
   possible--from program evaluation design, to support for grants and proposals, surveys,
   focus groups, quantitative and qualitative data analysis, data visualization and
   more, we make sure you have the data you need and know how to use it.
+image: http://baltimoretech.org/wp-content/uploads/2015/08/croppedImg_742724637.png
+location: 904 West 36th Street, Baltimore, MD, United States
+name: Carson Research Consulting, Inc.
 url: http://www.carsonresearch.com/

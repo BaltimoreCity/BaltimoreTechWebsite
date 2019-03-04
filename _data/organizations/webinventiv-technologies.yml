@@ -1,10 +1,12 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_2143622579.jpeg
-name: Webinventiv Technologies
-location: Delhi, India
+coordinate:
+  lat: 28.7040592
+  lng: 77.10249019999999
 description: Webinventiv Technologies is one of the fastest leading Digital Marketing
   services company in Delhi NCR, Noida, India with quality services at Affordable
   prices. We are ready to help you in designing and creating the websites.Having the
   best team of experts and professionals who have the necessary experience in this
   field, this is the best SEO company India.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_2143622579.jpeg
+location: Delhi, India
+name: Webinventiv Technologies
 url: http://www.webinventiv.com

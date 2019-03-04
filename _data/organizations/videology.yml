@@ -1,10 +1,12 @@
----
-image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/05/croppedImg_1378840049.jpeg
-name: Videology
-location: '1500 Whetstone Way #500, Baltimore, MD 21230'
+coordinate:
+  lat: 39.2698676
+  lng: -76.5999491
 description: We are one of the world’s largest video advertising platforms. By simplifying
   big data, we empower marketers and media companies to make smarter advertising decisions
   to fully harness the value of their audience across screens. Our math and science-based
   technology enables our customers to manage, measure and optimize digital video and
   TV advertising to achieve the best results in the converging media landscape.
+image: http://baltimoretech1.wpengine.com/wp-content/uploads/2015/05/croppedImg_1378840049.jpeg
+location: '1500 Whetstone Way #500, Baltimore, MD 21230'
+name: Videology
 url: http://www.videologygroup.com

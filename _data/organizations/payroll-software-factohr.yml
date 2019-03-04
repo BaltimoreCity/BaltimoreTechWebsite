@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_541868059.jpeg
-name: Payroll Software factoHR
-location: 19, Balaji Towers, Sector 30A, Vashi. Mumbai. India.
+coordinate:
+  lat: 19.066083
+  lng: 73.00715
 description: factoHR is a cloud-based Payroll Software which is suitable for businesses
   of multiple sizes and contains features for executing HR tasks including recruitment
   and exit management. It offers Android and iOS mobile apps that link to the employee
   self-service portal and feature an income tax calculator.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_541868059.jpeg
+location: 19, Balaji Towers, Sector 30A, Vashi. Mumbai. India.
+name: Payroll Software factoHR
 url: https://factohr.com/

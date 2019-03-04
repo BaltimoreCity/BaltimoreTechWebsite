@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2015/06/croppedImg_57660675.png
-name: Maryland Farmers Market Association
-location: 345 North Charles Street, Baltimore, MD, United States
+coordinate:
+  lat: 39.2939569
+  lng: -76.6151641
 description: The Maryland Farmers Market Association (MDFMA) was founded in 2012 to
   connect people with Maryland farmers markets and to provide resources and coordinated
   services to market managers, farmers and consumers alike. A statewide nonprofit,
@@ -9,4 +8,7 @@ description: The Maryland Farmers Market Association (MDFMA) was founded in 2012
   improve the quality of and transparency at Maryland farmers markets. The mission
   of the MDFMA is to cultivate a vibrant and sustainable farmers market community
   in Maryland.
+image: http://baltimoretech.org/wp-content/uploads/2015/06/croppedImg_57660675.png
+location: 345 North Charles Street, Baltimore, MD, United States
+name: Maryland Farmers Market Association
 url: http://www.marylandfma.org

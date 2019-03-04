@@ -1,12 +1,14 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_578488744.jpeg
-name: Elite Infoworld
-location: A-901, Commerce House-5, Nr. Vodafone House, Prahladnagar Corporate Road,
-  Makarba, Ahmedabad - 380051 Gujarat. India
+coordinate:
+  lat: 23.002211
+  lng: 72.502071
 description: Elite Infoworld is a leading website design and mobile application development
   company in India. We provide professional and dedicated services in website design,
   web development, graphic designing and Mobile Application such as iPhone Application
   Development, Android Application Development. With a unique combination of deep
   understanding of internet marketing, the company has established an outstanding
   reputation in excellent website designing and development.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_578488744.jpeg
+location: A-901, Commerce House-5, Nr. Vodafone House, Prahladnagar Corporate Road,
+  Makarba, Ahmedabad - 380051 Gujarat. India
+name: Elite Infoworld
 url: http://www.eliteinfoworld.com/

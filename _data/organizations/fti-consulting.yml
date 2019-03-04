@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/2016/06/croppedImg_850556767.png
-name: FTI Consulting
-location: 2 Hamill Rd, Baltimore, MD 21210, United States
+coordinate:
+  lat: 39.351491
+  lng: -76.64555539999999
 description: FTI Consulting provides the critical external vantage point to maximize
   the outcomes of these shifting complex scenarios. We help you identify and execute
   innovative ways to transform complexities into true competitive advantages. Our
   professionals are some of the world’s most experienced leaders.
+image: http://baltimoretech.org/wp-content/uploads/2016/06/croppedImg_850556767.png
+location: 2 Hamill Rd, Baltimore, MD 21210, United States
+name: FTI Consulting
 url: http://www.fticonsulting.com/

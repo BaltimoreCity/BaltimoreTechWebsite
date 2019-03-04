@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_751243039.png
-name: Link Studio
-location: Towson, MD, United States
+coordinate:
+  lat: 39.4014955
+  lng: -76.6019125
 description: Link Studio, is a visual communications studio that focuses on helping
   you communicate your message and information to your audience through branding,
   web site design and print design. UserHappy provides insight and measurable results
   to improve the user experience for your audience.
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_751243039.png
+location: Towson, MD, United States
+name: Link Studio
 url: http://www.linkstudio.info

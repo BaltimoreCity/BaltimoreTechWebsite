@@ -1,11 +1,13 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_754155482.jpeg
-name: PET / CT of Las Colinas
-location: 7415 Las Colinas Blvd, Suite 110, Irving, TX, 75063, USA
+coordinate:
+  lat: 32.908264
+  lng: -96.954608
 description: PET / CT of Las Colinas employs PET / Positron Emission Tomography. PET
   is a powerful imaging technique that holds great promise in the diagnosis and treatment
   of many diseases, particularly cancer. A non-invasive test, PET scans accurately
   image the body’s physiologic changes. A CT / Computed Tomography scan shows the
   structure of the anatomy where the changes are taking place. During a single outpatient
   exam, combining these two scans in one highly sophisticated PET/CT imaging technique.......
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_754155482.jpeg
+location: 7415 Las Colinas Blvd, Suite 110, Irving, TX, 75063, USA
+name: PET / CT of Las Colinas
 url: https://pet-ct-lascolinas.com/

@@ -1,8 +1,10 @@
----
-image: http://baltimoretech.org/wp-includes/images/media/default.png
-name: Consagous Technologies
-location: 119 Nueces Street, Austin, TX, United States
+coordinate:
+  lat: 30.2656127
+  lng: -97.7496639
 description: Consagous Technologies is known for a holistic approach to designing,
   developing and delivering end to end web &amp; mobile solutions. These services
   are driven by creativity and innovation along with excellence.
+image: http://baltimoretech.org/wp-includes/images/media/default.png
+location: 119 Nueces Street, Austin, TX, United States
+name: Consagous Technologies
 url: https://www.consagous.com

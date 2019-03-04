@@ -1,7 +1,6 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1616472097.png
-name: Transamerica
-location: 100 Light Street, Baltimore, MD, United States
+coordinate:
+  lat: 39.2873609
+  lng: -76.6144645
 description: When you do well, we do well. We’re all in this together. Transamerica
   is committed to helping Americans see their spending, earning, and saving in a whole
   new way that takes into account everything that can affect personal finances. That
@@ -9,4 +8,7 @@ description: When you do well, we do well. We’re all in this together. Transam
   both last longer. While Transamerica serves millions of people across the United
   States with insurance; pension and retirement plans; investments; and asset management
   services,
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1616472097.png
+location: 100 Light Street, Baltimore, MD, United States
+name: Transamerica
 url: https://www.transamerica.com/individual/

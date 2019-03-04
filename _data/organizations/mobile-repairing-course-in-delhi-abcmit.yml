@@ -1,9 +1,11 @@
----
-image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1211862369.png
-name: Mobile Repairing Course in Delhi, ABCMIT
-location: nirman vihar
+coordinate:
+  lat: 28.6365803
+  lng: 77.2868277
 description: Call @9990879879, ABC Mobile Institute of Technology of Advance Technology
   for Mobile Repairing Course, LED LCD Repairing Course and Laptop Repairing Course
   in Delhi. We provide 100% practical training of Mobile Repairing Course in Laxmi
   Nagar. More details visit - http://www.abcmit.com/mobile-repairing-course-in-delhi/
+image: http://baltimoretech.org/wp-content/uploads/tmp/croppedImg_1211862369.png
+location: nirman vihar
+name: Mobile Repairing Course in Delhi, ABCMIT
 url: http://www.abcmit.com/mobile-repairing-course-in-delhi/
