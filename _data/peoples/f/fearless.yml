@@ -1,0 +1,29 @@
+---
+user_login: Fearless
+user_nicename: fearless
+user_email: jpriest@fearless.tech
+user_url: ''
+user_registered: '2017-12-06 21:33:27'
+display_name: John Priest
+first_name: John
+last_name: Priest
+user_status: ''
+roles: member
+name: John Priest
+type: ''
+profession: ''
+education: ''
+skills:
+- Marketing
+picture: http://baltimoretech.org/wp-content/uploads/profiles/7735/croppedImg_1094575432.jpeg
+resume_url: ''
+general info:
+  bio: I am fairly new to the technical world, and I want to learn as much as possible.
+    My goal is education and networking with other skilled professionals.
+  location: Baltimore City
+  name: John Priest
+links:
+  twitter: https://twitter.com/fearlesssol
+  linkedin: https://www.linkedin.com/company/fearless-/
+  website: http://fearless.tech
+professional info: {}

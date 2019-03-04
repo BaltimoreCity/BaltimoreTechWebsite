@@ -1,0 +1,31 @@
+---
+user_login: amarton
+user_nicename: amarton
+user_email: adam@adammarton.com
+user_url: ''
+user_registered: '2015-04-27 15:44:59'
+display_name: Adam Marton
+first_name: Adam
+last_name: Marton
+user_status: ''
+roles: member
+name: Adam Marton
+type: ''
+profession: ''
+education: ''
+skills:
+- Designer
+- Developer
+picture: http://baltimoretech1.wpengine.com/wp-content/uploads/profiles/98/croppedImg_221656184.jpeg
+resume_url: ''
+general info:
+  bio: Senior editor of interactive design at The Baltimore Sun, professor at Towson
+    University.  I design and build infographics, data visualizations, news presentations
+    and websites.
+  location: Baltimore City
+  name: Adam Marton
+links:
+  twitter: https://twitter.com/adam_marton
+  linkedin: https://www.linkedin.com/profile/view?id=42124345
+  website: http://www.adammarton.com
+professional info: {}

@@ -1,0 +1,31 @@
+---
+user_login: eager0
+user_nicename: eager0
+user_email: mstump@gmail.com
+user_url: ''
+user_registered: '2015-05-04 13:50:01'
+display_name: michael stump
+first_name: michael
+last_name: stump
+user_status: ''
+roles: member
+name: michael stump
+type: ''
+profession: ''
+education: ''
+skills:
+- Entrepreneur
+picture: http://baltimoretech1.wpengine.com/wp-content/uploads/profiles/127/croppedImg_1130688879.jpeg
+resume_url: ''
+general info:
+  bio: I\'m an independent IT consultant, specializing in virtualization. But I\'m
+    really interested in the DevOps movement, and am looking to build a community
+    of IT practitioners in the Baltimore area to dig into this topic.
+  location: Baltimore Suburbs
+  name: michael stump
+links:
+  twitter: https://twitter.com/_stump
+  linkedin: https://www.linkedin.com/in/eager0
+  github: https://github.com/exablaze
+  website: http://www.eager0.com
+professional info: {}

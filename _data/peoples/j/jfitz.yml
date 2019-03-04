@@ -1,0 +1,31 @@
+---
+user_login: jfitz
+user_nicename: jfitz
+user_email: jfitz@computer.org
+user_url: ''
+user_registered: '2015-05-24 17:17:24'
+display_name: John Fitzpatrick
+first_name: John
+last_name: Fitzpatrick
+user_status: ''
+roles: member
+name: John Fitzpatrick
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+picture: http://baltimoretech1.wpengine.com/wp-content/uploads/profiles/183/croppedImg_374343061.jpeg
+resume_url: ''
+general info:
+  bio: I\'m a developer, working with multiple technologies. By day I untangle C++
+    for an agency in the federal government. On my own time I experiment with Python,
+    GAE, and Ruby.
+  location: Baltimore City
+  neighborhood: Mount Vernon
+  name: John Fitzpatrick
+links:
+  linkedin: http://www.linkedin.com/in/engineerofthefuture/
+  github: https://github.com/jfitz
+  website: http://fabfuture.blogspot.com/
+professional info: {}

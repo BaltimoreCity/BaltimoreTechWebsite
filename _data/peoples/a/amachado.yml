@@ -1,0 +1,29 @@
+---
+user_login: amachado
+user_nicename: amachado
+user_email: amachado@sva.edu
+user_url: ''
+user_registered: '2018-01-13 01:37:30'
+display_name: Alex Machado
+first_name: Alex
+last_name: Machado
+user_status: ''
+roles: member
+name: Alex Machado
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+picture: http://baltimoretech.org/wp-content/uploads/profiles/11416/croppedImg_1358809712.jpeg
+resume_url: ''
+general info:
+  name: Alex Machado
+  location: Baltimore City
+  neighborhood: Hampden
+  bio: Hi, I used to be an art handler in New York and Los Angeles. Hi, I used to
+    be an art handler in New York and Los Angeles.   Now I am a front-end web developer
+    living in Baltimore writing mostly HTML, CSS, and JavaScript.
+links:
+  github: https://github.com/amachado93
+professional info: {}

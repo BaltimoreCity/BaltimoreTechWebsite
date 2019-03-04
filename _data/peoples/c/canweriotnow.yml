@@ -1,0 +1,32 @@
+---
+user_login: canweriotnow
+user_nicename: canweriotnow
+user_email: jason@decomplecting.org
+user_url: ''
+user_registered: '2015-05-05 01:16:59'
+display_name: Jason Lewis
+first_name: Jason
+last_name: Lewis
+user_status: ''
+roles: member
+name: Jason Lewis
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+picture: http://baltimoretech1.wpengine.com/wp-content/uploads/profiles/132/croppedImg_1661826001.png
+resume_url: ''
+general info:
+  bio: Erstwhile Clojure hacker, recovering Rubyist, aspiring Knight of the Lambda
+    Calculus. I like my functions pure and my state immutable.
+  location: Baltimore City
+  neighborhood: Remington
+  name: Jason Lewis
+links:
+  twitter: https://twitter.com/canweriotnow
+  facebook: https://facebook.com/canweriotnow
+  linkedin: https://www.linkedin.com/in/canweriotnow
+  github: https://github.com/canweriotnow
+  website: http://decomplecting.org
+professional info: {}

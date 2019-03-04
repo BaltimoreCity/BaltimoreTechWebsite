@@ -1,0 +1,34 @@
+---
+user_login: starogre
+user_nicename: starogre
+user_email: jonshoob@gmail.com
+user_url: ''
+user_registered: '2015-11-24 15:33:49'
+display_name: Jon Schubbe
+first_name: Jon
+last_name: Schubbe
+user_status: ''
+roles: member
+name: Jon Schubbe
+type: ''
+profession: ''
+education: ''
+skills:
+- Designer
+- Developer
+picture: http://baltimoretech.org/wp-content/uploads/profiles/361/croppedImg_57043922.jpeg
+resume_url: ''
+general info:
+  bio: I\'m a technical artist at a games, simulations, and custom software company.
+    My background is in both art/animation and programming and I love to learn new
+    and exciting technology. I specialize in 2D and 3D animation, web design and programming,
+    scripting, and UI for both games and software.
+  location: Baltimore Suburbs
+  name: Jon Schubbe
+links:
+  twitter: http://twitter.com/jonschubbe
+  facebook: http://facebook.com/jonschubbe
+  linkedin: https://www.linkedin.com/in/jon-schubbe-327aa613
+  github: http://github.com/starogre
+  website: http://jonschubbe.com
+professional info: {}

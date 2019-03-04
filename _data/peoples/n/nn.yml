@@ -1,0 +1,33 @@
+---
+user_login: nn
+user_nicename: nn
+user_email: frontdesk@nicknoble.works
+user_url: ''
+user_registered: '2015-06-30 13:47:04'
+display_name: Nick Noble
+first_name: Nick
+last_name: Noble
+user_status: ''
+roles: member
+name: Nick Noble
+type: ''
+profession: ''
+education: ''
+skills:
+- Designer
+- Developer
+picture: http://baltimoretech.org/wp-content/uploads/profiles/233/croppedImg_160898447.jpeg
+resume_url: ''
+general info:
+  bio: "Hi, I\\'m Nick. I design products, brands, and user experiences, plus I code.
+    I love to talk about strategy and conversion, and sometimes I teach. \r\n\r\nBasically,
+    I\\'m a huge nerd. Let\\'s get coffee."
+  location: Baltimore City
+  neighborhood: Mount Washington
+  name: Nick Noble
+links:
+  twitter: https://twitter.com/nickisnoble
+  linkedin: https://www.linkedin.com/in/nickisnoble
+  github: https://github.com/nickisnoble
+  website: http://www.nicknoble.works/
+professional info: {}

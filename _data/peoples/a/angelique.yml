@@ -1,0 +1,33 @@
+---
+user_login: angelique
+user_nicename: angelique
+user_email: signup@angeliqueweger.com
+user_url: ''
+user_registered: '2015-05-01 18:29:05'
+display_name: Angelique Weger
+first_name: Angelique
+last_name: Weger
+user_status: ''
+roles: member
+name: Angelique Weger
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+picture: http://baltimoretech1.wpengine.com/wp-content/uploads/profiles/114/croppedImg_533155145.jpeg
+resume_url: ''
+general info:
+  bio: Angelique Weger is a senior front-end developer at Detroit Trading and co-organizer
+    of the Baltimore chapter of Girl Develop It. She splits her time between those
+    two cities and her energy between crafting clean, effective code and teaching
+    others to do the same.
+  location: Baltimore City
+  neighborhood: Waltherson
+  name: Angelique Weger
+links:
+  twitter: http://twitter.com/messypixels
+  linkedin: https://www.linkedin.com/in/angeliqueweger
+  github: https://github.com/angeliquejw
+  website: http://angeliqueweger.com
+professional info: {}

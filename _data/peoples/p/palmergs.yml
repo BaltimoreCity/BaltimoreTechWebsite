@@ -1,0 +1,29 @@
+---
+user_login: palmergs
+user_nicename: palmergs
+user_email: palmergs@gmail.com
+user_url: ''
+user_registered: '2015-12-17 14:35:43'
+display_name: Galen Palmer
+first_name: Galen
+last_name: Palmer
+user_status: ''
+roles: member
+name: Galen Palmer
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+picture: http://baltimoretech.org/wp-content/uploads/profiles/370/croppedImg_275993077.jpeg
+resume_url: ''
+general info:
+  bio: English Lit major turned computer programmer currently working in Ruby on Rails
+    and Ember.js.
+  location: Baltimore City
+  neighborhood: Old Goucher
+  name: Galen Palmer
+links:
+  twitter: https://twitter.com/galen_palmer
+  github: https://github.com/palmergs/
+professional info: {}

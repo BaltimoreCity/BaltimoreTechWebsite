@@ -1,0 +1,30 @@
+---
+user_login: Nenet
+user_nicename: nenet
+user_email: mflorbarrios@gmail.com
+user_url: ''
+user_registered: '2015-08-11 16:11:57'
+display_name: Maria Barrios
+first_name: Maria
+last_name: Barrios
+user_status: ''
+roles: member
+name: Maria Barrios
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+picture: http://baltimoretech.org/wp-content/uploads/profiles/270/croppedImg_746358575.jpeg
+resume_url: ''
+general info:
+  bio: Hello! My name is Maria. I\'m a graduate from Betamore Academy looking to start
+    my career as a Front End Web Developer.
+  location: Baltimore City
+  neighborhood: Mount Vernon
+  name: Maria Barrios
+links:
+  facebook: https://www.facebook.com/delantal.rosa
+  linkedin: https://www.linkedin.com/in/mariafbarrios
+  github: https://github.com/nenetx
+professional info: {}

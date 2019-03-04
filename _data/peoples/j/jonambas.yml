@@ -1,0 +1,31 @@
+---
+user_login: jonambas
+user_nicename: jonambas
+user_email: ambasp@gmail.com
+user_url: ''
+user_registered: '2015-06-11 16:00:41'
+display_name: Jon Ambas
+first_name: Jon
+last_name: Ambas
+user_status: ''
+roles: member
+name: Jon Ambas
+type: ''
+profession: ''
+education: ''
+skills:
+- Designer
+- Developer
+picture: http://baltimoretech.org/wp-content/uploads/profiles/206/croppedImg_1572926965.jpeg
+resume_url: ''
+general info:
+  bio: Front end developer, designer.
+  location: Baltimore City
+  neighborhood: Hampden
+  name: Jon Ambas
+links:
+  twitter: http://twitter.com/jonshungry
+  linkedin: https://www.linkedin.com/pub/jon-ambas/b/9b7/bb1
+  github: http://github.com/jonambas
+  website: http://jonambas.com
+professional info: {}

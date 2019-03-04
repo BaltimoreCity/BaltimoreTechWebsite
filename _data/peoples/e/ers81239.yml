@@ -1,0 +1,30 @@
+---
+user_login: ers81239
+user_nicename: ers81239
+user_email: bmoretech@stardotstar.org
+user_url: ''
+user_registered: '2015-05-01 20:04:35'
+display_name: Edward Smith
+first_name: Edward
+last_name: Smith
+user_status: ''
+roles: member
+name: Edward Smith
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+picture: http://baltimoretech1.wpengine.com/wp-content/uploads/profiles/119/croppedImg_1748731479.jpeg
+resume_url: ''
+general info:
+  bio: Software developer of the backend/database variety.  Comfortable with Linux,
+    Python, MySQL, Hadoop.  Have worked with many others.  Looking to do software
+    development for a company whose cause I believe in.
+  location: Baltimore Suburbs
+  name: Edward Smith
+links:
+  facebook: https://www.facebook.com/edward.ralph.smith
+  linkedin: https://www.linkedin.com/in/edwardrsmith
+  github: https://github.com/ers81239
+professional info: {}

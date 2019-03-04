@@ -1,0 +1,30 @@
+---
+user_login: alanclark
+user_nicename: alanclark
+user_email: a.clark5094@gmail.com
+user_url: ''
+user_registered: '2016-01-03 17:03:53'
+display_name: Alan Clark
+first_name: Alan
+last_name: Clark
+user_status: ''
+roles: member
+name: Alan Clark
+type: ''
+profession: ''
+education: ''
+skills:
+- Designer
+- Developer
+picture: http://baltimoretech.org/wp-content/uploads/profiles/374/croppedImg_90781822.jpeg
+resume_url: ''
+general info:
+  bio: Product designer who prefers the command line.
+  location: Baltimore City
+  neighborhood: Fells Point
+  name: Alan Clark
+links:
+  twitter: http://twitter.com/aclarkk
+  github: http://github.com/aclarkk
+  website: http://alanclark.biz
+professional info: {}

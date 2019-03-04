@@ -1,0 +1,29 @@
+---
+user_login: mattred1
+user_nicename: mattred1
+user_email: mattred1@gmail.com
+user_url: ''
+user_registered: '2016-01-22 22:30:13'
+display_name: Matthew Redinger
+first_name: Matthew
+last_name: Redinger
+user_status: ''
+roles: member
+name: Matthew Redinger
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+picture: http://baltimoretech.org/wp-content/uploads/profiles/390/croppedImg_919716231.jpeg
+resume_url: ''
+general info:
+  bio: I\'m an junior front-end web developer looking to explore the possibilities
+    of what I can do with a few lines of code.
+  location: Baltimore City
+  neighborhood: Cheswolde
+  name: Matthew Redinger
+links:
+  linkedin: https://www.linkedin.com/in/mredinger
+  github: https://github.com/mattred1
+professional info: {}

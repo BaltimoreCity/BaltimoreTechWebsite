@@ -1,0 +1,31 @@
+---
+user_login: ChaseGilliam
+user_nicename: chasegilliam
+user_email: chase.gilliam@gmail.com
+user_url: ''
+user_registered: '2015-11-25 14:29:55'
+display_name: Chase Gilliam
+first_name: Chase
+last_name: Gilliam
+user_status: ''
+roles: member
+name: Chase Gilliam
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+picture: http://baltimoretech.org/wp-content/uploads/profiles/362/croppedImg_812848600.jpeg
+resume_url: ''
+general info:
+  bio: Ruby/Elixir/Java developer, design nerd, photographer, urban cyclist, and home
+    brewer
+  location: Baltimore City
+  neighborhood: Mount Vernon
+  name: Chase Gilliam
+links:
+  twitter: https://twitter.com/ChaseGilliam
+  linkedin: https://www.linkedin.com/in/chasegilliam
+  github: https://github.com/Ch4s3
+  website: http://chase.pursu.es
+professional info: {}

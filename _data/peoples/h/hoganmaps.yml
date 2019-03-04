@@ -1,0 +1,31 @@
+---
+user_login: hoganmaps
+user_nicename: hoganmaps
+user_email: chris@hogan.io
+user_url: ''
+user_registered: '2015-07-20 20:45:49'
+display_name: chris hogan
+first_name: chris
+last_name: hogan
+user_status: ''
+roles: member
+name: chris hogan
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+- Entrepreneur
+picture: http://baltimoretech.org/wp-content/uploads/profiles/254/croppedImg_824469796.png
+resume_url: ''
+general info:
+  bio: Developer/home-renovator/housemate of an orange cat in Sobo. I really like
+    javascript and postgres.
+  location: Baltimore City
+  neighborhood: Riverside
+  name: chris hogan
+links:
+  twitter: https://twitter.com/Hoganmaps
+  github: https://github.com/hoganmaps
+  website: http://blog.hogan.io
+professional info: {}
