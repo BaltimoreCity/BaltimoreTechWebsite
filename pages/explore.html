@@ -43,7 +43,7 @@ css-list:
 <script type="text/javascript">
   function getLocationData() {
     const rawData = {
-      orgs: JSON.parse(`{{site.data.organizations | jsonify}}`),
+      orgs: {{site.data.organizations | jsonify}},
       events: JSON.parse(`{{site.data.events | jsonify}}`)
     };
 
@@ -52,6 +52,7 @@ css-list:
         type: "org",
         title: org.name,
         location: org.location,
+        coordinate: org.coordinate,
         url: org.url
       });
       return result;
@@ -64,6 +65,7 @@ css-list:
             type: "event",
             title: event.title,
             location: event.location,
+            coordinate: event.coordinate,
             url: event.link
           });
         })
@@ -100,39 +102,71 @@ css-list:
     const map = new google.maps.Map(document.getElementById("map"), mapOptions);
 
     locationData.forEach(ld => {
-      geocoder.geocode({ address: ld.location }, function(results, status) {
-        if (status === google.maps.GeocoderStatus.OK) {
-          // custom infoWindow
-          const infowindow = new google.maps.InfoWindow({
-            content: `<div class="p-2">
-              ${_.flatMap(
-                ld.data,
-                d =>
-                  `<h6><a href="${d.url}" target="_blank">${
-                    d.type === "org"
-                      ? `<i class="far fa-building"></i>`
-                      : `<i class="far fa-calendar-alt"></i>`
-                  }</a>&nbsp;&nbsp;${d.title}&nbsp;</h6>`
-              ).join("")}
-            </div>`
-          });
-          const position = results[0].geometry.location;
-          bounds.extend(position);
-          const marker = new google.maps.Marker({
-            position,
-            map,
-            title: _.flatMap(ld.data, d => `${d.title}`).join(" | ")
-          });
+      if(ld.data[0].coordinate) {
+        // custom infoWindow
+        // console.warn('coordinate exists')
+        const infowindow = new google.maps.InfoWindow({
+          content: `<div class="p-2">
+            ${_.flatMap(
+              ld.data,
+              d =>
+                `<h6><a href="${d.url}" target="_blank">${
+                  d.type === "org"
+                    ? `<i class="far fa-building"></i>`
+                    : `<i class="far fa-calendar-alt"></i>`
+                }</a>&nbsp;&nbsp;${d.title}&nbsp;</h6>`
+            ).join("")}
+          </div>`
+        });
+        const position = ld.data[0].coordinate
+        bounds.extend(position);
+        const marker = new google.maps.Marker({
+          position,
+          map,
+          title: _.flatMap(ld.data, d => `${d.title}`).join(" | ")
+        });
 
-          marker.addListener("click", function() {
-            infowindow.open(map, marker);
-          });
-          // Automatically center the map fitting all markers on the screen
-          map.fitBounds(bounds);
-        } else {
-          console.error(`Geocode unsuccessful: ${status}`);
-        }
-      });
+        marker.addListener("click", function() {
+          infowindow.open(map, marker);
+        });
+        // Automatically center the map fitting all markers on the screen
+        map.fitBounds(bounds);
+      } else if(ld.location) {
+        // console.warn('coordinate does not exists')
+        geocoder.geocode({ address: ld.location }, function(results, status) {
+          if (status === google.maps.GeocoderStatus.OK) {
+            // custom infoWindow
+            const infowindow = new google.maps.InfoWindow({
+              content: `<div class="p-2">
+                ${_.flatMap(
+                  ld.data,
+                  d =>
+                    `<h6><a href="${d.url}" target="_blank">${
+                      d.type === "org"
+                        ? `<i class="far fa-building"></i>`
+                        : `<i class="far fa-calendar-alt"></i>`
+                    }</a>&nbsp;&nbsp;${d.title}&nbsp;</h6>`
+                ).join("")}
+              </div>`
+            });
+            const position = results[0].geometry.location;
+            bounds.extend(position);
+            const marker = new google.maps.Marker({
+              position,
+              map,
+              title: _.flatMap(ld.data, d => `${d.title}`).join(" | ")
+            });
+
+            marker.addListener("click", function() {
+              infowindow.open(map, marker);
+            });
+            // Automatically center the map fitting all markers on the screen
+            map.fitBounds(bounds);
+          } else {
+            console.error(`Geocode unsuccessful: ${status} looking for ${ld.location}`);
+          }
+        });
+      }
     });
 
     // Override our map zoom level once our fitBounds function runs (Make sure it only runs once)
