@@ -1,17 +1,25 @@
----
-image: 
-name: Sema
-location: 
-description: |-
-  <a href=&#34;http://semalab.com&#34;>Sema</a> is a Baltimore-based software startup working on a breathtaking problem relating to Machine Learning for Software Engineering (MLSE). We are pre-revenue, with significant investor and customer interest.
+coordinate:
+  lat: 39.3353048
+  lng: -76.6198063
+description: '<a href=&#34;http://semalab.com&#34;>Sema</a> is a Baltimore-based software
+  startup working on a breathtaking problem relating to Machine Learning for Software
+  Engineering (MLSE). We are pre-revenue, with significant investor and customer interest.
+
 
   &nbsp;
 
+
   We are
+
 
   - Tackling a world-changing idea for how organizations work with software
 
+
   - Some of the smartest minds and deepest thinkers on this topic
 
-  - Builders of amazing teams that are intense, growthful, and full of flow
+
+  - Builders of amazing teams that are intense, growthful, and full of flow'
+image: null
+location: 3811 Canterbury Road Suite 803, Baltimore, Maryland 21218
+name: Sema
 url: http://baltimoretech.org/company/sema/
