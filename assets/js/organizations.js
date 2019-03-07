@@ -20,7 +20,7 @@ function initPagination() {
         name: `{{org.name}}`,
         location: `{{org.location}}`,
         description: `{{org.description}}`,
-        image_url: `{{org.image | prepend: site.baseurl}}`,
+        image_url: `{{org.image}}`,
         url: `{{org.url}}`
       }{% unless forloop.last %},{% endunless %}
     {% endfor %}

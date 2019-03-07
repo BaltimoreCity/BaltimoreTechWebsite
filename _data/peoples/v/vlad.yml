@@ -1,0 +1,30 @@
+---
+user_login: Vlad
+user_nicename: vlad
+user_email: vladyusha@gmail.com
+user_url: ''
+user_registered: '2016-08-31 21:44:38'
+display_name: Vladislav Kolegayev
+first_name: Vladislav
+last_name: Kolegayev
+user_status: ''
+roles: member
+name: Vladislav Kolegayev
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+- Entrepreneur
+picture: http://baltimoretech.org/wp-content/uploads/profiles/543/croppedImg_349141090.jpeg
+resume_url: ''
+general info:
+  bio: Hands-on technical leader with 15 years of experience leveraging strong technical
+    and product acumen to provide overall direction for software design and architecture,
+    define and implement product development roadmaps and create go-to-market strategy
+    for new technology products.
+  location: Baltimore Suburbs
+  name: Vladislav Kolegayev
+links:
+  linkedin: https://www.linkedin.com/in/vlad-kolegayev
+professional info: {}

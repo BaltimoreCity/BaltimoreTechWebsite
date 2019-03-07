@@ -1,0 +1,34 @@
+---
+user_login: bryan
+user_nicename: bryan
+user_email: bryan@brinkbit.com
+user_url: ''
+user_registered: '2015-11-23 22:17:11'
+display_name: Bryan Bamford
+first_name: Bryan
+last_name: Bamford
+user_status: ''
+roles: member
+name: Bryan Bamford
+type: ''
+profession: ''
+education: ''
+skills:
+- Designer
+- Entrepreneur
+picture: http://baltimoretech.org/wp-content/uploads/profiles/360/croppedImg_1274412212.jpeg
+resume_url: ''
+general info:
+  bio: Graphic designer, software/game developer, and co-founder and CEO of Brinkbit,
+    the Cloud game platform. Independently and with great teams, successfully launched
+    several apps and games to the Apple and Google App Stores that have been used
+    by millions worldwide.
+  location: Baltimore City
+  name: Bryan Bamford
+links:
+  twitter: http://twitter.com/brinkbit
+  facebook: http://facebook.com/brinkbit
+  linkedin: https://www.linkedin.com/in/brybam
+  github: https://github.com/Brinkbit
+  website: http://brinkbit.com
+professional info: {}

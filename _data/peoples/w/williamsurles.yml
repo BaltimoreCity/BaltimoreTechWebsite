@@ -1,0 +1,28 @@
+---
+user_login: williamsurles
+user_nicename: williamsurles
+user_email: williamsurles@gmail.com
+user_url: ''
+user_registered: '2015-11-04 03:10:37'
+display_name: William Surles
+first_name: William
+last_name: Surles
+user_status: ''
+roles: member
+name: William Surles
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+picture: http://baltimoretech.org/wp-content/uploads/profiles/348/croppedImg_1150300726.jpeg
+resume_url: ''
+general info:
+  bio: I\'m a data scientist. Moving to Baltimore soon.
+  location: Baltimore City
+  name: William Surles
+links:
+  twitter: https://twitter.com/williamsurles
+  linkedin: https://www.linkedin.com/in/williamsurles
+  github: https://github.com/wsurles
+professional info: {}

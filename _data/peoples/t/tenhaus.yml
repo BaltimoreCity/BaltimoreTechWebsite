@@ -1,0 +1,34 @@
+---
+user_login: tenhaus
+user_nicename: tenhaus
+user_email: chris.hayen@tenhaus.com
+user_url: ''
+user_registered: '2015-04-24 19:11:52'
+display_name: Chris Hayen
+first_name: Chris
+last_name: Hayen
+user_status: ''
+roles: member
+name: Chris Hayen
+type: ''
+profession: ''
+education: ''
+skills:
+- Designer
+- Developer
+picture: http://baltimoretech1.wpengine.com/wp-content/uploads/profiles/83/croppedImg_823447102.jpeg
+resume_url: ''
+general info:
+  bio: I\'m a full-stack hacker and a graphic designer. I\'ve written just about every
+    language there is, but I prefer to do my work in Node.js because it\'s just plain
+    amazing and allows me finish insane amounts of work in no time. I\'m always looking
+    for something to get in to.
+  location: Baltimore City
+  name: Chris Hayen
+links:
+  twitter: http://twitter.com/tenhaus
+  facebook: https://www.facebook.com/christopher.hayen
+  linkedin: https://www.linkedin.com/profile/view?id=248339764&amp;
+  github: https://github.com/tenhaus
+  website: http://tenhaus.com/
+professional info: {}

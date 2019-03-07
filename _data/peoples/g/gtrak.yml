@@ -1,0 +1,29 @@
+---
+user_login: gtrak
+user_nicename: gtrak
+user_email: gary.trakhman@gmail.com
+user_url: ''
+user_registered: '2015-04-24 21:19:33'
+display_name: Gary Trakhman
+first_name: Gary
+last_name: Trakhman
+user_status: ''
+roles: member
+name: Gary Trakhman
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+picture: http://baltimoretech.org/wp-content/uploads/profiles/86/croppedImg_1201965889.jpeg
+resume_url: ''
+general info:
+  bio: Clojure/full-stack data engineer.
+  location: Baltimore City
+  neighborhood: Federal Hill
+  name: Gary Trakhman
+links:
+  twitter: http://twitter.com/gtrakGT
+  linkedin: https://www.linkedin.com/pub/gary-trakhman/10/155/747
+  github: http://github.com/gtrak
+professional info: {}

@@ -1,0 +1,31 @@
+---
+user_login: hispanic
+user_nicename: hispanic
+user_email: michael.scepaniak@milestoneinc.com
+user_url: ''
+user_registered: '2015-04-24 16:52:02'
+display_name: Michael Scepaniak
+first_name: Michael
+last_name: Scepaniak
+user_status: ''
+roles: member
+name: Michael Scepaniak
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+- Entrepreneur
+picture: http://baltimoretech1.wpengine.com/wp-content/uploads/profiles/77/croppedImg_1802615116.jpeg
+resume_url: ''
+general info:
+  bio: Software developer/consultant. Owner, Milestone Systems Consulting, Inc. Full-stack
+    Java and JavaScript.
+  location: Baltimore Suburbs
+  name: Michael Scepaniak
+links:
+  twitter: https://twitter.com/hispanic
+  linkedin: http://www.linkedin.com/in/michaelscepaniak
+  github: http://github.com/hispanic
+  website: http://michaelscepaniak.com
+professional info: {}

@@ -1,0 +1,28 @@
+---
+user_login: mauticplugins
+user_nicename: mauticplugins
+user_email: reach@mauticplugins.com
+user_url: ''
+user_registered: '2018-05-04 10:37:38'
+display_name: Mautic Plugins
+first_name: Mautic
+last_name: Plugins
+user_status: ''
+roles: member
+name: Mautic Plugins
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+- Investor
+picture: http://www.mauticplugins.com/skin/frontend/meigeetheme/default/images/logo.png
+resume_url: ''
+general info:
+  name: Mautic Plugins
+  location: Other
+  bio: Top of the line Mautic plugins that are both custom made and proprietary, supported
+    by integration services and unmatched expert mautic consultation.
+links:
+  website: http://www.mauticplugins.com
+professional info: {}

@@ -1,0 +1,32 @@
+---
+user_login: danieloh
+user_nicename: danieloh
+user_email: danieloh612@gmail.com
+user_url: ''
+user_registered: '2015-07-20 23:59:33'
+display_name: Daniel Oh
+first_name: Daniel
+last_name: Oh
+user_status: ''
+roles: member
+name: Daniel Oh
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+picture: http://baltimoretech.org/wp-content/uploads/profiles/256/croppedImg_1117249873.jpeg
+resume_url: ''
+general info:
+  bio: As an aspiring web developer, my goal is to become a full stack developer.
+    I am enrolled at Betamore in the Back-End Web Development course, and also, enrolled
+    at University Of Maryland University College aiming to get a degree in Computer
+    Science.
+  location: Baltimore Suburbs
+  name: Daniel Oh
+links:
+  twitter: https://twitter.com/danieloh84
+  linkedin: https://www.linkedin.com/in/danieloh612
+  github: https://github.com/iamdanieloh
+  website: http://www.danieloh.io
+professional info: {}

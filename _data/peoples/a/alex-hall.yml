@@ -1,0 +1,29 @@
+---
+user_login: alex.hall
+user_nicename: alex-hall
+user_email: alexhall99@gmail.com
+user_url: ''
+user_registered: '2015-12-04 15:39:55'
+display_name: Alex Hall
+first_name: Alex
+last_name: Hall
+user_status: ''
+roles: member
+name: Alex Hall
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+picture: http://baltimoretech.org/wp-content/uploads/profiles/367/croppedImg_711608868.jpeg
+resume_url: ''
+general info:
+  bio: Server-side developer with 10 years\' programming experience building applications
+    using a wide variety of JVM-based technologies, and a proven track record of delivering
+    high-quality solutions to challenging problems in the areas of metadata, modeling,
+    and big data querying and analysis.
+  location: Baltimore Suburbs
+  name: Alex Hall
+links:
+  linkedin: https://www.linkedin.com/in/alex-hall-bb985a10b
+professional info: {}

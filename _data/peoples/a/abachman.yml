@@ -1,0 +1,29 @@
+---
+user_login: abachman
+user_nicename: abachman
+user_email: adam.bachman@gmail.com
+user_url: ''
+user_registered: '2015-07-20 23:17:15'
+display_name: Adam Bachman
+first_name: Adam
+last_name: Bachman
+user_status: ''
+roles: member
+name: Adam Bachman
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+picture: http://baltimoretech.org/wp-content/uploads/profiles/255/croppedImg_719567637.jpeg
+resume_url: ''
+general info:
+  bio: Full stack independent software developer currently building the Internet of
+    Things for everyone with Adafruit Industries.
+  location: Baltimore City
+  name: Adam Bachman
+links:
+  twitter: https://twitter.com/abachman
+  github: https://github.com/abachman
+  website: http://adambachman.org
+professional info: {}

@@ -1,0 +1,33 @@
+---
+user_login: schiavo
+user_nicename: schiavo
+user_email: daniel@snakehill.net
+user_url: ''
+user_registered: '2015-09-17 18:55:43'
+display_name: Daniel Schiavone
+first_name: Daniel
+last_name: Schiavone
+user_status: ''
+roles: member
+name: Daniel Schiavone
+type: ''
+profession: ''
+education: ''
+skills:
+- Designer
+- Developer
+picture: http://baltimoretech.org/wp-content/uploads/profiles/319/croppedImg_497347206.jpeg
+resume_url: ''
+general info:
+  bio: The Baltimore Sun described me as a “renaissance man”. I\'m an artist, software
+    developer, musician, community organizer and partner at Snake Hill Web Agency.
+  location: Baltimore City
+  neighborhood: Highlandtown
+  name: Daniel Schiavone
+links:
+  twitter: http://twitter.com/schiavo
+  facebook: https://www.facebook.com/schiavo
+  linkedin: https://www.linkedin.com/in/danielschiavone
+  github: https://github.com/schiavo
+  website: http://www.snakehill.net
+professional info: {}

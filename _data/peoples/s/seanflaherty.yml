@@ -1,0 +1,30 @@
+---
+user_login: SeanFlaherty
+user_nicename: seanflaherty
+user_email: sean.flaherty@gmail.com
+user_url: ''
+user_registered: '2015-05-15 14:55:54'
+display_name: Sean Flaherty
+first_name: Sean
+last_name: Flaherty
+user_status: ''
+roles: member
+name: Sean Flaherty
+type: ''
+profession: ''
+education: ''
+skills:
+- Developer
+picture: http://baltimoretech1.wpengine.com/wp-content/uploads/profiles/152/croppedImg_739968841.jpeg
+resume_url: ''
+general info:
+  bio: I have been a software developer in the Baltimore area since the late 1990\'s.
+    I\'ve had experience with all facets of the software development life-cycle and
+    with a broad range of technologies, starting with Windows WinForms and MS-SQL
+    through to today\'s open-source web technologies.
+  location: Baltimore Suburbs
+  name: Sean Flaherty
+links:
+  twitter: https://twitter.com/sean_flaherty
+  github: https://github.com/seanflaherty
+professional info: {}
