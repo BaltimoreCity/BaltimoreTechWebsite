@@ -1,0 +1,25 @@
+duration: 7200000
+group:
+  country: us
+  created: 1334776572000
+  id: 3695742
+  join_mode: open
+  lat: 39.29999923706055
+  localized_location: Baltimore, MD
+  lon: -76.61000061035156
+  name: Baltimore Professionals and Entrepreneurs
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: BaltimoreProfessionals
+  who: BPE Members
+id: gzcsdpyzcbvb
+link: https://www.meetup.com/BaltimoreProfessionals/events/gzcsdpyzcbvb/
+local_date: '2019-03-20'
+local_time: '19:00'
+name: Love, Relationships & Spirituality. A Group Discussion. Free Admission!
+time: 1553122800000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 4

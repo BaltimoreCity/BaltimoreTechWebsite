@@ -1,0 +1,64 @@
+created: 1548344365000
+date_in_series_pattern: false
+description: '<p>In this meditation you will learn Kabbalah practices that bring positive
+  and powerful changes in to your life when you add them to your spiritual practice.
+  With some of the practices the body is engaged with the words shared that allow
+  for spiritual alignment. Come join us as Sybastien guides us through Ecstatic Kabbalah.</p>
+  <p>For centuries humanity has been seeking Oneness. From the Tower of Babel to today
+  we''ve reached towards God in many ways hopeful to be heard. We believe, for fear
+  that we are alone in space. Through this session you will gain confidence and develop
+  a mindset of peace likened to the Psalmist who says, "He who planted the ear, shall
+  He not hear? He who formed the eye, shall he not see?" (Psalm 94). The only answer
+  is to trust and know He/She is OmniPresent, OmniPotent, OmniScient and All Love!
+  Making a joyful noise we will explore Ecstatic Kabbalistic concepts as we Proactively
+  unite in the 99% of sharing instead of the 1% of Reactivity. We will raise our voices
+  to enhance our connection to El Elyon thereby bringing peace to Self and our community.<br/>We
+  have a recommended offering of $5. Doors open at 6:45 pm, and we begin promptly
+  at 7:15 pm.</p> '
+duration: 5400000
+fee:
+  accepts: cash
+  amount: 5.0
+  currency: USD
+  description: ''
+  label: Price
+  required: false
+group:
+  country: us
+  created: 1536886633000
+  id: 29802680
+  join_mode: open
+  lat: 39.279998779296875
+  localized_location: Baltimore, MD
+  lon: -76.6500015258789
+  name: Healing Paradigms Meditation Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Healing-Paradigms-Meditation-Meetup
+  who: Members
+id: mtmnqqyzfbxb
+link: https://www.meetup.com/Healing-Paradigms-Meditation-Meetup/events/mtmnqqyzfbxb/
+local_date: '2019-03-18'
+local_time: '18:45'
+name: Ecstatic Kabbalah Meditation w/ Sybastien Retais
+rsvp_limit: 10
+status: upcoming
+time: 1552949100000
+updated: 1551157421000
+utc_offset: -14400000
+venue:
+  address_1: 213 West Read Street
+  city: Baltimore
+  country: us
+  id: 23520973
+  lat: 39.300296783447266
+  localized_country_name: USA
+  lon: -76.61900329589844
+  name: Indiginal Artisan & Wellness Studio
+  repinned: true
+  state: MD
+  zip: ''
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 2

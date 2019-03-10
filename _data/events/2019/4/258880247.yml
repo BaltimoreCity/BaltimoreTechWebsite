@@ -1,0 +1,62 @@
+created: 1549916512000
+date_in_series_pattern: false
+description: '<p>Come experience the gift of breath and its inherent capacity to awaken
+  and calm.</p> <p>We will allow our breathing to be our compass and our manna as
+  we experience four specific guided practices to heighten and heal.</p> <p>We will
+  engage in the Sufi practice of elemental breaths to balance our energy and the Yogic
+  practice of opposite nostril breathing to balance our brains. We will be invited
+  into a mindfulness practice of breathing to help us handle strong emotions like
+  fear and anger as well as generate inner joy and happiness. We will end with a simple
+  breath awareness practice, learning how to inhale vitality and energy and exhaling
+  fatigue and tension.</p> <p>We have a recommended offering of $5. Doors open at
+  6:45 pm, and we begin promptly at 7:15 pm.</p> <p>Nancey Kinlin is a Registered
+  Nurse with a focus on radical well-being. She honors many teachers who have contributed
+  to her rich experience of energy medicine, dance and meditation. Her privilege is
+  to share this work with others.<br/>#meditation #mindful #breathing #Indiginal #MeditationMonday</p> '
+duration: 5400000
+fee:
+  accepts: cash
+  amount: 5.0
+  currency: USD
+  description: ''
+  label: Price
+  required: false
+group:
+  country: us
+  created: 1536886633000
+  id: 29802680
+  join_mode: open
+  lat: 39.279998779296875
+  localized_location: Baltimore, MD
+  lon: -76.6500015258789
+  name: Healing Paradigms Meditation Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Healing-Paradigms-Meditation-Meetup
+  who: Members
+id: '258880247'
+link: https://www.meetup.com/Healing-Paradigms-Meditation-Meetup/events/258880247/
+local_date: '2019-04-08'
+local_time: '18:45'
+name: Mindful Breathing Meditation w/ Nancey Kinlin
+rsvp_limit: 20
+status: upcoming
+time: 1554763500000
+updated: 1549916532000
+utc_offset: -14400000
+venue:
+  address_1: 213 West Read Street
+  city: Baltimore
+  country: us
+  id: 23520973
+  lat: 39.300296783447266
+  localized_country_name: USA
+  lon: -76.61900329589844
+  name: Indiginal Artisan & Wellness Studio
+  repinned: false
+  state: MD
+  zip: ''
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 4

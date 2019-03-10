@@ -1,0 +1,48 @@
+created: 1550554510000
+date_in_series_pattern: false
+description: '<p>Come on over we''ll play RPG, drink a little, shoot pool and have
+  a good time. I''m really hoping to make this a regular Friday night /Saturday morning
+  thing. I''ll host it at my amazing game room with vending machines a 12 foot diagonal
+  4K TV, and a 9 foot pool table. You''ll love it.</p> '
+duration: 18000000
+group:
+  country: us
+  created: 1548104852000
+  id: 30980274
+  join_mode: open
+  lat: 39.15999984741211
+  localized_location: Glen Burnie, MD
+  lon: -76.58000183105469
+  name: Glen Burnie RPG and Gaming After Dark
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Glen-Burnie-RPG-and-Gaming-After-Dark
+  who: Members
+how_to_find_us: From Ritchie HWY at B and A, go east / south on B and A toward the
+  HS, take your first left, first right, first left.  We're on the left.
+id: jvnbsqyzfbdc
+link: https://www.meetup.com/Glen-Burnie-RPG-and-Gaming-After-Dark/events/jvnbsqyzfbdc/
+local_date: '2019-03-22'
+local_time: '23:59'
+name: Hangout and play RPG or pool, listen to music and watch cool videos.
+rsvp_limit: 20
+status: upcoming
+time: 1553313540000
+updated: 1550554510000
+utc_offset: -14400000
+venue:
+  address_1: 116 Garrett Rd
+  city: Glen Burnie
+  country: us
+  id: 26163949
+  lat: 39.16350173950195
+  localized_country_name: USA
+  lon: -76.61524963378906
+  name: 116 Garrett Rd
+  repinned: true
+  state: MD
+  zip: '21060'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 2

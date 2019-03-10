@@ -1,0 +1,55 @@
+created: 1542496811000
+date_in_series_pattern: false
+description: '<p>What would it really mean to live forever?</p> <p>Rachel is a woman
+  with a problem: she can’t die. Her recent troubles―widowhood, a failing business,
+  an unemployed middle-aged son―are only the latest in a litany spanning dozens of
+  countries, scores of marriages, and hundreds of children. In the 2,000 years since
+  she made a spiritual bargain to save the life of her first son back in Roman-occupied
+  Jerusalem, she’s tried everything to free herself, and only one other person in
+  the world understands: a man she once loved passionately, who has been stalking
+  her through the centuries, convinced they belong together forever.</p> <p>But as
+  the twenty-first century begins and her children and grandchildren―consumed with
+  immortality in their own ways, from the frontiers of digital currency to genetic
+  engineering―develop new technologies that could change her fate and theirs, Rachel
+  knows she must find a way out.</p> <p>Gripping, hilarious, and profoundly moving,
+  Eternal Life celebrates the bonds between generations, the power of faith, the purpose
+  of death, and the reasons for being alive.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1331755463000
+  id: 3479352
+  join_mode: open
+  lat: 39.369998931884766
+  localized_location: Baltimore, MD
+  lon: -76.69000244140625
+  name: The Baltimore Jewish Book Club
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: The-Baltimore-Jewish-Book-Club
+  who: Baltimore Bookniks
+id: '256505056'
+link: https://www.meetup.com/The-Baltimore-Jewish-Book-Club/events/256505056/
+local_date: '2019-03-10'
+local_time: '14:00'
+name: Eternal Life by Dara Horn
+status: upcoming
+time: 1552240800000
+updated: 1547154095000
+utc_offset: -14400000
+venue:
+  address_1: '1500 Reisterstown Road #211'
+  city: Pikesville
+  country: us
+  id: 6190602
+  lat: 39.377288818359375
+  localized_country_name: USA
+  lon: -76.72569274902344
+  name: Goldberg's New York Bagels
+  repinned: false
+  state: MD
+  zip: '21208'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 6

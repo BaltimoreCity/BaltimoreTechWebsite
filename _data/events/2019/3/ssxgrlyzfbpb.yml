@@ -1,0 +1,41 @@
+created: 1457371914000
+date_in_series_pattern: false
+description: '<p>When: &lt;a&gt;12 noon on Monday 7/10&lt;/a&gt;, Where: Hampton House
+  461. </p> '
+group:
+  country: us
+  created: 1397935971000
+  id: 13996962
+  join_mode: open
+  lat: 39.209999084472656
+  localized_location: Columbia, MD
+  lon: -76.87999725341797
+  name: Toastmasters District 18 Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Toastmasters-District-18-Meetup
+  who: Toastmasters
+how_to_find_us: 624 North Broadway, Baltimore, MD, 21205, room 461
+id: ssxgrlyzfbpb
+link: https://www.meetup.com/Toastmasters-District-18-Meetup/events/ssxgrlyzfbpb/
+local_date: '2019-03-11'
+local_time: '12:00'
+name: Hopkins Toastmasters Club
+status: upcoming
+time: 1552320000000
+updated: 1499350372000
+utc_offset: -14400000
+venue:
+  address_1: 624 North Broadway
+  city: Baltimore
+  country: US
+  id: 25348068
+  lat: 39.298011779785156
+  localized_country_name: USA
+  lon: -76.59459686279297
+  name: '624 N Broadway #461'
+  repinned: false
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

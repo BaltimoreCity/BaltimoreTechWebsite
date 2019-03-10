@@ -1,0 +1,51 @@
+created: 1537744385000
+date_in_series_pattern: false
+description: '<p>Newcomers Meeting<br/>Sunday, March 24, 12:30 p.m - note change of
+  day</p> <p>New to the Society and interested in learning more? Come to the Newcomers
+  Meeting, held following the last Sunday Platform of every month, and find out more
+  about Ethical Culture and our Society – its history, its philosophy, and its organization.
+  Meetings last about one hour and are recommended for anyone who’s curious about
+  membership. Please attend at least one Platform before going to a Newcomers Meeting.
+  Contact Wayne Laufert or Janey Solwold for more information.</p> <p>Learn more:<br/>website:
+  <a href="http://bmorethical.org/" class="linkified">http://bmorethical.org/</a><br/>Meetup:
+  <a href="http://meetup.com/bmorethical/" class="linkified">http://meetup.com/bmorethical/</a><br/>Twitter:
+  @bmorethical<br/>Facebook: <a href="http://fb.com/bmorethical/" class="linkified">http://fb.com/bmorethical/</a></p> '
+duration: 7200000
+group:
+  country: us
+  created: 1306030370000
+  id: 1897481
+  join_mode: open
+  lat: 39.33000183105469
+  localized_location: Baltimore, MD
+  lon: -76.61000061035156
+  name: The Baltimore Ethical Society Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: bmorethical
+  who: Ethicals
+id: bxnrgqyzfbpc
+link: https://www.meetup.com/bmorethical/events/bxnrgqyzfbpc/
+local_date: '2019-03-24'
+local_time: '12:30'
+name: BES Newcomers Meeting - note change of day
+status: upcoming
+time: 1553445000000
+updated: 1551041803000
+utc_offset: -14400000
+venue:
+  address_1: 2521 Saint Paul Street
+  city: Baltimore
+  country: us
+  id: 25945834
+  lat: 39.31865692138672
+  localized_country_name: USA
+  lon: -76.61515808105469
+  name: Baltimore Ethical Society
+  repinned: true
+  state: md
+  zip: '21218'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 2

@@ -1,0 +1,51 @@
+created: 1537655212000
+date_in_series_pattern: false
+description: '<p>Well, the Mussel Bar is closed for year because of construction across
+  the street from the restaurant. We will be meeting at the Gordon Biersch Brewing
+  Company on Lancaster Street right nearby. They a private room that they will let
+  us use. (If the private room is busy we will be in the bar.)</p> <p>They have pretty
+  good food and a selection of beers made in house. I think we will be happy there
+  while we wait for the Mussel Bar to reopen. See you at the Gordon Biersch Brewing
+  Company!</p> <p>There are two parking garages where you can park for $4.00 all day
+  on Saturday. One is on Fleet Street and the other is on Exeter Street in Little
+  Italy. Both are a short walk to the Gordon Biersch Brewing Company.</p> '
+duration: 9000000
+group:
+  country: us
+  created: 1050330582000
+  id: 63757
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: The Baltimore French Language Meetup Group
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: french-171
+  who: French Speakers
+how_to_find_us: Cherchez le group qui parle francais
+id: ghhpgqyzfbmb
+link: https://www.meetup.com/french-171/events/ghhpgqyzfbmb/
+local_date: '2019-03-09'
+local_time: '15:30'
+name: 'Regular weekend meetup: Conversation au Gordon Biersch Brewing Company'
+status: upcoming
+time: 1552163400000
+updated: 1537655213000
+utc_offset: -18000000
+venue:
+  address_1: 1000 Lancaster Street
+  city: Baltimore
+  country: us
+  id: 13498412
+  lat: 39.282432556152344
+  localized_country_name: USA
+  lon: -76.59977722167969
+  name: Gordon Biersch
+  repinned: true
+  state: MD
+  zip: '21202'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 6

@@ -1,0 +1,47 @@
+created: 1549779316000
+date_in_series_pattern: false
+description: '<p>We will walk trails within Rockburn Branch Park and then head over
+  to Duclaw’s brew pub.</p> <p>Park: <a href="https://www.howardcountymd.gov/RockburnBranchPark"
+  class="linkified">https://www.howardcountymd.gov/RockburnBranchPark</a></p> <p>Brewpub:
+  <a href="https://duclawthemills.com" class="linkified">https://duclawthemills.com</a></p> '
+duration: 10800000
+group:
+  country: us
+  created: 1546364813000
+  id: 30815127
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Hiking for Brews (Baltimore)
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Hiking-for-Brews-Baltimore
+  who: Members
+how_to_find_us: 'I will post details about the exact meeting location and the organizer’s
+  contact before the event starts '
+id: '258838649'
+link: https://www.meetup.com/Hiking-for-Brews-Baltimore/events/258838649/
+local_date: '2019-03-17'
+local_time: '13:00'
+name: 'Rockburn Branch Park and Duclaw '
+status: upcoming
+time: 1552842000000
+updated: 1549779316000
+utc_offset: -14400000
+venue:
+  address_1: '6105 Rockburn Branch Park Road '
+  city: Elkridge
+  country: us
+  id: 1237088
+  lat: 39.21900177001953
+  localized_country_name: USA
+  lon: -76.7649917602539
+  name: Rockburn Branch Park
+  repinned: false
+  state: MD
+  zip: '21075'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 14

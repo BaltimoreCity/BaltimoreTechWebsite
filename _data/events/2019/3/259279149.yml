@@ -1,0 +1,55 @@
+created: 1551132369000
+date_in_series_pattern: false
+description: '<p>Before The Show:</p> <p>Come to Maiwand Grill before the show. We
+  can hang out and get something to eat here starting at 6:00. It''s just a block
+  away on the corner of Eutaw and Baltimore street.</p> <p>Tickets:</p> <p>This is
+  a Pay What You Can preview performance the tickets are available starting at 5:00
+  at the theater Box Office. There is no assigned seating and they usually don''t
+  run out but don''t wait until the last moment in case they do.</p> <p>Overview:</p>
+  <p>Like any culinary trend, relationships are destined to evolve over time—but can
+  the recipe of friendship retain its zest if the key ingredients begin to change?
+  A fabulous dinner at the home of food writers Gabe and Karen proves hard to swallow
+  when Beth drops the bomb that husband Tom wants out of their 12-year marriage. Suddenly,
+  both couples find themselves grappling with questions of loyalty, individuality,
+  and commitment in Donald Margulies’ deliciously funny, sharply observed Pulitzer
+  Prize-winning drama—celebrating its 20th anniversary this season with the time-tested
+  flavor and richness of a classic dish.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1348575885000
+  id: 5097352
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.58999633789062
+  name: Midtown Theatre Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Midtown-Theatre-Meetup
+  who: Theatre Lovers
+id: '259279149'
+link: https://www.meetup.com/Midtown-Theatre-Meetup/events/259279149/
+local_date: '2019-03-10'
+local_time: '19:00'
+name: Dinner With Friends, Everyman Theater
+status: upcoming
+time: 1552258800000
+updated: 1551132447000
+utc_offset: -14400000
+venue:
+  address_1: 315 West Fayette Street
+  city: Baltimore
+  country: us
+  id: 10562342
+  lat: 39.290348052978516
+  localized_country_name: USA
+  lon: -76.62047576904297
+  name: Everyman Theatre
+  repinned: true
+  state: MD
+  zip: '21201'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 5

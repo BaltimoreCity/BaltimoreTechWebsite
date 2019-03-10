@@ -1,0 +1,48 @@
+created: 1550838885000
+date_in_series_pattern: false
+description: '<p>This is a writer''s meeting. The primary purpose of this meeting
+  is to help people develop their writing skills. That can and does cover anyone from
+  just a person with a strong desire to write and no idea where to start all the way
+  up to a writer who has a working script that needs to be polished.</p> <p>By the
+  way if you do have a script you want us to read aloud then you need to bring a least
+  a half dozen copies of that script or send me a PDF of your script ahead of time
+  so I can print them off. Printing is no problem just get your script to me early.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1296144729000
+  id: 1773601
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.58999633789062
+  name: Charm City Filmmakers
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: CharmCityFilmmakers
+  who: Charm City Film Makers
+id: '259187405'
+link: https://www.meetup.com/CharmCityFilmmakers/events/259187405/
+local_date: '2019-03-13'
+local_time: '20:00'
+name: Writer's Meeting
+status: upcoming
+time: 1552521600000
+updated: 1550838902000
+utc_offset: -14400000
+venue:
+  address_1: 251 S. Ann Street
+  city: Baltimore
+  country: us
+  id: 23735484
+  lat: 39.28820037841797
+  localized_country_name: USA
+  lon: -76.5911865234375
+  name: Fells Point Corner Theater
+  repinned: true
+  state: MD
+  zip: ''
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 9

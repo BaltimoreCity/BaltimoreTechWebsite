@@ -1,0 +1,51 @@
+created: 1523905453000
+date_in_series_pattern: false
+description: '<p>The “City of the Dead” appears to be much like any other city once
+  inside…except the roving random undead running errands. Several member of the party
+  have successfully joined the Death Academy to attempt to gain access to the inside
+  of the tomb so they can thwart the growing evil within? Will you join them on their
+  quest?</p> <p>Level is 14th, use starting gold times 14 to purchase your supplies.
+  All standard character creation methods are acceptable. Races and Classes from official
+  Wizards of the Coast Books are available to choose from. If you want to play anything
+  really strange let me know and we can work it out. Character Background give you
+  additional starting items. Send message for more details!</p> '
+duration: 14400000
+group:
+  country: us
+  created: 1503618955000
+  id: 25623700
+  join_mode: open
+  lat: 39.2599983215332
+  localized_location: Dundalk, MD
+  lon: -76.5
+  name: Eastern Baltimore County D20 Gaming Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Eastern-Baltimore-County-D20-Gaming-Meetup
+  who: Members
+how_to_find_us: We are meeting in Dundalk, MD - Messsage us for address.
+id: tpkpppyzfbsb
+link: https://www.meetup.com/Eastern-Baltimore-County-D20-Gaming-Meetup/events/tpkpppyzfbsb/
+local_date: '2019-03-14'
+local_time: '19:00'
+name: Enter the Tome of Terror - 3.5 D&D Campaign
+status: upcoming
+time: 1552604400000
+updated: 1523905454000
+utc_offset: -14400000
+venue:
+  address_1: Plainfield Road
+  city: Dundalk
+  country: us
+  id: 25449019
+  lat: 39.27739334106445
+  localized_country_name: USA
+  lon: -76.50101470947266
+  name: The Gaming Dungeon
+  repinned: false
+  state: MD
+  zip: ''
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

@@ -1,0 +1,46 @@
+created: 1549427667000
+date_in_series_pattern: false
+description: '<p>We will explore the Fort McHenry national monument then walk to Diamondback
+  Brewing Company.</p> <p>Brewery: <a href="http://www.diamondbackbeer.com" class="linkified">http://www.diamondbackbeer.com</a></p> '
+duration: 10800000
+group:
+  country: us
+  created: 1546364813000
+  id: 30815127
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Hiking for Brews (Baltimore)
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Hiking-for-Brews-Baltimore
+  who: Members
+how_to_find_us: 'Will post the exact location and my contact info closer to the event
+  start time '
+id: '258721960'
+link: https://www.meetup.com/Hiking-for-Brews-Baltimore/events/258721960/
+local_date: '2019-03-10'
+local_time: '13:00'
+name: 'Fort McHenry and Diamondback Brewing '
+status: upcoming
+time: 1552237200000
+updated: 1552067379000
+utc_offset: -14400000
+venue:
+  address_1: 2400 E Fort Ave
+  city: Baltimore
+  country: us
+  id: 741630
+  lat: 39.265445709228516
+  localized_country_name: USA
+  lon: -76.58354949951172
+  name: 'Fort McHenry '
+  phone: (410) 962-4290
+  repinned: false
+  state: MD
+  zip: '21230'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 53

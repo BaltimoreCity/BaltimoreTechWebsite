@@ -1,0 +1,25 @@
+duration: 10800000
+group:
+  country: us
+  created: 1502986011000
+  id: 25515056
+  join_mode: approval
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Hopkins Hikers
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Hopkings-Hikers
+  who: Members
+id: '259267960'
+link: https://www.meetup.com/Hopkings-Hikers/events/259267960/
+local_date: '2019-04-13'
+local_time: 09:30
+name: Greenbrier State Park
+time: 1555162200000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 1
+yes_rsvp_count: 18

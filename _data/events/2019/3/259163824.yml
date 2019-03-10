@@ -1,0 +1,59 @@
+created: 1550774176000
+date_in_series_pattern: false
+description: '<p>This event is FREE to attend, but registration is required at the
+  link below.</p> <p>Join the BBB Greater Maryland Foundation at Spaces: Stadium Square
+  for a Brown Bag Lunch &amp; Learn detailing ways to manage your accounts receivable
+  and minimize their impact on your business. Bill Thrush, Shareholder and the Managing
+  Principal of Friedman, Framme and Thrush, will cover 3 basic phases of handling
+  those accounts.</p> <p>*Top strategies for minimizing bad debt before the customer
+  relationship<br/>even starts.</p> <p>*Strategies for handling the accounts that
+  owe your business money.</p> <p>*How to turn a paper judgment into cash, and actually
+  get paid!</p> <p>By utilizing these strategies, businesses will improve operational
+  efficiency, decrease their accounts receivable, reduce their stress, and improve
+  their bottom line.</p> <p>BBB will provide drinks and dessert.</p> <p>Registration
+  - <a href="https://events.r20.constantcontact.com/register/eventReg?oeidk=a07eg4hyr02b9455b54&amp;oseq=&amp;c=&amp;ch"
+  class="linkified">https://events.r20.constantcontact.com/register/eventReg?oeidk=a07eg4hyr02b9455b54&amp;oseq=&amp;c=&amp;ch</a>=</p>
+  <p>Special Thank You to our Program Sponsors:</p> <p>Friedman, Framme &amp; Thrush,
+  PA - <a href="https://fftlaw.com/" class="linkified">https://fftlaw.com/</a><br/>EZ
+  Shield - <a href="https://www.ezshield.com/" class="linkified">https://www.ezshield.com/</a><br/>Trusted
+  Hearts Homecare Solutions - <a href="https://www.trustedheartshcs.com/" class="linkified">https://www.trustedheartshcs.com/</a></p> '
+duration: 5400000
+group:
+  country: us
+  created: 1523886451000
+  id: 28182147
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: BBB of Greater MD Business Community
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: BBB-of-Greater-MD-Business-Community
+  who: Members
+how_to_find_us: Event is being held at Spaces CoWorking, 6th Floor
+id: '259163824'
+link: https://www.meetup.com/BBB-of-Greater-MD-Business-Community/events/259163824/
+local_date: '2019-03-19'
+local_time: '11:30'
+name: B4 Speaker Series - Managing Accounts Receivable
+status: upcoming
+time: 1553009400000
+updated: 1550774769000
+utc_offset: -14400000
+venue:
+  address_1: 145 W Ostend St
+  city: Baltimore
+  country: us
+  id: 26093860
+  lat: 39.274532318115234
+  localized_country_name: USA
+  lon: -76.61783599853516
+  name: 145 W Ostend St
+  repinned: true
+  state: MD
+  zip: '21230'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 3

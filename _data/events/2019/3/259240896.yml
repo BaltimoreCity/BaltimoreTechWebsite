@@ -1,0 +1,25 @@
+duration: 7200000
+group:
+  country: us
+  created: 1280682261000
+  id: 1684090
+  join_mode: open
+  lat: 39.33000183105469
+  localized_location: Baltimore, MD
+  lon: -76.63999938964844
+  name: Baltimore Area Gay Men's Outdoor Adventure Group
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Baltimore-Washington-Gay-Men-Outdoor-Adventure-Group
+  who: adventurers
+id: '259240896'
+link: https://www.meetup.com/Baltimore-Washington-Gay-Men-Outdoor-Adventure-Group/events/259240896/
+local_date: '2019-03-17'
+local_time: '10:00'
+name: Loch Raven Hike, Ducks, and Chinese Lunch (Re-scheduled.
+time: 1552831200000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 11

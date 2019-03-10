@@ -1,0 +1,25 @@
+duration: 16200000
+group:
+  country: us
+  created: 1176674012000
+  id: 476983
+  join_mode: approval
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: The WatersEdge Kayak Club, Baltimore's Sea-Kayaking Club !
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: watersedgekayak
+  who: Sea-Kayakers
+id: '252644677'
+link: https://www.meetup.com/watersedgekayak/events/252644677/
+local_date: '2019-05-19'
+local_time: '10:30'
+name: Celebrate National Maritime Day 2019 and Tour the NS Savannah ! Save the date
+time: 1558276200000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 31

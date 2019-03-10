@@ -1,0 +1,24 @@
+group:
+  country: us
+  created: 1268974068000
+  id: 1616881
+  join_mode: open
+  lat: 39.16999816894531
+  localized_location: Columbia, MD
+  lon: -76.8499984741211
+  name: The Ethical Hackers Club (TEHC)
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: ethical-hacker-club
+  who: Ethical Hackers
+id: gnttnyzgbfb
+link: https://www.meetup.com/ethical-hacker-club/events/gnttnyzgbfb/
+local_date: '2019-04-03'
+local_time: '18:30'
+name: Topic - Web App Pentesting Pt.1
+time: 1554330600000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 6

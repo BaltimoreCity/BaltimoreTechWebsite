@@ -1,0 +1,36 @@
+created: 1551096407000
+date_in_series_pattern: false
+description: '<p>The BGS Book Club presents "Wine Reads: A Literary Anthology of Wine
+  Writing," by Jay McInerney.</p> <p>Wine Reads is a rich literary anthology with
+  over twenty pieces of memorable fiction and nonfiction about the making, selling
+  and drinking of wine.</p> <p>Jay Interney is a best-selling novelist and acclaimed
+  wine columnist for Town &amp; County, Wall Street Journal, and House and Garden.</p>
+  <p>I hope you can join us on Sunday, April 28th, for what always prove to be a spirited
+  conversation, coupled with shared wine and food. More details to follow.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1521672034000
+  id: 27905662
+  join_mode: approval
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Baltimore Grape Society
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Baltimore-Wine-Lovers-Meetup
+  who: Members
+id: '259262788'
+link: https://www.meetup.com/Baltimore-Wine-Lovers-Meetup/events/259262788/
+local_date: '2019-04-28'
+local_time: '15:00'
+name: 'Baltimore Grape Society BookClub - Correction:  Updated Date is April 28.  '
+status: upcoming
+time: 1556478000000
+updated: 1551098122000
+utc_offset: -14400000
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 8

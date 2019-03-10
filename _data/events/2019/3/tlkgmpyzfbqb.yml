@@ -1,0 +1,53 @@
+created: 1521485067000
+date_in_series_pattern: false
+description: '<p>Agenda:</p> <p>– The UI: Hidden tools, navigating folder structures
+  and artboards. What''s similar, what''s different. Shortcuts.</p> <p>– Styles: Text
+  and Shapes when to use them and for what.</p> <p>– Organizing and exporting: Naming
+  conventions and presets.</p> <p>– Symbols Overview: How to create them and when
+  to use them.</p> <p>– Symbols: Resizing and overriding.</p> <p>– Libraries: Sharing
+  Symbols, Styles and files with others designers and developers.</p> <p>– Plugins:
+  Manage and leverage plugins for an efficient workflow (InVision CRAFT)</p> <p>-
+  What is a Prototype?<br/>- Discuss why it''s good to prototype early and often<br/>-
+  Overview the panorama of prototyping tools</p> <p>Share favorite prototyping tools:<br/>-
+  Sketch 49.1,InVision, Marvel, Principle for Mac, Atomic.io, ProtoPie, Framer Studio,
+  Launchpad, Fuse and more.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1521131649000
+  id: 27838329
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Product Design and Animation
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Product-Design-and-Animation
+  who: Members
+id: tlkgmpyzfbqb
+link: https://www.meetup.com/Product-Design-and-Animation/events/tlkgmpyzfbqb/
+local_date: '2019-03-12'
+local_time: '19:00'
+name: Sketch and Prototyping 101
+rsvp_limit: 20
+status: upcoming
+time: 1552431600000
+updated: 1521485067000
+utc_offset: -14400000
+venue:
+  address_1: 1 TBA
+  city: Baltimore
+  country: us
+  id: 19999412
+  lat: 39.29058074951172
+  localized_country_name: USA
+  lon: -76.60926055908203
+  name: 'TBA '
+  repinned: false
+  state: MD
+  zip: ''
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 4

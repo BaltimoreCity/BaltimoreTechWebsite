@@ -1,0 +1,57 @@
+created: 1551232788000
+date_in_series_pattern: false
+description: '<p>Join us as Harvey L. Bailey takes you on a journey of self love.
+  We will have a discussion on self love why it''s important to be selfish to give
+  yourself away..</p> <p>We will show you 5 ways to give yourself away--it''s easier
+  than you think.</p> <p>We will do self love exercises and show you how to love yourself
+  form the the inside out. These practices will require you to be open, and psychologically
+  naked.</p> <p>Our doors open at 6:45 pm and we start promptly at 7:15 pm. We suggest
+  a recommended donation of $5. Come join us and bring a friend.<br/>#self love #meditationmonday
+  #HarveyL.Bailey #giveyourselfaway #Indiginal</p> '
+duration: 5400000
+fee:
+  accepts: cash
+  amount: 5.0
+  currency: USD
+  description: ''
+  label: Price
+  required: false
+group:
+  country: us
+  created: 1536886633000
+  id: 29802680
+  join_mode: open
+  lat: 39.279998779296875
+  localized_location: Baltimore, MD
+  lon: -76.6500015258789
+  name: Healing Paradigms Meditation Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Healing-Paradigms-Meditation-Meetup
+  who: Members
+id: '259314308'
+link: https://www.meetup.com/Healing-Paradigms-Meditation-Meetup/events/259314308/
+local_date: '2019-03-11'
+local_time: '18:45'
+name: Self Love, You Have to Be Selfish to Give Yourself Away w/ Harvey L. Bailey
+rsvp_limit: 20
+status: upcoming
+time: 1552344300000
+updated: 1551235823000
+utc_offset: -14400000
+venue:
+  address_1: 213 West Read Street
+  city: Baltimore
+  country: us
+  id: 23520973
+  lat: 39.300296783447266
+  localized_country_name: USA
+  lon: -76.61900329589844
+  name: Indiginal Artisan & Wellness Studio
+  repinned: true
+  state: MD
+  zip: ''
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 4

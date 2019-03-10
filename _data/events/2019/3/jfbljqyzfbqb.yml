@@ -1,0 +1,57 @@
+created: 1539140626000
+date_in_series_pattern: false
+description: '<p>Join us for another round of Ruby, Rails, and more! On the agenda
+  this month:</p> <p>* Authorization, Authentication and Single Sign on and more --
+  Parissa Eggleston<br/>* Static Sites with Hugo -- Chris Strom (<a href="https://twitter.com/eee_c"
+  class="linkified">https://twitter.com/eee_c</a>)<br/>* You?</p> <p>Got something
+  that you''d like to present? We still have room for another short talk or two. Contact
+  the organizers and let us know. We especially love first time presenters and new
+  perspectives! Even if you have never presented anywhere before, we''d love to hear
+  from you :)</p> <p>Talks are generally no longer than 20-30 minutes (we can make
+  exceptions if you need to rehearse for a conference). Lightning talks (&lt;5 minutes)
+  and shorter talks are also welcome.</p> <p>Seriously, let us know if you''re at
+  all interested!</p> <p>B''more on Rails is dedicated to providing a harassment-free
+  meetup experience for everyone. Our Anti-Harassment Policy (<a href="http://www.meetup.com/bmore-on-rails/pages/B%27more_on_Rails_Anti-Harassment_Policy"
+  class="linkified">http://www.meetup.com/bmore-on-rails/pages/B%27more_on_Rails_Anti-Harassment_Policy</a>).</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1161199720000
+  id: 347566
+  join_mode: open
+  lat: 39.29999923706055
+  localized_location: Baltimore, MD
+  lon: -76.61000061035156
+  name: B'more on Rails
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: bmore-on-rails
+  who: Rubyists
+how_to_find_us: It's on the second floor - don't go in the food court/bar area, walk
+  around to the south side (AWAY from the Pizza Boli's and police station) stairwell.
+id: jfbljqyzfbqb
+link: https://www.meetup.com/bmore-on-rails/events/jfbljqyzfbqb/
+local_date: '2019-03-12'
+local_time: '19:00'
+name: Single Sign On, Static Sites with Hugo, and ???
+rsvp_limit: 65
+status: upcoming
+time: 1552431600000
+updated: 1549990967000
+utc_offset: -14400000
+venue:
+  address_1: 301 W 29th St, RHouse Suite 2003
+  city: Baltimore
+  country: us
+  id: 24850846
+  lat: 39.32179260253906
+  localized_country_name: USA
+  lon: -76.622314453125
+  name: 'Allovue, Inc.  '
+  repinned: true
+  state: MD
+  zip: ''
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 5

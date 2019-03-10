@@ -1,0 +1,77 @@
+created: 1548524074000
+date_in_series_pattern: false
+description: '<p>🍀 Ever been curious about 3D printing? Try your luck this Thursday
+  before St. Patrick''s day discovering the basics of computer-aided design, 3-dimensional
+  modeling and 3D printing with easy to follow turorials &amp; simple guided exercises!🍀</p>
+  <p>What to Bring:<br/>•Laptop with either Windows, Mac OS or Linux operating systems.<br/>•Curiosity</p>
+  <p>Please note that a 3D printing machine will not be available during this Thursday
+  night''s session. Please stand by soon for announcements regarding the Saturday
+  (March 16th) workshop where a 3D printer will be available.</p> <p>🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀<br/>More
+  About Project Night:</p> <p>Welcome to Project night! On project nights we’ll dive
+  head-first into the projects with which we’re directly involved &amp;/or most interested.
+  If you’re still brand new to coding &amp; project development and unsure how to
+  directly contribute to an active project, that’s perfectly fine. Participate as
+  an observer and take notes; by doing so you will only learn &amp; grow! Project
+  leads &amp; more seasoned developers in our group are encouraged to help our beginners
+  learn, feel engaged and get their toes wet in whatever aspects of projects they
+  feel most comfortable. More than one project workshops may be going on at once during
+  these nights and ideas for new projects are always welcome. Some of our projects
+  in the works and those already suggested are not limited to but also include:</p>
+  <p>• Web design &amp; Front-end development<br/>• Chatbots<br/>• Raspberry Pi configuration<br/>•
+  Arduino configuration<br/>• Google APIs in practice<br/>• Hardware &amp; Robotics</p>
+  <p>🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀<br/>Important to know:</p> <p>If it''s your first time attending,
+  please go through this on-boarding document to get all the necessary tools set up:
+  <a href="https://docs.google.com/document/d/1JujPe0QZ8ag9k75vNo1eAEZqVrf3yFPAWMcMHWfmlak/edit?usp=sharing"
+  class="linkified">https://docs.google.com/document/d/1JujPe0QZ8ag9k75vNo1eAEZqVrf3yFPAWMcMHWfmlak/edit?usp=sharing</a></p>
+  <p>🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀<br/>About the Host:</p> <p>Hunter McKnight has a degree in
+  Economics with a concentration in Quantitative Finance from the City University
+  of New York (2010). He has since then worked as a Visual Basic Applications Developer
+  and a Database Engineer for various industry Clients based in the New York, Philadelphia
+  and Baltimore/DC metropolitan areas. A native of Manhattan, NYC; he is fluent in
+  English, German and Spanish; and considers Mathematics to be one of the most important
+  and rewarding skill sets anyone can have.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1497563382000
+  id: 24485464
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Baltimore Black Techies Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Baltimore-Black-Techies-Meetup
+  who: Members
+how_to_find_us: Please note that there is NO FREE PARKING at the lot adjacent to Impact
+  Hub (10 E North Avenue). Attendees are advised to use nearby street parking, and
+  NOT the lot next to IH as this has caused some visitors to have their cars impounded
+  in the past.
+id: '258418758'
+link: https://www.meetup.com/Baltimore-Black-Techies-Meetup/events/258418758/
+local_date: '2019-03-14'
+local_time: '18:30'
+name: Wine & Code Project Night - Computer Aided Design (CAD) & 3D Modeling!
+rsvp_limit: 20
+status: upcoming
+time: 1552602600000
+updated: 1551568025000
+utc_offset: -14400000
+venue:
+  address_1: 10 E North Ave
+  city: Baltimore
+  country: us
+  id: 25575435
+  lat: 39.31175231933594
+  localized_country_name: USA
+  lon: -76.61559295654297
+  name: Impact Hub Baltimore
+  phone: '4437044635'
+  repinned: true
+  state: MD
+  zip: '21202'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 10

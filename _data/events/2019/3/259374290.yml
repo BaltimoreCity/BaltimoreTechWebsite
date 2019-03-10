@@ -1,0 +1,60 @@
+created: 1551397041000
+date_in_series_pattern: false
+description: '<p>Building applications using domain-driven design techniques results
+  in code that is easier to modify, maintain, and test, and a better user experience.
+  Once you try DDD, you will never think about designing software in the same way
+  again.</p> <p>In this introduction we will start by learning how to build a strong
+  ubiquitous language with stakeholders. Then we will learn the benefits of encapsulating
+  business logic in value objects using test-driven development.</p> <p>Next we will
+  move on to using bounded contexts, entities, and aggregate roots to manage state
+  and protect invariants.</p> <p>Our speaker, Andrew Cassell, is a Senior Backend
+  Developer for CuriosityStream, the award-winning documentary streaming service launched
+  by Discovery founder John Hendricks. He is also the organizer of the DCPHP Meetup
+  and a frequent conference speaker.</p> <p>We will meet at TEKsystems in Linthicum.
+  There is plenty of free parking in front of the building. Doors will open at 6:30
+  PM for pizza and conversation, and the presentation will start at 7:00 PM. If you
+  get there after 7:00 and find yourself locked out, you will find our phone number
+  posted on the front door. Call the number and someone will come to let you in. Don''t
+  be embarrassed - happens all the time.</p> <p>Many thanks to our sponsor, TEKsystems,
+  for hosting this meeting and providing pizza!</p> '
+duration: 9000000
+group:
+  country: us
+  created: 1347839902000
+  id: 4961322
+  join_mode: open
+  lat: 39.209999084472656
+  localized_location: Linthicum Heights, MD
+  lon: -76.66000366210938
+  name: Maryland Software Patterns and Practices
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Maryland-Software-Patterns-Practices
+  who: Software Developers
+id: '259374290'
+link: https://www.meetup.com/Maryland-Software-Patterns-Practices/events/259374290/
+local_date: '2019-03-19'
+local_time: '18:30'
+name: Domain-Driven Design
+rsvp_limit: 55
+status: upcoming
+time: 1553034600000
+updated: 1551397071000
+utc_offset: -14400000
+venue:
+  address_1: 999 Corporate Blvd. Suite 200
+  city: Linthicum Heights
+  country: us
+  id: 22734952
+  lat: 39.20890426635742
+  localized_country_name: USA
+  lon: -76.67788696289062
+  name: TEKSystems
+  phone: 410-981-7500
+  repinned: false
+  state: MD
+  zip: ''
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 36

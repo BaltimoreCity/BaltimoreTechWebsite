@@ -1,0 +1,44 @@
+created: 1380639123000
+date_in_series_pattern: false
+description: '<p>We meet, talk Drupal and maybe have a beer. Often we have a presentation
+  and sometimes we just have casual conversation. Either way come join us to learn
+  more about Drupal and meet other Drupalistas.</p> <p>Have a topic? Want to present?
+  Have a new Drupal masterpiece? Let us know.</p> '
+group:
+  country: us
+  created: 1275928966000
+  id: 1657414
+  join_mode: open
+  lat: 39.279998779296875
+  localized_location: Baltimore, MD
+  lon: -76.54000091552734
+  name: Baltimore Drupal Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Baltimore-Drupal-Meetup
+  who: Drupalistas
+id: qmzxvgyzfbrb
+link: https://www.meetup.com/Baltimore-Drupal-Meetup/events/qmzxvgyzfbrb/
+local_date: '2019-03-13'
+local_time: '18:30'
+name: Baltimore Drupal Meetup
+status: upcoming
+time: 1552516200000
+updated: 1386698778000
+utc_offset: -14400000
+venue:
+  address_1: 734 S. Broadway
+  city: Baltimore
+  country: us
+  id: 1069884
+  lat: 39.282623291015625
+  localized_country_name: USA
+  lon: -76.59368133544922
+  name: Bertha's Restaurant
+  repinned: false
+  state: MD
+  zip: '21231'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

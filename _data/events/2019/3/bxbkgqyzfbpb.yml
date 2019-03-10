@@ -1,0 +1,48 @@
+created: 1537479772000
+date_in_series_pattern: false
+description: '<p>Come join us for lunch. Free to attend. Lunch &amp; drinks are on
+  you. Libations has graciously offered us a lunch specials menu for our group. Roughly
+  $20 will cover meal &amp; tip.</p> <p>P.S. Bring plenty of business cards</p> <p>Spread
+  the word with this link: <a href="http://bit.ly/E-L-Luncheon" class="linkified">http://bit.ly/E-L-Luncheon</a></p> '
+duration: 7200000
+group:
+  country: us
+  created: 1456685045000
+  id: 19638086
+  join_mode: open
+  lat: 39.33000183105469
+  localized_location: Catonsville, MD
+  lon: -76.73999786376953
+  name: Greater Baltimore FUN Networking for Entrepreneurs & Pro's!
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: GBNetworkingFUN
+  who: FUN Socializing Networkers
+how_to_find_us: Side Room
+id: bxbkgqyzfbpb
+link: https://www.meetup.com/GBNetworkingFUN/events/bxbkgqyzfbpb/
+local_date: '2019-03-11'
+local_time: '11:30'
+name: E & L Luncheon | Hanover
+rsvp_close_offset: PT12H
+rsvp_limit: 50
+status: upcoming
+time: 1552318200000
+updated: 1537479772000
+utc_offset: -14400000
+venue:
+  address_1: ' 7556 Teague Rd., Suite 100'
+  city: Hanover
+  country: us
+  id: 24894001
+  lat: 39.15394973754883
+  localized_country_name: USA
+  lon: -76.71983337402344
+  name: ' The Greene Turtle: Hanover @ Arundel Mills'
+  repinned: true
+  state: MD
+  zip: ''
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

@@ -1,0 +1,41 @@
+created: 1551926932000
+date_in_series_pattern: false
+description: '<p>Let’s meet up to connect with some<br/>“neighbors” and try the famed
+  burgers at this federal hill (locust point boundary) establishment.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1548251830000
+  id: 30993243
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Locust Pointers and Fed Hillers
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Locust-Pointers-and-Fed-Hillers
+  who: Members
+id: '259551577'
+link: https://www.meetup.com/Locust-Pointers-and-Fed-Hillers/events/259551577/
+local_date: '2019-03-20'
+local_time: '18:30'
+name: Burgers and brews!
+status: upcoming
+time: 1553121000000
+updated: 1551970669000
+utc_offset: -14400000
+venue:
+  address_1: 823 East Fort Avenue
+  city: Baltimore
+  country: US
+  id: 25589315
+  lat: 39.271751403808594
+  localized_country_name: USA
+  lon: -76.60222625732422
+  name: Wiley Gunters
+  repinned: false
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 4

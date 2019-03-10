@@ -1,0 +1,58 @@
+created: 1514919213000
+date_in_series_pattern: false
+description: '<p>• What we''ll do<br/>Sundays &amp; Dragons - A Weekly Sunday RPG
+  Meetup at CC Stores!</p> <p>Kicks Off Sunday Jan 7th from 12 PM - 6 PM at Collectors
+  Corner Parkville, Runs til 4 PM at CC Bel Air, and 5 PM at CC Baltimore.</p> <p>JAN
+  7th &amp; 21st and then FEB Starting Weekly Ongoing.</p> <p>Purpose - Bringing together
+  Role Playing Gamers, Primarily All Editions of Dungeons &amp; Dragons from D&amp;D
+  to D&amp;D 5E and everything in between + other games as well. Our goal is to help
+  Players &amp; GMs meet other Players &amp; GMs, prompting those who have never played
+  to learn to play or find a group and play at the store or plan a future game elsewhere.
+  Learning, Playing, Planning are all encouraged.</p> <p>Impromptu Games, Character
+  Creation, Pre-planned Events &amp; Campaigns are all planned for this new weekly
+  Sunday Ongoing Event.</p> <p>We are also looking forward to adding miniature painting
+  demonstrations, various one shot adventures and working with various existing groups
+  to encourage more games taking place on this day of the week in the stores.</p>
+  <p>Jan 7th we''ll be providing Free Pizza and refreshments along with some surprise
+  inaugural Sundays &amp; Dragons items for everyone attending at each CC store location.</p>
+  <p>We''ll be posting more information soon...</p> <p>• What to bring<br/>Imagination</p>
+  <p>• Important to know</p> '
+duration: 21600000
+group:
+  country: us
+  created: 1444757344000
+  id: 19024195
+  join_mode: open
+  lat: 39.38999938964844
+  localized_location: Parkville, MD
+  lon: -76.54000091552734
+  name: Collectors Corner Stores MD - Discussion, Events & Gaming.
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Collectors-Corner-Stores-Discussion-Events-Gaming
+  who: CC Fans!
+id: zrrrdpyzfbnb
+link: https://www.meetup.com/Collectors-Corner-Stores-Discussion-Events-Gaming/events/zrrrdpyzfbnb/
+local_date: '2019-03-10'
+local_time: '12:00'
+name: Sundays & Dragons - A Weekly Sunday RPG Meetup at CC Stores!
+status: upcoming
+time: 1552233600000
+updated: 1514919213000
+utc_offset: -14400000
+venue:
+  address_1: 7911 Harford Rd
+  city: Parkville
+  country: us
+  id: 3824292
+  lat: 39.37506866455078
+  localized_country_name: USA
+  lon: -76.54151153564453
+  name: Collectors Corner
+  repinned: false
+  state: MD
+  zip: '21234'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

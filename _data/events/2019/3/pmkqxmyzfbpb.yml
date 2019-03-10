@@ -1,0 +1,69 @@
+created: 1493042173000
+date_in_series_pattern: false
+description: '<p>We''d love to have you join our Meetup running group. We start a
+  little later than most other running groups to accommodate professionals and commuters
+  (and people who want to run at 6:45 with the most fun running group ever)!</p> <p>There
+  are options to run between 3 and 6 miles at a pace that is comfortable to you.</p>
+  <p>If there is interest, we may grab a beer at a dive bar that will let in a group
+  of sweaty runners.</p> <p>It seems many of our runners are new to town, so if "B''more"
+  and "Hon" are new to you, join us.</p> <p>Oh btw, we call ourselves the Baltimore
+  RAT Runners because we like to run Roads And Trails, not because we are running
+  from Baltimore''s well-known rat population.</p> <p>Here are some of our runs:<br/>Patterson
+  Park:<a href="http://www.mapmyrun.com/routes/view/911470207"><a href="http://www.mapmyrun.com/routes/view/911470207"
+  class="linkified">http://www.mapmyrun.com/routes/view/911470207</a></a><br/>Four
+  Mile Out and Back through Fells Point:<br/><a href="http://www.mapmyrun.com/routes/view/911459085"><a
+  href="http://www.mapmyrun.com/routes/view/911459085" class="linkified">http://www.mapmyrun.com/routes/view/911459085</a></a><br/>Lake
+  Roland Park:<br/><a href="http://www.mapmyrun.com/routes/view/911501951"><a href="http://www.mapmyrun.com/routes/view/911501951"
+  class="linkified">http://www.mapmyrun.com/routes/view/911501951</a></a><br/>Inner
+  Harbor:<br/><a href="http://www.mapmyrun.com/routes/view/911510093"><a href="http://www.mapmyrun.com/routes/view/911510093"
+  class="linkified">http://www.mapmyrun.com/routes/view/911510093</a></a><br/>Federal
+  Hill:<br/><a href="http://www.mapmyrun.com/routes/view/911534733"><a href="http://www.mapmyrun.com/routes/view/911534733"
+  class="linkified">http://www.mapmyrun.com/routes/view/911534733</a></a><br/>Federal
+  Hill 5-Mile Loop<br/><a href="http://www.mapmyrun.com/routes/view/922718579"><a
+  href="http://www.mapmyrun.com/routes/view/922718579" class="linkified">http://www.mapmyrun.com/routes/view/922718579</a></a></p>
+  <p>Dan</p> <p>P.S. If you drive and find parking difficult, try the 1200 block of
+  Bank Street for free street parking.  Also, the Little Italy Garage is inexpensive
+  and safe.  It''s between Central, Exeter, and Bank streets.</p> <p>P.P.S. Although
+  MAC management is kind enough to let us meet in their lobby, we are not officially
+  affiliated with the MAC and they take no responsibility for Meetup runners.</p> '
+group:
+  country: us
+  created: 1430603561000
+  id: 18573562
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Baltimore RAT Runners
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: BaltimoreRATrunners
+  who: Baltimore RAT Runners
+how_to_find_us: 'Meeting place: MAC Harbor East 655 S. President St. (21202). We meet
+  on the second floor by the computers. Feel free to bring extra clothing and leave
+  it at the front desk. Bathrooms are available. No need to be a MAC member'
+id: pmkqxmyzfbpb
+link: https://www.meetup.com/BaltimoreRATrunners/events/pmkqxmyzfbpb/
+local_date: '2019-03-11'
+local_time: '18:45'
+name: Meet for a 3-6 mile run.
+status: upcoming
+time: 1552344300000
+updated: 1493042173000
+utc_offset: -14400000
+venue:
+  address_1: 655 President Street
+  city: Baltimore
+  country: us
+  id: 2137311
+  lat: 39.2834358215332
+  localized_country_name: USA
+  lon: -76.60160064697266
+  name: Maryland Athletic Club, MAC Harbor East
+  repinned: false
+  state: MD
+  zip: '21202'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

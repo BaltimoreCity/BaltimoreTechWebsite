@@ -1,0 +1,54 @@
+created: 1551731633000
+date_in_series_pattern: false
+description: '<p>Biases inherent in data can cause the behavior of machine learning
+  algorithms to discriminate against certain populations. Machine learning algorithms
+  are used every day by judges and other decision-makers in the criminal justice system
+  to decide bail requirements, criminal sentencing, and parole recommendations. James
+  Foulds, Assistant Professor of Information Systems at UMBC, has developed an approach
+  to demonstrating the bias in current systems and presents a path forward to more
+  equitable tools through application of his concept of “differential fairness.” Sonia
+  Kumar, Senior Staff Attorney at the ACLU of Maryland, represents clients throughout
+  the region who are challenged with confronting unjust outcomes based on the perceived
+  “objectiveness” of predictive software. Please come out to participate with James
+  and Sonia in a discussion about the legal and technical challenges of machine learning
+  algorithms and potential solutions to what is a fundamental issue for the future
+  of the criminal justice system.</p> '
+duration: 5400000
+group:
+  country: us
+  created: 1470164785000
+  id: 20272171
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Baltimore Legal Hackers Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Baltimore-Legal-Hackers-Meetup
+  who: Members
+id: '259482426'
+link: https://www.meetup.com/Baltimore-Legal-Hackers-Meetup/events/259482426/
+local_date: '2019-03-26'
+local_time: '18:30'
+name: 'Algorithmic Injustice: Bias in Machine Learning and Criminal Justice'
+status: upcoming
+time: 1553639400000
+updated: 1551731772000
+utc_offset: -14400000
+venue:
+  address_1: 1401 N Charles St
+  city: Baltimore
+  country: us
+  id: 26220965
+  lat: 39.30583572387695
+  localized_country_name: USA
+  lon: -76.61587524414062
+  name: Univ-Baltimore School of Law
+  repinned: false
+  state: MD
+  zip: '21201'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 6

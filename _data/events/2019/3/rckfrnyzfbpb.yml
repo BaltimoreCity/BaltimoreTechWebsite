@@ -1,0 +1,43 @@
+created: 1503711329000
+date_in_series_pattern: false
+description: '<p>Public sitting.<br/>Mindfulness/awareness (Shamatha/Vipaasana) meditation
+  practice. This offering is free of charge and open to the public.</p> '
+group:
+  country: us
+  created: 1503707881000
+  id: 25640188
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Baltimore Shambhala Meditation Center
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: meetup-group-cONUGEPK
+  who: Meditators
+id: rckfrnyzfbpb
+link: https://www.meetup.com/meetup-group-cONUGEPK/events/rckfrnyzfbpb/
+local_date: '2019-03-11'
+local_time: '18:00'
+name: Evening Meditation Practice
+status: upcoming
+time: 1552341600000
+updated: 1503711329000
+utc_offset: -14400000
+venue:
+  address_1: 3501 Saint Paul St
+  city: Baltimore
+  country: us
+  id: 17505392
+  lat: 39.33036804199219
+  localized_country_name: USA
+  lon: -76.61560821533203
+  name: Baltimore Shambhala Meditation Center
+  phone: 410-243-7200
+  repinned: false
+  state: MD
+  zip: '21218'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

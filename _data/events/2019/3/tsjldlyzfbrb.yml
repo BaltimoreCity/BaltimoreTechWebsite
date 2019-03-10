@@ -1,0 +1,55 @@
+created: 1420253852000
+date_in_series_pattern: false
+description: '<p>The monthly <a href="https://calug.org">CALUG</a> meetings generally
+  have a volunteer speaker who gives a presentation generally lasting 45-60 minutes.
+  This length of presentation allows for Q&amp;A time from those in attendance. The
+  members are a friendly group and we welcome topic on Linux, IT security, and related
+  fields of interest to the group.</p> <p>When there is not a presenter we hold an
+  open discussion meeting for members to talk about any topic which comes up.</p>
+  <p>Our meetings are held at the offices of the <a href="https://www.umbctraining.com/Home">UMBC
+  Training Center</a> in Columbia, MD. From 6:30-7:00pm we enjoy some social time
+  over pizza and soda sponsored by our friends at <a href="https://aplura.com">Aplura</a>!
+  The presentations start about 7pm and last until they are done. The meetings generally
+  wind up about 9pm.</p> <p>If you are presenting at a Con, to your office, want to
+  practice your public speaking, or just want to present on a topic that you are learning
+  about please feel free to contact us. If you would like to give a presentation please
+  contact Chuck Frain to arrange a meeting to present at.</p> '
+duration: 9000000
+group:
+  country: us
+  created: 1420251913000
+  id: 18293435
+  join_mode: open
+  lat: 39.16999816894531
+  localized_location: Columbia, MD
+  lon: -76.8499984741211
+  name: Columbia Area Linux Users Group
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Columbia-Area-Linux-Users-Group
+  who: Members
+how_to_find_us: The UMBC Training Center is across the street from the Merkle building
+  on Columbia Gateway Drive.
+id: tsjldlyzfbrb
+link: https://www.meetup.com/Columbia-Area-Linux-Users-Group/events/tsjldlyzfbrb/
+local_date: '2019-03-13'
+local_time: '18:30'
+name: CALUG Meeting
+status: upcoming
+time: 1552516200000
+updated: 1499419869000
+utc_offset: -14400000
+venue:
+  address_1: 6996 Columbia Gateway Dr Ste 100
+  city: Columbia
+  country: US
+  id: 18233242
+  lat: 39.17704772949219
+  localized_country_name: USA
+  lon: -76.8008804321289
+  name: UMBC Training Center
+  repinned: false
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 11

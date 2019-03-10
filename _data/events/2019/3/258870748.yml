@@ -1,0 +1,66 @@
+created: 1549897887000
+date_in_series_pattern: false
+description: '<p>Attend The Savvy Networker to meet the right people, make the right
+  connections and educate yourself with the right resources. We are dedicated to educating
+  business owners on the hottest of business topics and want to hone in on your business
+  networking skills.</p> <p>Expert panel topics and Great Local Experts<br/>**6:45
+  - Registration Opens**<br/>** 7:00-7:30 networking followed by discussion**</p>
+  <p>Located at Restaurante Tio Pepe</p> <p>10 E Franklin Street Baltimore</p> <p>FREE
+  PARKING AVAILABLE</p> <p>** What to Expect at Our Events? **<br/>Think Talk Show!
+  That''s all we''re going to say!</p> <p>Bring Business Cards . Network and BUILD
+  Relationships! That is the key to these events. Sure it can be a great place to
+  hang out and have a drink with a few friends but it is important to come with an
+  open mind to meet new people and make new connections.</p> <p>Tap into the savvy
+  mind of your host Sarah Gretzinger. Discover new ways to take your business to the
+  next level and surround yourself with a community of people that will support you
+  getting there. Raise your energy levels around your business and feel good about
+  the next steps you take.</p> <p>Build your network of friends/colleagues/advisors
+  to help yourself as well as them. We want the professionals of Las Vegas to come
+  together to help one another. So come meet new people, discover new things and share
+  great stories.</p> <p>SPECIAL ANNOUNCEMENT<br/>If you don''t know The Savvy Networker
+  is well on its was through our 30 city launch tour across Canada and the US. We
+  are dedicated to connecting entrepreneurs just like you and providing a place where
+  connection and education meet in the same room.</p> <p>Our title sponsor Kelly Shmalenberg
+  a.k.a #ITGIRL is joining us on tour sharing her wealth of knowledge to all of the
+  empowering women who have supported us along the way and to YOU ROCK STAR ladies
+  who are joining us at upcoming events.</p> <p>Join Kelly February 25th at 4:30 -
+  6:00pm for the globally known #ITGIRL SIP AND CHAT!<br/>Contact us for more details.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1549897185000
+  id: 31139772
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Baltimore Professional Networking Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Baltimore-Professional-Networking-Meetup
+  who: Members
+id: '258870748'
+link: https://www.meetup.com/Baltimore-Professional-Networking-Meetup/events/258870748/
+local_date: '2019-03-12'
+local_time: '19:00'
+name: 'The Savvy Networker - Baltimore '
+status: upcoming
+time: 1552431600000
+updated: 1550514323000
+utc_offset: -14400000
+venue:
+  address_1: 10 E Franklin St
+  city: Baltimore
+  country: us
+  id: 26183644
+  lat: 39.29530715942383
+  localized_country_name: USA
+  lon: -76.61492156982422
+  name: Restaurante Tio Pepe
+  repinned: false
+  state: MD
+  zip: '21202'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 13

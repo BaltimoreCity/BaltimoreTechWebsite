@@ -1,0 +1,46 @@
+created: 1547339971000
+date_in_series_pattern: false
+description: '<p>Paranormal: The New Normal</p> <p>Fascination with the paranormal
+  is not something that’s on the fringes of society. Dabbling in the paranormal has
+  become a cultural phenomenon evidenced in things like scary movies, psychic consultations,
+  witchcraft, paranormal investigations, and so on. Let’s take a journey back in time
+  to the present day.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1225152650000
+  id: 1309710
+  join_mode: open
+  lat: 39.15999984741211
+  localized_location: Glen Burnie, MD
+  lon: -76.58000183105469
+  name: Inspired Ghost Tracking Meetup Group
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: inspiredghosttracking
+  who: Paranormal Seekers
+id: '258026557'
+link: https://www.meetup.com/inspiredghosttracking/events/258026557/
+local_date: '2019-05-03'
+local_time: '19:00'
+name: 'Join Anthony & Deena Holmes Divine Research Society Of Unexplained Phenomena  '
+status: upcoming
+time: 1556924400000
+updated: 1547339971000
+utc_offset: -14400000
+venue:
+  address_1: 2597 Dorsey Road
+  city: Glen Burnie
+  country: us
+  id: 11395522
+  lat: 39.16083908081055
+  localized_country_name: USA
+  lon: -76.67772674560547
+  name: Harry L Cooper VFW Post 160
+  repinned: false
+  state: MD
+  zip: '21061'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 18

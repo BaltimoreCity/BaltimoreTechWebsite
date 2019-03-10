@@ -73,7 +73,18 @@ js-list:
 
 <script type="text/javascript">
   function initEventsMap() {
-    const data = JSON.parse(`{{site.data.upcoming-events | jsonify}}`);
+
+    {% assign events = "" | split: ',' %}
+    {% for year in site.data.events %}
+      {% for month in year[1] %}
+        {% for event_hash in month[1] %}
+          {% assign event = event_hash[1] %}
+          {% assign event.type = 'meetup' %}
+          {% assign events = events | push: event %}
+        {% endfor %}
+      {% endfor %}
+    {% endfor %}
+    const data = {{ events | jsonify}};
     const geocoder = new google.maps.Geocoder();
     const bounds = new google.maps.LatLngBounds();
     const mapOptions = {
@@ -85,21 +96,45 @@ js-list:
     );
 
     data.forEach(event => {
-      geocoder.geocode({ address: event.location }, function(results, status) {
-        if (status === google.maps.GeocoderStatus.OK) {
-          let position = results[0].geometry.location;
-          bounds.extend(position);
-          marker = new google.maps.Marker({
-            position,
-            map,
-            title: event.location
-          });
-          // Automatically center the map fitting all markers on the screen
-          map.fitBounds(bounds);
-        } else {
-          console.error(`Geocode unsuccessful: ${status}`);
-        }
-      });
+      if(event.venue && event.venue.lat && event.venue.lon) {
+        let position = new google.maps.LatLng(event.venue.lat, event.venue.lon)
+        bounds.extend(position);
+        marker = new google.maps.Marker({
+          position,
+          map,
+          title: event.venue.name
+        });
+        // Automatically center the map fitting all markers on the screen
+        map.fitBounds(bounds);
+      } else
+      if(event.group && event.group.lat && event.group.lon) {
+        let position = new google.maps.LatLng(event.group.lat, event.group.lon)
+        bounds.extend(position);
+        marker = new google.maps.Marker({
+          position,
+          map,
+          title: event.group.name
+        });
+        // Automatically center the map fitting all markers on the screen
+        map.fitBounds(bounds);
+      } else {
+        console.warn(event)
+        geocoder.geocode({ address: event.venue.name }, function(results, status) {
+          if (status === google.maps.GeocoderStatus.OK) {
+            let position = results[0].geometry.location;
+            bounds.extend(position);
+            marker = new google.maps.Marker({
+              position,
+              map,
+              title: event.venue.name
+            });
+            // Automatically center the map fitting all markers on the screen
+            map.fitBounds(bounds);
+          } else {
+            console.error(`Geocode unsuccessful: ${status}`);
+          }
+        });
+      }
     });
 
     // Override our map zoom level once our fitBounds function runs (Make sure it only runs once)

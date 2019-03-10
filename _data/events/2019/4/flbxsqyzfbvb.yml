@@ -1,0 +1,40 @@
+created: 1548469433000
+date_in_series_pattern: false
+description: '<p>Learning trading basics of Trading and Network.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1530811157000
+  id: 29120797
+  join_mode: open
+  lat: 39.209999084472656
+  localized_location: Columbia, MD
+  lon: -76.87999725341797
+  name: Forex and Cryptocurrency Trading Strategy and Network.
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: meetup-group-UFwJagmK
+  who: Members
+id: flbxsqyzfbvb
+link: https://www.meetup.com/meetup-group-UFwJagmK/events/flbxsqyzfbvb/
+local_date: '2019-04-06'
+local_time: '10:00'
+name: Learn the power of trading in Forex Market.
+status: upcoming
+time: 1554559200000
+updated: 1551822141000
+utc_offset: -14400000
+venue:
+  address_1: 9 Third Ave,
+  city: 'Glen Burnie '
+  country: US
+  id: 26197005
+  lat: 39.16082000732422
+  localized_country_name: USA
+  lon: -76.62718963623047
+  name: 'Light of the World family Ministry '
+  repinned: false
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 7

@@ -1,0 +1,50 @@
+created: 1451068948000
+date_in_series_pattern: false
+description: '<p>Come to Tightfisted Tuesdays!</p> <p>Our first Tightfisted Tuesdays
+  sale will take place on Tuesday January 12th from 5 pm to 9 pm at Tightfisted Fashion,
+  2114 N Charles St, Baltimore MD 21218.</p> <p>We need to make room for our spring
+  and summer wears so we are offering a special sale! For $50.00 you can fill up one
+  of our big purple Tightfisted Fashion bags with our fall and winter clothes, shoes
+  and accessories!</p> <p>Payment can be made online at <a href="http://tftuesdays.eventbrite.com"
+  class="linkified">http://tftuesdays.eventbrite.com</a>, via PayPal to [masked] or
+  cash at the event.</p> <p>***Receive 30% off regular priced items by bringing a
+  friend!</p> <p>Hope you can make it!</p> '
+duration: 25200000
+group:
+  country: us
+  created: 1396284415000
+  id: 13651182
+  join_mode: open
+  lat: 39.33000183105469
+  localized_location: Baltimore, MD
+  lon: -76.61000061035156
+  name: Tightfisted Fashioneers
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: TightfistedFashion
+  who: Tightfisted Fashioneers
+id: hrzcnlyzfbqb
+link: https://www.meetup.com/TightfistedFashion/events/hrzcnlyzfbqb/
+local_date: '2019-03-12'
+local_time: '14:00'
+name: Tightfisted Tuesday Sale
+status: upcoming
+time: 1552413600000
+updated: 1451068948000
+utc_offset: -14400000
+venue:
+  address_1: 2114 N. Charles Street
+  city: Baltimore
+  country: us
+  id: 17764822
+  lat: 39.31378173828125
+  localized_country_name: USA
+  lon: -76.61711120605469
+  name: Tightfisted Fashion
+  repinned: false
+  state: MD
+  zip: ''
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

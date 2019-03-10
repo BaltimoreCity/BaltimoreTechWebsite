@@ -1,0 +1,45 @@
+created: 1548947057000
+date_in_series_pattern: false
+description: '<p>Burgers &amp; brews at Abbey Burger Bistro in Fells...one of the
+  most delicious burgers you''ll ever have! And don''t even get me started on their
+  tater tots. :))</p> '
+duration: 5400000
+group:
+  country: us
+  created: 1447428659000
+  id: 19118087
+  join_mode: open
+  lat: 39.279998779296875
+  localized_location: Baltimore, MD
+  lon: -76.54000091552734
+  name: Baltimore Craft Beer Lovers
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Baltimore-Craft-Beer-Lovers
+  who: Beer Nerds
+how_to_find_us: At the bar!
+id: '258560320'
+link: https://www.meetup.com/Baltimore-Craft-Beer-Lovers/events/258560320/
+local_date: '2019-03-19'
+local_time: '17:30'
+name: Burgers & Brews!
+status: upcoming
+time: 1553031000000
+updated: 1548947057000
+utc_offset: -14400000
+venue:
+  address_1: 811 S Broadway
+  city: Baltimore
+  country: us
+  id: 26133280
+  lat: 39.28227233886719
+  localized_country_name: USA
+  lon: -76.59269714355469
+  name: Abbey Burger Bistro
+  repinned: false
+  state: MD
+  zip: '21231'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 14

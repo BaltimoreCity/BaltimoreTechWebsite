@@ -1,0 +1,49 @@
+created: 1516141846000
+date_in_series_pattern: false
+description: '<p>R. House is a big specialty food court on Remington Avenue right
+  off 28th Street, Remington, Baltimore. There are lots of tables that we could put
+  together. There is Asian food, vegetarian food, Venezuelan arepas, special chicken,
+  a ''pop up'' chef that changes all the time, a huge bar, and a coffee vendor. It
+  is a place for new chefs to show off their talents.</p> <p>There is parking at a
+  garage which can be entered from 27th or 28th street. Your ticket will be validated
+  at R. House for parking. There is also parking on both sides of R. House and one
+  half of the police station parking lot on the corner is reserved for R. House customers.</p>
+  <p>We will be at a big table near the sushi vendor. This is on the right side when
+  you enter. There will be a French flag showing at our table.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1050330582000
+  id: 63757
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: The Baltimore French Language Meetup Group
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: french-171
+  who: French Speakers
+id: gxmwfpyzfbxb
+link: https://www.meetup.com/french-171/events/gxmwfpyzfbxb/
+local_date: '2019-03-18'
+local_time: '19:00'
+name: French Meetup at R. House - Remington
+status: upcoming
+time: 1552950000000
+updated: 1516141846000
+utc_offset: -14400000
+venue:
+  address_1: 301 W. 29th St
+  city: Baltimore
+  country: US
+  id: 24932301
+  lat: 39.32173538208008
+  localized_country_name: USA
+  lon: -76.62230682373047
+  name: R. House
+  repinned: false
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 3

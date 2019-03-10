@@ -1,0 +1,44 @@
+created: 1551717635000
+date_in_series_pattern: false
+description: '<p>We will continue our discussion of this seminal work of Stoicism.
+  Everyone is welcome, whether you''re reading the text or not. Curiosity required.</p>
+  <p>We will begin today where we left off last time with section #27. (We''re half-way
+  through the Encheiridion.)</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1541937947000
+  id: 30503901
+  join_mode: open
+  lat: 39.27000045776367
+  localized_location: Baltimore, MD
+  lon: -76.62999725341797
+  name: The Baltimore Stoic Fellowship
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Baltimore-Stoic-Fellowship
+  who: Members
+how_to_find_us: You can call or text me @ 207-619-1977.
+id: zfkvsqyzfbwb
+link: https://www.meetup.com/Baltimore-Stoic-Fellowship/events/zfkvsqyzfbwb/
+local_date: '2019-03-17'
+local_time: '11:00'
+name: Epictetus's  Encheiridion, continued...
+status: upcoming
+time: 1552834800000
+updated: 1551720145000
+utc_offset: -14400000
+venue:
+  address_1: 1225 Cathedral Street
+  city: Baltimore
+  country: US
+  id: 25963232
+  lat: 39.304264068603516
+  localized_country_name: USA
+  lon: -76.61830139160156
+  name: Red Emma's Bookstore Coffeehouse
+  repinned: true
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

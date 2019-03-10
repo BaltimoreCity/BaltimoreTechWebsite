@@ -1,0 +1,52 @@
+created: 1545002692000
+date_in_series_pattern: false
+description: '<p>In these compelling Holocaust memoirs, Nanette Blitz Konig relates
+  her amazing story of survival during the Second World War when she, together with
+  her family and millions of other Jews, was imprisoned by the Nazis with a minimum
+  chance of survival. Nanette was a classmate of Anne Frank in the Jewish Lyceum of
+  Amsterdam. They met again in the Bergen Belsen concentration camp shortly before
+  Anne died. During these emotional encounters, Anne Frank revealed how she and her
+  family hid in the annex , their deportation, her experiences and her diary. Nanette
+  describes her battle for survival under brutal conditions in the camp and what happened
+  to her after the war. This memoir continues with her struggles to recover after
+  the war from the effects of starvation and tuberculosis and how she was able to
+  rebuild a life for herself.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1331755463000
+  id: 3479352
+  join_mode: open
+  lat: 39.369998931884766
+  localized_location: Baltimore, MD
+  lon: -76.69000244140625
+  name: The Baltimore Jewish Book Club
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: The-Baltimore-Jewish-Book-Club
+  who: Baltimore Bookniks
+id: '257271049'
+link: https://www.meetup.com/The-Baltimore-Jewish-Book-Club/events/257271049/
+local_date: '2019-04-07'
+local_time: '14:00'
+name: Holocaust Memoirs of a Bergen Belsen Survivor by Nanette Blitz Konig
+status: upcoming
+time: 1554660000000
+updated: 1545002692000
+utc_offset: -14400000
+venue:
+  address_1: 5700 Park Heights Avenue
+  city: Baltimore
+  country: us
+  id: 24180543
+  lat: 39.349998474121094
+  localized_country_name: USA
+  lon: -76.68000030517578
+  name: Eden Cafe at JCC
+  repinned: false
+  state: MD
+  zip: '21215'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 5

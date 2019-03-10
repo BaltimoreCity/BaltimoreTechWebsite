@@ -1,0 +1,55 @@
+created: 1544374569000
+date_in_series_pattern: false
+description: '<p>Baltimore &amp; The Underground Railroad - Project Collaborators
+  for FREE Guided Walking Tours</p> <p>“Baltimore &amp; The Underground Railroad”
+  our FREE guided walking tour will begin in the spring of 2019 and will include Frederick
+  Douglass, Harriet Tubman, and also many other noteworthy individuals.</p> <p>If
+  you are knowledgeable or interested in the Underground Railroad, Baltimore history,
+  etc. and would like to collaborate with us on this project please let us know.</p>
+  <p>Please note, you need not be a professional historian or educator to help, as
+  the only requirement to assist with this project is an interest in the topic.</p>
+  <p>Email = [masked]</p> <p>Also, feel free to send this to anyone else you know
+  who may be of interest.</p> <p>Baltimore History &amp; Culture, a non-profit community
+  organization with the mission of “bringing people together to experience this history
+  and culture of Baltimore.”</p> <p>Facebook: <a href="https://www.facebook.com/events/1955868684720600/"
+  class="linkified">https://www.facebook.com/events/1955868684720600/</a></p> <p>Thanks!</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1458164723000
+  id: 19719014
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: 'Baltimore History & Culture: Art, Food, Museums, Walks, etc.'
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: BaltimoreHistoryAndCulture
+  who: Urban Explorers
+id: '257080712'
+link: https://www.meetup.com/BaltimoreHistoryAndCulture/events/257080712/
+local_date: '2019-03-30'
+local_time: '15:00'
+name: Baltimore & The Underground Railroad - Project Collaborators
+status: upcoming
+time: 1553972400000
+updated: 1546849778000
+utc_offset: -14400000
+venue:
+  address_1: 1417 Thames St
+  city: Baltimore
+  country: us
+  id: 697468
+  lat: 39.2799072265625
+  localized_country_name: USA
+  lon: -76.59629821777344
+  name: Frederick Douglass Isaac Myers Museum
+  phone: 410.685.0295 x486
+  repinned: true
+  state: MD
+  zip: '21231'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 80

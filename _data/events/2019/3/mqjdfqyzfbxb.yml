@@ -1,0 +1,63 @@
+created: 1536193829000
+date_in_series_pattern: false
+description: '<p>Come one, come all! The Games &amp; Stuff Monday night Adventure
+  Card Game group is planning to embark on the next epic season of adventure card
+  gaming with the Season of Tapestry''s Tides! Experience a new adventure with us
+  as we band together with fellow Pathfinders to reclaim what we can from Hao Jin’s
+  demiplane before it collapses!</p> <p>A few notes about PACG Organized Play:</p>
+  <p>1. To participate in Organized Play you MUST own your own copy of a Pathfinder
+  Adventure Card Game Class Deck. Each deck is ~$20 and will contain all of the cards
+  needed to play a single character class in Organized Play, as one of the three to
+  four PC options per class.</p> <p>2. The RSVP limit is currently set to what we
+  are sure we have space for, but if there is more interest, we can probably make
+  more room. So please sign up for the wait list if you want to play.</p> <p>3. You
+  can find the official guide to organized play here: <a href="http://paizo.com/products/btpy98no?Guide-to-Pathfinder-Society-Adventure-Ca"
+  class="linkified">http://paizo.com/products/btpy98no?Guide-to-Pathfinder-Society-Adventure-Ca</a>
+  rd-Guild-Organized-Play</p> <p>The store copy of the game will be focusing on Season
+  of Tapestry''s Tide. The scenarios for Season of the Shackles, Season of the Righteous,
+  Season of the Runelords, Season of the Goblins, Season of the Plundered Tombs, and
+  Season of the Faction''s Favor Adventures are available at the store and can be
+  run by anyone with a copy of the core card game (the store has a copy of everything
+  except Runelords, which is also needed for Goblins) and the relevant Adventure Deck
+  numbers. If you can bring a core game please list that with your RSVP so we can
+  expand the number of player seats.</p> '
+duration: 9000000
+group:
+  country: us
+  created: 1345720991000
+  id: 4620922
+  join_mode: approval
+  lat: 39.29999923706055
+  localized_location: Baltimore, MD
+  lon: -76.61000061035156
+  name: Pathfinder and Starfinder Society of Baltimore, MD
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Pathfinder-Society-of-Baltimore
+  who: Pathfinders
+id: mqjdfqyzfbxb
+link: https://www.meetup.com/Pathfinder-Society-of-Baltimore/events/mqjdfqyzfbxb/
+local_date: '2019-03-18'
+local_time: '18:30'
+name: PACG at Games & Stuff - Season of Tapestry's Tides
+rsvp_limit: 12
+status: upcoming
+time: 1552948200000
+updated: 1536193829000
+utc_offset: -14400000
+venue:
+  address_1: 7385-G Baltimore Annapolis Blvd
+  city: Glen Burnie
+  country: us
+  id: 11937092
+  lat: 39.17131423950195
+  localized_country_name: USA
+  lon: -76.63204193115234
+  name: Games & Stuff - Cromwell Shopping Center
+  repinned: true
+  state: MD
+  zip: '21061'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 5

@@ -1,0 +1,50 @@
+created: 1551120801000
+date_in_series_pattern: false
+description: '<p>Do you have a good or service that would be helpful to brides who
+  are planning their Special Day? We are a group of professionals who are marketing
+  to this demographic and want to collaborate to build a community of entrepreneurs
+  based on cooperation. Come out prepared to learn and share, so that everyone can
+  come away better informed.</p> <p>PS Use Parking Panda to find the closest discount
+  parking available. You can reserve ahead to make sure you don''t wind up further
+  away ; )</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1544700737000
+  id: 30700646
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: The Bridal Bunch Backstage Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: The-Bridal-Bunch-Backstage-Meetup
+  who: Members
+how_to_find_us: Text me at 410.417.7741 when you arrive and I'll let you know exactly
+  where you can find us.
+id: '259273154'
+link: https://www.meetup.com/The-Bridal-Bunch-Backstage-Meetup/events/259273154/
+local_date: '2019-03-12'
+local_time: '14:00'
+name: 'The Bridal Bunch Backstage March 2019 Meetup  '
+status: upcoming
+time: 1552413600000
+updated: 1551133337000
+utc_offset: -14400000
+venue:
+  address_1: 20 W Baltimore St
+  city: Baltimore
+  country: us
+  id: 26202275
+  lat: 39.28978729248047
+  localized_country_name: USA
+  lon: -76.61611938476562
+  name: Lord Baltimore Hotel
+  repinned: false
+  state: MD
+  zip: '21201'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 4
