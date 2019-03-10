@@ -1,0 +1,57 @@
+created: 1548703704000
+date_in_series_pattern: false
+description: '<p><img src="https://secure.meetupstatic.com/photos/event/b/0/3/7/600_462945111.jpeg"
+  /> Learn to identify plants in an informal setting with other inquisitive people
+  and a botanist who can answer your questions. Bring a plant or twig from your own
+  backyard. Or look at one from an ongoing inventory of the Baltimore County Ag Center.
+  All experience levels are welcome. We’ll have botany books, hand lenses, dried plant
+  specimens, and a microscope available for you to use.</p> <p>Cost: $10 - Register
+  and pay online at www.marylandnature.org/events.</p> <p>Leaders: The sessions will
+  be facilitated by Charlie Davis and Judy Fulton. Charlie is a professional field
+  ecologist who specializes in plants. Judy is a Master Gardener who is conducting
+  a plant inventory at the Baltimore County Center for MD Agricultural and Farm Park.
+  Both Charlie and Judy are volunteers, so your money for these sessions will go directly
+  to support the programs, the nature collections, and the building that make this
+  kind of nature education possible.</p> <p>Photo credit: Judy Fulton - Cardinal Flower
+  - Lobelia cardinalis</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1290469464000
+  id: 1741675
+  join_mode: open
+  lat: 39.34000015258789
+  localized_location: Baltimore, MD
+  lon: -76.52999877929688
+  name: The Natural History Society of Maryland
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: marylandnature
+  who: Naturalists
+how_to_find_us: Come to the double glass doors at the top of the ramp and stairs.
+id: '258474799'
+link: https://www.meetup.com/marylandnature/events/258474799/
+local_date: '2019-03-25'
+local_time: '19:00'
+name: What's this plant?
+rsvp_limit: 20
+status: upcoming
+time: 1553554800000
+updated: 1548703704000
+utc_offset: -14400000
+venue:
+  address_1: 6908 Belair Rd.
+  city: Baltimore
+  country: us
+  id: 1451803
+  lat: 39.35746383666992
+  localized_country_name: USA
+  lon: -76.52777862548828
+  name: Maryland Naturalist Center
+  repinned: true
+  state: MD
+  zip: '21206'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 4

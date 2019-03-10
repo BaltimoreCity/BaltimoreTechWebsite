@@ -1,0 +1,25 @@
+duration: 7200000
+group:
+  country: us
+  created: 1269878633000
+  id: 1622209
+  join_mode: approval
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Baltimore Books, Baking, and Booze!
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Baltimore-Books-Baking-and-Booze
+  who: Members
+id: '256768748'
+link: https://www.meetup.com/Baltimore-Books-Baking-and-Booze/events/256768748/
+local_date: '2019-04-24'
+local_time: '18:30'
+name: Diary of Anne Frank (Chesapeake Shakespeare Company)
+time: 1556145000000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 3

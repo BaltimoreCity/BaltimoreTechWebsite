@@ -1,0 +1,47 @@
+created: 1545486092000
+date_in_series_pattern: false
+description: '<p>This session will cover how to develop a data warehousing / ETL project
+  where SQL Server Integrated Services (SSIS) and SQL Server Management Studio (SSMS)
+  will be deployed on-premise and Azure will be used for the SQL database and blob
+  storage (for delimited files). Azure Feature Pack for SSIS will be used to connect
+  SSIS to Azure.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1355543603000
+  id: 6244292
+  join_mode: open
+  lat: 39.16999816894531
+  localized_location: Columbia, MD
+  lon: -76.8499984741211
+  name: Baltimore SQL Server Users Group
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Baltimore-SQL-Server-Users-Group
+  who: SQL Server Professionals
+id: '257427212'
+link: https://www.meetup.com/Baltimore-SQL-Server-Users-Group/events/257427212/
+local_date: '2019-03-19'
+local_time: '18:30'
+name: Using Azure Storage and Azure SQL Database for SSIS Development by Ray Barley
+rsvp_limit: 35
+status: upcoming
+time: 1553034600000
+updated: 1551920538000
+utc_offset: -14400000
+venue:
+  address_1: 6751 Columbia Gateway Drive
+  city: Columbia
+  country: us
+  id: 10744292
+  lat: 39.18412780761719
+  localized_country_name: USA
+  lon: -76.8016357421875
+  name: Charles I. Ecker Business Training Center
+  repinned: true
+  state: MD
+  zip: '21046'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 21

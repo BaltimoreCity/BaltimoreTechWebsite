@@ -1,0 +1,57 @@
+created: 1551231151000
+date_in_series_pattern: false
+description: '<p>Details</p> <p>Cromwell Valley Park</p> <p>2175 Cromwell Bridge Rd</p>
+  <p>Parkville, MD 21234</p> <p>Directions:</p> <p>Take the I-695 beltway to Exit
+  29.</p> <p>Turn left at the first light onto Cromwell Bridge Road.</p> <p>Turn left
+  onto park entry road at 2175 Cromwell Bridge Road.</p> <p>Signs say, “Cromwell Valley
+  Park, Willow Grove Farm, Baltimore County Department of Recreation and Parks.”</p>
+  <p>MAKE SURE TO TAKE THE 2nd ENTRANCE TO THE PARK.</p> <p>Follow the road across
+  the bridge and park in gravel parking lot on left.</p> <p>Cromwell Park has a couple
+  trails that you can hike in a number of ways, so there are a few ways to change
+  things up. There are a few small stream crossing.</p> <p>Dog''s Allowed</p> <p>Bring
+  Plenty of Water and a Snack</p> <p>Greg''s Cell:[masked]</p> <p>*** IMPORTANT ***</p>
+  <p>BY ATTENDING THIS EVENT, YOU AGREE TO THE LIABILITY WAIVER, INDEMNIFICATION,
+  ASSUMPTION OF RISK, AND OTHER TERMS AND CONDITIONS ( <a href="https://www.meetup.com/HikingAroundBaltimore/pages/23647795/LIABILITY_WAIVER_AND_ASSUMPTION_OF_RISK/"
+  class="linkified">https://www.meetup.com/HikingAroundBaltimore/pages/23647795/LIABILITY_WAIVER_AND_ASSUMPTION_OF_RISK/</a>
+  ) (revision July 6, 2017). PLEASE READ THIS AGREEMENT CAREFULLY BEFORE RSVP''ING</p> '
+duration: 9000000
+group:
+  country: us
+  created: 1228055225000
+  id: 1330116
+  join_mode: open
+  lat: 39.33000183105469
+  localized_location: Baltimore, MD
+  lon: -76.61000061035156
+  name: Hiking Around Baltimore (HAB)
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: HikingAroundBaltimore
+  who: HAB'ers
+how_to_find_us: Meet in the Parking Lot
+id: '259313911'
+link: https://www.meetup.com/HikingAroundBaltimore/events/259313911/
+local_date: '2019-04-06'
+local_time: '11:30'
+name: 'Cromwell Valley Park: Easy - Moderate 4 - 5 Miles'
+rsvp_limit: 61
+status: upcoming
+time: 1554564600000
+updated: 1551739747000
+utc_offset: -14400000
+venue:
+  address_1: 2175 Cromwell Bridge Road,
+  city: Baltimore
+  country: us
+  id: 3905592
+  lat: 39.41664123535156
+  localized_country_name: USA
+  lon: -76.54267120361328
+  name: Cromwell Valley Park's Willow Gove Farm
+  repinned: true
+  state: MD
+  zip: '21234'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 20

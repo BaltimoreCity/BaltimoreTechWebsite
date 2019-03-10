@@ -1,0 +1,65 @@
+created: 1498736042000
+date_in_series_pattern: false
+description: '<p>Our rehearsals provide weekly singing lessons on how to sing with
+  all the beauty of your voice!  Our performances give everyone a chance to share
+  the joy of music with others.</p> <p><b>What happens when I visit?</b></p> <p>At
+  your first rehearsal, you will be greeted by a member of the membership committee.
+  You have the choice to either watch us or sing on the risers with us. If you want
+  to sing, a member our music team will take you aside and listen to your voice. She
+  will then assign you to one of the 4 vocal parts that characterize barbershop music
+  — tenor, lead, baritone, or bass. In general, tenors sing the highest harmony notes,
+  leads sing the melody, basses sing the lowest notes, and baritones harmonize by
+  singing the remaining notes in the barbershop chord.</p> <p><b>Can I just observe?</b></p>
+  <p>Absolutely! Guests – both men and women – are always welcome to visit and watch
+  our rehearsals. We often have people who come just to enjoy the singing.</p> <p><b>Is
+  there an age limit?</b></p> <p>We welcome all qualified women to join Pride of Baltimore.
+  Our members range in age from the late teens up to 80''s. We do require that women
+  under 18 years old be accompanied at all times by an responsible adult such as a
+  mother, aunt or other relative. This includes rehearsals, chorus retreats, performances,
+  and competitions. Also, please be aware that our rehearsals are physically strenuous.
+  We typically stand for 3 hours on the risers and many of our fast-paced songs (aka
+  up-tunes) have choreography.</p> <p><b>We audition year round</b></p> <p>We hold
+  auditions for the chorus year round and are always looking for singers! To find
+  out what it is like to sing with us, we encourage you to visit the chorus several
+  times and sing with us on the risers before making the decision to audition. Once
+  you have decided to audition, we will be happy to get you started with the process.</p> '
+duration: 9000000
+group:
+  country: us
+  created: 1497486974000
+  id: 24468104
+  join_mode: open
+  lat: 39.38999938964844
+  localized_location: Parkville, MD
+  lon: -76.54000091552734
+  name: Pride of Baltimore Chorus
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: prideofbaltimore
+  who: Members
+how_to_find_us: Look for us in the building on the right.
+id: svhjknyzfbhc
+link: https://www.meetup.com/prideofbaltimore/events/svhjknyzfbhc/
+local_date: '2019-03-25'
+local_time: '19:30'
+name: Come sing with us!
+status: upcoming
+time: 1553556600000
+updated: 1498736042000
+utc_offset: -14400000
+venue:
+  address_1: 9121 Old Harford Rd
+  city: Parkville
+  country: us
+  id: 25306534
+  lat: 39.40260314941406
+  localized_country_name: USA
+  lon: -76.52831268310547
+  name: Atonement Lutheran Church
+  repinned: false
+  state: MD
+  zip: '21234'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 5

@@ -1,0 +1,50 @@
+created: 1488921743000
+date_in_series_pattern: false
+description: '<p>Welcome!</p> <p>Each Monday, we will be meeting for Chess Club at
+  the Barnes &amp; Noble on the Johns Hopkins University campaus (3330 St. Paul St)
+  from 6pm to 9pm. Typically, our members meet around the Starbucks coffeeshop inside
+  the B&amp;N store. As always, please be considerate and remember to patronize the
+  coffeeshop that they offer.</p> <p>This is a relatively new chess club, so your
+  feedback is always encouraged. In the meantime, please feel free to join our Facebook
+  group and trade some chess-related hints, books, and videos.</p> <p>Link: <a href="https://www.facebook.com/groups/814679158643847/"
+  class="linkified">https://www.facebook.com/groups/814679158643847/</a></p> <p>All
+  the best,<br/>Abraham</p> '
+duration: 10800000
+group:
+  country: us
+  created: 1457902864000
+  id: 19703576
+  join_mode: open
+  lat: 39.33000183105469
+  localized_location: Baltimore, MD
+  lon: -76.61000061035156
+  name: Charm City Chess Club
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: CharmCity-Chess-Club
+  who: Chess Players
+id: hbkrsmyzfbhc
+link: https://www.meetup.com/CharmCity-Chess-Club/events/hbkrsmyzfbhc/
+local_date: '2019-03-25'
+local_time: '18:00'
+name: Chess at Barnes & Noble (3330 St. Paul St)
+status: upcoming
+time: 1553551200000
+updated: 1490704478000
+utc_offset: -14400000
+venue:
+  address_1: 3330 St. Paul St
+  city: Baltimore
+  country: us
+  id: 25078659
+  lat: 39.32853317260742
+  localized_country_name: USA
+  lon: -76.61634826660156
+  name: Barnes & Noble
+  repinned: false
+  state: MD
+  zip: ''
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

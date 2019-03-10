@@ -1,0 +1,60 @@
+created: 1550173695000
+date_in_series_pattern: false
+description: '<p>Join us for a special tour of the Willard Hackerman collection of
+  Maryland maps at the George Peabody Library. Learn about the collection, William
+  Hackerman, GIS at Hopkins, and other Sheridan Libraries resources from curators
+  Jim Gillispie and Paul Espinosa.</p> <p>From colonial impressions of the Chesapeake
+  Bay to detailed city plans for guiding Baltimore''s rapid expansion, this exhibition
+  features over thirty of the most stunning and historically significant maps of Maryland
+  from the collection of the late businessman, philanthropist, and Johns Hopkins alumnus
+  Willard Hackerman. The maps are brought together with related rare books and prints,
+  ephemera, and digital story maps to reveal the passion of a collector, the early
+  mapping of Maryland, and the potential of combining historical maps with modern
+  data to re-examine the past. Highlights include John Ogilby''s "Lord Baltimore Map"
+  from 1671, a hand-colored edition of Thomas H. Poppleton''s 1822 "Plan of the City
+  of Baltimore," and engraved views of Baltimore from the Harry N. Baetjer Collection
+  of Historical Maps and Prints.</p> <p>More information can be found at <a href="https://www.library.jhu.edu/about/exhibitions/"
+  class="linkified">https://www.library.jhu.edu/about/exhibitions/</a></p> <p>Light
+  refreshments will be available, including wine, as you peruse the collection.</p>
+  <p>Parking is available for a fee at the Peabody Parking Garage at 600 St. Paul
+  Street (on the right, approaching the intersection at Centre Street). Visitors may
+  also take advantage of the Charm City Circulator or BaltimoreLINK.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1531830686000
+  id: 29276543
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: MaptimeBmore
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: maptime_bmore
+  who: Mappers
+id: '258969509'
+link: https://www.meetup.com/maptime_bmore/events/258969509/
+local_date: '2019-03-20'
+local_time: '18:30'
+name: Mapping Maryland, from the Willard Hackerman Map Collection
+status: upcoming
+time: 1553121000000
+updated: 1551288345000
+utc_offset: -14400000
+venue:
+  address_1: 17 E Mt Vernon Pl
+  city: Baltimore
+  country: us
+  id: 26032795
+  lat: 39.297203063964844
+  localized_country_name: USA
+  lon: -76.61502075195312
+  name: George Peabody Library
+  repinned: true
+  state: MD
+  zip: '21202'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 21

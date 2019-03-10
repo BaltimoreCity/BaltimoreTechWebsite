@@ -1,0 +1,74 @@
+created: 1550592707000
+date_in_series_pattern: false
+description: '<p>It''s about time for our second Bmore VR Meetup of 2019 and this
+  time around we''re adding a raffle!</p> <p>On Wednesday, April 10, all Meetup attendees
+  will receive a card upon entry and should receive a sticker from each demo they
+  complete. Once, an attendee receives all stickers you may deposit your card into
+  the raffle. Completed cards must be deposited by 9:15PM.</p> <p>Bmore VR is returning
+  with our usual open "Science Fair" layout with demos from DMV companies showcasing
+  their awesome VR/AR experiences.</p> <p>If you’d like to demo your VR/AR project(s)
+  please send an email to [masked]!</p> <p>Schedule:<br/>6:00PM - 6:45PM: Doors Open/Intros<br/>6:45PM
+  - 9:10PM: Demos/Networking<br/>9:15PM - 9:30PM: Raffle</p> <p>Demos:<br/>Look On
+  Media - Look On Media’s advanced VR utility training is built from the ground up
+  to effectively teach and track trainees learning dangerous and critical tasks such
+  as identifying gas leaks in the field. The interactive VR software is modeled after
+  real world scenarios and randomized each time to reinforce the critical thinking
+  necessary to complete the tasks effectively. Under the hood it is measuring numerous
+  data points and providing scores and feedback to the trainee after each user session.
+  The powerful software is already in use at major utility providers and can be customized
+  for any use case, even for industries outside the utility space such as healthcare,
+  education and industrial training.</p> <p>Digital History Studios - Digital History
+  Studios will be displaying a variety of projects, but most notably, the Berlin Wall
+  Experience for the Vive which was produced for the Newseum in DC. Viewers are brought
+  back in time to the Berlin Wall in the mid 1980’s and can explore various places
+  in both West and East Berlin. There are a variety of interactive elements such as
+  operating a searchlight on top of an observation tower, finding a hidden tunnel
+  to escape to the West and taking a sledgehammer to crack the Wall.</p> <p>Callen
+  Shaw Indie Games - VR Party Club is a party game for Oculus Rift, HTC Vive and Windows
+  Mixed Reality. Their goal is to build an easy learning VR game where 1-4 players
+  can throw, roll, shoot and slice their way to 1st place, in various board game and
+  mini game environments! VR Party Club was designed for comfortable, intuitive game
+  play to delight both VR veterans and neophytes. With one-button controls and zero-nausea
+  design, VR Party Club would like to become the first true "killer app" for VR.</p>
+  <p>Bully! Entertainment - Get the chance to test a gesture based installation piece
+  for the Avatar franchise where users can fly a Banshee - as well as a couple other
+  AR installations.</p> '
+duration: 12600000
+group:
+  country: us
+  created: 1444444528000
+  id: 19012631
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.58999633789062
+  name: BmoreVR - Baltimore Virtual and Augmented Reality Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: BmoreVR
+  who: VR Pioneers
+id: '259092846'
+link: https://www.meetup.com/BmoreVR/events/259092846/
+local_date: '2019-04-10'
+local_time: '18:00'
+name: Bmore VR Spring 2019 Raffle Meetup
+status: upcoming
+time: 1554933600000
+updated: 1551462100000
+utc_offset: -14400000
+venue:
+  address_1: 101 W. Dickman St
+  city: Baltimore
+  country: us
+  id: 24951694
+  lat: 39.26286315917969
+  localized_country_name: USA
+  lon: -76.61593627929688
+  name: City Garage
+  repinned: true
+  state: MD
+  zip: ''
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 15

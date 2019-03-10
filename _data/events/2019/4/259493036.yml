@@ -1,0 +1,47 @@
+created: 1551756222000
+date_in_series_pattern: false
+description: '<p>Hello all,</p> <p>Happy Hour: BYP will be hosting our next happy
+  hr at the elephant. For those of you who have never been to the elephant, you''re
+  in for a real treat! There will be multiple specials on food and drinks from 530pm-7pm.
+  Please come on time to receive the happy hour prices. We will have the space to
+  ultizie until 8pm.</p> <p>Parking:<br/>Street parking is available as well as there
+  are parking garages near each venue.</p> <p>Hope to see everyone there!</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1406905627000
+  id: 16121932
+  join_mode: approval
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Black Young Professionals of Baltimore
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Black-Young-Professionals
+  who: BYPs
+id: '259493036'
+link: https://www.meetup.com/Black-Young-Professionals/events/259493036/
+local_date: '2019-04-05'
+local_time: '17:30'
+name: BYP Happy HR
+status: upcoming
+time: 1554499800000
+updated: 1551756222000
+utc_offset: -14400000
+venue:
+  address_1: 924 N Charles Street
+  city: Baltimore
+  country: us
+  id: 24701400
+  lat: 0.0
+  localized_country_name: USA
+  lon: 0.0
+  name: The Elephant
+  repinned: false
+  state: MD
+  zip: ''
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 38

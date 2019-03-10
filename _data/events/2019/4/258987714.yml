@@ -1,0 +1,25 @@
+duration: 7200000
+group:
+  country: us
+  created: 1191846247000
+  id: 738729
+  join_mode: open
+  lat: 39.279998779296875
+  localized_location: Baltimore, MD
+  lon: -76.54000091552734
+  name: Charm City Social Club
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: CharmCitySocialClub
+  who: CCSCers
+id: '258987714'
+link: https://www.meetup.com/CharmCitySocialClub/events/258987714/
+local_date: '2019-04-28'
+local_time: '20:00'
+name: America Ninja Warrior taping
+time: 1556496000000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 15

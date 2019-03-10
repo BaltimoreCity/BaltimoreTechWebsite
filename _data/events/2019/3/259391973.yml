@@ -1,0 +1,25 @@
+duration: 7200000
+group:
+  country: us
+  created: 1312137585000
+  id: 2267371
+  join_mode: open
+  lat: 39.349998474121094
+  localized_location: Baltimore, MD
+  lon: -76.68000030517578
+  name: Baltimore Fine and Performing Arts for Singles
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Baltimore-Fine-and-Performing-Arts
+  who: Members
+id: '259391973'
+link: https://www.meetup.com/Baltimore-Fine-and-Performing-Arts/events/259391973/
+local_date: '2019-03-31'
+local_time: '14:30'
+name: Museum Lecture & Film
+time: 1554057000000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 1

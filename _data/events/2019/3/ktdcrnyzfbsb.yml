@@ -1,0 +1,36 @@
+created: 1503619966000
+date_in_series_pattern: false
+description: '<p><img src="https://secure.meetupstatic.com/photos/event/c/5/b/7/600_463970615.jpeg"
+  /></p> <p>RPG Players/GMs Wanted! To join our Pen and Paper Pathfinder/D&amp;D Campaign/D20
+  Group. We meet Thursday Evenings from 7 pm—11 pm in Dundalk, Maryland. No Experience
+  is necessary, but a sense of humor certainly is! For more information please send
+  a Private Message or email: [masked]. Thank you for your interest in joining our
+  group!</p> '
+duration: 14400000
+group:
+  country: us
+  created: 1503618955000
+  id: 25623700
+  join_mode: open
+  lat: 39.2599983215332
+  localized_location: Dundalk, MD
+  lon: -76.5
+  name: Eastern Baltimore County D20 Gaming Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Eastern-Baltimore-County-D20-Gaming-Meetup
+  who: Members
+how_to_find_us: We play in Dundalk, Maryland - Attendees will be given the exact address.
+id: ktdcrnyzfbsb
+link: https://www.meetup.com/Eastern-Baltimore-County-D20-Gaming-Meetup/events/ktdcrnyzfbsb/
+local_date: '2019-03-14'
+local_time: '19:00'
+name: Play Pathfinder/D&D and D20 Games
+status: upcoming
+time: 1552604400000
+updated: 1503619966000
+utc_offset: -14400000
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

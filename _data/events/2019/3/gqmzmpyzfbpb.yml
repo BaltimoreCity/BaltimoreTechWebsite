@@ -1,0 +1,43 @@
+created: 1522265225000
+date_in_series_pattern: false
+description: '<p>Reminder, You do not need to order food. You are welcome to bring
+  in only Wine/Beer and your Knitting/Crochet<br/>Sometimes you can find good parking
+  in front of Zaatar''s and often behind the furniture store at the light.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1522264260000
+  id: 27977208
+  join_mode: approval
+  lat: 39.47999954223633
+  localized_location: Hunt Valley, MD
+  lon: -76.6500015258789
+  name: That's the Pointers
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Thats-the-Pointers
+  who: Members
+how_to_find_us: We are the ones knitting.  Check Facebook for changes.
+id: gqmzmpyzfbpb
+link: https://www.meetup.com/Thats-the-Pointers/events/gqmzmpyzfbpb/
+local_date: '2019-03-11'
+local_time: '19:00'
+name: Knitting and Gabbing at Zaatar's
+status: upcoming
+time: 1552345200000
+updated: 1522265225000
+utc_offset: -14400000
+venue:
+  address_1: 1019 South Charles Street
+  city: Baltimore
+  country: US
+  id: 25193616
+  lat: 39.27775573730469
+  localized_country_name: USA
+  lon: -76.61428833007812
+  name: ZAATAR Mediterranean Cuisine
+  repinned: false
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

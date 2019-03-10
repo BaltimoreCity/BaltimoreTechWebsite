@@ -1,0 +1,67 @@
+created: 1541190239000
+date_in_series_pattern: false
+description: '<p>Join us for one hour of distraction free writing! We’ve discovered
+  that it’s strikingly helpful to write with other writers. See if it’s true for you
+  at 6:30 p.m. on Monday, April 22, 2019.</p> <p>Be it a book, blog, script, essay,
+  dissertation, resume, melody, poem or just plain work stuff, you are invited to
+  write it with us. No one will see what you''ve written or give you unsolicited advice.
+  Instead of just thinking about writing, come and get some real writing done.</p>
+  <p>SCHEDULE:<br/>6:30 - SESSION 1: quick intros.<br/>6:45 - timer starts: write
+  for 1 hour.<br/>7:45 - (the end) chat / take off / keep writing. the library closes
+  at 8 p.m.</p> <p>OPTIONAL SOCIALIZING may happen in the future depending how these
+  first few meetings go. Writing is very solitary. Connecting (and sometimes even
+  commiserating) with other writers is a cool thing.</p> <p>BEING LATE IS OKAY: just
+  show up and get settled, then check-in with me after the session. (I’m one of the
+  librarians on duty that evening.) If you were on time, please be willing to make
+  room for the friendly latecomer.<br/>Happy writing and I look forward to seeing
+  you at the Light Street Branch!</p> <p>What Should I Bring?<br/>Whatever you need
+  to be able to write!<br/>Bring earbuds/earplugs if you want to block the the occasional
+  conversation by other patrons.</p> <p>Other Important Details:<br/>The library has
+  WiFi: EPFL - no password.<br/>TRAVEL / PARKING: Street parking available for a fee.
+  Some street parking is free with a few block walk to the library.<br/>GUIDELINES:
+  Drink are welcome in the library with a lid - no food.</p> '
+duration: 5400000
+group:
+  country: us
+  created: 1528742091000
+  id: 28787017
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Shut Up & Write!™ Baltimore
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: shutupandwritebaltimore
+  who: Writers
+how_to_find_us: Look for us in the Teen Zone.
+id: '256076701'
+link: https://www.meetup.com/shutupandwritebaltimore/events/256076701/
+local_date: '2019-04-29'
+local_time: '18:30'
+name: Shut Up & Write!™ Baltimore
+pro_is_email_shared: false
+rsvp_close_offset: PT48H
+rsvp_limit: 15
+status: upcoming
+time: 1556577000000
+updated: 1543254326000
+utc_offset: -14400000
+venue:
+  address_1: 1251 Light Street
+  address_2: N39  16.4931  W76 36.7103
+  city: Baltimore
+  country: us
+  id: 1295151
+  lat: 39.27494812011719
+  localized_country_name: USA
+  lon: -76.61181640625
+  name: Enoch Pratt Free Library, Light Street
+  phone: 410 396 1096
+  repinned: true
+  state: MD
+  zip: '21230'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

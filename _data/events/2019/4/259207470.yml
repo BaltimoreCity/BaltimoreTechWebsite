@@ -1,0 +1,25 @@
+duration: 7200000
+group:
+  country: us
+  created: 1374353394000
+  id: 9441482
+  join_mode: approval
+  lat: 39.369998931884766
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Get Your Book On! (book club with food & drinks)
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Get-Your-Book-On-book-club-with-food-drinks
+  who: Readers
+id: '259207470'
+link: https://www.meetup.com/Get-Your-Book-On-book-club-with-food-drinks/events/259207470/
+local_date: '2019-04-19'
+local_time: '19:00'
+name: April 2019 Meetup
+time: 1555714800000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 2

@@ -1,0 +1,25 @@
+duration: 7200000
+group:
+  country: us
+  created: 1252523838000
+  id: 1520936
+  join_mode: approval
+  lat: 39.33000183105469
+  localized_location: Catonsville, MD
+  lon: -76.73999786376953
+  name: More than Moms Playgroup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: More-than-Moms
+  who: Supermoms
+id: '258703048'
+link: https://www.meetup.com/More-than-Moms/events/258703048/
+local_date: '2019-04-01'
+local_time: '20:00'
+name: MtM Open Board Meeting
+time: 1554163200000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 7

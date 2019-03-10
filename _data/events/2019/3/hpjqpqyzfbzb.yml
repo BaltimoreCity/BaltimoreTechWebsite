@@ -1,0 +1,54 @@
+created: 1547049980000
+date_in_series_pattern: false
+description: '<p>BonJour Tous! What is Tarot, the card game? NO we are not going to
+  read your cards, tea leaves or palm, and quite frankly my Crystal Ball has been
+  cracked for a while now. But we are going to play French Tarot. A card game that
+  is trick based and includes bidding. The deck holds 76 cards and they are all distributed
+  before the start of each round. Small hands bring your UNO card holder! The game
+  is played with 3, 4 or 5 players. I currently have two decks so the limit on this
+  will be 10. If you are responder 11 or 12 come! we will teach more. As we get larger
+  I will separate players into beginners and intermediate. We will be teaching and
+  playing open hands till people feel comfortable. Teaching is in English...okay maybe
+  Franglish. Once we move to closed hands looking for more French speaking.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1050330582000
+  id: 63757
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: The Baltimore French Language Meetup Group
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: french-171
+  who: French Speakers
+how_to_find_us: They are going to try putting us in the front section of the Lobby
+  Bar, but we may move to the Dining room so ask the bartender!
+id: hpjqpqyzfbzb
+link: https://www.meetup.com/french-171/events/hpjqpqyzfbzb/
+local_date: '2019-03-19'
+local_time: '19:00'
+name: French Tarot card game
+rsvp_limit: 14
+status: upcoming
+time: 1553036400000
+updated: 1547049980000
+utc_offset: -14400000
+venue:
+  address_1: 4 W University Pkwy
+  city: Baltimore
+  country: us
+  id: 26061916
+  lat: 39.33407211303711
+  localized_country_name: USA
+  lon: -76.61984252929688
+  name: Inn at The Colonnade Baltimore - a DoubleTree by Hilton Hotel
+  repinned: true
+  state: MD
+  zip: '21218'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 5

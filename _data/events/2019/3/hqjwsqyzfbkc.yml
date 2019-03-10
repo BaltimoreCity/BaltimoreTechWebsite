@@ -1,0 +1,41 @@
+created: 1551781653000
+date_in_series_pattern: false
+description: '<p>Lets slog on! Text me for the address if you don''t have it. [masked]</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1549302672000
+  id: 31086632
+  join_mode: open
+  lat: 39.38999938964844
+  localized_location: Parkville, MD
+  lon: -76.54000091552734
+  name: 'Baltimore/Parkville Kingdom Death: Monster'
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Hamilton-Kingdom-Death
+  who: Survivors
+id: hqjwsqyzfbkc
+link: https://www.meetup.com/Hamilton-Kingdom-Death/events/hqjwsqyzfbkc/
+local_date: '2019-03-27'
+local_time: '18:30'
+name: 'Kingdom Death: Another Lantern Year'
+status: upcoming
+time: 1553725800000
+updated: 1551781653000
+utc_offset: -14400000
+venue:
+  city: Parkville
+  country: us
+  id: 26165871
+  lat: 39.3773307800293
+  localized_country_name: USA
+  lon: -76.53968811035156
+  name: Parkville
+  repinned: false
+  state: MD
+  zip: ''
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 2

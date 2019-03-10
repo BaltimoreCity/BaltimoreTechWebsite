@@ -1,0 +1,36 @@
+created: 1520355818000
+date_in_series_pattern: false
+description: '<p>The 1st Monday Mixer" is the premier networking event for the real
+  estate investment community! This is not a formal meeting - it is unrivaled networking.</p>
+  <p>Meeting the 1st Monday of every month at:</p> <p>Champions /BWI Marriott 1743
+  West Nursery Road Linthicum Heights, MD</p> <p>Come, interact, and do business at
+  the hottest networking and deal-making venue around!</p> <p>"Where Real Estate Investors
+  Connect!"</p> <p>See you there,</p> <p>Bill &amp; The BWI Meetup Team</p> '
+duration: 10800000
+group:
+  country: us
+  created: 1189996734000
+  id: 689630
+  join_mode: open
+  lat: 39.15999984741211
+  localized_location: Glen Burnie, MD
+  lon: -76.58000183105469
+  name: BWI Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: BwiMeetup
+  who: Investors & Entrepreneurs
+id: bhnflpyzgbcb
+link: https://www.meetup.com/BwiMeetup/events/bhnflpyzgbcb/
+local_date: '2019-04-01'
+local_time: '18:00'
+name: Pure Networking - BWI Meetup "1st Monday Mixer"
+rsvp_limit: 100
+status: upcoming
+time: 1554156000000
+updated: 1520355818000
+utc_offset: -14400000
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 3

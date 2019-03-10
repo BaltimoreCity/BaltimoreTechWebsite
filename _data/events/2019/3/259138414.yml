@@ -1,0 +1,61 @@
+created: 1550702941000
+date_in_series_pattern: false
+description: '<p>Our signature monthly event, Mavericks On The Move is a dynamic interactive
+  live talkshow and networking experience hosted by branding expert and i am a brand®
+  founder, Jamilah Corbitt.</p> <p>Every 2nd Wednesday of the month, Jamilah brings
+  together some of the hottest entrepreneurs and business owners to share their expertise,
+  discuss how they’re growing their company + the challenges they face — in this dynamic
+  fireside chat and networking experience.</p> <p>*****<br/>Event is FREE with RSVP
+  - <a href="http://MavericksOnTheMove.com/Tickets" class="linkified">http://MavericksOnTheMove.com/Tickets</a>
+  (Additional event details and updates are provided upon signup)<br/>*****</p> <p>•
+  Expand your network - Connect with other entrepreneurs and business professionals
+  to explore the synergy. Our friendly atmosphere makes networking fun and easy —
+  even for the introvert.</p> <p>• Learn something new - We invite the best and brightest
+  professionals to share their expertise. Every event leaves you excited and ready
+  to execute.</p> <p>• Pitch your business - After the fireside chat and Q&amp;A with
+  our guest panelist(s), there’s a segment where you can hop on stage and share your
+  elevator pitch to the live studio audience, and a global audience online!</p> <p>Apply
+  to be a speaker at an upcoming event: <a href="http://MavericksOnTheMove.com/contact"
+  class="linkified">http://MavericksOnTheMove.com/contact</a> (We give priority to
+  attendees)</p> <p>Agenda:<br/>6:00 - 6:45 - Open Networking / Open Bar<br/>6:45
+  - 7:40 - Mavericks On The Move Talkshow &amp; Fireside Chat<br/>7:40 - 7:50 - Pitch
+  your business on stage<br/>7:40 - 8:00 - Open Networking</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1546878845000
+  id: 30865274
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Baltimore Entrepreneurs and Changemakers
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Baltimore-Entrepreneurs-and-Changemakers
+  who: Members
+id: '259138414'
+link: https://www.meetup.com/Baltimore-Entrepreneurs-and-Changemakers/events/259138414/
+local_date: '2019-03-13'
+local_time: '18:00'
+name: Mavericks On The Move (Live Talkshow & Networking Event)
+status: upcoming
+time: 1552514400000
+updated: 1550703042000
+utc_offset: -14400000
+venue:
+  address_1: 207 E Redwood St
+  city: Baltimore
+  country: us
+  id: 26052779
+  lat: 39.28877258300781
+  localized_country_name: USA
+  lon: -76.61189270019531
+  name: Hotel RL Baltimore Inner Harbor
+  repinned: false
+  state: MD
+  zip: '21202'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 19

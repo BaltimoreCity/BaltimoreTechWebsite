@@ -1,0 +1,48 @@
+created: 1522100154000
+date_in_series_pattern: false
+description: '<p>Join us as we gather weekly on Sunday mornings. Our gatherings are
+  held in the heart of Fells Point at the New Century School. Now is the time to begin
+  inviting people into our Sunday morning gatherings. All are welcome. In addition
+  to Bible teaching Josh will make it a point to share a short gospel message so that
+  those who do not have a personal relationship with God can respond. We will also
+  try to incorporate meals into our Sunday evenings so that hanging out is all that
+  much more fun. Childcare is provided.</p> '
+duration: 5400000
+group:
+  country: us
+  created: 1493078945000
+  id: 23413126
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.58999633789062
+  name: Baltimore Church Startup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: baltimore-churhc-startup
+  who: Members
+id: kdjvmpyzfbnb
+link: https://www.meetup.com/baltimore-churhc-startup/events/kdjvmpyzfbnb/
+local_date: '2019-03-10'
+local_time: '10:00'
+name: Sunday Morning Service
+status: upcoming
+time: 1552226400000
+updated: 1522100155000
+utc_offset: -14400000
+venue:
+  address_1: 710 South Ann Street
+  city: Baltimore
+  country: us
+  id: 25741063
+  lat: 39.283203125
+  localized_country_name: USA
+  lon: -76.59147644042969
+  name: 'New Century School '
+  repinned: false
+  state: MD
+  zip: '21231'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 4

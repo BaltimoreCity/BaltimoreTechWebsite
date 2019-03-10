@@ -1,0 +1,87 @@
+created: 1519148005000
+date_in_series_pattern: false
+description: '<p>First timer? Read the FAQ below! (Thanks to the Columbia/Howard County
+  Social/Games for this FAQ)</p> <p>Q: Is this event free? A: Overall, yes, until
+  you get addicted and start buying games too! There is an expectation to at least
+  buy a drink from the Cantina. They work hard to keep up with us and we want to support
+  them as well. Buying food is better, but a drink would be expected. If you cannot
+  afford a drink one week, try for another week.</p> <p>Q: Where is everyone? A: Gaming
+  usually happens to the left of the main door on top of the platform. Sometimes,
+  we get moved around a little bit and may be in the booths.</p> <p>Q: What time is
+  the event? A: 6 pm to however late people stick around. The bar is open until 1,
+  and the grill/sushi closes at 10. It really depends on what game is getting played
+  vs. people’s own schedules. Most people stick around until 8:30/9.</p> <p>Q: How
+  do I start playing a game? A: We all just kind of figure it out as we go. At the
+  beginning of the evening (or when a game finishes) we generally just try and take
+  stock of how many people are looking to start a game and figure out what make the
+  most sense with style of game and interest. If you''re new or are looking for a
+  particular type of game to play, mention it so we can find the best fit for the
+  most people. Most people who own the games are happy to teach them, and that is
+  what happens most of the time.</p> <p>Q: What kind of games do you play? A: All
+  kinds! The board gaming hobby has exploded in the past 20+ years to tens of thousands
+  of games. If you''re not already familiar, it can be a bit overwhelming. Because
+  we''re constantly trying out new games, it''s common that it''s a first time for
+  most of the players. An explanation of the rules is a standard part of the experience,
+  so just come ready to learn and have fun. Our group tends to heavily play “Euros”.
+  We will play other board game types, but be aware that older board games, such as
+  Monopoly, Sorry or traditional older board games generally are not played. You are
+  always welcome to bring what you’d like to play and hope for takers.</p> <p>Q: Can
+  I show up late? A: Yes, but keep in mind that there may be no free players right
+  when you do. You''ll probably have to wait a while for a game to break up so you
+  can join in. Please let people know that you want to play so we can accommodate
+  you and fit you in. We generally start playing after 6.</p> <p>Q: Can I eat while
+  I play? A: Often yes, but always ask the owner of the game. Games are mostly paper,
+  after all, and no one wants greasy finger foods turning their game into a very expensive
+  napkin. Most of us get there earlier at 5:30 to eat and then play. The tables are
+  not very big, so you may have to put your food off to the side while playing.</p>
+  <p>Q: Do I have to bring a game? A: No</p> <p>Q: But *can* I bring a game? A: Absolutely!
+  Every game at this event is brought by attendees. Just be sure you''re familiar
+  enough with the rules to teach new players.</p> <p>Q: Can I just watch? A: Yes.
+  It''s pretty common, especially when people are waiting for more players. Just ask
+  the table and make sure any friendly chatting doesn''t disrupt the flow of the game.</p>
+  <p>Q: What if I didn''t RSVP? A: No one is going to pester you about it if you forget
+  or just make a last minute decision to join in ... BUT a high RSVP count lets other
+  meetup folk know that the group is healthy and active. It also helps with emergency
+  situations where we may need to move our location last minute and we can let you
+  know so you don’t end up going to the wrong place.</p> '
+duration: 14400000
+group:
+  country: us
+  created: 1367546278000
+  id: 8323892
+  join_mode: open
+  lat: 39.25
+  localized_location: Halethorpe, MD
+  lon: -76.69999694824219
+  name: Halethorpe Board Game Club
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Halethorpe-Board-Game-Club
+  who: Board Gamers
+how_to_find_us: We are to the left of the front door on the platform.
+id: crttlqyzfbhc
+link: https://www.meetup.com/Halethorpe-Board-Game-Club/events/crttlqyzfbhc/
+local_date: '2019-03-25'
+local_time: '18:00'
+name: Monday night board games
+status: upcoming
+time: 1553551200000
+updated: 1541983600000
+utc_offset: -14400000
+venue:
+  address_1: 4802 Benson Ave
+  city: Halethorpe
+  country: us
+  id: 848040
+  lat: 39.25582504272461
+  localized_country_name: USA
+  lon: -76.68729400634766
+  name: Fish Head Cantina
+  phone: (410) 247-2474
+  repinned: true
+  state: MD
+  zip: '21227'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 4

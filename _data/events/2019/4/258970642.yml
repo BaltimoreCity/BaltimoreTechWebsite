@@ -1,0 +1,46 @@
+created: 1550177642000
+date_in_series_pattern: false
+description: '<p>Join us for a GIS Lab session, demonstration, and talks at the Morgan
+  State University Center for Advanced Transportation and Infrastructure Engineering
+  (CATIER) lab in the Institute of Urban Research <a href="https://www.morgan.edu/iur"
+  class="linkified">https://www.morgan.edu/iur</a>. Additional meeting details to
+  follow.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1531830686000
+  id: 29276543
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: MaptimeBmore
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: maptime_bmore
+  who: Mappers
+id: '258970642'
+link: https://www.meetup.com/maptime_bmore/events/258970642/
+local_date: '2019-04-09'
+local_time: '18:30'
+name: GIS Jam Morgan Center for Advanced Transportation and Infrastructure Engineering
+status: upcoming
+time: 1554849000000
+updated: 1550177642000
+utc_offset: -14400000
+venue:
+  address_1: 1700 E Cold Spring Ln
+  city: Baltimore
+  country: us
+  id: 26174621
+  lat: 39.34424591064453
+  localized_country_name: USA
+  lon: -76.58243560791016
+  name: 1700 E Cold Spring Ln
+  repinned: false
+  state: MD
+  zip: '21251'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 14

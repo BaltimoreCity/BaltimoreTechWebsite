@@ -1,0 +1,54 @@
+created: 1517353697000
+date_in_series_pattern: false
+description: '<p>• What we''ll do<br/>CC Board Game Night! A Weekly Thursday Board
+  Games Meetup At CC Parkville - HQ</p> <p>Casual Play Board Gaming at Collectors
+  Corner downstairs in The Gamers Sanctuary.</p> <p>Collectors Corner<br/>7911 Harford
+  Rd.<br/>Parkville, MD 21234</p> <p>Casual Board Gaming, Board Game Demos + Free
+  DOMINICK''S PIZZA Provided to All Atendees, Snacks &amp; Refreshments too</p> <p>BYOG
+  = Bring Your Own Games or Play Games from our DEMO Library like Smash Up, Dominion,
+  Arkham Horror, Boss Monster &amp; many more...</p> <p>Purpose - Bringing together
+  Board Gamers, Our goal is to help Board Game Players meetup and try new games, get
+  together and socialize in the store''s spacious gaming area and havea fun time.</p>
+  <p>Impromptu Games &amp; Demos are all planned for this new weekly Thursday Night
+  Ongoing Event. We hope to Feature New &amp; Local Games too...</p> <p>+</p> <p>20%
+  Off All Board Games for Players Attending.</p> <p>Let''s make this a regular date
+  and bring friends...</p> <p>• What to bring</p> <p>• Important to know</p> '
+duration: 10800000
+group:
+  country: us
+  created: 1444757344000
+  id: 19024195
+  join_mode: open
+  lat: 39.38999938964844
+  localized_location: Parkville, MD
+  lon: -76.54000091552734
+  name: Collectors Corner Stores MD - Discussion, Events & Gaming.
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Collectors-Corner-Stores-Discussion-Events-Gaming
+  who: CC Fans!
+id: wcqbhpyzfbsb
+link: https://www.meetup.com/Collectors-Corner-Stores-Discussion-Events-Gaming/events/wcqbhpyzfbsb/
+local_date: '2019-03-14'
+local_time: '18:00'
+name: CC Board Game Night - Weekly at CC Parkville - HQ
+status: upcoming
+time: 1552600800000
+updated: 1517353697000
+utc_offset: -14400000
+venue:
+  address_1: 7911 Harford Rd
+  city: Parkville
+  country: us
+  id: 3824292
+  lat: 39.37506866455078
+  localized_country_name: USA
+  lon: -76.54151153564453
+  name: Collectors Corner
+  repinned: false
+  state: MD
+  zip: '21234'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

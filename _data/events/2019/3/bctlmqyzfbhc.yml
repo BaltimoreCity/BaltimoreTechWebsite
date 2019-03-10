@@ -1,0 +1,53 @@
+created: 1543185948000
+date_in_series_pattern: false
+description: '<p><img src="https://secure.meetupstatic.com/photos/event/6/b/4/6/600_462327462.jpeg"
+  /></p> <p>This is a meet up for all FreeCodeCamp members along with anyone else
+  who is interested in programming. Our goal is to fill in the gap in areas where
+  one might be struggling while eating Lotsa Pizza! :)</p> <p>We meet on the second
+  Monday of every month.</p> <p>The languages and technologies currently taught by
+  freeCodeCamp include HTML5, CSS 3, JavaScript, jQuery, Bootstrap, Sass, React.js,
+  Node.js, Express.js, MongoDB, and Git.</p> <p>Not a user of Free Code Camp? Don''t
+  worry.<br/>We are a Meetup of individuals of many levels of experience and all corners
+  of software development!</p> <p>Come out and join us at LOTSA Pizza 🍕 in Towson
+  every Monday at 7:30 PM.</p> <p>Our Facebook Page:<br/>Click Here For Facebook Page
+  (<a href="https://www.facebook.com/groups/free.code.camp.baltimore" class="linkified">https://www.facebook.com/groups/free.code.camp.baltimore</a>)</p>
+  <p>Our Slack Invite:</p> <p>Click Here To Join Us On Slack (<a href="https://join.slack.com/fccbaltimore/shared_invite/MjAwNzQyMjIwMTc4LTE0OTc5ODIwODItNDhkODc3YTA2Mg"
+  class="linkified">https://join.slack.com/fccbaltimore/shared_invite/MjAwNzQyMjIwMTc4LTE0OTc5ODIwODItNDhkODc3YTA2Mg</a>)</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1497974462000
+  id: 24572106
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: FreeCodeCamp Baltimore
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: FreeCodeCamp-Baltimore
+  who: Members
+how_to_find_us: We meet in the side room on the left.
+id: bctlmqyzfbhc
+link: https://www.meetup.com/FreeCodeCamp-Baltimore/events/bctlmqyzfbhc/
+local_date: '2019-03-25'
+local_time: '19:30'
+name: Monday Web Development
+status: upcoming
+time: 1553556600000
+updated: 1543185948000
+utc_offset: -14400000
+venue:
+  address_1: 319 York Road
+  city: Towson
+  country: US
+  id: 25317964
+  lat: 39.39881896972656
+  localized_country_name: USA
+  lon: -76.60311889648438
+  name: Lotsa Stone Fired Pizza
+  repinned: true
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 3

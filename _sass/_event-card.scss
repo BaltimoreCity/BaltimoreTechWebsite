@@ -17,12 +17,12 @@
     }
     &:first-child {
       &::before {
-        background: $olive-color;
+        background: $cyan-color;
       }
     }
     &:nth-child(2) {
       &::before {
-        background: $cyan-color;
+        background: $olive-color;
       }
     }
   }

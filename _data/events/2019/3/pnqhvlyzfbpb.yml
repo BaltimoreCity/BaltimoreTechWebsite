@@ -1,0 +1,52 @@
+created: 1466009376000
+date_in_series_pattern: false
+description: '<p>Train the body, dance from the heart! Study the transformative art
+  of belly dance in a gorgeous studio setting in historic Fells Point. We''ll break
+  down the fundamental movements, including hip and torso isolations, graceful hand
+  and arm movements and powerful shimmies. We''ll also explore different styles of
+  belly dance and their corresponding music and cultural background. This class is
+  multi-level and beginners are welcome. More advanced dancers will be given additional
+  layers.</p> <p>Isabel’s classes are welcoming and and positive with an emphasis
+  on clean technique, musicality, cultural insight and self-expression. She brings
+  her experience with yoga into the dance studio to help students develop strength,
+  flexibility and control, along with a a joyful appreciation of the human body and
+  all it can do.</p> <p>Drop in any time for $25, or register for a 4-week session
+  and save 25%. <br/>More info: <a href="http://www.isabelly.com/classes.html"><a
+  href="http://www.isabelly.com/classes.html" class="linkified">http://www.isabelly.com/classes.html</a></a><br/>Registration:
+  <a href="http://www.sanctuarybody.com/belly-dance-classes" class="linkified">http://www.sanctuarybody.com/belly-dance-classes</a></p> '
+group:
+  country: us
+  created: 1163087286000
+  id: 362261
+  join_mode: approval
+  lat: 39.36000061035156
+  localized_location: Baltimore, MD
+  lon: -76.58999633789062
+  name: Baltimore/DC Belly Dance and Music of the Middle East!
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Baltimore-DC-Bellydance
+  who: Bellydancers and Musicians
+id: pnqhvlyzfbpb
+link: https://www.meetup.com/Baltimore-DC-Bellydance/events/pnqhvlyzfbpb/
+local_date: '2019-03-11'
+local_time: '19:30'
+name: Belly Dance Technique and Artistry
+status: upcoming
+time: 1552347000000
+updated: 1466009607000
+utc_offset: -14400000
+venue:
+  address_1: 710 S Ann St
+  city: Baltimore
+  country: US
+  id: 18998242
+  lat: 39.283111572265625
+  localized_country_name: USA
+  lon: -76.59124755859375
+  name: Sanctuary Bodyworks
+  repinned: false
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

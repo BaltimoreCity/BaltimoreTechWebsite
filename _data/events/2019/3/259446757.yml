@@ -1,0 +1,25 @@
+duration: 14400000
+group:
+  country: us
+  created: 1542342781000
+  id: 30536290
+  join_mode: approval
+  lat: 39.33000183105469
+  localized_location: Baltimore, MD
+  lon: -76.61000061035156
+  name: Let's Flock Together
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Lets-Flock-Together
+  who: Members
+id: '259446757'
+link: https://www.meetup.com/Lets-Flock-Together/events/259446757/
+local_date: '2019-03-10'
+local_time: '11:00'
+name: Brunch and St Patrick's Day Parade
+time: 1552230000000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 4

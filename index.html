@@ -137,23 +137,33 @@ js-list:
             <li class="list-inline-item">Event</li>
           </ul>
           <div>
-            <a class="text-dark" href="{{ site.baseurl }}/learn"
+            <a class="text-dark" href="{{ site.baseurl }}/events"
               ><strong><u>See All Events</u></strong></a
             >
           </div>
         </div>
       </div>
       <div class="row">
-        {% assign events = site.data.upcoming-events | slice: 0, 6 %} {% for
-        event in events %}
+        {% assign events = "" | split: ',' %}
+        {% for year in site.data.events %}
+          {% for month in year[1] %}
+            {% for event_hash in month[1] %}
+              {% assign event = event_hash[1] %}
+              {% assign event.type = 'meetup' %}
+              {% assign events = events | push: event %}
+            {% endfor %}
+          {% endfor %}
+        {% endfor %}
+        {% assign events = events | slice: 0, 6 %}
+        {% for event in events %}
         <div class="col-sm-6 col-lg-4 my-4">
-          <div class="event-card {{ event.type }}">
+          <div class="event-card meetup">
             <div class="event-details">
-              <div class="event-type">#{{ event.type }}</div>
+              <div class="event-type">#meetup</div>
               <h4>
-                <strong>{{ event.title }}</strong>
+                <strong>{{ event.name }}</strong>
               </h4>
-              <p>{{ event.location }}</p>
+              <p>{{ event.venue.name }}</p>
               <a
                 class="sign-up btn btn-dark text-uppercase rounded-pill"
                 href="{{ event.link }}"
@@ -163,9 +173,9 @@ js-list:
               </a>
             </div>
             <div class="event-date">
-              <strong>{{ event.date }}</strong
+              <strong>{{ event.local_date }}</strong
               ><br />
-              <strong>{{ event.time }}</strong>
+              <strong>{{ event.local_time }}</strong>
             </div>
           </div>
         </div>

@@ -1,0 +1,46 @@
+created: 1547659122000
+date_in_series_pattern: false
+description: '<p>WE''RE ROCKING OUT THE 70''s/80''s ''CAUSE IT WAS A GROOVY TIME,
+  BE THERE ON THE DIME (10PM-2AM). IT WILL BE LOTS OF BE FUN SO THAT''S HOW I''M CELEBRATING
+  MINE! WE ARE COMING TOGETHER WITH A ''70''S/ 80''sTHEME, TO CELEBRATE THE BIRTH
+  OF OUR BEAUTIFUL QUEEN-MAHOGANY!</p> <p>ENJOY SOME FUNKY, FRIDAY, FUN AS WE DANCE
+  THE NIGHT AWAY WITH A SEXY 70''s/80''S PARTY WITH BALTIMORE''S BEST DJS!</p> <p>THE
+  SEXIEST SOUL TRAIN LINE YOU''LL EVER COME THROUGH! THIS IS A DANCE PARTY SO SHOW
+  UP &amp; AND JUST DO YOU. WE''RE GONNA DANCE &amp; PARTY HARD.. ''CAUSE THAT''S
+  WHAT THE 70''S &amp; 80''S WAS ABOUT! NO DOUBT!</p> <p>BELL BOTTOMS, PLATFORMS,
+  TYE DYE, SLOUCH SOCKS, REEBOK, TRACK SUIT and HAIR (DONT FORGET ABOUT THE HAIR...
+  THIS IS GONNA BE FUN so IM SURE YOU''LL WANNA COME!</p> '
+duration: 14400000
+fee:
+  accepts: cash
+  amount: 20.0
+  currency: USD
+  description: ''
+  label: Price
+  required: false
+group:
+  country: us
+  created: 1547485204000
+  id: 30922260
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Mix, Meet&Mingle
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: meetup-group-UIboPcrg
+  who: Members
+id: '258129761'
+link: https://www.meetup.com/meetup-group-UIboPcrg/events/258129761/
+local_date: '2019-03-29'
+local_time: '22:00'
+name: 70 vs 80's Party Soul Train Edition
+status: upcoming
+time: 1553911200000
+updated: 1547659122000
+utc_offset: -14400000
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 18

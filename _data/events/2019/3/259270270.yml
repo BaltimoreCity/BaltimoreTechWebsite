@@ -1,0 +1,51 @@
+created: 1551115370000
+date_in_series_pattern: false
+description: '<p>Brace yourself - the end of season player party is coming! Join us
+  at Mother''s Federal Hill Grille from 2pm-6pm to celebrate a successful winter season.
+  Also, we''ll be serving up some FREE BUD LIGHT for all our Winter Volo players from
+  2pm - 4pm.</p> <p>You must have played in the Winter VOLO CITY leagues for the free
+  beer and RSVP on meetup.com. First 700 RSVP''s ONLY. Guests of players will be $10.
+  All others will be $20. Get ready for a crazy good time of Flip Cup, friends, and
+  free beer to celebrate a great Winter season.</p> <p>Remember that Spring leagues
+  are right around the corner! Spring leagues come with another free beer party. <a
+  href="http://www.volocity.org/baltimore/" class="linkified">http://www.volocity.org/baltimore/</a></p> '
+duration: 14400000
+group:
+  country: us
+  created: 1313096452000
+  id: 2327581
+  join_mode: open
+  lat: 39.29999923706055
+  localized_location: Baltimore, MD
+  lon: -76.61000061035156
+  name: Volo City Social Sports
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: BaltimoreSocial
+  who: Members
+id: '259270270'
+link: https://www.meetup.com/BaltimoreSocial/events/259270270/
+local_date: '2019-03-23'
+local_time: '14:00'
+name: WINS OF WINTER - End of Season Player Party
+rsvp_limit: 700
+status: upcoming
+time: 1553364000000
+updated: 1551117954000
+utc_offset: -14400000
+venue:
+  address_1: 1113 S Charles St
+  city: Baltimore
+  country: us
+  id: 26202036
+  lat: 39.276363372802734
+  localized_country_name: USA
+  lon: -76.61407470703125
+  name: Mother's Federal Hill Grille
+  repinned: true
+  state: MD
+  zip: '21230'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 123

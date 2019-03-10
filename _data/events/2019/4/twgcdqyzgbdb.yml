@@ -1,0 +1,53 @@
+created: 1534814400000
+date_in_series_pattern: false
+description: '<p>Join fellow Go programming enthusiasts, professionals and the just-curious
+  for an evening of presentations, learning and socializing.</p> <p>We aim to be a
+  welcoming and inclusive group regardless of your skill level, race or gender identity.
+  Don''t hesitate to come and spend some quality time with us as we explore all that
+  Go has to offer.</p> <p>Speakers/Talks</p> <p>While we never run out of impromptu
+  Go topics to discuss at our meetings, if you''d like to give a full-length or even
+  a lightning talk on something you''re working on or find interesting (relevant to
+  Go, of course), feel free to reach out and we''ll put you on the agenda.</p> <p>Location</p>
+  <p>Our meetups are hosted at City Garage, 101 W. Dickman Street, Baltimore, MD 21230.
+  There''s plenty of free parking and is right off of I-95 (via Exit 54).</p> <p>#golang</p> '
+duration: 10800000
+group:
+  country: us
+  created: 1468693788000
+  id: 20191024
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Baltimore Metro Area Go User Group
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: BaltimoreGolang
+  who: Gophers
+id: twgcdqyzgbdb
+link: https://www.meetup.com/BaltimoreGolang/events/twgcdqyzgbdb/
+local_date: '2019-04-02'
+local_time: '18:30'
+name: Baltimore Go Monthly Meeting
+pro_is_email_shared: false
+rsvp_limit: 30
+status: upcoming
+time: 1554244200000
+updated: 1552010705000
+utc_offset: -14400000
+venue:
+  address_1: 101 West Dickman Street
+  city: Baltimore
+  country: us
+  id: 25327988
+  lat: 39.26326370239258
+  localized_country_name: USA
+  lon: -76.61634826660156
+  name: Betamore at City Garage
+  repinned: false
+  state: MD
+  zip: ''
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 7

@@ -1,0 +1,25 @@
+duration: 14400000
+group:
+  country: us
+  created: 1538530614000
+  id: 30042517
+  join_mode: approval
+  lat: 39.400001525878906
+  localized_location: Towson, MD
+  lon: -76.61000061035156
+  name: 35 and Over Wine and Dine Meetup Group
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: 35-and-Over-Wine-and-Foodie-Meetup-Group
+  who: Members
+id: '259251756'
+link: https://www.meetup.com/35-and-Over-Wine-and-Foodie-Meetup-Group/events/259251756/
+local_date: '2019-03-16'
+local_time: '10:00'
+name: 'St. Paddy’s Pre Game & Brunch (Open bar) '
+time: 1552744800000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 9

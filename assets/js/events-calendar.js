@@ -37,7 +37,7 @@ $(document).ready(function() {
 });
 
 function eventListing(containerId, initialDate = moment()) {
-  const data = JSON.parse(`{{site.data.events | jsonify}}`);
+  const data = {{site.data.events | jsonify}};
   const $container = $(containerId);
   const $listGroup = $(`<div class="list-group"></div>`);
   const filterdate = initialDate;
@@ -56,9 +56,7 @@ function eventListing(containerId, initialDate = moment()) {
   }
 
   function listItem(event) {
-    const start = moment(event.start).format("h:mm a");
-    const end = moment(event.end).format("h:mm a");
-    return `<li>${start} - ${end} | ${event.title}&nbsp;&nbsp;<a href="${event.link}" target="_blank" class="btn btn-olive event-btn">sign up</a></li>`;
+    return `<li>${event.local_date} - ${event.local_time} | ${event.name}&nbsp;&nbsp;<a href="${event.link}" target="_blank" class="btn btn-olive event-btn">sign up</a></li>`;
   }
 
   const render = function() {
@@ -72,19 +70,19 @@ function eventListing(containerId, initialDate = moment()) {
     }
 
     // sort the events
-    events.sort((a, b) => moment(a.start).diff(moment(b.start)));
+    events.sort((a, b) => moment(a.local_date).diff(moment(b.local_date)));
 
     const filteredEvents =
-      filterEventType === "all"
+      filterEventType === "all" || filterEventType === 'meetup'
         ? events
         : events.filter(event => event.type === filterEventType);
 
     if (filteredEvents.length) {
       const eventsByDate = filteredEvents.reduce(function(acc, event) {
-        if (acc[event.start]) {
-          acc[event.start].push(event);
+        if (acc[event.local_date]) {
+          acc[event.local_date].push(event);
         } else {
-          acc[event.start] = [event];
+          acc[event.local_date] = [event];
         }
         return acc;
       }, {});
@@ -92,7 +90,6 @@ function eventListing(containerId, initialDate = moment()) {
       const $items = Object.keys(eventsByDate).map(key => {
         const dateEvents = eventsByDate[key];
         const eventLinks = dateEvents.map(e => listItem(e));
-
         return eventLinks.length ? listGroupItem(key, eventLinks.join("")) : "";
       });
 

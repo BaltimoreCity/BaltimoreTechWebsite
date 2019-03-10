@@ -1,0 +1,51 @@
+created: 1551745072000
+date_in_series_pattern: false
+description: '<p>Voices for Children recruits, trains, and supervises community volunteers
+  to become Court Appointed Special Advocates (CASA’s). They ensure abused and neglected
+  children are provided the necessary services and placed into safe and permanent
+  homes. While we have generous volunteer offers, we are looking for ways to recruit
+  a greater diversity of volunteers. That’s where you come in...</p> <p>Hear from
+  the Executive Director &amp;<br/>Help Solve Up around their challenge</p> <p>Over
+  a glass of wine, guests will get a chance to socialize, hear a brief presentation,
+  then start designing solutions to share with Voices for Children that will be considered
+  and may even be implemented.</p> <p>Want to make a difference in our community for
+  a worthy cause? Stand Up, Step up, and join this Solve Up: Solutions start here.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1549900546000
+  id: 31140094
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Solve Up
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Solve-Up
+  who: Members
+id: '259489416'
+link: https://www.meetup.com/Solve-Up/events/259489416/
+local_date: '2019-03-18'
+local_time: '18:30'
+name: Solve Up with Voices for Children
+status: upcoming
+time: 1552948200000
+updated: 1551745701000
+utc_offset: -14400000
+venue:
+  address_1: 8210 Main St
+  city: Ellicott City
+  country: us
+  id: 26221733
+  lat: 39.26760482788086
+  localized_country_name: USA
+  lon: -76.7979965209961
+  name: Pure Wine Cafe
+  repinned: true
+  state: MD
+  zip: '21043'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 5

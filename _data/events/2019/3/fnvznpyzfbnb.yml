@@ -1,0 +1,53 @@
+created: 1523336857000
+date_in_series_pattern: false
+description: '<p>Navigators Meetings will be held twice monthly on the second and
+  fourth Sundays of the month. The first meeting of the month will be held at 3:00
+  at Baltimore Ethical Society, our sponsoring agency, and will last approximately
+  1.5-2 hours. The second meeting of the month will be held out in the community at
+  various times according to the activity. Some months we will provide an optional
+  third “flex” meeting that may be a social get together or in interesting community
+  activity.</p> <p>This is a family scouting group and the expectation is that parents/guardians
+  attend the meetings with their children.</p> <p>Yearly dues for our shortened year
+  will be $40 per family, which includes one shirt. BES members receive a discount
+  as being part of our sponsoring agency and their dues are $30. Additional uniform
+  shirts cost $13.50. There will be an additional fee per child if we purchase patches.
+  All activities will be paid by the family, although we will strive for free or cheaper
+  activities. Monies will be handled through PayPal. No refunds.</p> '
+group:
+  country: us
+  created: 1306030370000
+  id: 1897481
+  join_mode: open
+  lat: 39.33000183105469
+  localized_location: Baltimore, MD
+  lon: -76.61000061035156
+  name: The Baltimore Ethical Society Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: bmorethical
+  who: Ethicals
+id: fnvznpyzfbnb
+link: https://www.meetup.com/bmorethical/events/fnvznpyzfbnb/
+local_date: '2019-03-10'
+local_time: '15:00'
+name: Navigators Meeting
+status: upcoming
+time: 1552244400000
+updated: 1523336857000
+utc_offset: -14400000
+venue:
+  address_1: 2521 Saint Paul Street
+  city: Baltimore
+  country: us
+  id: 13298222
+  lat: 39.31866455078125
+  localized_country_name: USA
+  lon: -76.61531066894531
+  name: Village Learning Place Inc
+  repinned: false
+  state: MD
+  zip: '21218'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 2

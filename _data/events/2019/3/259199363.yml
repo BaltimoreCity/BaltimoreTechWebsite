@@ -1,0 +1,58 @@
+created: 1550868964000
+date_in_series_pattern: false
+description: '<p>Directions from 95 East or West: Take the I 195 exit toward BWI Airport,
+  then take Rt 1 South (1st exit). Take the 1st Right on South St and in two blocks
+  make a left into the park. Go through the entrance ($3 charge) and follow the road
+  to a T. Make a left at the T and go about 2 - 3 miles to the parking lot by the
+  swinging bridge. Park on Left Hand Side.</p> <p>Directions Guinness Brewery: Exit
+  the Park and make a right on South St, then a Left at Rt 1. Guinness Brewery about
+  6 - 10 blocks off Rt 1 on the Right Hand Side. Enjoy freshly brewed Guinness Beer
+  and a variety of food items. Gift shop, bar and restaurant located inside the Guinness
+  Building.</p> <p>Greg''s Cell:[masked]</p> <p>Dogs Allowed.</p> <p>Wear hiking shoes.</p>
+  <p>Bring Water and Food for lunch/snack.</p> <p>*** IMPORTANT ***</p> <p>BY ATTENDING
+  THIS EVENT, YOU AGREE TO THE LIABILITY WAIVER, INDEMNIFICATION, ASSUMPTION OF RISK,
+  AND OTHER TERMS AND CONDITIONS (<a href="https://www.meetup.com/HikingAroundBaltimore/pages/23647795/LIABILITY_WAIVER_AND_ASSUMPTION_OF_RISK/"
+  class="linkified">https://www.meetup.com/HikingAroundBaltimore/pages/23647795/LIABILITY_WAIVER_AND_ASSUMPTION_OF_RISK/</a>)
+  (revision July 6, 2017). PLEASE READ THIS AGREEMENT CAREFULLY BEFORE RSVP''ING.</p> '
+duration: 12600000
+group:
+  country: us
+  created: 1228055225000
+  id: 1330116
+  join_mode: open
+  lat: 39.33000183105469
+  localized_location: Baltimore, MD
+  lon: -76.61000061035156
+  name: Hiking Around Baltimore (HAB)
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: HikingAroundBaltimore
+  who: HAB'ers
+how_to_find_us: Meet in the Parking Lot by the Swinging Bridge
+id: '259199363'
+link: https://www.meetup.com/HikingAroundBaltimore/events/259199363/
+local_date: '2019-03-16'
+local_time: '11:30'
+name: 'Patapsco State Park: Cascade Falls & Guinness Brewery, Moderate 7-8 Miles '
+rsvp_limit: 61
+status: upcoming
+time: 1552750200000
+updated: 1550868964000
+utc_offset: -14400000
+venue:
+  address_1: 5120 South Street
+  city: Arbutus
+  country: us
+  id: 1264309
+  lat: 39.221614837646484
+  localized_country_name: USA
+  lon: -76.70476531982422
+  name: Patapsco State Park
+  phone: 410-461-5005
+  repinned: true
+  state: MD
+  zip: '21227'
+visibility: public
+waitlist_count: 8
+yes_rsvp_count: 64

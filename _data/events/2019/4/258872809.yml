@@ -1,0 +1,36 @@
+created: 1549902942000
+date_in_series_pattern: false
+description: '<p>The city of Daggermark is best known for its poisoners and assassins,
+  who maintain active guilds that enjoy the full respect of local authorities. Local
+  venture-captain Istivil Bosk prefers to keep his head down and stays out of their
+  affairs, but he has recently learned that a Pathfinder agent has been targeted for
+  assassination. Can the PCs enact the venture-captain''s daring plot to save this
+  agent without becoming the assassins'' next victims?</p> <p>Written by Nicholas
+  Wasko</p> '
+duration: 14400000
+group:
+  country: us
+  created: 1345720991000
+  id: 4620922
+  join_mode: approval
+  lat: 39.29999923706055
+  localized_location: Baltimore, MD
+  lon: -76.61000061035156
+  name: Pathfinder and Starfinder Society of Baltimore, MD
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Pathfinder-Society-of-Baltimore
+  who: Pathfinders
+id: '258872809'
+link: https://www.meetup.com/Pathfinder-Society-of-Baltimore/events/258872809/
+local_date: '2019-04-14'
+local_time: '10:00'
+name: 'PFS #10-01: Oathbreakers Die (1-5) (JohnCon)'
+status: upcoming
+time: 1555250400000
+updated: 1552016307000
+utc_offset: -14400000
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 3

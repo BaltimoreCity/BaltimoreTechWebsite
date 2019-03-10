@@ -1,0 +1,42 @@
+created: 1543074417000
+date_in_series_pattern: false
+description: '<p>Look for us on the main dining room.</p> '
+duration: 7200000
+group:
+  country: us
+  created: 1506287278000
+  id: 26040766
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Baltimore LGBT Book Club Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Baltimore-LGBT-Book-Club-Meetup
+  who: Members
+id: pzqkmqyzfbbc
+link: https://www.meetup.com/Baltimore-LGBT-Book-Club-Meetup/events/pzqkmqyzfbbc/
+local_date: '2019-03-20'
+local_time: '19:00'
+name: We The Animals by Justin Torres
+rsvp_close_offset: PT72H
+rsvp_limit: 20
+status: upcoming
+time: 1553122800000
+updated: 1552102299000
+utc_offset: -14400000
+venue:
+  address_1: 1225 Cathedral Street
+  city: Baltimore
+  country: US
+  id: 25963232
+  lat: 39.304264068603516
+  localized_country_name: USA
+  lon: -76.61830139160156
+  name: Red Emma's Bookstore Coffeehouse
+  repinned: false
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 12

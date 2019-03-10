@@ -1,0 +1,25 @@
+duration: 7200000
+group:
+  country: us
+  created: 1537147962000
+  id: 29845194
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Baltimore Queer Movie Night and More!
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Baltimore-Queer-Movie-Night
+  who: Members
+id: '259576576'
+link: https://www.meetup.com/Baltimore-Queer-Movie-Night/events/259576576/
+local_date: '2019-03-29'
+local_time: '19:00'
+name: The Aftermath at the Charles
+time: 1553900400000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 1

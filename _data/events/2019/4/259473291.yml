@@ -1,0 +1,25 @@
+duration: 10800000
+group:
+  country: us
+  created: 1280682261000
+  id: 1684090
+  join_mode: open
+  lat: 39.33000183105469
+  localized_location: Baltimore, MD
+  lon: -76.63999938964844
+  name: Baltimore Area Gay Men's Outdoor Adventure Group
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Baltimore-Washington-Gay-Men-Outdoor-Adventure-Group
+  who: adventurers
+id: '259473291'
+link: https://www.meetup.com/Baltimore-Washington-Gay-Men-Outdoor-Adventure-Group/events/259473291/
+local_date: '2019-04-14'
+local_time: '12:00'
+name: 'Louis and Dan''s Pot Luck  '
+time: 1555257600000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 5

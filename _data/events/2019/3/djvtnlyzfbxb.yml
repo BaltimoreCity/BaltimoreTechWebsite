@@ -1,0 +1,47 @@
+created: 1452682311000
+date_in_series_pattern: false
+description: '<p>Progressive 4-week Session starts every 1st Monday of the month.
+  No partner necessary and walk-ins are always welcome. To pre-register please see
+  website <a href="http://www.salsanow.net">www.SalsaNow.net</a></p> <p>6 PM Salsa
+  Level I (Beg)<br/>7 PM Salsa Level II (Adv Beg)<br/>8 PM Bachata</p> <p>Cost per
+  class           Pre-Registration         Walk-In<br/>Full 4-Week Session          $40                        $50<br/>One
+  Class Walk-In                                            $15</p> <p><img src="http://photos3.meetupstatic.com/photos/event/3/0/f/d/600_445872541.jpeg"
+  /></p> '
+group:
+  country: us
+  created: 1395805958000
+  id: 13556002
+  join_mode: approval
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Baltimore Salsa and Bachata Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: BaltimoreSalsaBachata
+  who: Dancers
+id: djvtnlyzfbxb
+link: https://www.meetup.com/BaltimoreSalsaBachata/events/djvtnlyzfbxb/
+local_date: '2019-03-18'
+local_time: '18:00'
+name: Learn to dance salsa and bachata
+status: upcoming
+time: 1552946400000
+updated: 1452682311000
+utc_offset: -14400000
+venue:
+  address_1: 905 West 36th Street
+  city: Baltimore
+  country: us
+  id: 24301067
+  lat: 39.331146240234375
+  localized_country_name: USA
+  lon: -76.63157653808594
+  name: The Ideal Arts Space
+  repinned: false
+  state: MD
+  zip: ''
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

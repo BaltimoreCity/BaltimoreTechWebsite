@@ -1,0 +1,25 @@
+duration: 7200000
+group:
+  country: us
+  created: 1322404809000
+  id: 2869112
+  join_mode: open
+  lat: 39.279998779296875
+  localized_location: Baltimore, MD
+  lon: -76.6500015258789
+  name: MD, DC, No VA Thelema and Magick
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: MD-DC-NoVA-Thelema-and-Magick
+  who: Members
+id: '257688582'
+link: https://www.meetup.com/MD-DC-NoVA-Thelema-and-Magick/events/257688582/
+local_date: '2019-03-24'
+local_time: '15:30'
+name: Gnostic Mass (Open)
+time: 1553455800000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 3

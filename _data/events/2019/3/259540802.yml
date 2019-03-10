@@ -1,0 +1,64 @@
+created: 1551906016000
+date_in_series_pattern: false
+description: '<p>***PLEASE READ ALL NOTES BELOW PRIOR TO RSVPing*** Helping Up Mission
+  opened in 1885 and is one of Baltimore’s oldest and largest non-profit organizations.
+  The mission offers an array of services to help homeless men get back to living
+  responsible, productive lives. You can learn more about the facility here: <a href="https://community.helpingupmission.org/home"
+  class="linkified">https://community.helpingupmission.org/home</a> ` Whether you
+  have volunteered in the past, or you are brand new to volunteering, I’d love to
+  have you join me. This is a great opportunity to get involved and give back. There
+  is ample on street parking in front of the mission. Volunteers must be at least
+  14 years old and are required to wear closed toe shoes ***NEW*** Notes About Messaging
+  and the Waitlist- If you do not have this feature activated, you may miss important
+  messages about confirmations, cancellations, and/or other critical information.
+  I give Waitlist preference to members who allow direct messages. If you join the
+  Waitlist, please make sure have this feature turned on. NO SHOWS AND GUESTS- If
+  you accumulate a total of two or more no shows/day of event cancellations for Meal
+  Service at Helping Up, you should send me a message PRIOR to RSVPing. This includes
+  past Helping Up events. If any slots are available after RSVPs are updated (typically
+  a day before the event), I will reply to let you know if there is an available space
+  for you. If you do not receive a reply from me stating that it is OK to do so, you
+  should not RSVP. If you attempt to RSVP, you will notice that it does not allow
+  you to add guests. This is not an error or a glitch within the site, it is intentionally
+  set up that way. RSVPs for this event are limited to group members and are not open
+  to guests at this time.</p> '
+duration: 6300000
+group:
+  country: us
+  created: 1259566251000
+  id: 1563498
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: Central Maryland Volunteers
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Central-Maryland-Volunteers
+  who: Volunteers
+how_to_find_us: Meet the group in the lobby.
+id: '259540802'
+link: https://www.meetup.com/Central-Maryland-Volunteers/events/259540802/
+local_date: '2019-03-10'
+local_time: '16:45'
+name: Serve Dinner at Helping Up Mission *MUST READ ALL DETAILS/NOTES BEFORE RSVPing*
+rsvp_close_offset: PT23H
+rsvp_limit: 1
+status: upcoming
+time: 1552250700000
+updated: 1551906016000
+utc_offset: -14400000
+venue:
+  address_1: 1029 E Baltimore St
+  city: Baltimore
+  country: US
+  id: 23730722
+  lat: 39.29063034057617
+  localized_country_name: USA
+  lon: -76.6020736694336
+  name: Helping Up Mission Inc
+  repinned: false
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 7

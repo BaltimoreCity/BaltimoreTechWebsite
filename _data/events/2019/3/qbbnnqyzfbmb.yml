@@ -1,0 +1,25 @@
+duration: 7200000
+group:
+  country: us
+  created: 1397358906000
+  id: 13880932
+  join_mode: open
+  lat: 39.31999969482422
+  localized_location: Gwynn Oak, MD
+  lon: -76.70999908447266
+  name: Rehabber Pro Baltimore Real Estate Meetup
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: rehabberprobaltimore
+  who: Investors
+id: qbbnnqyzfbmb
+link: https://www.meetup.com/rehabberprobaltimore/events/qbbnnqyzfbmb/
+local_date: '2019-03-09'
+local_time: '10:00'
+name: Rehabber Pro Meetup At Home Depot
+time: 1552143600000
+utc_offset: -18000000
+visibility: public_limited
+waitlist_count: 11
+yes_rsvp_count: 75

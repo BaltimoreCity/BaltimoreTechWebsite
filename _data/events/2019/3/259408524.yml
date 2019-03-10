@@ -1,0 +1,24 @@
+group:
+  country: us
+  created: 1329616600000
+  id: 3320372
+  join_mode: approval
+  lat: 39.33000183105469
+  localized_location: Catonsville, MD
+  lon: -76.73999786376953
+  name: Parents at home (PATH)
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: Parents-at-home-PATH
+  who: Members
+id: '259408524'
+link: https://www.meetup.com/Parents-at-home-PATH/events/259408524/
+local_date: '2019-03-25'
+local_time: '10:00'
+name: 'Baby Playdate '
+time: 1553522400000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 2

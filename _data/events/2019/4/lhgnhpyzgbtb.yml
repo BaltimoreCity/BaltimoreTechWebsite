@@ -1,0 +1,53 @@
+created: 1517865790000
+date_in_series_pattern: false
+description: '<p>Wir treffen uns um Deutsch zu sprechen oder zu lernen.</p> <p>Alle
+  sind willkommen - die einzige Bedingung ist eine Bereitschaft Deutsch zu sprechen
+  (oder einfach zuhören). Du wirst Muttersprachler und Fortgeschrittene treffen (sowie
+  viele Fortgeschrittene Anfänger) die deine Deutschkenntnisse gerne verbessern.</p>
+  <p>Da wir uns in einem Lokal treffen, ist es eine entspannte Atmosphaere bei Drinks
+  und kleinen Snacks, und es ist einfacher Sprachhemmungen oder Huerden zu ueberwinden.<br/>---<br/>Join
+  us to speak or learn German.</p> <p>All levels are welcome - the only requirement
+  is a willingness to speak (or simply to listen to) German. You will meet native
+  and advanced speakers (as well as many of an intermediate and beginner level) who
+  are more than happy to help you improve your German skills.</p> <p>The venue being
+  a pub, you can loosen your tongue with a few libations and/or eat some yummy food.</p> '
+duration: 14400000
+group:
+  country: us
+  created: 1035512909000
+  id: 67679
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: The Baltimore German Language Meetup Group
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: german-50
+  who: German Speakers
+how_to_find_us: German Flags on the table!
+id: lhgnhpyzgbtb
+link: https://www.meetup.com/german-50/events/lhgnhpyzgbtb/
+local_date: '2019-04-15'
+local_time: '19:00'
+name: German Language Stammtisch
+status: upcoming
+time: 1555369200000
+updated: 1517865790000
+utc_offset: -14400000
+venue:
+  address_1: 506 York Road
+  city: Towson
+  country: us
+  id: 25714623
+  lat: 39.400718688964844
+  localized_country_name: USA
+  lon: -76.6020736694336
+  name: Kent House Irish Pub
+  repinned: false
+  state: md
+  zip: '21204'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 2

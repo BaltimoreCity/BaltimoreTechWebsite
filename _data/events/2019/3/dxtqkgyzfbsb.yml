@@ -1,0 +1,44 @@
+created: 1374501425000
+date_in_series_pattern: false
+description: '<p><img src="http://baltimorenode.org/wp-content/uploads/2009/07/were_not_all_evil-300x300.jpg"
+  /></p> <p><b>Come on out to work on a project, share ideas and get to know lots
+  of cool and interesting people!</b></p> <p><i>We have about 10-15 people show up
+  on a typical night. The vast majority just show up without RSVP.</i></p> '
+group:
+  country: us
+  created: 1344557752000
+  id: 4511032
+  join_mode: open
+  lat: 39.33000183105469
+  localized_location: Baltimore, MD
+  lon: -76.61000061035156
+  name: Baltimore Node Makerspace
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: BaltimoreNode
+  who: Makers
+id: dxtqkgyzfbsb
+link: https://www.meetup.com/BaltimoreNode/events/dxtqkgyzfbsb/
+local_date: '2019-03-14'
+local_time: '19:00'
+name: OpenHack
+status: upcoming
+time: 1552604400000
+updated: 1494109197000
+utc_offset: -14400000
+venue:
+  address_1: 2106 N Lovegrove Street
+  city: Baltimore
+  country: us
+  id: 11842712
+  lat: 39.313438415527344
+  localized_country_name: USA
+  lon: -76.615966796875
+  name: Baltimore Node
+  repinned: false
+  state: MD
+  zip: '21218'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 6

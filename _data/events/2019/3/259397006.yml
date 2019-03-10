@@ -1,0 +1,47 @@
+created: 1551465793000
+date_in_series_pattern: false
+description: '<p>Join us for Happy Hour and learn strategic ways to capitalize on
+  the cosmetology industry. Topics that will be discussed are how to improve your
+  Craft as a Barber and Hair Stylist, ways to become a shop owner and Investing proceeds
+  into other platforms. How to acquire Commercial Building''s and turn them into suites
+  to maximize on your profits as well as understanding the importance of the products
+  you use and the impact of black economics!</p> '
+duration: 12600000
+group:
+  country: us
+  created: 1546905212000
+  id: 30868478
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: 'Black Wall Street: Charm City'
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: meetup-group-pJhugwOS
+  who: Members
+id: '259397006'
+link: https://www.meetup.com/meetup-group-pJhugwOS/events/259397006/
+local_date: '2019-03-25'
+local_time: '18:00'
+name: Happy Hour Learning Experience:Methods to Capitalize on the Cosmetology Industry
+status: upcoming
+time: 1553551200000
+updated: 1551758927000
+utc_offset: -14400000
+venue:
+  address_1: 1 E Redwood St
+  city: Baltimore
+  country: us
+  id: 26213665
+  lat: 39.28866958618164
+  localized_country_name: USA
+  lon: -76.61463165283203
+  name: Delta Hotels by Marriott Baltimore Inner Harbor
+  repinned: true
+  state: MD
+  zip: '21202'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1

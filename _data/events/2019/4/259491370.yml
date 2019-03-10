@@ -1,0 +1,25 @@
+duration: 10800000
+group:
+  country: us
+  created: 1141208323000
+  id: 226016
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: The Baltimore Wine Meetup Group
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: BaltimoreWineMeetupGroup
+  who: Wine Lovers
+id: '259491370'
+link: https://www.meetup.com/BaltimoreWineMeetupGroup/events/259491370/
+local_date: '2019-04-07'
+local_time: '15:00'
+name: Canine, Feline, Drink Wine!
+time: 1554663600000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 2

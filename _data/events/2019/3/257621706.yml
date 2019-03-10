@@ -1,0 +1,25 @@
+duration: 7200000
+group:
+  country: us
+  created: 1229003727000
+  id: 1336390
+  join_mode: open
+  lat: 39.38999938964844
+  localized_location: Nottingham, MD
+  lon: -76.48999786376953
+  name: The White Marsh Movie Group
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: White_Marsh_Movies
+  who: Movie Fans
+id: '257621706'
+link: https://www.meetup.com/White_Marsh_Movies/events/257621706/
+local_date: '2019-03-10'
+local_time: '13:30'
+name: CAPTAIN MARVEL (2019) [Showtime @1:30pm]
+time: 1552239000000
+utc_offset: -14400000
+visibility: public_limited
+waitlist_count: 0
+yes_rsvp_count: 13

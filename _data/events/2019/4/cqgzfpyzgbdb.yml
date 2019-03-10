@@ -1,0 +1,51 @@
+created: 1516233027000
+date_in_series_pattern: false
+description: '<p>Finally do something with all those family photos, vacation shots
+  or video clips on your phone. At our April meeting we will review techniques and
+  tools used to make a Photo Essay. Basically a Photo Essay is a customized slideshow
+  consisting of a collection of images, background music and compelling transitions
+  to entertain family/friends, document a trip, or tell a life story. Expert slideshow
+  artist and photographer, Dick Russell, will be at the meeting to share the process
+  he uses when creating a Photo Essay as well as demo software used to produce amazing
+  shows.</p> <p>The assignment topic: TBD. Deadline for submission is March 3,[masked]:59PM.
+  Upload at: <a href="http://upload.creativeexposurebaltimore.com" class="linkified">http://upload.creativeexposurebaltimore.com</a></p> '
+duration: 7200000
+group:
+  country: us
+  created: 1246573990000
+  id: 1483293
+  join_mode: open
+  lat: 39.27000045776367
+  localized_location: Baltimore, MD
+  lon: -76.62999725341797
+  name: Creative Exposure Baltimore
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: CreativeExposureBaltimore
+  who: Photographers
+id: cqgzfpyzgbdb
+link: https://www.meetup.com/CreativeExposureBaltimore/events/cqgzfpyzgbdb/
+local_date: '2019-04-02'
+local_time: '19:30'
+name: Creative Exposure Baltimore Meetup
+rsvp_limit: 70
+status: upcoming
+time: 1554247800000
+updated: 1547915001000
+utc_offset: -14400000
+venue:
+  address_1: 1415 Key Highway
+  city: Baltimore
+  country: us
+  id: 1002227
+  lat: 39.27352523803711
+  localized_country_name: USA
+  lon: -76.60160064697266
+  name: Baltimore Museum of Industry
+  repinned: true
+  state: MD
+  zip: '21230'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 8

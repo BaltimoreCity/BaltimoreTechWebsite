@@ -1,0 +1,52 @@
+created: 1530943976000
+date_in_series_pattern: false
+description: '<p>Come solo or with friends for a free and fun night of games! Bring
+  your own or borrow one of many games (i.e. Baltimore-opoly, Apples to Apples, Connect
+  Four, Funemployed, Joking Hazard, Loaded Kings and more).</p> <p>Every Monday, we’ll
+  meet at Old Major, a bar located in Southwest Baltimore in Pigtown/Washington Village,
+  near Carroll Park and the stadiums. The bar has a full menu of local/national beers
+  (including draft), liquor and cocktails, wine, mead, cider and non-alcoholic beverages,
+  along with a tasty pub menu (including vegan and vegetarian options). Food and drink
+  specials will run.</p> '
+duration: 14400000
+group:
+  country: us
+  created: 1530940571000
+  id: 29148517
+  join_mode: open
+  lat: 39.290000915527344
+  localized_location: Baltimore, MD
+  lon: -76.62000274658203
+  name: SoWeBo Social
+  region: en_US
+  state: MD
+  timezone: US/Eastern
+  urlname: SoWeBo-Social
+  who: Members
+how_to_find_us: Look for white brick building with red doors and a large red sign
+  with a pig. On the corner of Herkimer & South Carey Streets
+id: pxhtxpyzfbxb
+link: https://www.meetup.com/SoWeBo-Social/events/pxhtxpyzfbxb/
+local_date: '2019-03-18'
+local_time: '18:00'
+name: Board Game Night
+rsvp_limit: 50
+status: upcoming
+time: 1552946400000
+updated: 1530943976000
+utc_offset: -14400000
+venue:
+  address_1: 900 S Carey St
+  city: Baltimore
+  country: us
+  id: 25879708
+  lat: 39.28191375732422
+  localized_country_name: USA
+  lon: -76.63735961914062
+  name: Old Major
+  repinned: false
+  state: md
+  zip: '21223'
+visibility: public
+waitlist_count: 0
+yes_rsvp_count: 1
