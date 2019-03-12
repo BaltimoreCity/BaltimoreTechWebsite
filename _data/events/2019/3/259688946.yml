@@ -1,0 +1,48 @@
+---
+created: 1552354007000
+duration: 28800000
+id: '259688946'
+name: Black Co Working Day at Dovecote Cafe
+date_in_series_pattern: false
+status: upcoming
+time: 1552392000000
+local_date: '2019-03-12'
+local_time: '08:00'
+updated: 1552354007000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 2
+venue:
+  id: 24466889
+  name: 'Dovecote Cafe '
+  lat: 39.31352615356445
+  lon: -76.63876342773438
+  repinned: false
+  address_1: 2501 Madison Ave
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: ''
+  state: MD
+group:
+  created: 1497563382000
+  name: Baltimore Black Techies Meetup
+  id: 24485464
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-Black-Techies-Meetup
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Black-Techies-Meetup/events/259688946/
+description: "<p>Hey!!! We’re kicking off weekly Black co working days at Dovecote
+  Cafe. Come be productive with good music, great food and other Black creatives.
+  The first 10 Black Techies to come in March will get a Dovecote Cafe Mug courtesy
+  of Brioxy (gets you coffee/tea for $1 for life...or as long as you have the mug
+  \U0001F609).</p> <p>We’ll also be talking about plans for a GutHub grant to do work
+  with Black developers this week and next Tuesday. Come through....</p> "
+visibility: public

@@ -1,17 +1,17 @@
 ---
 created: 1548359571000
 duration: 7200000
-id: jrsnqqyzfblc
-name: 'Presenter Night: How to build a web application with a content management system'
+id: jrsnqqyzgbhc
+name: Bmore Black Techies Speaker / Presenter Night
 date_in_series_pattern: false
 status: upcoming
-time: 1553812200000
-local_date: '2019-03-28'
+time: 1556231400000
+local_date: '2019-04-25'
 local_time: '18:30'
-updated: 1552007009000
+updated: 1548525030000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 12
+yes_rsvp_count: 2
 venue:
   id: 25575435
   name: Impact Hub Baltimore
@@ -39,23 +39,8 @@ group:
   country: us
   region: en_US
   timezone: US/Eastern
-link: https://www.meetup.com/Baltimore-Black-Techies-Meetup/events/jrsnqqyzfblc/
-description: '<p>Web-based applications have changed life as we know it. From buying
-  food to automobiles, there is no industry that has not seen the effects of this
-  growing technology. Join us on Thursday, March 28th at 6:30pm as Wayne Stewart owner
-  of Stewart Design Agency head up a discussion on how to build a web application
-  with a content management system.<br/>-------------------------------<br/>About
-  the Speaker:</p> <p>Wayne Stewart is the owner of Stewart Design Agency a full-service
-  web design agency based out of Baltimore, Maryland, www.sdagency.net. He also works
-  for Bluewater Media in Greenbelt, Maryland as a Senior Front End Developer. Wayne
-  has over thirteen years professional experience designing, building and launching
-  interactive web applications. Over the years, Wayne has worked for large web development
-  agencies and nonprofits throughout the Washington D.C – Baltimore area.</p> <p><a
-  href="https://www.linkedin.com/in/waynesstewart" class="linkified">https://www.linkedin.com/in/waynesstewart</a>.</p>
-  <p>When not working on the latest application you can catch Wayne on a basketball
-  court trying to relive his college basketball days or having a foot race with his
-  four year old son Malachi.</p> <p>-------------------------------<br/>About Speaker
-  Night:<br/>On speaker &amp; presenter night, we will feature either guest speakers
+link: https://www.meetup.com/Baltimore-Black-Techies-Meetup/events/jrsnqqyzgbhc/
+description: "<p>On speaker &amp; presenter night, we will feature either guest speakers
   or our very own members who want to present on a particular topic as a host. Presentations
   may consist solely of just pure instruction/dictation but can also involve hands-on
   activity to engage the group as a whole as well. They should last anywhere from
@@ -67,7 +52,7 @@ description: '<p>Web-based applications have changed life as we know it. From bu
   instructional topics in programming, software, or hardware.<br/>- Careers &amp;
   opportunities.<br/>- Specific organizations, their mission(s) &amp; structure.<br/>-
   Relevant social issues.<br/>- Building a business or startup.<br/>- New ideas<br/>-
-  Personal experiences &amp; motivational advice related to careers in the tech industry.</p> '
+  Personal experiences &amp; motivational advice related to careers in the tech industry.</p> "
 how_to_find_us: Please note that there is NO FREE PARKING at the lot adjacent to Impact
   Hub (10 E North Avenue). Attendees are advised to use nearby street parking, and
   NOT the lot next to IH as this has caused some visitors to have their cars impounded

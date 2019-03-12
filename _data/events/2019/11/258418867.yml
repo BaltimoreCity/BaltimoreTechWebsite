@@ -1,0 +1,64 @@
+---
+created: 1548524473000
+duration: 7200000
+id: '258418867'
+name: Black Techies Project Night
+rsvp_limit: 20
+date_in_series_pattern: false
+status: upcoming
+time: 1574379000000
+local_date: '2019-11-21'
+local_time: '18:30'
+updated: 1548524473000
+utc_offset: -18000000
+waitlist_count: 0
+yes_rsvp_count: 2
+venue:
+  id: 25575435
+  name: Impact Hub Baltimore
+  lat: 39.31175231933594
+  lon: -76.61559295654297
+  repinned: true
+  address_1: 10 E North Ave
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  phone: '4437044635'
+  zip: '21202'
+  state: MD
+group:
+  created: 1497563382000
+  name: Baltimore Black Techies Meetup
+  id: 24485464
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-Black-Techies-Meetup
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Black-Techies-Meetup/events/258418867/
+description: '<p>Welcome to Project night! On project nights we’ll dive head-first
+  into the projects with which we’re directly involved &amp;/or most interested. If
+  you’re still brand new to coding &amp; project development and unsure how to directly
+  contribute to an active project, that’s perfectly fine. Participate as an observer
+  and take notes; by doing so you will only learn &amp; grow! Project leads &amp;
+  more seasoned developers in our group are encouraged to help our beginners learn,
+  feel engaged and get their toes wet in whatever aspects of projects they feel most
+  comfortable. More than one project workshops may be going on at once during these
+  nights and ideas for new projects are always welcome. Some of our projects in the
+  works and those already suggested are not limited to but also include:</p> <p>•
+  Web design &amp; Front-end development<br/>• Chatbots<br/>• Raspberry Pi configuration<br/>•
+  Arduino configuration<br/>• Google APIs in practice<br/>• Hardware &amp; Robotics</p>
+  <p>• What to bring<br/>Brains + Computer</p> <p>• Important to know<br/>If it''s
+  your first time attending, please go through this on-boarding document to get all
+  the necessary tools set up: <a href="https://docs.google.com/document/d/1JujPe0QZ8ag9k75vNo1eAEZqVrf3yFPAWMcMHWfmlak/edit?usp=sharing"
+  class="linkified">https://docs.google.com/document/d/1JujPe0QZ8ag9k75vNo1eAEZqVrf3yFPAWMcMHWfmlak/edit?usp=sharing</a></p> '
+how_to_find_us: Please note that there is NO FREE PARKING at the lot adjacent to Impact
+  Hub (10 E North Avenue). Attendees are advised to use nearby street parking, and
+  NOT the lot next to IH as this has caused some visitors to have their cars impounded
+  in the past.
+visibility: public
