@@ -60,7 +60,7 @@ workflows:
       - grab_events
     triggers:
       - schedule:
-          cron: "* * * * *"
+          cron: "0 * * * *"
           filters:
             branches:
               only:
