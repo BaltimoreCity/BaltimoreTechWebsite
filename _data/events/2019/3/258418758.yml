@@ -1,12 +1,67 @@
+---
 created: 1548524074000
+duration: 7200000
+id: '258418758'
+name: Wine & Code Project Night - Computer Aided Design (CAD) & 3D Modeling!
+rsvp_limit: 20
 date_in_series_pattern: false
-description: '<p>🍀 Ever been curious about 3D printing? Try your luck this Thursday
-  before St. Patrick''s day discovering the basics of computer-aided design, 3-dimensional
-  modeling and 3D printing with easy to follow turorials &amp; simple guided exercises!🍀</p>
-  <p>What to Bring:<br/>•Laptop with either Windows, Mac OS or Linux operating systems.<br/>•Curiosity</p>
-  <p>Please note that a 3D printing machine will not be available during this Thursday
-  night''s session. Please stand by soon for announcements regarding the Saturday
-  (March 16th) workshop where a 3D printer will be available.</p> <p>🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀<br/>More
+status: upcoming
+time: 1552602600000
+local_date: '2019-03-14'
+local_time: '18:30'
+updated: 1552151994000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 15
+venue:
+  id: 25575435
+  name: Impact Hub Baltimore
+  lat: 39.31175231933594
+  lon: -76.61559295654297
+  repinned: true
+  address_1: 10 E North Ave
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  phone: '4437044635'
+  zip: '21202'
+  state: MD
+group:
+  created: 1497563382000
+  name: Baltimore Black Techies Meetup
+  id: 24485464
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-Black-Techies-Meetup
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Black-Techies-Meetup/events/258418758/
+description: "<p>\U0001F340 Ever been curious about 3D printing? Try your luck this
+  Thursday before St. Patrick's day discovering the basics of computer-aided design,
+  3-dimensional modeling and 3D printing with easy to follow tutorials &amp; simple
+  guided exercises!</p> <p>\U0001F340Before you arrive: You will need to have a CAD
+  software ready to use on your system this Thursday evening. Some of these are indeed
+  Browser based. Please take a look at the website link below. This site features
+  a list of 30 different FREE CAD software programs for all levels of users.</p> <p><a
+  href=\"https://all3dp.com/1/best-free-cad-software-2d-3d-cad-programs-design/#3d-builder\"
+  class=\"linkified\">https://all3dp.com/1/best-free-cad-software-2d-3d-cad-programs-design/#3d-builder</a></p>
+  <p>For beginners I recommend starting with TinkerCAD (Browser based) or 3D Builder,
+  for intermediate and advanced users, Fusion360 and Blender have gotten good reviews.</p>
+  <p>Descriptions of each software in included with them in this website as well as
+  the download links.</p> <p>\U0001F340What to Bring:<br/>• Laptop with either Windows,
+  Mac OS or Linux operating systems.<br/>• A Computer-Aided Design (CAD) software
+  installed/ready to use<br/>• Curiosity</p> <p>Please note that a while 3D printer
+  will be present during this Thursday night's session; it may not be available for
+  everyone to utilize, given the time that it takes to print a single object (time
+  constraints). If you have a file you wish to print please email Hunter in advance
+  ([masked]) or message him in Slack regarding some arrangements which can be made.</p>
+  <p>Please stand by soon for announcements regarding near-future workshops for more
+  3D-Printing.</p> <p>\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340<br/>More
   About Project Night:</p> <p>Welcome to Project night! On project nights we’ll dive
   head-first into the projects with which we’re directly involved &amp;/or most interested.
   If you’re still brand new to coding &amp; project development and unsure how to
@@ -19,59 +74,22 @@ description: '<p>🍀 Ever been curious about 3D printing? Try your luck this Th
   in the works and those already suggested are not limited to but also include:</p>
   <p>• Web design &amp; Front-end development<br/>• Chatbots<br/>• Raspberry Pi configuration<br/>•
   Arduino configuration<br/>• Google APIs in practice<br/>• Hardware &amp; Robotics</p>
-  <p>🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀<br/>Important to know:</p> <p>If it''s your first time attending,
-  please go through this on-boarding document to get all the necessary tools set up:
-  <a href="https://docs.google.com/document/d/1JujPe0QZ8ag9k75vNo1eAEZqVrf3yFPAWMcMHWfmlak/edit?usp=sharing"
-  class="linkified">https://docs.google.com/document/d/1JujPe0QZ8ag9k75vNo1eAEZqVrf3yFPAWMcMHWfmlak/edit?usp=sharing</a></p>
-  <p>🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀<br/>About the Host:</p> <p>Hunter McKnight has a degree in
-  Economics with a concentration in Quantitative Finance from the City University
-  of New York (2010). He has since then worked as a Visual Basic Applications Developer
-  and a Database Engineer for various industry Clients based in the New York, Philadelphia
-  and Baltimore/DC metropolitan areas. A native of Manhattan, NYC; he is fluent in
-  English, German and Spanish; and considers Mathematics to be one of the most important
-  and rewarding skill sets anyone can have.</p> '
-duration: 7200000
-group:
-  country: us
-  created: 1497563382000
-  id: 24485464
-  join_mode: open
-  lat: 39.290000915527344
-  localized_location: Baltimore, MD
-  lon: -76.62000274658203
-  name: Baltimore Black Techies Meetup
-  region: en_US
-  state: MD
-  timezone: US/Eastern
-  urlname: Baltimore-Black-Techies-Meetup
-  who: Members
+  <p>\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340<br/>Important
+  to know:</p> <p>If it's your first time attending, please go through this on-boarding
+  document to get all the necessary tools set up: <a href=\"https://docs.google.com/document/d/1JujPe0QZ8ag9k75vNo1eAEZqVrf3yFPAWMcMHWfmlak/edit?usp=sharing\"
+  class=\"linkified\">https://docs.google.com/document/d/1JujPe0QZ8ag9k75vNo1eAEZqVrf3yFPAWMcMHWfmlak/edit?usp=sharing</a></p>
+  <p>Disclaimer: Because wine will be served at his event you must be 21 and older
+  to participate, but a selection of non-alcoholic beverages will be served as well.</p>
+  <p>\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340\U0001F340<br/>About
+  the Host:</p> <p>Hunter McKnight has a degree in Economics with a concentration
+  in Quantitative Finance from the City University of New York (2010). He has since
+  then worked as a Visual Basic Applications Developer and a Database Engineer for
+  various industry Clients based in the New York, Philadelphia and Baltimore/DC metropolitan
+  areas. A native of Manhattan, NYC; he is fluent in English, German and Spanish;
+  and considers Mathematics to be one of the most important and rewarding skill sets
+  anyone can have.</p> "
 how_to_find_us: Please note that there is NO FREE PARKING at the lot adjacent to Impact
   Hub (10 E North Avenue). Attendees are advised to use nearby street parking, and
   NOT the lot next to IH as this has caused some visitors to have their cars impounded
   in the past.
-id: '258418758'
-link: https://www.meetup.com/Baltimore-Black-Techies-Meetup/events/258418758/
-local_date: '2019-03-14'
-local_time: '18:30'
-name: Wine & Code Project Night - Computer Aided Design (CAD) & 3D Modeling!
-rsvp_limit: 20
-status: upcoming
-time: 1552602600000
-updated: 1551568025000
-utc_offset: -14400000
-venue:
-  address_1: 10 E North Ave
-  city: Baltimore
-  country: us
-  id: 25575435
-  lat: 39.31175231933594
-  localized_country_name: USA
-  lon: -76.61559295654297
-  name: Impact Hub Baltimore
-  phone: '4437044635'
-  repinned: true
-  state: MD
-  zip: '21202'
 visibility: public
-waitlist_count: 0
-yes_rsvp_count: 10

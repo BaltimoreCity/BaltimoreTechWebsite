@@ -1,5 +1,45 @@
+---
 created: 1548520517000
+duration: 7200000
+id: '258417463'
+name: 'Black Techies Speaker Night: How to land a tech job (Rescheduled from Feb 28th)'
 date_in_series_pattern: false
+status: upcoming
+time: 1553207400000
+local_date: '2019-03-21'
+local_time: '18:30'
+updated: 1552007249000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 25
+venue:
+  id: 25575435
+  name: Impact Hub Baltimore
+  lat: 39.31175231933594
+  lon: -76.61559295654297
+  repinned: true
+  address_1: 10 E North Ave
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  phone: '4437044635'
+  zip: '21202'
+  state: MD
+group:
+  created: 1497563382000
+  name: Baltimore Black Techies Meetup
+  id: 24485464
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-Black-Techies-Meetup
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Black-Techies-Meetup/events/258417463/
 description: '<p>How to land a technical job: A guide to traversing the job search
   process (by Doug Farmer)</p> <p>Everyone''s favorite question is how did you get
   here? A better question is how do you get here too? I will attempt to give you "an"
@@ -23,47 +63,8 @@ description: '<p>How to land a technical job: A guide to traversing the job sear
   structure.<br/>- Relevant social issues.<br/>- Building a business or startup.<br/>-
   New ideas<br/>- Personal experiences &amp; motivational advice related to careers
   in the tech industry.</p> '
-duration: 7200000
-group:
-  country: us
-  created: 1497563382000
-  id: 24485464
-  join_mode: open
-  lat: 39.290000915527344
-  localized_location: Baltimore, MD
-  lon: -76.62000274658203
-  name: Baltimore Black Techies Meetup
-  region: en_US
-  state: MD
-  timezone: US/Eastern
-  urlname: Baltimore-Black-Techies-Meetup
-  who: Members
 how_to_find_us: Please note that there is NO FREE PARKING at the lot adjacent to Impact
   Hub (10 E North Avenue). Attendees are advised to use nearby street parking, and
   NOT the lot next to IH as this has caused some visitors to have their cars impounded
   in the past.
-id: '258417463'
-link: https://www.meetup.com/Baltimore-Black-Techies-Meetup/events/258417463/
-local_date: '2019-03-21'
-local_time: '18:30'
-name: 'Black Techies Speaker Night: How to land a tech job (Rescheduled from Feb 28th)'
-status: upcoming
-time: 1553207400000
-updated: 1552007249000
-utc_offset: -14400000
-venue:
-  address_1: 10 E North Ave
-  city: Baltimore
-  country: us
-  id: 25575435
-  lat: 39.31175231933594
-  localized_country_name: USA
-  lon: -76.61559295654297
-  name: Impact Hub Baltimore
-  phone: '4437044635'
-  repinned: true
-  state: MD
-  zip: '21202'
 visibility: public
-waitlist_count: 0
-yes_rsvp_count: 19

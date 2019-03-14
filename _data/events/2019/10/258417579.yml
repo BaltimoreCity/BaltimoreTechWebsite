@@ -1,0 +1,62 @@
+---
+created: 1548520763000
+duration: 7200000
+id: '258417579'
+name: Black Techies Networking & Social Night!
+date_in_series_pattern: false
+status: upcoming
+time: 1570141800000
+local_date: '2019-10-03'
+local_time: '18:30'
+updated: 1548520763000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 3
+venue:
+  id: 25575435
+  name: Impact Hub Baltimore
+  lat: 39.31175231933594
+  lon: -76.61559295654297
+  repinned: true
+  address_1: 10 E North Ave
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  phone: '4437044635'
+  zip: '21202'
+  state: MD
+group:
+  created: 1497563382000
+  name: Baltimore Black Techies Meetup
+  id: 24485464
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-Black-Techies-Meetup
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Black-Techies-Meetup/events/258417579/
+description: "<p>Socializing, networking &amp; getting to know your peers is always
+  part of the successful professional development process! Moreover, this can be fun
+  and fairly relaxed in its format. On theses nights whenever possible, we aim to
+  change up the scene and offer either an ‘inside’ or ‘outside’ social format.</p>
+  <p>For outside Social nights, we’ll venture out together as a whole to a casual
+  venue within the neighborhood for food and drinks and just no-pressure enjoyment.
+  Tip: if you’ve ever been meaning to get business cards for yourself, do so by these
+  nights as this is a great time to pass these out to new people with whom you connect.
+  You never know just whom you may come across both within or apart from our group.
+  With that said, please keep in mind that while outside social nights are meant to
+  be very relaxed and casual; we’re all representing Baltimore Black Techs (each other)
+  as well as our individual selves and will keep all interactions with everyone in
+  good taste.</p> <p>On Inside nights, We encourage you to bring your gaming laptops,
+  board &amp; table games, nerdy passions, side hobbies, board games etc. We’ll aim
+  to provide group games, drinks, pizza and other snacks!</p> "
+how_to_find_us: Please note that there is NO FREE PARKING at the lot adjacent to Impact
+  Hub (10 E North Avenue). Attendees are advised to use nearby street parking, and
+  NOT the lot next to IH as this has caused some visitors to have their cars impounded
+  in the past.
+visibility: public

@@ -1,9 +1,28 @@
-defaults: &defaults
-  working_directory: ~/repo
 version: 2
 jobs:
+  grab_events:
+    working_directory: ~/repo
+    docker:
+      - image: circleci/ruby:2.5
+    environment:
+      BUNDLE_PATH: ~/repo/vendor/bundle
+    steps:
+      - checkout
+      - run:
+          name: Update events
+          command: ruby grab_events.rb
+      - deploy:
+          name: Trigger events deployment
+          command: |
+            git config credential.helper 'cache --timeout=120'
+            git config user.email "kherad@gmail.com"
+            git config user.name "CircleCI Bot"
+            git add _data/events
+            git commit -m "Events deployment"
+            # Push quietly to prevent showing the token in log
+            git push -q https://${gtoken}@github.com/BaltimoreCity/BaltimoreTechWebsite.git master
   build:
-    <<: *defaults
+    working_directory: ~/repo
     docker:
       - image: circleci/ruby:2.5
     environment:
@@ -31,3 +50,18 @@ jobs:
           root: ./
           paths:
             - _site
+workflows:
+  version: 2
+  commit:
+    jobs:
+      - build
+  nightly:
+    jobs:
+      - grab_events
+    triggers:
+      - schedule:
+          cron: "0 * * * *"
+          filters:
+            branches:
+              only:
+                - master
