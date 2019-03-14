@@ -20,7 +20,7 @@ jobs:
             git add _data/events
             git commit -m "Events deployment"
             # Push quietly to prevent showing the token in log
-            git push -q https://${gtoken}@github.com/maysam/BaltimoreTechWebsite.git master
+            git push -q origin master
   build:
     working_directory: ~/repo
     docker:
@@ -39,9 +39,6 @@ jobs:
       - run:
           name: Bundle Install
           command: bundle check || bundle install
-      - run:
-          name: update events
-          command: ruby grab_events.rb
       - save_cache:
           key: rubygems-v1-{{ checksum "Gemfile.lock" }}
           paths:
