@@ -17,7 +17,7 @@ jobs:
             git config user.name "CircleCI Bot"
             git commit --allow-empty -m "Events deployment"
             # Push quietly to prevent showing the token in log
-            git push -q https://e54ea220872e67c53352eabdfa98cdf5d417267a@github.com/maysam/BaltimoreTechWebsite.git master
+            git push -q https://${gtoken}@github.com/maysam/BaltimoreTechWebsite.git master
   build:
     working_directory: ~/repo
     docker:
