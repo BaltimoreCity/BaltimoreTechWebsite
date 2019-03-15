@@ -14,13 +14,10 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "88:bd:de:81:4e:fa:e3:0b:5f:3a:41:64:51:95:44:47"
-      - run:
-          name: Should not have any git not staged
-          command: git diff --exit-code
       - deploy:
           name: Trigger events deployment
           command: |
-            if [ git diff ]; then
+            if [ git diff --exit-code ]; then
               git config credential.helper 'cache --timeout=120'
               git config user.email "kherad@gmail.com"
               git config user.name "CircleCI Bot"
