@@ -17,16 +17,13 @@ jobs:
       - deploy:
           name: Trigger events deployment
           command: |
-            if [ `git diff --exit-code` ]; then
-              git config credential.helper 'cache --timeout=120'
-              git config user.email "kherad@gmail.com"
-              git config user.name "CircleCI Bot"
-              git add _data/events
-              git commit -m "Events deployment"
-              # Push quietly to prevent showing the token in log
-              git push -q -n origin master
-              exit 0
-            fi
+            git config credential.helper 'cache --timeout=120'
+            git config user.email "kherad@gmail.com"
+            git config user.name "CircleCI Bot"
+            git add _data/events
+            git diff --staged --quiet || git commit -m "Events deployment [skip ci]"
+            # Push quietly to prevent showing the token in log
+            git push -q origin master
   build:
     working_directory: ~/repo
     docker:
