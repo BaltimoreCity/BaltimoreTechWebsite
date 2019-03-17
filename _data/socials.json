@@ -1,31 +1,31 @@
 [
   {
-    "url": "https://facebook.com",
+    "url": "https://www.facebook.com/groups/baltimoretech",
     "icon": "fab fa-facebook-f",
     "text": "Friend us on Facebook to find out about the latest news, community events, jobs and upcoming training opportunities"
   },
   {
-    "url": "https://slack.com",
+    "url": "http://slack.baltimoretech.org/",
     "icon": "fab fa-slack",
     "text": "Stay connected with your tech peers on our private Slack channel"
   },
   {
-    "url": "https://twitter.com",
+    "url": "https://twitter.com/hashtag/baltimoretech",
     "icon": "fab fa-twitter",
     "text": "Follow us on Twitter to get up-to-date information about what is happening"
   },
   {
-    "url": "https://instagram.com",
+    "url": "https://www.instagram.com/explore/tags/BaltimoreTech/",
     "icon": "fab fa-instagram",
     "text": "See what's happening in the Baltimore area on our Instagram page"
   },
   {
-    "url": "https://linkedin.com",
+    "url": "https://www.linkedin.com/feed/hashtag/?keywords=%23baltimoretech",
     "icon": "fab fa-linkedin-in",
     "text": "Make professional connections with other tech experts on our LinkedIn"
   },
   {
-    "url": "https://github.com",
+    "url": "https://github.com/BaltimoreCity/",
     "icon": "fab fa-github",
     "text": "Collaborate and share code with the community on GitHub"
   }
