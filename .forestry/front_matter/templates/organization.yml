@@ -18,6 +18,16 @@ fields:
   label: Location
   config:
     required: true
+- type: number
+  name: coordinate.lat
+  label: Location Latitude
+  config:
+    required: true
+- type: number
+  name: coordinate.lng
+  label: Location Longitude
+  config:
+    required: true
 - type: text
   name: url
   label: Url
