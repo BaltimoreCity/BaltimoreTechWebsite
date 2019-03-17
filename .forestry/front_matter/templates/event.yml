@@ -2,27 +2,44 @@
 label: Event
 hide_body: true
 fields:
-- type: datetime
-  name: start
-  label: Event start date
-  config:
-    date_format: YYYY-MM-DD
-    required: true
-- type: datetime
-  name: end
-  label: Event end date
-  config:
-    required: true
 - type: text
-  name: location
-  label: location
-  config:
-    required: true
-- type: text
-  name: title
+  name: name
   label: title
   config:
     required: true
+- type: text
+  name: local_date
+  label: Date
+  config:
+    required: true
+- type: text
+  name: local_time
+  label: Time
+  config:
+    required: true
+- type: text
+  name: status
+- type: text
+  name: venue.name
+  label: Location
+- type: number
+  name: venue.lat
+  label: Latitude
+- type: number
+  name: venue.lon
+  label: Longitude
+- type: text
+  label: Address
+  name: venue.address_1
+- type: text
+  label: Address 2
+  name: venue.address_2
+- type: text
+  label: Zip
+  name: venue.zip
+- type: text
+  label: Phone
+  name: venue.phone
 - type: select
   name: type
   config:
@@ -34,10 +51,26 @@ fields:
     - event
   label: type
 - type: textarea
-  name: summary
-  label: summary
+  name: description
+  label: Description
+  config:
+    wysiwyg: true
+- type: textarea
+  name: how_to_file_us
+  label: How to find us
+  config:
+    wysiwyg: true
 - type: text
   name: link
   label: link
   config:
     required: true
+- type: select
+  name: visibility
+  default: public
+  config:
+    source:
+      type: simple
+    options:
+    - public
+    - private
