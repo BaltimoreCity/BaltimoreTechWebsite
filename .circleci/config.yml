@@ -9,6 +9,8 @@ jobs:
     steps:
       - checkout
       - run:
+        command: git checkout master
+      - run:
           name: Update events
           command: ruby grab_events.rb
       - add_ssh_keys:
@@ -17,6 +19,7 @@ jobs:
       - deploy:
           name: Trigger events deployment
           command: |
+            if [[ -n `git diff --exit-code` ]]; then echo 'there is something to push'; fi
             git config credential.helper 'cache --timeout=120'
             git config user.email "kherad@gmail.com"
             git config user.name "CircleCI Bot"
@@ -58,7 +61,11 @@ workflows:
   commit:
     jobs:
       - build
-      - grab_events
+      - grab_events:
+          filters:
+            branches:
+              only:
+                - master
   nightly:
     jobs:
       - grab_events
