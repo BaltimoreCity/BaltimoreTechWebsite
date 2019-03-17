@@ -9,8 +9,6 @@ jobs:
     steps:
       - checkout
       - run:
-        command: git checkout master
-      - run:
           name: Update events
           command: ruby grab_events.rb
       - add_ssh_keys:
