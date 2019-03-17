@@ -65,21 +65,17 @@ fields:
 - type: text
   name: resume_url
   label: resume_url
-- type: field_group
-  name: general_info
-  label: General Information
-  fields:
-    - type: text
-      name: neighborhood
-      label: Neighborhood
-    - type: text
-      name: location
-      label: Location
-    - type: textarea
-      name: bio
-      label: Biography
-      config:
-        wysiwyg: true
+- type: text
+  name: general_info.neighborhood
+  label: Neighborhood
+- type: text
+  name: general_info.location
+  label: Location
+- type: textarea
+  name: general_info.bio
+  label: Biography
+  config:
+    wysiwyg: true
 - type: field_group
   name: links
   label: Links
