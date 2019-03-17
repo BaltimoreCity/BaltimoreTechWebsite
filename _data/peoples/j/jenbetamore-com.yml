@@ -2,7 +2,6 @@
 user_login: jen@betamore.com
 user_nicename: jenbetamore-com
 user_email: jen@betamore.com
-user_url: http://www.betamore.com
 user_registered: '2015-03-29 22:55:40'
 display_name: Jen Meyer
 first_name: Jen
@@ -28,3 +27,4 @@ links:
   twitter: http://twitter.com/jengunner
   facebook: https://www.facebook.com/jengunner
   linkedin: http://linkedin.com/jengunner
+  website: http://www.betamore.com

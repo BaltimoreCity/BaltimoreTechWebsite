@@ -8,28 +8,18 @@ fields:
   config:
     required: true
 - type: text
-  name: user_url
-  label: name
-  config:
-    required: false
-- type: text
-  name: display_name
-  label: name
-  config:
-    required: true
-- type: text
   name: first_name
-  label: name
+  label: First Name
   config:
     required: true
 - type: text
   name: last_name
-  label: name
+  label: Last Name
   config:
     required: true
 - type: text
   name: name
-  label: name
+  label: Full Name
   config:
     required: true
 - type: datetime
@@ -52,21 +42,12 @@ fields:
   name: profession
   label: Profession
   config:
-    required: true
+    required: false
 - type: text
   name: education
   label: Education
   config:
     required: false
-- type: tag_list
-  name: skills
-  label: Skills
-  config:
-    use_select: false
-    source:
-      type: documents
-    min: '3'
-    max: '10'
 - type: list
   name: skills
   label: Skills
@@ -89,9 +70,8 @@ fields:
   label: General Information
   fields:
     - type: text
-      name: name
-      label: Name    print(user['last_name'])
-
+      name: neighborhood
+      label: Neighborhood
     - type: text
       name: location
       label: Location

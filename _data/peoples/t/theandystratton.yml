@@ -2,7 +2,6 @@
 user_login: andy@sizeableinteractive.com
 user_nicename: theandystratton
 user_email: andy@sizeableinteractive.com
-user_url: http://sizeableinteractive.com
 user_registered: '2015-07-02 17:53:58'
 display_name: Andy Stratton
 first_name: Andy
@@ -19,4 +18,5 @@ resume_url: ''
 general info:
   name: Andy Stratton
   bio: Developer. Entrepreneur. Doggy dad. Adventures.
-links: {}
+links:
+  website: http://sizeableinteractive.com
