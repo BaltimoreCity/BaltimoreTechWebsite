@@ -3,10 +3,40 @@ label: People
 hide_body: true
 fields:
 - type: text
+  name: user_email
+  label: email
+  config:
+    required: true
+- type: text
+  name: user_url
+  label: name
+  config:
+    required: false
+- type: text
+  name: display_name
+  label: name
+  config:
+    required: true
+- type: text
+  name: first_name
+  label: name
+  config:
+    required: true
+- type: text
+  name: last_name
+  label: name
+  config:
+    required: true
+- type: text
   name: name
   label: name
   config:
     required: true
+- type: datetime
+  name: user_registered
+  label: Registerad At
+  config:
+    required: false
 - type: select
   name: type
   config:
@@ -28,6 +58,15 @@ fields:
   label: Education
   config:
     required: false
+- type: tag_list
+  name: skills
+  label: Skills
+  config:
+    use_select: false
+    source:
+      type: documents
+    min: '3'
+    max: '10'
 - type: list
   name: skills
   label: Skills
@@ -45,3 +84,38 @@ fields:
 - type: text
   name: resume_url
   label: resume_url
+- type: field_group
+  name: general_info
+  label: General Information
+  fields:
+    - type: text
+      name: name
+      label: Name    print(user['last_name'])
+
+    - type: text
+      name: location
+      label: Location
+    - type: textarea
+      name: bio
+      label: Biography
+      config:
+        wysiwyg: true
+- type: field_group
+  name: links
+  label: Links
+  fields:
+    - type: text
+      name: twitter
+      label: Twitter
+    - type: text
+      name: facebook
+      label: Facebook
+    - type: text
+      name: linkedin
+      label: Linkedin
+    - type: text
+      name: github
+      label: Github
+    - type: text
+      name: website
+      label: Website
