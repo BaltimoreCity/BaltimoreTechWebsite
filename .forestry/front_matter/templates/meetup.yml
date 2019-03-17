@@ -1,0 +1,19 @@
+---
+label: Meetup
+fields:
+- type: text
+  name: name
+  label: Name
+  config:
+    required: true
+- type: text
+  name: url
+  label: Url
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Description
+  config:
+    wysiwyg: true
+    required: true
