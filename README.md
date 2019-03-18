@@ -24,7 +24,7 @@ To replace Google Maps API key, open **\_config.yml**
 
 > google_maps_api: [insert your key here without the braces]
 
-You will need to enable both **Maps JavaScript API** and **Geocoding API**.
+You will need to enable both **Maps JavaScript API** and **Geocoding API**. In most cases you can enter the long/lat coordinates directly to avoid using **Geocoding API**
 
 # Workflow
 
@@ -47,9 +47,22 @@ However something as simple as `City Garage, Baltimore` should work fine as well
 
 There are a number of data files that populate the content of the site. The JSON files and their expected formats/inputs are described here.
 
+## Meetups: \_data/meetups/{slug}.yml
+
+To add a meetup, create a named **yml** file with the following structure and drop it under \_data/meetups/, the url field is used to fetch future events for the meetup automatically into the site later on.
+
+**Meetup data structure**
+
+```
+name: Baltimore Black Techies Meetup
+url: https://www.meetup.com/Baltimore-Black-Techies-Meetup/
+description: |-
+  Black + Techie = Us. We're HYPED to host Baltimore's first Black coding meet up! Join us every Thursday at Impact Hub Baltimore (10 E North Ave) to learn and code with others. Whether you're an experienced coder or ready to take your first course, we invite you to join us.
+```
+
 ## Events: \_data/events/{year}/{month}/{name}.yml
 
-To add an event, create a named **yml** file with the following structure and drop it under \_data/events/ followed
+Normally events are imported from meetup.com using records in meetups folder. To add an event manually, create a named **yml** file with the following structure and drop it under \_data/events/ followed
 by the event happening date year(YYYY)/month(M).
 
 `Type` should be either one of `class` | `meetup` | `event`
@@ -57,13 +70,25 @@ by the event happening date year(YYYY)/month(M).
 **Event data structure**
 
 ```
-start: "2019-01-24T14:15:00Z"
-end: "2019-01-29T15:45:00Z"
-location: "City Garage, Baltimore"
-title: "Your event title"
+local_date: "2019-01-24"
+local_time: "15:45"
+venue:
+  address_1: 7050 Hi Tech Drive, Suite 102
+  city: Hanover
+  country: us
+  id: 25082635
+  lat: 39.19224548339844
+  localized_country_name: USA
+  lon: -76.72801971435547
+  name: Onyx Point
+  repinned: true
+  state: MD
+  zip: '21206'
+name: "Your event title"
 type: "meetup"
-summary: "Describe your event..."
+description: "Describe your event..."
 link: "https://link-to-your-event.com"
+visibility: public
 ```
 
 ## Organizations: \_data/organizations/{name}.yml
@@ -77,6 +102,9 @@ You are advised to drop the `logo/image` to `/uploads/orgs folder`. The recommen
 image: /uploads/fearless.png
 name: Fearless
 location: Southeast Baltimore, Baltimore
+coordinate:
+  lat: 39.2700572
+  lng: -76.599672
 description:
   "We're constantly pushing the envelope so that we don’t just stay ahead
   of the tech industry: we drive it forward. Fearless was founded in 2009 to be a
@@ -88,9 +116,9 @@ url: "https://org-homepage.com"
 
 ```
 
-## Peoples: \_data/peoples/{name}.yml
+## Peoples: \_data/peoples/{first_character_of_name}/{name}.yml
 
-To add a person profile, create a named **yml** file with the following structure and drop it under `\_data/peoples`.
+To add a person profile, create a named **yml** file with the following structure and drop it under `\_data/peoples/first_character_of_name`.
 You are advised to drop the pictures to `/uploads/peoples/img` and resume to `/uploads/peoples/resume`. The recommended image size is no less than 160x160 in pixel.
 
 `Type` should be either one of `full-time` | `part-time` | `remote`
@@ -98,6 +126,9 @@ You are advised to drop the pictures to `/uploads/peoples/img` and resume to `/u
 **People data structure**
 
 ```
+display_name: FanArtReview Reviews
+first_name: FanArtReview
+last_name: Reviews
 name: Calvin Han
 type: full-time
 profession: Full-Stack Developer | Photographer
@@ -113,26 +144,17 @@ skills:
   - Git
 picture: "/uploads/peoples/img/calvin-han.png"
 resume_url: "/uploads/peoples/resume/calvin-han.pdf"
-```
-
-## Upcoming events: \_data/upcoming-events.json
-
-To edit upcoming events, edit json file located in `_data/upcoming-events.json`
-
-`Type` should be either one of `class` | `meetup` | `event`
-
-**Upcoming event data structure**
-
-```
-{
-  "type": "meetup",
-  "title": "Tech Meetup",
-  "location": "Spark Baltimore",
-  "date": "Tue, Oct 9th",
-  "time": "6:00pm - 9:00pm",
-  "summary": "The Baltimore Tech Meetup gathers the broader tech community for learning, networking and sharing. The meetup will serve as a roundup of the area's innovation scene and a meeting place to foster connections between entrepreneurs, developers, designers, founders, investors, companies, educators, technologists and other interested parties.",
-  "link": "https://link-to-your-event.com"
-}
+general info:
+  bio: Product designer who prefers the command line.
+  location: Baltimore City
+  neighborhood: Fells Point
+  name: Alan Clark
+links:
+  twitter: https://twitter.com/Adam_McClard
+  facebook: http://www.facebook.com/ORiGO.GAMES
+  github: http://github.com/aclarkk
+  linkedin: http://www.linkedin.com/in/adammcclard
+  website: http://www.or1go.com
 ```
 
 ## Social links: \_data/socials.json
