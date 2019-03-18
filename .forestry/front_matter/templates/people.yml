@@ -3,10 +3,30 @@ label: People
 hide_body: true
 fields:
 - type: text
-  name: name
-  label: name
+  name: user_email
+  label: email
   config:
     required: true
+- type: text
+  name: first_name
+  label: First Name
+  config:
+    required: true
+- type: text
+  name: last_name
+  label: Last Name
+  config:
+    required: true
+- type: text
+  name: name
+  label: Full Name
+  config:
+    required: true
+- type: datetime
+  name: user_registered
+  label: Registerad At
+  config:
+    required: false
 - type: select
   name: type
   config:
@@ -22,7 +42,7 @@ fields:
   name: profession
   label: Profession
   config:
-    required: true
+    required: false
 - type: text
   name: education
   label: Education
@@ -45,3 +65,33 @@ fields:
 - type: text
   name: resume_url
   label: resume_url
+- type: text
+  name: general_info.neighborhood
+  label: Neighborhood
+- type: text
+  name: general_info.location
+  label: Location
+- type: textarea
+  name: general_info.bio
+  label: Biography
+  config:
+    wysiwyg: true
+- type: field_group
+  name: links
+  label: Links
+  fields:
+    - type: text
+      name: twitter
+      label: Twitter
+    - type: text
+      name: facebook
+      label: Facebook
+    - type: text
+      name: linkedin
+      label: Linkedin
+    - type: text
+      name: github
+      label: Github
+    - type: text
+      name: website
+      label: Website
