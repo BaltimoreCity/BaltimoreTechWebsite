@@ -1,0 +1,48 @@
+---
+created: 1537270741000
+duration: 7200000
+id: '254785399'
+name: Casual BSD Meetup (Baltimore)
+date_in_series_pattern: false
+status: upcoming
+time: 1556146800000
+local_date: '2019-04-24'
+local_time: '19:00'
+updated: 1549489450000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 25734780
+  name: Guinness Open Gate Brewery & Barrel House
+  lat: 39.224029541015625
+  lon: -76.69649505615234
+  repinned: false
+  address_1: 5001 Washington Blvd
+  city: Halethorpe
+  country: us
+  localized_country_name: USA
+  zip: '21227'
+  state: md
+group:
+  created: 1450367558000
+  name: CharmBUG (Baltimore Area BSD User Group)
+  id: 19219857
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: CharmBUG
+  who: BUG Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/CharmBUG/events/254785399/
+description: "<p>The goal is to have a casual meetup, over food and drinks discussing
+  anything related to BSD, Security, etc.</p> <p>This meetup will be just outside
+  of Baltimore in Halethorpe, at the Guinness Open Gate Brewery, right off of I-195
+  and US Route 1.</p> "
+how_to_find_us: Look for the CharmBUG Logo, or send us a message if you cannot find
+  us.
+visibility: public

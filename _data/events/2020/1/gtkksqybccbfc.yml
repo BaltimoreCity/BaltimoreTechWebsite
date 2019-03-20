@@ -1,0 +1,44 @@
+---
+created: 1551053008000
+duration: 7200000
+id: gtkksqybccbfc
+name: CNC Router Training
+rsvp_limit: 4
+date_in_series_pattern: false
+status: upcoming
+time: 1579824000000
+local_date: '2020-01-23'
+local_time: '19:00'
+updated: 1551053008000
+utc_offset: -18000000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 11842712
+  name: Baltimore Node
+  lat: 39.313438415527344
+  lon: -76.615966796875
+  repinned: false
+  address_1: 2106 N Lovegrove Street
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21218'
+  state: MD
+group:
+  created: 1344557752000
+  name: Baltimore Node Makerspace
+  id: 4511032
+  join_mode: open
+  lat: 39.33000183105469
+  lon: -76.61000061035156
+  urlname: BaltimoreNode
+  who: Makers
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/BaltimoreNode/events/gtkksqybccbfc/
+description: "<p>This is a training on how to use the CNC Router</p> "
+visibility: public
