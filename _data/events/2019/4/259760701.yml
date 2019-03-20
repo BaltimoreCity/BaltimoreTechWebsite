@@ -1,0 +1,52 @@
+---
+created: 1552572533000
+duration: 7200000
+id: '259760701'
+name: April Meetup
+date_in_series_pattern: false
+status: upcoming
+time: 1554937200000
+local_date: '2019-04-10'
+local_time: '19:00'
+updated: 1552574878000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 26
+venue:
+  id: 26170830
+  name: 10630 Little Patuxent Pkwy
+  lat: 39.214439392089844
+  lon: -76.87278747558594
+  repinned: true
+  address_1: 10630 Little Patuxent Pkwy
+  city: Columbia
+  country: us
+  localized_country_name: USA
+  zip: '21044'
+  state: MD
+group:
+  created: 1299079979000
+  name: baltimore-python
+  id: 1792094
+  join_mode: open
+  lat: 39.27000045776367
+  lon: -76.62999725341797
+  urlname: baltimore-python
+  who: Pythonistas
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/baltimore-python/events/259760701/
+description: '<p>Interested in web scraping? Want to learn about <a href="https://scrapy.org"
+  class="linkified">https://scrapy.org</a>?<br/>Colin will be presenting an introduction
+  to Scrapy showing you how to scrape real-estate listings. You''ll learn about robot.txt
+  files, xpath, and css selectors and more.</p> <p>Colin loves to use Python to automate
+  both the mundane and impactful tasks in both his work life and personal life. From
+  building <a href="https://github.com/click-here/Outlook-Quick-Mail">projects</a>
+  to shave a few seconds off the time it takes to compose an email to <a href="https://github.com/click-here/Podcast-Snippet-Transcriber">transcribing</a>
+  snippets from Podcast episodes he likes. Currently he''s working on scraping real
+  estate listings with the hopes to buy a home in the next few years.</p> '
+how_to_find_us: We will be in the conference center on the 1st floor.
+visibility: public

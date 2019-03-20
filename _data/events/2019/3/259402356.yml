@@ -1,0 +1,62 @@
+---
+created: 1551477303000
+duration: 7200000
+id: '259402356'
+name: Docker for Web Hosting 101
+rsvp_limit: 30
+date_in_series_pattern: false
+status: upcoming
+time: 1553209200000
+local_date: '2019-03-21'
+local_time: '19:00'
+updated: 1551803681000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 25
+venue:
+  id: 25082635
+  name: Onyx Point
+  lat: 39.19224548339844
+  lon: -76.72801971435547
+  repinned: true
+  address_1: 7050 Hi Tech Drive, Suite 102
+  city: Hanover
+  country: us
+  localized_country_name: USA
+  zip: ''
+  state: MD
+group:
+  created: 1357855687000
+  name: Charm City Linux
+  id: 6595802
+  join_mode: open
+  lat: 39.27000045776367
+  lon: -76.62999725341797
+  urlname: CharmCityLinux
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/CharmCityLinux/events/259402356/
+description: "<p>Docker, and likewise Linux containers, have taken the development
+  industry by storm. Legacy applications are being re-packaged as micro-services to
+  break away from the heavy application installs and complex dependencies. Although
+  lots of developers already use Docker on their machines for application testing,
+  it's not always clear how Docker applications should be configured for a production
+  web hosting environment.</p> <p>I'm Dan Healy, founder and systems engineer for
+  Healy Technologies. I've accomplished an electrical engineering degree from Old
+  Dominion University as well as a master's of IT and Systems Engineer from University
+  of Maryland University College. My experience includes technical leadership with
+  the Johns Hopkins University enterprise web hosting team and architecting a Docker-based
+  web hosting replacement for student and faculty websites. I also serve as a Senior
+  Systems Engineer for Clever Devices LTD where I provide senior leadership and direction
+  for multi-million dollar public transit technology projects.</p> <p>In this demo,
+  I'll teach you how to create a 3-node HA Docker Swarm cluster with a shared storage,
+  container registry, and a reverse proxy. We'll also discuss some best practices
+  for logs collection.</p> <p>Extra Details:<br/>Our office building may require assistance
+  for wheelchair accessibility. Please use the telephone number on the door if you
+  have access issues or have arrived late. Restrooms and on-site parking are available.
+  Alcoholic beverages are available for attendees over 21.</p> "
+visibility: public
