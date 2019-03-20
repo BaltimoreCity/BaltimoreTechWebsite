@@ -1,0 +1,74 @@
+---
+created: 1552597810000
+duration: 12600000
+id: dgdmtqyznbrb
+name: 'AI Class: Deep Learning'
+rsvp_limit: 15
+date_in_series_pattern: false
+status: upcoming
+time: 1570987800000
+local_date: '2019-10-13'
+local_time: '13:30'
+updated: 1552597810000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 0
+venue:
+  id: 26100072
+  name: 3400 N Charles St
+  lat: 39.328739166259766
+  lon: -76.61952209472656
+  repinned: true
+  address_1: 3400 N Charles St
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21218'
+  state: MD
+group:
+  created: 1531342688000
+  name: Baltimore AI
+  id: 29209891
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-AI
+  who: AI Enthusiasts
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-AI/events/dgdmtqyznbrb/
+description: '<p>We will be following the basic syllabus outlined in the article (<a
+  href="https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48"
+  class="linkified">https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48</a>)</p>
+  <p>Google Drive:<br/><a href="https://drive.google.com/open?id=1clG3cSr0_HB8zd9lXmRxvy9WWwecd_Ze"
+  class="linkified">https://drive.google.com/open?id=1clG3cSr0_HB8zd9lXmRxvy9WWwecd_Ze</a><br/>Contact
+  Info Page:<br/><a href="https://docs.google.com/spreadsheets/d/1adCAAi2IFDu5eueloSdH1sFWhJY2HjTLPkbXL3lU8pk/edit?usp=sharing"
+  class="linkified">https://docs.google.com/spreadsheets/d/1adCAAi2IFDu5eueloSdH1sFWhJY2HjTLPkbXL3lU8pk/edit?usp=sharing</a></p>
+  <p>To gain access to Google Drive so you can do more than just view the documents,
+  add your contact information to the contact info page link posted above and then
+  send me a message so that I can add you to the drive!</p> <p>IF you can''t find
+  us, send a message to Jonathan S (event Organizer) to coordinate how to find us
+  at the library.</p> <p>Schedule:<br/>1:30-2pm Meet and greet<br/>2pm-5pm Work on
+  Lesson</p> <p>Description:<br/>The purpose of these weekly "classes" is so that
+  we can all work at our own pace on the lesson, but offer help to one another if
+  someone hits a roadblock. You must come with the willingness to problem solve--I''m
+  not going to be lecturing, just going to be learning just like everyone else.</p>
+  <p>If you have an interesting thought, start talking about it with the group! This
+  should be a no-pressure situation, you don''t need to establish yourself as subject
+  expert from the jump. Just focus on learning, be willing make mistakes and ask dumb
+  questions. Better to have a moment of injured pride than a lifetime carrying ignorance.</p>
+  <p>Logistical Notes:<br/>I will insist that within the time where we''re focusing
+  on the actual lesson (2-5pm)--let''s all limit our socializing to concentrate on
+  the work.</p> <p>I''ve limited the class to the first 15, so if you can''t make
+  it, please don''t hold up the spot for someone who can. If you can''t physically
+  attend a meeting, just do the work from home! There''s a google drive with notes
+  and questions/thoughts that we had, so if you need access to the drive, please PM
+  me so I can invite you.</p> <p>Excited to see you guys and learn!</p> '
+how_to_find_us: |-
+  Free Street Parking
+
+  Rm 5017 or 5015(same room, 2 different numbers) -> C Level (Basement)
+visibility: public

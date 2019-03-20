@@ -1,0 +1,46 @@
+---
+created: 1552314586000
+duration: 2700000
+id: '259669387'
+name: Webinar - An Introduction to Search Engine Optimization (SEO) with Zac Heisey
+rsvp_limit: 50
+date_in_series_pattern: false
+status: upcoming
+time: 1557331200000
+local_date: '2019-05-08'
+local_time: '12:00'
+updated: 1552314586000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 3
+venue:
+  id: 17638782
+  name: Online Webinar
+  lat: 39.29058074951172
+  lon: -76.60926055908203
+  repinned: false
+  address_1: Online Webinar
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: ''
+  state: MD
+group:
+  created: 1411519622000
+  name: Baltimore Techies for Good
+  id: 17176312
+  join_mode: approval
+  lat: 39.33000183105469
+  lon: -76.61000061035156
+  urlname: BaltimoreTechiesforGood
+  who: Techies for Good
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/BaltimoreTechiesforGood/events/259669387/
+description: "<p>Digital Marketing, website and SEO expert Zac Heisey will share his
+  top tips for optimizing your key online platforms, especially your website!</p>
+  <p>Log-in information will be provided closer to the date.</p> "
+visibility: public

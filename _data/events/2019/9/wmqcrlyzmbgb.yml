@@ -1,12 +1,12 @@
 ---
 created: 1456945893000
 duration: 10800000
-id: wmqcrlyzfbkc
+id: wmqcrlyzmbgb
 name: Open Hack Night
 date_in_series_pattern: false
 status: upcoming
-time: 1553727600000
-local_date: '2019-03-27'
+time: 1567638000000
+local_date: '2019-09-04'
 local_time: '19:00'
 updated: 1456945893000
 utc_offset: -14400000
@@ -38,7 +38,7 @@ group:
   country: us
   region: en_US
   timezone: US/Eastern
-link: https://www.meetup.com/Baltimore-Hackerspace/events/wmqcrlyzfbkc/
+link: https://www.meetup.com/Baltimore-Hackerspace/events/wmqcrlyzmbgb/
 description: "<p><b>What is Open Hack night?</b></p> <p>The Baltimore Hackerspace
   Open Hack night is an opportunity. It's an opportunity to show off your newest idea,
   creation, or prototype, meet people with similar or different skill sets, and an

@@ -1,49 +1,50 @@
+---
 created: 1551462682000
-date_in_series_pattern: false
-description: '<p>Join us for a Hack Night! Please RSVP so we can get enough food.</p>
-  <p>We''ll gather for food and work on our projects: Hospital Notify, Data Sculptures,
-  Idea Hub, and Sync The City.</p> <p>If you''re not on a team, that''s ok- join us
-  anyway! You can easily jump in wherever your skills are needed. Let us know if you
-  have any questions!</p> <p>Follow us on Twitter &amp; Instagram: @CodeForBmore</p> '
 duration: 7200000
-group:
-  country: us
-  created: 1478981954000
-  id: 21148247
-  join_mode: open
-  lat: 39.29999923706055
-  localized_location: Baltimore, MD
-  lon: -76.61000061035156
-  name: Code for Baltimore
-  region: en_US
-  state: MD
-  timezone: US/Eastern
-  urlname: Code-for-Baltimore
-  who: Members
-how_to_find_us: 'Enter Power Plant; glass door entrance to Spark is on left side at
-  back of venue, beside Ram''s Head. Call the number on the door to be let in. '
 id: '259395422'
-link: https://www.meetup.com/Code-for-Baltimore/events/259395422/
-local_date: '2019-03-27'
-local_time: '18:00'
 name: 'March Hack Night #2! '
-pro_is_email_shared: false
+date_in_series_pattern: false
 status: upcoming
 time: 1553724000000
+local_date: '2019-03-27'
+local_time: '18:00'
 updated: 1551462682000
 utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 15
 venue:
+  id: 26213534
+  name: Spark Baltimore
+  lat: 39.28878402709961
+  lon: -76.60700988769531
+  repinned: true
   address_1: '8 Market Pl #300'
   city: Baltimore
   country: us
-  id: 26213534
-  lat: 39.28878402709961
   localized_country_name: USA
-  lon: -76.60700988769531
-  name: Spark Baltimore
-  repinned: true
-  state: MD
   zip: '21202'
+  state: MD
+group:
+  created: 1478981954000
+  name: Code for Baltimore
+  id: 21148247
+  join_mode: open
+  lat: 39.29999923706055
+  lon: -76.61000061035156
+  urlname: Code-for-Baltimore
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Code-for-Baltimore/events/259395422/
+description: "<p>Join us for a Hack Night! Please RSVP so we can get enough food.</p>
+  <p>We'll gather for food and work on our projects: Hospital Notify, Data Sculptures,
+  Idea Hub, and Sync The City.</p> <p>If you're not on a team, that's ok- join us
+  anyway! You can easily jump in wherever your skills are needed. Let us know if you
+  have any questions!</p> <p>Follow us on Twitter &amp; Instagram: @CodeForBmore</p> "
+how_to_find_us: 'Enter Power Plant; glass door entrance to Spark is on left side at
+  back of venue, beside Ram''s Head. Call the number on the door to be let in. '
 visibility: public
-waitlist_count: 0
-yes_rsvp_count: 6
+pro_is_email_shared: false

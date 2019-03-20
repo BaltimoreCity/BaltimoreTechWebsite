@@ -1,0 +1,54 @@
+---
+created: 1552417963000
+duration: 7200000
+id: cfnjtqybccbrb
+name: Monday Web Development
+date_in_series_pattern: false
+status: upcoming
+time: 1578961800000
+local_date: '2020-01-13'
+local_time: '19:30'
+updated: 1552417963000
+utc_offset: -18000000
+waitlist_count: 0
+yes_rsvp_count: 2
+venue:
+  id: 25317964
+  name: Lotsa Stone Fired Pizza
+  lat: 39.39881896972656
+  lon: -76.60311889648438
+  repinned: true
+  address_1: 319 York Road
+  city: Towson
+  country: US
+  localized_country_name: USA
+group:
+  created: 1497974462000
+  name: FreeCodeCamp Baltimore
+  id: 24572106
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: FreeCodeCamp-Baltimore
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/FreeCodeCamp-Baltimore/events/cfnjtqybccbrb/
+description: "<p><img src=\"https://secure.meetupstatic.com/photos/event/6/b/4/6/600_462327462.jpeg\"
+  /></p> <p>This is a meet up for all FreeCodeCamp members along with anyone else
+  who is interested in programming. Our goal is to fill in the gap in areas where
+  one might be struggling while eating Lotsa Pizza! :)</p> <p>The languages and technologies
+  currently taught by freeCodeCamp include HTML5, CSS 3, JavaScript, jQuery, Bootstrap,
+  Sass, React.js, Node.js, Express.js, MongoDB, and Git.</p> <p>Not a user of Free
+  Code Camp? Don't worry.<br/>We are a Meetup of individuals of many levels of experience
+  and all corners of software development!</p> <p>Come out and join us at LOTSA Pizza
+  \U0001F355in Towson on the second Monday of every month at 7:30 PM.</p> <p>Our Facebook
+  Page:<br/>Click Here For Facebook Page (<a href=\"https://www.facebook.com/groups/free.code.camp.baltimore\"
+  class=\"linkified\">https://www.facebook.com/groups/free.code.camp.baltimore</a>)</p>
+  <p>Our Slack Invite:</p> <p>Click Here To Join Us On Slack (<a href=\"https://join.slack.com/fccbaltimore/shared_invite/MjAwNzQyMjIwMTc4LTE0OTc5ODIwODItNDhkODc3YTA2Mg\"
+  class=\"linkified\">https://join.slack.com/fccbaltimore/shared_invite/MjAwNzQyMjIwMTc4LTE0OTc5ODIwODItNDhkODc3YTA2Mg</a>)</p> "
+how_to_find_us: We meet in the side room on the left.
+visibility: public

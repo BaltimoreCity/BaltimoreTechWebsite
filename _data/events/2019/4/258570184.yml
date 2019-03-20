@@ -1,0 +1,51 @@
+---
+created: 1548967350000
+duration: 5400000
+id: '258570184'
+name: ISEC7 MeetUps Mobile Technology at Power Plant Live
+rsvp_limit: 25
+date_in_series_pattern: false
+status: upcoming
+time: 1555534800000
+local_date: '2019-04-17'
+local_time: '17:00'
+updated: 1548967350000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 2
+venue:
+  id: 26134268
+  name: Leinenkugel's Beer Garden
+  lat: 39.288963317871094
+  lon: -76.60686492919922
+  repinned: false
+  address_1: 4 Market Pl
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21202'
+  state: MD
+group:
+  created: 1525899192000
+  name: Baltimore Technology (Security, Audits) Meetup
+  id: 28438435
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-Technology-Security-Audits-Meetup
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Technology-Security-Audits-Meetup/events/258570184/
+description: "<p>Please join the ISEC7 Team of strategic mobile advisors for a good
+  time of networking and tech talk. We welcome this MeetUp Group, State and Local
+  Government contacts, partners and the Baltimore area network at 5pm at Leinenkugel's.</p>
+  <p>Ask about ISEC7's Mobile Enterprise Maturity Model and ISEC7 EMM Suite, a network
+  infrastructure monitoring and migration solutions with a simple dashboard view.</p>
+  <p>Come enjoy the conversations, complimentary drinks and appetizers.</p> <p>Register
+  now!</p> "
+how_to_find_us: Ask for ISEC7
+visibility: public
