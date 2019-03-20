@@ -8,7 +8,7 @@ status: upcoming
 time: 1554933600000
 local_date: '2019-04-10'
 local_time: '18:00'
-updated: 1552404223000
+updated: 1553095670000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 22
@@ -77,5 +77,10 @@ description: '<p>It''s about time for our second Bmore VR Meetup of 2019 and thi
   Webb Space Telescope. Come witness the immense scale of Webb, learn about its engineering
   feats, or even take a journey into the heart of a protoplanetary disk! Free download
   available through Steam: <a href="https://store.steampowered.com/app/891960/WebbVR_The_James_Webb_Space_Telescope_Virtual_Experience/"
-  class="linkified">https://store.steampowered.com/app/891960/WebbVR_The_James_Webb_Space_Telescope_Virtual_Experience/</a></p> '
+  class="linkified">https://store.steampowered.com/app/891960/WebbVR_The_James_Webb_Space_Telescope_Virtual_Experience/</a></p>
+  <p>HighRock - VR is not just for the gaming industry! HighRock will be showcasing
+  several VR solutions for business to business connections, specifically new advances
+  in Real Estate and Marketing. From guided, interactive tours to practical VR web-based
+  solutions, HighRock will be sharing how to integrate VR into every stage of the
+  business development pipeline.</p> '
 visibility: public
