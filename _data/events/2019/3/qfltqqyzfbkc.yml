@@ -2,16 +2,16 @@
 created: 1548703645000
 duration: 7200000
 id: qfltqqyzfbkc
-name: Let's talk Elixir
+name: Let's talk Elixir - Bending the Curve by Shaun Robinson
 date_in_series_pattern: false
 status: upcoming
 time: 1553727600000
 local_date: '2019-03-27'
 local_time: '19:00'
-updated: 1552570463000
+updated: 1553106227000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 4
+yes_rsvp_count: 9
 venue:
   id: 21779512
   name: SmartLogic LLC
@@ -39,10 +39,24 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/Baltimore-Elixir-and-Erlang-Meetup/events/qfltqqyzfbkc/
-description: '<p>Specific talks TBD, this will be updated when they are finalized.</p>
-  <p>If you have an idea for a talk you''d like to give, please send a message to
-  one of the organizers and we''ll make it happen!</p> <p>We are dedicated to providing
-  a harassment-free meetup experience for everyone. Please see our Code of Conduct
-  (<a href="https://www.meetup.com/Baltimore-Elixir-and-Erlang-Meetup/pages/28313285/Code_of_Conduct/"
+description: '<p>The story of how a small team of growth hackers incrementally adopted
+  Phoenix/Elixir to scale and improve user experience</p> <p>Legends of Learning had
+  a bold plan: to spin up a marketplace of educational mini games with a full middle
+  school science curriculum. We built a platform connecting game devs, content reviewers,
+  teachers, students, and more, using a simple stack: SQL&lt;=&gt;graphql&lt;=&gt;React.</p>
+  <p>In the first version, essentially a prototype that went to prod, we leaned heavily
+  on SQL and React, and moved lightning fast... until we didn''t.</p> <p>With customer-facing
+  teams tired of technical excuses for bugs or delays, we knew we needed to bend the
+  down-turning curve of our feature velocity.</p> <p>We''ve adopted Elixir and over
+  the past year, and it has given us a Swiss army knife to incrementally improve,
+  upgrade and replace the app’s features.</p> <p>We''re not done yet, but we have
+  more tests, fewer fires, and in Elixir / Phoenix, a stack that keeps on delivering
+  with concepts that are simple and composable.</p> <p>In this talk I''ll discuss
+  some tactics we''ve to execute this transformation, such as feature flagging, how
+  (easily) devs have taken to Elixir, and also how we''ve automated deployments with
+  Gigalixir. Happy to do lots of time for questions if people are interested in a
+  particular area.</p> <p>=============================</p> <p>We are dedicated to
+  providing a harassment-free meetup experience for everyone. Please see our Code
+  of Conduct (<a href="https://www.meetup.com/Baltimore-Elixir-and-Erlang-Meetup/pages/28313285/Code_of_Conduct/"
   class="linkified">https://www.meetup.com/Baltimore-Elixir-and-Erlang-Meetup/pages/28313285/Code_of_Conduct/</a>).</p> '
 visibility: public
