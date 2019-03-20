@@ -1,0 +1,68 @@
+---
+created: 1552354312000
+duration: 7200000
+id: '259689038'
+name: 'Serverless Data Engineering: A story.'
+date_in_series_pattern: false
+status: upcoming
+time: 1553725800000
+local_date: '2019-03-27'
+local_time: '18:30'
+updated: 1553030352000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 24
+venue:
+  id: 26117370
+  name: Oath
+  lat: 39.281578063964844
+  lon: -76.58032989501953
+  repinned: true
+  address_1: '2400 Boston St #300'
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21224'
+  state: MD
+group:
+  created: 1547169088000
+  name: AWS User Group Baltimore
+  id: 30894228
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: AWS-User-Group-Baltimore
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/AWS-User-Group-Baltimore/events/259689038/
+description: '<p>You have just been called in to help deal with a data loss emergency.
+  Some of the company''s sales data was compromised. The data can be recovered but
+  it''s spread out across various offices around the country. You are asked to devise
+  a solution to reconstruct the sales database and quickly.</p> <p>Come see how we
+  leverage stream data processing to solve this real-world problem and others like
+  it that benefit from modern-day data processing pipelines, streaming databases,
+  and serverless architectures. We''ll architect, deploy, and demo a live system made
+  up of Lambda, Kinesis, DynamoDB, S3, and other AWS technologies.</p> <p>You kinda
+  don''t want to miss this.</p> <p>Speaker Bio:<br/>Johnny Boursiquot is a multi-disciplined
+  software and cloud engineer with two decades of industry experience spanning various
+  server, client, and mobile technologies. He enjoys teaching technology, training
+  developers, and has authored “Go Standard Library Solutions” available now from
+  Packt Publishing.</p> <p>His love for technology is matched only by his passion
+  for community service. He is a GoBridge Core Member, the founder and organizer of
+  the Baltimore Golang User Group, and a previous organizer of both the Boston Ruby
+  User Group and the Boston Golang User Group. He regularly serves as a speaker and
+  teacher for various organizations that seek to diversify the tech industry. He has
+  been known to mentor a number of up and coming technology professionals in the Boston
+  and Baltimore metro areas.</p> <p>Agenda:</p> <p>• 6:30pm - Food &amp; networking</p>
+  <p>• 7:00pm - Serverless Data Engineering: A story.</p> <p>Refreshments</p> <p>Pizza
+  &amp; Soft drinks</p> <p>Many thanks to Verizon Media for hosting this meeting and
+  Beacon Street Services for sponsoring us Pizza.</p> <p>We will meet at Verizon Media
+  previously called Oath in Baltimore - their office is now at 2400 Boston St #300
+  · Baltimore, MD 21224. There is plenty of free parking in the garage.</p> <p>Our
+  Sponsors:<br/>Verizon Media<br/>Beacon Street Services<br/>Accelebrate: <a href="https://www.accelebrate.com/aws-training"
+  class="linkified">https://www.accelebrate.com/aws-training</a> .</p> '
+visibility: public

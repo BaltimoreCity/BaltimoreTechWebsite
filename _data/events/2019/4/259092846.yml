@@ -1,5 +1,44 @@
+---
 created: 1550592707000
+duration: 12600000
+id: '259092846'
+name: Bmore VR Spring 2019 Raffle Meetup
 date_in_series_pattern: false
+status: upcoming
+time: 1554933600000
+local_date: '2019-04-10'
+local_time: '18:00'
+updated: 1552404223000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 22
+venue:
+  id: 24951694
+  name: City Garage
+  lat: 39.26286315917969
+  lon: -76.61593627929688
+  repinned: true
+  address_1: 101 W. Dickman St
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: ''
+  state: MD
+group:
+  created: 1444444528000
+  name: BmoreVR - Baltimore Virtual and Augmented Reality Meetup
+  id: 19012631
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.58999633789062
+  urlname: BmoreVR
+  who: VR Pioneers
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/BmoreVR/events/259092846/
 description: '<p>It''s about time for our second Bmore VR Meetup of 2019 and this
   time around we''re adding a raffle!</p> <p>On Wednesday, April 10, all Meetup attendees
   will receive a card upon entry and should receive a sticker from each demo they
@@ -32,43 +71,11 @@ description: '<p>It''s about time for our second Bmore VR Meetup of 2019 and thi
   design, VR Party Club would like to become the first true "killer app" for VR.</p>
   <p>Bully! Entertainment - Get the chance to test a gesture based installation piece
   for the Avatar franchise where users can fly a Banshee - as well as a couple other
-  AR installations.</p> '
-duration: 12600000
-group:
-  country: us
-  created: 1444444528000
-  id: 19012631
-  join_mode: open
-  lat: 39.290000915527344
-  localized_location: Baltimore, MD
-  lon: -76.58999633789062
-  name: BmoreVR - Baltimore Virtual and Augmented Reality Meetup
-  region: en_US
-  state: MD
-  timezone: US/Eastern
-  urlname: BmoreVR
-  who: VR Pioneers
-id: '259092846'
-link: https://www.meetup.com/BmoreVR/events/259092846/
-local_date: '2019-04-10'
-local_time: '18:00'
-name: Bmore VR Spring 2019 Raffle Meetup
-status: upcoming
-time: 1554933600000
-updated: 1551462100000
-utc_offset: -14400000
-venue:
-  address_1: 101 W. Dickman St
-  city: Baltimore
-  country: us
-  id: 24951694
-  lat: 39.26286315917969
-  localized_country_name: USA
-  lon: -76.61593627929688
-  name: City Garage
-  repinned: true
-  state: MD
-  zip: ''
+  AR installations.</p> <p>Direct Dimensions - "Capturing Reality with Lasers &amp;
+  Drones" will be showcasing a variety of real world environments via HTC VIVE.</p>
+  <p>Space Telescope Science Institute - Get up close and personal with NASA’s James
+  Webb Space Telescope. Come witness the immense scale of Webb, learn about its engineering
+  feats, or even take a journey into the heart of a protoplanetary disk! Free download
+  available through Steam: <a href="https://store.steampowered.com/app/891960/WebbVR_The_James_Webb_Space_Telescope_Virtual_Experience/"
+  class="linkified">https://store.steampowered.com/app/891960/WebbVR_The_James_Webb_Space_Telescope_Virtual_Experience/</a></p> '
 visibility: public
-waitlist_count: 0
-yes_rsvp_count: 15
