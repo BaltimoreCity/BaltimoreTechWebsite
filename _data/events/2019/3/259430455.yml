@@ -1,5 +1,51 @@
+---
 created: 1551568513000
+duration: 21600000
+fee:
+  accepts: wepay
+  amount: 10.0
+  currency: USD
+  description: ''
+  label: Price
+  required: true
+id: '259430455'
+name: Blockchain Baltimore
 date_in_series_pattern: false
+status: upcoming
+time: 1553958000000
+local_date: '2019-03-30'
+local_time: '11:00'
+updated: 1551588036000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 4
+venue:
+  id: 26216344
+  name: 875 Hollins St
+  lat: 39.287628173828125
+  lon: -76.63158416748047
+  repinned: true
+  address_1: 875 Hollins St
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21201'
+  state: MD
+group:
+  created: 1548827563000
+  name: Baltimore Blockchain Technology Meetup
+  id: 31045922
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-Blockchain-Technology-Meetup
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Blockchain-Technology-Meetup/events/259430455/
 description: '<p>"Blockchain can do for business what the internet did for communication"</p>
   <p>Blockchain Baltimore is a must-attend event to understand the challenges and
   opportunities of our blockchain future. This event is strongly encouraged also for
@@ -13,51 +59,6 @@ description: '<p>"Blockchain can do for business what the internet did for commu
   activities.<br/>A certificate of participation is awarded to participants who successfully
   complete the program requirements.<br/>PS.:No background required.<br/>Food will
   be provided.<br/>Seats are limited.<br/>www.blockchainbaltimore.org</p> '
-duration: 21600000
-fee:
-  accepts: wepay
-  amount: 10.0
-  currency: USD
-  description: ''
-  label: Price
-  required: true
-group:
-  country: us
-  created: 1548827563000
-  id: 31045922
-  join_mode: open
-  lat: 39.290000915527344
-  localized_location: Baltimore, MD
-  lon: -76.62000274658203
-  name: Baltimore Blockchain Technology Meetup
-  region: en_US
-  state: MD
-  timezone: US/Eastern
-  urlname: Baltimore-Blockchain-Technology-Meetup
-  who: Members
 how_to_find_us: Event is supported by University of Maryland Graduate Research Innovation
   District.
-id: '259430455'
-link: https://www.meetup.com/Baltimore-Blockchain-Technology-Meetup/events/259430455/
-local_date: '2019-03-30'
-local_time: '11:00'
-name: Blockchain Baltimore
-status: upcoming
-time: 1553958000000
-updated: 1551588036000
-utc_offset: -14400000
-venue:
-  address_1: 875 Hollins St
-  city: Baltimore
-  country: us
-  id: 26216344
-  lat: 39.287628173828125
-  localized_country_name: USA
-  lon: -76.63158416748047
-  name: 875 Hollins St
-  repinned: true
-  state: MD
-  zip: '21201'
 visibility: public
-waitlist_count: 0
-yes_rsvp_count: 3
