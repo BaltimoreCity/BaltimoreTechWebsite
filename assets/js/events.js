@@ -63,9 +63,9 @@ function template(data) {
               </h6>
             </div>
             <div class="event-date">
-              <strong class="event.date">${event.local_date}</strong
+              <strong class="event.date">${moment(event.local_date).format("MM-DD-YYYY")}</strong
               ><br />
-              <strong class="event.time">${event.local_time}</strong> <br />
+              <strong class="event.time">${moment(event.local_time, 'hh:mm').format('hh:mmA')}</strong> <br />
                 <a
                   href="${ event.link }"
                   target="_blank"
