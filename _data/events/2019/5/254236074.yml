@@ -1,0 +1,82 @@
+---
+created: 1535629769000
+duration: 5400000
+id: '254236074'
+name: R-Ladies Baltimore -- Developing R Packages
+rsvp_limit: 60
+date_in_series_pattern: false
+status: upcoming
+time: 1558560600000
+local_date: '2019-05-22'
+local_time: '17:30'
+rsvp_close_offset: PT52H30M
+updated: 1551967086000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 16
+venue:
+  id: 26101835
+  name: 301 W 29th St
+  lat: 39.32172775268555
+  lon: -76.62223052978516
+  repinned: false
+  address_1: 301 W 29th St
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21211'
+  state: MD
+group:
+  created: 1519623494000
+  name: R-Ladies Baltimore
+  id: 27651413
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: rladies-baltimore
+  who: R-Ladies
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/rladies-baltimore/events/254236074/
+description: "<p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the
+  larger R-Ladies global organization (rladies.org) to promote gender diversity in
+  the R community.</p> <p>We will have an event on Wednesday May 22, 2019 from 5:30-7pm<br/>location
+  at Allovue (<a href=\"https://allovue.com\" class=\"linkified\">https://allovue.com</a>)).
+  Genevieve Stein-O’Brien (<a href=\"https://twitter.com/genesofeve\" class=\"linkified\">https://twitter.com/genesofeve</a>)
+  will introduce R packages and teach how to develop your own R package! Chips and
+  drinks will be provided!</p> <p>WHO is this for?<br/>- If you are new to R &amp;
+  are short-budgeted on time!<br/>- If you have R code that you want to convert into
+  an R package, but don't know how!<br/>- If you want to learn about how others create
+  R packages!</p> <p>*If any/all of this is true, this event might be for you!*</p>
+  <p>AGENDA<br/>5:30–5:45 Meet &amp; Greet | \U0001F36A | Set-up<br/>5:45–5:50 Who
+  we are | Announcements | What's next<br/>5:50–6:30 Workshop: Developing R packages<br/>6:30-6:45
+  Discussion with audience on other questions / resources<br/>6:45–7:00 Any more Qs?
+  How to reach us to continue this conversation!</p> <p>Details on the location:<br/>Allovue
+  (<a href=\"https://allovue.com\" class=\"linkified\">https://allovue.com</a>)<br/>301
+  W 29th St, Baltimore, MD 21211<br/>(Room 2003, on the second floor at the end of
+  the hall)</p> <p>Details on parking: Parking is available at R House (<a href=\"https://r.housebaltimore.com\"
+  class=\"linkified\">https://r.housebaltimore.com</a>) as well as across the street
+  at the police station or in Remington Row’s Garage (entrance on 28th Street, that
+  is paid parking though).</p> <p>FAQ:<br/>Q: Are men welcome to attend R-Ladies events?<br/>A:
+  Yes, men are welcome at this event. Our mission is to encourage more women and non-binary
+  individuals to get involved in the R community. However, we ask that cis men come
+  as guests of women and gender minorities to our events to promote a sense support
+  and encouragement for women and gender minorities in the R community. Please help
+  us by spreading the word about R-Ladies. Please also take the time to review our
+  code of conduct before you attend: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\"
+  class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct</a></p>
+  <p>The term \"women and gender minorities\" is inclusive of individuals who identify
+  as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender,
+  intersex, and all minority genders).</p> <p>Important to know:<br/>- If this is
+  your first R-Ladies event, please take a moment to review our R-Ladies Global code
+  of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\"
+  class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct</a></p>
+  <p>Finally, for more information:<br/>email: [masked]<br/>twitter: @RLadiesBmore<br/>website:
+  <a href=\"https://rladies-baltimore.github.io\" class=\"linkified\">https://rladies-baltimore.github.io</a><br/>facebook:
+  <a href=\"https://www.facebook.com/RLadiesBmore/\" class=\"linkified\">https://www.facebook.com/RLadiesBmore/</a><br/>meetup:
+  <a href=\"https://www.meetup.com/rladies-baltimore/\" class=\"linkified\">https://www.meetup.com/rladies-baltimore/</a></p> "
+visibility: public
+pro_is_email_shared: false
