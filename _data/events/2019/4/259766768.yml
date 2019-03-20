@@ -1,0 +1,56 @@
+---
+created: 1552587668000
+duration: 14400000
+id: '259766768'
+name: Find Your Next Career April 3 in Tysons Corner
+date_in_series_pattern: false
+status: upcoming
+time: 1554314400000
+local_date: '2019-04-03'
+local_time: '14:00'
+updated: 1552587690000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 3979652
+  name: The Westin Tysons Corner
+  lat: 38.90767288208008
+  lon: -77.21528625488281
+  repinned: true
+  address_1: 7801 Leesburg Pike
+  city: Falls Church
+  country: us
+  localized_country_name: USA
+  zip: '22043'
+  state: VA
+group:
+  created: 1455127079000
+  name: ClearedJobs.Net Polygraph Only Networking Events
+  id: 19550590
+  join_mode: open
+  lat: 39.209999084472656
+  lon: -76.66000366210938
+  urlname: ClearedJobs-Net-Polygraph-Only-Networking-Events
+  who: CI or FS Polygraph Professionals
+  localized_location: Linthicum Heights, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/ClearedJobs-Net-Polygraph-Only-Networking-Events/events/259766768/
+description: '<p>If you''ve got a CI or FS polygraph please join us. We''ll have leading
+  employers hiring for many different skill sets.</p> <p>Pre-register here: <a href="https://clearedjobs.net/job-fair/fair/93/"
+  class="linkified">https://clearedjobs.net/job-fair/fair/93/</a> by March 26 and
+  your resume may be reviewed by Employers prior to the event, and some pre-registrants
+  contacted for on-site interviews. Not all companies have the capacity to review
+  the full pre-registration file before the event, so if you''re not contacted, don''t
+  let that deter you from joining us! Any questions? Contact [masked].</p> <p>Our
+  current list of employers includes:</p> <p>AECOM<br/>Amazon Web Services<br/>Cleared
+  Solutions<br/>Cognitio<br/>E3 Sentinel<br/>Infor<br/>Leidos<br/>Mission Essential<br/>NCI<br/>PAE<br/>Ridgeline
+  International<br/>Rincon Research and more!</p> <p>• What to bring<br/>Bring your
+  resume and your success stories to share with other job seekers as well as the hiring
+  employers.</p> <p>• Important to know<br/>Pre-register here: <a href="https://clearedjobs.net/job-fair/fair/93/"
+  class="linkified">https://clearedjobs.net/job-fair/fair/93/</a></p> '
+how_to_find_us: Please check in at registration!
+visibility: public

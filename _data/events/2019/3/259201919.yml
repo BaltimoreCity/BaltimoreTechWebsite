@@ -1,5 +1,44 @@
+---
 created: 1550875000000
+duration: 12600000
+id: '259201919'
+name: AWS & Sogeti - Get Your Head in the Cloud
 date_in_series_pattern: false
+status: upcoming
+time: 1553713200000
+local_date: '2019-03-27'
+local_time: '15:00'
+updated: 1550875000000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 15
+venue:
+  id: 26196047
+  name: American Visionary Art Museum
+  lat: 39.279930114746094
+  lon: -76.6068344116211
+  repinned: false
+  address_1: 800 Key Hwy
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21230'
+  state: MD
+group:
+  created: 1534873807000
+  name: Baltimore Cloud Users Group
+  id: 29588641
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: meetup-group-BrDPrzFn
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/meetup-group-BrDPrzFn/events/259201919/
 description: '<p>I am very excited about the Amazon and Sogeti event on March 27th
   right here in Baltimore at the American Visionary Art Museum. Experts from AWS and
   Sogeti will be available for discussions and networking.<br/>Great topics:<br/>•
@@ -11,43 +50,5 @@ description: '<p>I am very excited about the Amazon and Sogeti event on March 27
   <p>For more details and registration, go to Get Your Head in the Cloud</p> <p><a
   href="https://www.eventbrite.com/e/sogeti-and-aws-get-your-head-in-the-cloud-tickets-57128163876?aff=affiliate1"
   class="linkified">https://www.eventbrite.com/e/sogeti-and-aws-get-your-head-in-the-cloud-tickets-57128163876?aff=affiliate1</a></p> '
-duration: 12600000
-group:
-  country: us
-  created: 1534873807000
-  id: 29588641
-  join_mode: open
-  lat: 39.290000915527344
-  localized_location: Baltimore, MD
-  lon: -76.62000274658203
-  name: Baltimore Cloud Users Group
-  region: en_US
-  state: MD
-  timezone: US/Eastern
-  urlname: meetup-group-BrDPrzFn
-  who: Members
 how_to_find_us: https://www.eventbrite.com/e/sogeti-and-aws-get-your-head-in-the-cloud-tickets-57128163876?aff=affiliate1
-id: '259201919'
-link: https://www.meetup.com/meetup-group-BrDPrzFn/events/259201919/
-local_date: '2019-03-27'
-local_time: '15:00'
-name: AWS & Sogeti - Get Your Head in the Cloud
-status: upcoming
-time: 1553713200000
-updated: 1550875000000
-utc_offset: -14400000
-venue:
-  address_1: 800 Key Hwy
-  city: Baltimore
-  country: us
-  id: 26196047
-  lat: 39.279930114746094
-  localized_country_name: USA
-  lon: -76.6068344116211
-  name: American Visionary Art Museum
-  repinned: false
-  state: MD
-  zip: '21230'
 visibility: public
-waitlist_count: 0
-yes_rsvp_count: 13

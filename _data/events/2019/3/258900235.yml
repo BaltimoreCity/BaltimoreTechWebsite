@@ -1,0 +1,70 @@
+---
+created: 1549988118000
+duration: 5400000
+id: '258900235'
+name: 'Baltimore Meetup #3 Virtual Meetup on DataWeave [6:00 to 7:30 PM EST]'
+date_in_series_pattern: false
+status: upcoming
+time: 1553115600000
+local_date: '2019-03-20'
+local_time: '17:00'
+updated: 1552599958000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 25961448
+  name: Allegis Group, Inc
+  lat: 39.170326232910156
+  lon: -76.7369155883789
+  repinned: false
+  address_1: 7312 Parkway Drive South
+  city: Hanover
+  country: US
+  localized_country_name: USA
+group:
+  created: 1537896512000
+  name: Baltimore MuleSoft Meetup Group
+  id: 29957397
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-MuleSoft-Meetup-Group
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-MuleSoft-Meetup-Group/events/258900235/
+manual_attendance_count: 0
+description: '<p>REGISTRATIONS ARE NOT AVAILABLE ON MEETUP.COM - CONFIRM YOUR RSVP
+  ON OUR WEBSITE HERE:<br/><a href="https://meetups.mulesoft.com/events/details/mulesoft-baltimore-presents-baltimore-meetup-3-virtual-meetup-on-dataweave-600-to-730-pm-est/"
+  class="linkified">https://meetups.mulesoft.com/events/details/mulesoft-baltimore-presents-baltimore-meetup-3-virtual-meetup-on-dataweave-600-to-730-pm-est/</a>
+  In this webinar, Joshua will explain some of the functional programming concepts
+  that the DataWeave program language utilizes to allow developers to create concise
+  and powerful data transformations. A solid understanding of these concepts will
+  take your abilities as a MuleSoft integration expert to the next level.&lt;/p&gt;<b>Register
+  to receive the link to the webinar 24hrs before the event!</b>&lt;/p&gt;<a href="http://youtu.be/TzZsZQ1rYFM">&lt;span&gt;<a
+  href="http://youtu.be/TzZsZQ1rYFM&lt;/span&gt" class="embedded">http://youtu.be/TzZsZQ1rYFM&lt;/span&gt</a>;</a>&lt;br&gt;&lt;/p&gt;Below
+  topics will be covered:&lt;br&gt;&lt;/p&gt;1. Recursion&lt;/p&gt;2. Pattern Matching&lt;/p&gt;3.
+  Calling Flow From DataWeave&lt;/p&gt;4. Lookups In DataWeave&lt;/p&gt;</p> <p>Agenda<br/>6:00
+  PM: Start<br/>6:05 PM: Speaker Introduction<br/>6:10 PM: DataWeave by Joshua<br/>7:15
+  PM: Q &amp; A</p> <p>---</p> <p>Speaker<br/>Joshua Erney - Mountain State Software
+  Solutions (Integration Engineer)<br/>Joshua Erney is an Integration Engineer at
+  Mountain State Software Solutions, primarily specializing in MuleSoft products,
+  in particular, their transformation programming language DataWeave. You can find
+  his blog at www.jerney.io, and his MuleSoft videos on his Youtube channel, Mule
+  Made Easy.</p> <p>Hosted By<br/>Manju Kumara Hanumanthappa, Integration Developer<br/>Working
+  as Lead Developer in Integration Domain from past 9+ years, Keen on solving integration
+  problems.</p> <p>Jon Tarrant, Delivery Manager, Enterprise Integration</p> <p>---</p>
+  <p>Partner<br/>Allegis Group (<a href="https://www.allegisgroup.com/" class="linkified">https://www.allegisgroup.com/</a>)<br/>At
+  Allegis Group, we exist to create opportunity – for our clients, our candidates,
+  and each other. Through a network of specialized companies, we connect great people
+  with great opportunities, helping businesses win and careers soar. We’re the global
+  leader in Talent Solutions. And, together with our network of specialized companies,
+  we are unified by a common purpose: to create significant opportunities for people
+  that, day by day, shape our world.</p> <p>---</p> <p>REGISTRATIONS ARE NOT AVAILABLE
+  ON MEETUP.COM - CONFIRM YOUR RSVP ON OUR WEBSITE HERE:<br/><a href="https://meetups.mulesoft.com/events/details/mulesoft-baltimore-presents-baltimore-meetup-3-virtual-meetup-on-dataweave-600-to-730-pm-est/"
+  class="linkified">https://meetups.mulesoft.com/events/details/mulesoft-baltimore-presents-baltimore-meetup-3-virtual-meetup-on-dataweave-600-to-730-pm-est/</a></p> '
+visibility: public
