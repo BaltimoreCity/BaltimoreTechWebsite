@@ -55,6 +55,43 @@ function template(data) {
   let html = '';
 
   $.each(data, function(index, people) {
+    const twitterHtml = people.twitter_url ?
+      `<li class="list-inline-item">
+        <a href="${people.twitter_url}" target="_blank"
+          ><i class="fab fa-twitter"></i
+        ></a>
+      </li>` : ''
+    const linkedinHtml = people.linkedin_url ?
+      `<li class="list-inline-item">
+        <a href="${people.linkedin_url}" target="_blank"
+          ><i class="fab fa-linkedin-in"></i
+        ></a>
+      </li>` : ''
+    const facebookHtml = people.facebook_url ?
+      `<li class="list-inline-item">
+        <a href="${people.facebook_url}" target="_blank"
+          ><i class="fab fa-facebook"></i
+        ></a>
+      </li>` : ''
+    const githubHtml = people.github_url ?
+      `<li class="list-inline-item">
+        <a href="${people.github_url}" target="_blank"
+          ><i class="fab fa-github-alt"></i
+        ></a>
+      </li>` : ''
+    const websiteHtml = people.website_url ?
+      `<li class="list-inline-item">
+        <a href="${people.website_url}" target="_blank"
+          ><i class="fa fa-link"></i
+        ></a>
+      </li>` : ''
+    const resumeHtml = people.resume_url ?
+      `<a
+              href="${people.resume_url}"
+              class="btn-resume btn btn-dark text-uppercase rounded-pill"
+            >
+              Resume
+            </a>` : ''
 
     const peopleHtml = `
       <div class="col-sm-11 people-card ${people.type}">
@@ -78,38 +115,13 @@ function template(data) {
                   ><i class="fab fa-slack"></i
                 ></a>
               </li>
-              <li class="list-inline-item">
-                <a href="${people.twitter_url}" target="_blank"
-                  ><i class="fab fa-twitter"></i
-                ></a>
-              </li>
-              <li class="list-inline-item">
-                <a href="${people.linkedin_url}" target="_blank"
-                  ><i class="fab fa-linkedin-in"></i
-                ></a>
-              </li>
-              <li class="list-inline-item">
-                <a href="${people.facebook_url}" target="_blank"
-                  ><i class="fab fa-facebook"></i
-                ></a>
-              </li>
-              <li class="list-inline-item">
-                <a href="${people.github_url}" target="_blank"
-                  ><i class="fab fa-github-alt"></i
-                ></a>
-              </li>
-              <li class="list-inline-item">
-                <a href="${people.website_url}" target="_blank">
-                  <i class="fa fa-link"></i>
-                </a>
-              </li>
+              ${twitterHtml}
+              ${linkedinHtml}
+              ${facebookHtml}
+              ${githubHtml}
+              ${websiteHtml}
             </ul>
-            <a
-              href="${people.resume_url}"
-              class="btn-resume btn btn-dark text-uppercase rounded-pill"
-            >
-              Resume
-            </a>
+            ${resumeHtml}
           </div>
           <div class="col-sm-4 col-lg-2">
             <ul class="people.skills list-unstyled skills-list">

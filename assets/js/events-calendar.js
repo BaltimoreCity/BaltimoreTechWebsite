@@ -56,7 +56,7 @@ function eventListing(containerId, initialDate = moment()) {
   }
 
   function listItem(event) {
-    return `<li>${event.local_date} - ${event.local_time} | ${event.name}&nbsp;&nbsp;<a href="${event.link}" target="_blank" class="btn btn-olive event-btn">sign up</a></li>`;
+    return `<li>${moment(event.local_date).format("MM-DD-YYYY")} at ${moment(event.local_time, 'hh:mm').format('hh:mmA')} | ${event.name}&nbsp;&nbsp;<a href="${event.link}" target="_blank" class="btn btn-olive event-btn">sign up</a></li>`;
   }
 
   const render = function() {

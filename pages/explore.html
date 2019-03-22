@@ -44,7 +44,7 @@ css-list:
   function getLocationData() {
     const rawData = {
       orgs: {{site.data.organizations | jsonify}},
-      events: JSON.parse(`{{site.data.events | jsonify}}`)
+      events: {{site.data.events | jsonify}}
     };
 
     const orgs = _.values(rawData.orgs).reduce((result, org) => {
@@ -61,11 +61,15 @@ css-list:
     const events = _.values(rawData.events).reduce((result, year) => {
       _.values(year).forEach(months =>
         _.values(months).forEach(event => {
+          const coordinate = {
+            lat: event.venue && event.venue.lat || event.group && event.group.lat,
+            lng: event.venue && event.venue.lon || event.group && event.group.lon
+          }
           result.push({
             type: "event",
-            title: event.title,
-            location: event.location,
-            coordinate: event.coordinate,
+            title: event.name,
+            location: event.venue && event.venue.name,
+            coordinate: coordinate,
             url: event.link
           });
         })
