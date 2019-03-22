@@ -2,17 +2,17 @@
 created: 1548524092000
 duration: 7200000
 id: '258418763'
-name: Black Techies Project Night
+name: Black Techies Project Night - Integrated Web Development & Front End Design
 rsvp_limit: 20
 date_in_series_pattern: false
 status: upcoming
 time: 1555021800000
 local_date: '2019-04-11'
 local_time: '18:30'
-updated: 1548526499000
+updated: 1553210334000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 3
+yes_rsvp_count: 5
 venue:
   id: 25575435
   name: Impact Hub Baltimore
