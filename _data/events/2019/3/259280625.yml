@@ -9,16 +9,17 @@ status: upcoming
 time: 1553812200000
 local_date: '2019-03-28'
 local_time: '18:30'
-updated: 1551152076000
+rsvp_close_offset: PT12H30M
+updated: 1553369986000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 84
+yes_rsvp_count: 86
 venue:
   id: 26203749
   name: 9513 Key W Ave
   lat: 39.107154846191406
   lon: -77.19961547851562
-  repinned: false
+  repinned: true
   address_1: 9513 Key W Ave
   city: Rockville
   country: us
@@ -45,7 +46,8 @@ description: "<p>Please join us in March as we return to FINRA to learn how they
   <p>Agenda<br/>-------------------------------------------------<br/>6:30 PM -- Networking
   &amp; Food</p> <p>7:00 PM -- Greetings</p> <p>7:05 PM -- Using NLP, ML &amp; Graph
   Databases to Automate a Documents Review Process - Dmytro Dolgopolov</p> <p>Location<br/>-------------------------------------------------<br/>FINRA<br/>9513
-  Key W Ave, Rockville, MD 20850</p> <p>Parking<br/>-------------------------------------------------<br/>There
+  Key W Ave, Rockville, MD 20850</p> <p>Please bring an ID that matches your registered
+  name.</p> <p>Parking<br/>-------------------------------------------------<br/>There
   are parking lots in front and to the side of the building.</p> <p>Talks<br/>-------------------------------------------------<br/>Using
   NLP, ML &amp; Graph Databases to Automate a Documents Review Process<br/>FINRA’s
   investigators and analysts review hundreds of thousands of various documents each
