@@ -3,17 +3,17 @@ created: 1551134942000
 duration: 8100000
 id: '259280625'
 name: 'Who, What, Where, When and How: Analyzing Documents with NLP, ML and Graphs'
-rsvp_limit: 150
+rsvp_limit: 125
 date_in_series_pattern: false
 status: upcoming
 time: 1553812200000
 local_date: '2019-03-28'
 local_time: '18:30'
 rsvp_close_offset: PT12H30M
-updated: 1553369986000
+updated: 1553549346000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 97
+yes_rsvp_count: 99
 venue:
   id: 26203749
   name: 9513 Key W Ave
