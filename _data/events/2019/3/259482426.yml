@@ -8,7 +8,7 @@ status: upcoming
 time: 1553639400000
 local_date: '2019-03-26'
 local_time: '18:30'
-updated: 1551731772000
+updated: 1553634904000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 18
@@ -17,7 +17,7 @@ venue:
   name: Univ-Baltimore School of Law
   lat: 39.30583572387695
   lon: -76.61587524414062
-  repinned: false
+  repinned: true
   address_1: 1401 N Charles St
   city: Baltimore
   country: us
@@ -52,4 +52,5 @@ description: "<p>Biases inherent in data can cause the behavior of machine learn
   and Sonia in a discussion about the legal and technical challenges of machine learning
   algorithms and potential solutions to what is a fundamental issue for the future
   of the criminal justice system.</p> "
+how_to_find_us: AL 021 – Moot Court Room
 visibility: public
