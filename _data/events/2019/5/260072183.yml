@@ -1,0 +1,72 @@
+---
+created: 1553564827000
+duration: 8100000
+id: '260072183'
+name: Data Engineering with Apache Spark
+rsvp_limit: 50
+date_in_series_pattern: false
+status: upcoming
+time: 1556830800000
+local_date: '2019-05-02'
+local_time: '17:00'
+updated: 1553565043000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 3
+venue:
+  id: 26008536
+  name: Asymmetrik HQ
+  lat: 39.12571716308594
+  lon: -76.77197265625
+  repinned: true
+  address_1: 308 Sentinel Drive
+  address_2: Suite 400
+  city: Annapolis Junction
+  country: us
+  localized_country_name: USA
+  zip: '20701'
+  state: md
+group:
+  created: 1413730037000
+  name: Baltimore Scala
+  id: 17721202
+  join_mode: open
+  lat: 39.27000045776367
+  lon: -76.62999725341797
+  urlname: Baltimore-Scala
+  who: Scala Developers
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Scala/events/260072183/
+description: "<p>Thursday, May 2nd, 2019 at Asymmetrik</p> <p>5:00-5:15PM Mingle with
+  pizza and refreshments<br/>5:15-7:15PM Presentation/questions (continue pizza/refreshments)</p>
+  <p>Presenter: Markus Dale</p> <p>Apache Spark is a popular big data framework and
+  after our Scala intro for Spark in January, we are ready to dive into the Spark
+  compute model and its API for data engineering. Learn about:</p> <p>* Spark ecosystem
+  and libraries<br/>* RDDs<br/>* driver/executors<br/>* partitions<br/>* lazy evaluation
+  - transformations vs. actions<br/>* shuffle<br/>* Dataset API<br/>* Read, manipulate,
+  store...</p> <p>This presentation will mix concepts with code and we will send out
+  links to the repository, setup etc. a couple of days before the actual presentation
+  if you want to follow along on your own laptop.</p> <p>Presenter relevant bio:<br/>Markus
+  is the organizer of the Baltimore Scala meetup and a senior software developer at
+  Asymmetrik where he gets to work with some of his favorite languages, frameworks
+  and infrastructure like Scala, Akka, Spark, Elasticsearch and AWS. Before joining
+  Asymmetrik he was a solutions architect for Databricks where he also taught Apache
+  Spark classes using Scala. Before Apache Spark he created and taught an Apache Hadoop
+  class for UMBC Training. After some LISP and Scheme in grad school and a mostly
+  object-oriented Java-centric software developer career, it was Martin Odersky's
+  Functional Programming Principles in Scala MOOC that got him hooked on Scala and
+  a more functional approach to software.</p> <p>Note on address: Make sure you turn
+  on Sentinel Drive, *not* Sentinel Way (don't turn at the light). Ample parking in
+  front of the building or in the adjacent parking garage. Take elevators or stairs
+  (it will be early in the year so New Year's resolutions should still be in effect)
+  to 4th floor. Use Asymmetrik main entrance (not employee entrance) - ring bell if
+  not open.</p> "
+how_to_find_us: Make sure you turn on Sentinel Drive, *not* Sentinel Way (don't turn
+  at the light!). Ample parking in front of the building or in the adjacent parking
+  garage. Take elevators or stairs to 4th floor. Use Asymmetrik main entrance/ring
+  bell if necessary.
+visibility: public
