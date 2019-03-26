@@ -8,21 +8,21 @@ status: upcoming
 time: 1553724000000
 local_date: '2019-03-27'
 local_time: '18:00'
-updated: 1552365682000
+updated: 1553627145000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 16
+yes_rsvp_count: 17
 venue:
-  id: 26070382
-  name: The Elephant
-  lat: 39.30046081542969
-  lon: -76.61605834960938
+  id: 26279286
+  name: Ampersea
+  lat: 39.27931594848633
+  lon: -76.59589385986328
   repinned: false
-  address_1: 924 N Charles St
+  address_1: 1417 Thames St
   city: Baltimore
   country: us
   localized_country_name: USA
-  zip: '21201'
+  zip: '21231'
   state: MD
 group:
   created: 1509941108000
@@ -41,11 +41,8 @@ group:
 link: https://www.meetup.com/Baltimore-Women-in-Tech-Meetup/events/259692087/
 description: "<p>Looking to expand your circle of talented women in tech? Want to
   find others who geek out over design, coding, data, pixels and (gasp!) math? We
-  have the perfect event for you. Join fellow women in tech for a March social mixer
-  in celebration of International Women's Month!</p> <p>Co-hosts:<br/>Baltimore Women
-  in Tech<br/>Google Techmakers Baltimore</p> <p>RSVP: bit.ly/BWiTMarchMixer</p> <p>HAPPY
-  HOUR SPECIALS (TIL 7PM):<br/>Outrageous Orange Juice - $4<br/>- add booze (+ $4)<br/>Cocktails:
-  House Spirits - $7<br/>Wine (by the glass) - $6<br/>Beer (local draft, select bottle)
-  - $6</p> <p>Small Plates:<br/>Zucchini Fritters - $6<br/>Moroccan Meatballs - $5<br/>Crispy
-  Fries - $5<br/>Hummus &amp; Pita - $7<br/>Spicy Chickpea Sushi Roll - $7</p> "
+  have the perfect event for you.</p> <p>Join fellow women in tech for a March social
+  mixer in celebration of Women's History Month and International Women's Day!</p>
+  <p>Thank you to our new venue, Ampersea for hosting us!</p> <p>Co-hosts:<br/>Baltimore
+  Women in Tech<br/>Google Techmakers Baltimore</p> <p>RSVP: bit.ly/BWiTMarchMixer</p> "
 visibility: public
