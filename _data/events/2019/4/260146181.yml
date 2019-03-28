@@ -1,0 +1,62 @@
+---
+created: 1553784804000
+duration: 7200000
+id: '260146181'
+name: Toward Human-Centered Machine Learning
+date_in_series_pattern: false
+status: upcoming
+time: 1554933600000
+local_date: '2019-04-10'
+local_time: '18:00'
+updated: 1553784804000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 13
+venue:
+  id: 26284139
+  name: ETC Baltimore
+  lat: 39.29417037963867
+  lon: -76.5622787475586
+  repinned: false
+  address_1: 101 N. Haven Street
+  address_2: 3rd Floor
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21224'
+  state: md
+group:
+  created: 1534967427000
+  name: Artificial Intelligence Maryland (MD-AI)
+  id: 29597822
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Maryland-AI
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Maryland-AI/events/260146181/
+description: "<p>Our April meetup features a presentation, Toward Human-Centered Machine
+  Learning, by Patrick Hall of H2O.ai. Doors open at 6 pm. After a half-hour of networking
+  and refreshments, our program starts at 6:30 pm.</p> <p>Patrick's presentation illustrates
+  how to combine innovations from several sub-disciplines of machine learning research
+  to train understandable, observationally fair, trustable, and accurate predictive
+  modeling systems. Techniques from research into fair models, directly interpretable
+  Bayesian or constrained machine learning models, and post-hoc explanations can be
+  used to train transparent, observationally fair, and accurate models. Additional
+  techniques from fairness research can be used to check for disparate impact in model
+  predictions and to preprocess data and post-process predictions to ensure the demographic
+  parity of predictive models. Finally, new testing and debugging techniques can increase
+  the trustworthiness of model predictions on unseen data. These techniques create
+  a new and truly human-centered type of machine learning suitable for use in business-
+  and life-critical decision support.</p> <p>Patrick Hall is senior director for data
+  science products at H2O.ai where he focuses mainly on model interpretability. Patrick
+  is also an adjunct professor in the Department of Decision Sciences at George Washington
+  University, where he teaches graduate classes in data mining and machine learning.</p> "
+how_to_find_us: Enter through the rear door from the parking lot, not from the street
+  door, and proceed to the 3rd floor.
+visibility: public
