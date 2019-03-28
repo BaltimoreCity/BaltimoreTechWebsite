@@ -1,0 +1,80 @@
+---
+created: 1553746466000
+duration: 7200000
+id: '260137402'
+name: Dark Web Data Science
+rsvp_limit: 150
+date_in_series_pattern: false
+status: upcoming
+time: 1556058600000
+local_date: '2019-04-23'
+local_time: '18:30'
+updated: 1553746520000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 9
+venue:
+  id: 26283308
+  name: Betamore
+  lat: 39.26340866088867
+  lon: -76.61618041992188
+  repinned: true
+  address_1: 101 W Dickman St
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21230'
+  state: MD
+group:
+  created: 1530147506000
+  name: Data Works MD
+  id: 29010629
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: DataWorks
+  who: Data Enthusiasts
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/DataWorks/events/260137402/
+description: '<p>Tucked in the shadows, online black markets such as the Silk Road
+  thrive on the Dark Web. Join us in April to learn how big data and data science
+  is being used to shine a light on the Internet''s underground activity of crime
+  and trade.</p> <p>Agenda<br/>-------------------------------------------------<br/>6:30
+  PM -- Networking &amp; Food</p> <p>7:00 PM -- Greetings</p> <p>7:05 PM -- Using
+  Big Data to Fight Credit Card Fraud… And Other Crimes! - Danny Rogers</p> <p>8:45
+  PM -- Post event drinks</p> <p>Location<br/>-------------------------------------------------<br/>Betamore
+  City Garage<br/>101 W Dickman Street<br/>Baltimore, MD 21230</p> <p>Parking<br/>-------------------------------------------------<br/>There
+  is ample free parking surrounding the building.</p> <p>Food and Drinks<br/>-------------------------------------------------<br/>Complimentary
+  food, such as pizza and chips, and non-alcoholic beverages will be provided.</p>
+  <p>Talks<br/>-------------------------------------------------<br/>Using Big Data
+  to Fight Credit Card Fraud… And Other Crimes!<br/>Fraud and identity theft are shaping
+  up to become the most rampant crimes in the world, fueled by a robust online trade
+  in stolen information. This underground market, commonly known as the dark web,
+  enables fraud at levels never before seen in the global economy, from identity theft
+  to credit card fraud to tax fraud to retail fraud, and on and on, simply due to
+  the sheer volume of exploitable information for sale on these anonymized digital
+  marketplaces.</p> <p>And the story doesn’t stop there. That volume of fraud goes
+  on to subsidize all kinds of more violent, pernicious crime, from terrorism to human
+  trafficking to gang activity to organized crime to election meddling and even the
+  rogue North Korean nuclear program. But not all is lost. We can use this same scale
+  of data for sale on the internet to combat the problem as well, by employing clever
+  intelligence analytics that take advantage of the scale in order to chill the increasingly
+  hot market for stolen information.</p> <p>In this talk, I’ll take you on a tour
+  of this part of the internet in more detail, describe some of the examples of how
+  these crimes are interlinked, and show examples of how large-scale data collection
+  and analytics can combat it.</p> <p>Speakers<br/>-------------------------------------------------<br/>Danny
+  Rogers, Founder and CEO, Terbium Labs<br/>Danny is a physicist, an author, and an
+  expert in the fields of cryptography, cybercrime, disinformation, and security,
+  and has published numerous patents, papers, and books on those and other subjects.
+  Prior to co-founding Terbium Labs, Danny managed a portfolio of physics and sensor
+  research projects at the Johns Hopkins University Applied Physics Laboratory. He
+  has a Bachelor’s degree in Math and Physics from Georgetown University and a Doctorate
+  in Chemical Physics from the University of Maryland. He currently teaches in the
+  Cybercrime and Global Security Masters Program at New York University’s Center for
+  Global Affairs and is a Security Fellow at the Truman Project on National Security.
+  Danny can be found at <a href="https://www.linkedin.com/in/dannyrogers/" class="linkified">https://www.linkedin.com/in/dannyrogers/</a></p> '
+visibility: public
