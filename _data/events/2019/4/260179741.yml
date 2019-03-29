@@ -1,0 +1,51 @@
+---
+created: 1553885422000
+duration: 7200000
+id: '260179741'
+name: 'April Hack Night #1! '
+date_in_series_pattern: false
+status: upcoming
+time: 1554933600000
+local_date: '2019-04-10'
+local_time: '18:00'
+updated: 1553885422000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 26213534
+  name: Spark Baltimore
+  lat: 39.28878402709961
+  lon: -76.60700988769531
+  repinned: true
+  address_1: '8 Market Pl #300'
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21202'
+  state: MD
+group:
+  created: 1478981954000
+  name: Code for Baltimore
+  id: 21148247
+  join_mode: open
+  lat: 39.29999923706055
+  lon: -76.61000061035156
+  urlname: Code-for-Baltimore
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Code-for-Baltimore/events/260179741/
+description: "<p>**Note: Location may change. Will update ASAP if it does.</p> <p>Join
+  us for a Hack Night! Please RSVP so we can get enough food.</p> <p>We'll gather
+  for food and work on the Sync The City project OR if you have another project you'd
+  like to work on, come prepared to chat about it.</p> <p>If you're new, no worries!
+  You can easily jump in wherever your skills are needed. Let us know if you have
+  any questions!</p> <p>Follow us on Twitter &amp; Instagram: @CodeForBmore</p> "
+how_to_find_us: 'Enter Power Plant; glass door entrance to Spark is on left side at
+  back of venue, beside Ram''s Head. Call the number on the door to be let in. '
+visibility: public
+pro_is_email_shared: false
