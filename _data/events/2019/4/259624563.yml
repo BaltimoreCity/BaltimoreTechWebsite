@@ -1,15 +1,15 @@
 ---
 created: 1552154817000
-duration: 9000000
+duration: 7200000
 id: '259624563'
 name: Magnetometers and Accelerometers on Raspberry PI, Lab 2
-rsvp_limit: 4
+rsvp_limit: 5
 date_in_series_pattern: false
 status: upcoming
-time: 1554418800000
-local_date: '2019-04-04'
+time: 1555628400000
+local_date: '2019-04-18'
 local_time: '19:00'
-updated: 1553612741000
+updated: 1553826894000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 3
@@ -18,7 +18,7 @@ venue:
   name: Baltimore Node
   lat: 39.313438415527344
   lon: -76.615966796875
-  repinned: false
+  repinned: true
   address_1: 2106 N Lovegrove Street
   city: Baltimore
   country: us
