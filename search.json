@@ -15,7 +15,7 @@
       {% for event_hash in event_month_hash[1] %}
         {% assign event = event_hash[1] %}
         {
-          "title": "{{event.title}}",
+          "title": "{{event.title | escape}}",
           "url": "{{event.link}}",
           "resultType": "event"
         }
