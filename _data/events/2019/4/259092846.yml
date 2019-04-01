@@ -8,10 +8,10 @@ status: upcoming
 time: 1554933600000
 local_date: '2019-04-10'
 local_time: '18:00'
-updated: 1553871197000
+updated: 1554141719000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 27
+yes_rsvp_count: 28
 venue:
   id: 24951694
   name: City Garage
@@ -75,17 +75,17 @@ description: '<p>It''s about time for our second Bmore VR Meetup of 2019 and thi
   Drones" will be showcasing a variety of real world environments via HTC VIVE.</p>
   <p>Space Telescope Science Institute - Get up close and personal with NASA’s James
   Webb Space Telescope. Come witness the immense scale of Webb, learn about its engineering
-  feats, or even take a journey into the heart of a protoplanetary disk! Free download
-  available through Steam: <a href="https://store.steampowered.com/app/891960/WebbVR_The_James_Webb_Space_Telescope_Virtual_Experience/"
-  class="linkified">https://store.steampowered.com/app/891960/WebbVR_The_James_Webb_Space_Telescope_Virtual_Experience/</a></p>
-  <p>HighRock - VR is not just for the gaming industry! HighRock will be showcasing
-  several VR solutions for business to business connections, specifically new advances
-  in Real Estate and Marketing. From guided, interactive tours to practical VR web-based
-  solutions, HighRock will be sharing how to integrate VR into every stage of the
-  business development pipeline.</p> <p>Marcellus Wilson - Experience a cross between
-  a first person shooter and a tower defense game with "The Legend of Ahmose". The
-  story takes place in Ancient Egypt in a time of darkness when evil gods ruled the
-  country. You''ll have the chance to follow the story of Ahmose, a young prince who
-  must travel through the underworld to the land of the gods to defeat evil and bring
-  back light to Egypt.</p> '
+  feats, or even take a journey into the heart of a protoplanetary disk!</p> <p>HighRock
+  - VR is not just for the gaming industry! HighRock will be showcasing several VR
+  solutions for business to business connections, specifically new advances in Real
+  Estate and Marketing. From guided, interactive tours to practical VR web-based solutions,
+  HighRock will be sharing how to integrate VR into every stage of the business development
+  pipeline.</p> <p>Marcellus Wilson - Experience a cross between a first person shooter
+  and a tower defense game with "The Legend of Ahmose". The story takes place in Ancient
+  Egypt in a time of darkness when evil gods ruled the country. You''ll have the chance
+  to follow the story of Ahmose, a young prince who must travel through the underworld
+  to the land of the gods to defeat evil and bring back light to Egypt.</p> <p>Molecular
+  Jig Games - Pilot a Nanobot on the cell’s surface on NanoCrasher VR, the beginning
+  of a 3D adventure in and out of cells that teach the fundamentals of nutrition and
+  mental health.</p> '
 visibility: public

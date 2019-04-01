@@ -8,7 +8,7 @@ status: upcoming
 time: 1554933600000
 local_date: '2019-04-10'
 local_time: '18:00'
-updated: 1554125250000
+updated: 1554137569000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 1
@@ -17,7 +17,7 @@ venue:
   name: ETC Baltimore
   lat: 39.29417037963867
   lon: -76.5622787475586
-  repinned: false
+  repinned: true
   address_1: 101 N. Haven Street
   address_2: 3rd Floor
   city: Baltimore
@@ -40,10 +40,11 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/Baltimore-Tech-Meetup/events/260246342/
-description: "<p>Our April meetup (cross-posted with the Maryland AI meetup) features
+description: '<p>Our April meetup (cross-posted with the Maryland AI meetup, <a href="https://www.meetup.com/Maryland-AI/events/260146181/"
+  class="linkified">https://www.meetup.com/Maryland-AI/events/260146181/</a>) features
   a presentation, Toward Human-Centered Machine Learning, by Patrick Hall of H2O.ai.
   Doors open at 6 pm. After a half-hour of networking and refreshments, our program
-  starts at 6:30 pm.</p> <p>Patrick's presentation illustrates how to combine innovations
+  starts at 6:30 pm.</p> <p>Patrick''s presentation illustrates how to combine innovations
   from several sub-disciplines of machine learning research to train understandable,
   observationally fair, trustable, and accurate predictive modeling systems. Techniques
   from research into fair models, directly interpretable Bayesian or constrained machine
@@ -57,7 +58,7 @@ description: "<p>Our April meetup (cross-posted with the Maryland AI meetup) fea
   Hall is senior director for data science products at H2O.ai where he focuses mainly
   on model interpretability. Patrick is also an adjunct professor in the Department
   of Decision Sciences at George Washington University, where he teaches graduate
-  classes in data mining and machine learning.</p> "
+  classes in data mining and machine learning.</p> '
 how_to_find_us: Enter through the rear door from the parking lot, not from the street
   door, and proceed to the 3rd floor.
 visibility: public
