@@ -1,0 +1,52 @@
+---
+created: 1554129275000
+duration: 7200000
+id: '260247986'
+name: 'Got Ideas? Now What? '
+date_in_series_pattern: false
+status: upcoming
+time: 1557352800000
+local_date: '2019-05-08'
+local_time: '18:00'
+updated: 1554129275000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 25
+venue:
+  id: 26283308
+  name: Betamore
+  lat: 39.26340866088867
+  lon: -76.61618041992188
+  repinned: false
+  address_1: 101 W Dickman St
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21230'
+  state: MD
+group:
+  created: 1442183625000
+  name: Baltimore UX Meetup
+  id: 18928275
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-UX-Meetup
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-UX-Meetup/events/260247986/
+description: "<p>Generating ideas (concepts, solutions, features - anything) can be
+  fun and exciting and give you a lot of potential options. Great, right? Not if you
+  lack a clear plan for next steps and down select. At the end of the day, the ideas
+  you have are only of value if you have ways to critique and prioritize them for
+  further development or actions. This session will cover methods you can use to capture
+  feedback and react to ideas in an actionable way. Additionally, we'll cover methods
+  for organizing those ideas and helping prioritize next steps. These methods work
+  great for groups but can also be done solo as needed. Additionally, they require
+  very little set-up and very few materials - meaning once you understand them you
+  can almost immediately find ways to apply them to your work (or even personal life!).</p> "
+visibility: public
