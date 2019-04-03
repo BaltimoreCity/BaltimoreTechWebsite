@@ -8,10 +8,10 @@ status: upcoming
 time: 1554418800000
 local_date: '2019-04-04'
 local_time: '19:00'
-updated: 1554317598000
+updated: 1554318209000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 14
+yes_rsvp_count: 15
 venue:
   id: 25575435
   name: Impact Hub Baltimore
@@ -43,7 +43,7 @@ link: https://www.meetup.com/Baltimore-Black-Techies-Meetup/events/jqsnqqyzgbgb/
 description: '<p>Hello everyone, it''s a new year and BBT is rolling out a new curriculum!</p>
   <p>We will be doing an extensive Web Development Fundamentals course reinforced
   with projects that you can add to your portfolio along the way.</p> <p>This Thursday
-  (04/03/19) - We will be continuing our Standard and Advanced group curriculum.<br/>The
+  (04/04/19) - We will be continuing our Standard and Advanced group curriculum.<br/>The
   Standard group will learn Intermediate HTML /CSS: *Deploy Your Code to a Host (eg
   Netlify/AWS)<br/>The Advanced group will continue working on Interview Prep: Data
   Structures and Algorithms.</p> <p>What you need:<br/>A laptop (we provide laptops
