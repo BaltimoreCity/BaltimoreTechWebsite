@@ -1,0 +1,47 @@
+---
+created: 1554295458000
+duration: 5400000
+id: '260306766'
+name: Lean Coffee at Mad City - April 12, 2019
+rsvp_limit: 15
+date_in_series_pattern: false
+status: upcoming
+time: 1555068600000
+local_date: '2019-04-12'
+local_time: '07:30'
+updated: 1554295520000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 8
+venue:
+  id: 870821
+  name: Mad City Coffee
+  lat: 39.210975646972656
+  lon: -76.88524627685547
+  repinned: true
+  address_1: 10801 Hickory Ridge Rd
+  city: Columbia
+  country: us
+  localized_country_name: USA
+  phone: 410-964-8671
+  zip: '21044'
+  state: MD
+group:
+  created: 1401208540000
+  name: Agile Baltimore
+  id: 14708292
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Agile-Baltimore
+  who: Baltimore area Agilists
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Agile-Baltimore/events/260306766/
+description: "<p>Lean Coffee is a structured, but agenda-less meeting. Participants
+  gather, build an agenda, and begin talking. Conversations are directed and productive
+  because the agenda for the meeting was democratically generated.</p> "
+visibility: public

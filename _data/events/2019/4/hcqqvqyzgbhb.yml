@@ -1,0 +1,58 @@
+---
+created: 1549033475000
+duration: 5400000
+id: hcqqvqyzgbhb
+name: Python for City Government Process Improvement
+date_in_series_pattern: false
+status: upcoming
+time: 1554480000000
+local_date: '2019-04-05'
+local_time: '12:00'
+updated: 1554306875000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 6
+venue:
+  id: 26213534
+  name: Spark Baltimore
+  lat: 39.28878402709961
+  lon: -76.60700988769531
+  repinned: false
+  address_1: '8 Market Pl #300'
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21202'
+  state: MD
+group:
+  created: 1503404305000
+  name: Python for City Government Process Improvement (Py 4 CG)
+  id: 25583211
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Python-for-City-Government-Process-Improvement-P-4-CG
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Python-for-City-Government-Process-Improvement-P-4-CG/events/hcqqvqyzgbhb/
+description: '<p>Format</p> <p>Each python meet up will: 1) start with a short flash
+  talk demoing an idea, project, library of useful feature or function—the ‘talks’
+  section, 2) allow opportunities for folks to work individually on a short program
+  around a Python use case like data analysis or automation of a task—the ‘development’
+  section.</p> <p>Goals</p> <p>The meet up has 3 goals:</p> <p>1. Serve as a foundation
+  for the creation of a Python eco-system in City government.</p> <p>2. Encourage
+  and empower municipal employees to identify opportunities to ask and answer more
+  complex questions and eliminate repetitive, labor or paper-intensive, non-value
+  added work.</p> <p>3. Help participants think through and pursue the use of Python
+  as a tool to automate key parts of the data analysis, reporting or administrative
+  task workflow to help the management decision making process or improve service
+  delivery.</p> <p>What to Bring</p> <p>A laptop and some curiosity.</p> <p>Meet Up
+  Github repo</p> <p>here (<a href="https://github.com/brl1906/python4CityGovtProcessImprovement"
+  class="linkified">https://github.com/brl1906/python4CityGovtProcessImprovement</a>)</p> '
+how_to_find_us: 'We meet @ the offices of Fearless in Spark Baltimore (8 Market Place
+  #300).  The kind people at Spark''s font desk will point you to the Meet Up space.   '
+visibility: public
