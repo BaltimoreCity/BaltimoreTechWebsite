@@ -70,7 +70,8 @@ function eventListing(containerId, initialDate = moment()) {
     }
 
     // sort the events
-    events.sort((a, b) => moment(a.local_date).diff(moment(b.local_date)));
+    // events.sort((a, b) => moment(a.local_date).diff(moment(b.local_date)));
+    events.sort((a, b) => moment(`${a.local_date} ${a.local_time}`).diff(moment(`${b.local_date} ${b.local_time}`)))
 
     const filteredEvents =
       filterEventType === "all" || filterEventType === 'meetup'
@@ -79,6 +80,7 @@ function eventListing(containerId, initialDate = moment()) {
 
     if (filteredEvents.length) {
       const eventsByDate = filteredEvents.reduce(function(acc, event) {
+        // console.log(moment(event.local_date+' '+event.local_time).diff(moment(), 'hour'))
         if (acc[event.local_date]) {
           acc[event.local_date].push(event);
         } else {
@@ -88,6 +90,10 @@ function eventListing(containerId, initialDate = moment()) {
       }, {});
 
       const $items = Object.keys(eventsByDate).map(key => {
+        if (moment(key).diff(moment(), 'day') < 0) {
+          // is in the past
+          return ""
+        }
         const dateEvents = eventsByDate[key];
         const eventLinks = dateEvents.map(e => listItem(e));
         return eventLinks.length ? listGroupItem(key, eventLinks.join("")) : "";
