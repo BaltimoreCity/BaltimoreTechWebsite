@@ -2,13 +2,13 @@
 created: 1548359366000
 duration: 7200000
 id: jqsnqqyzgbgb
-name: Black Techies Study Group!
+name: 'Black Techies Study Group! Deploy Your Code to a Host (Netlify/AWS) '
 date_in_series_pattern: false
 status: upcoming
 time: 1554418800000
 local_date: '2019-04-04'
 local_time: '19:00'
-updated: 1548359366000
+updated: 1554317598000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 14
@@ -42,14 +42,18 @@ group:
 link: https://www.meetup.com/Baltimore-Black-Techies-Meetup/events/jqsnqqyzgbgb/
 description: '<p>Hello everyone, it''s a new year and BBT is rolling out a new curriculum!</p>
   <p>We will be doing an extensive Web Development Fundamentals course reinforced
-  with projects that you can add to your portfolio along the way.</p> <p>What you
-  need:<br/>A laptop<br/>Have google chrome installed<br/>Have VSC code installed<br/>Have
-  Slack account</p> <p>Note: We can walk you through these steps if you''re having
-  difficulty.</p> <p>Please see links below:<br/><a href="https://www.google.com/chrome/"
+  with projects that you can add to your portfolio along the way.</p> <p>This Thursday
+  (04/03/19) - We will be continuing our Standard and Advanced group curriculum.<br/>The
+  Standard group will learn Intermediate HTML /CSS: *Deploy Your Code to a Host (eg
+  Netlify/AWS)<br/>The Advanced group will continue working on Interview Prep: Data
+  Structures and Algorithms.</p> <p>What you need:<br/>A laptop (we provide laptops
+  for those who don''t have during the session)<br/>Have google chrome installed<br/>Have
+  VSC code installed<br/>Have Slack account</p> <p>Note: We can walk you through these
+  steps if you''re having difficulty.</p> <p>Please see links below:<br/><a href="https://www.google.com/chrome/"
   class="linkified">https://www.google.com/chrome/</a><br/><a href="https://code.visualstudio.com/download"
   class="linkified">https://code.visualstudio.com/download</a><br/><a href="https://join.slack.com/t/bmoreblacktechies/shared_invite/enQtNDIyMzk1ODM2ODY1LWQxODI2MThhMmYyOTgzMzkwM2FiYzk0Y2FmMTMxMzM5ODkyOTg4YWM0NmY4MTY3ZDY1M2VjMjZhMzdhMWVlZmI"
   class="linkified">https://join.slack.com/t/bmoreblacktechies/shared_invite/enQtNDIyMzk1ODM2ODY1LWQxODI2MThhMmYyOTgzMzkwM2FiYzk0Y2FmMTMxMzM5ODkyOTg4YWM0NmY4MTY3ZDY1M2VjMjZhMzdhMWVlZmI</a></p>
-  <p>No prior coding experience required, come with an open-mind and willingness to
+  <p>No prior coding experience required, come with an open mind and willingness to
   learn.</p> <p>Instructors:<br/>@Doug<br/>@Aaron Brooks<br/>@Ryan White</p> <p>The
   curriculum kicks off this Thursday Jan 17th and will encompass most of our study
   group and project nights.</p> <p>Week 1 : Web Development Fundamentals</p> <p>The
