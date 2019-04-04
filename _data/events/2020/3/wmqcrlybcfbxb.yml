@@ -1,0 +1,52 @@
+---
+created: 1456945893000
+duration: 10800000
+id: wmqcrlybcfbxb
+name: Open Hack Night
+date_in_series_pattern: false
+status: upcoming
+time: 1584572400000
+local_date: '2020-03-18'
+local_time: '19:00'
+updated: 1456945893000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 8768452
+  name: Baltimore Hackerspace
+  lat: 39.3040771484375
+  lon: -76.53608703613281
+  repinned: false
+  address_1: 6410 Landay Ave
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21237'
+  state: MD
+group:
+  created: 1345227737000
+  name: Baltimore Hackerspace
+  id: 4573252
+  join_mode: open
+  lat: 39.29999923706055
+  lon: -76.56999969482422
+  urlname: Baltimore-Hackerspace
+  who: Makers
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Hackerspace/events/wmqcrlybcfbxb/
+description: "<p><b>What is Open Hack night?</b></p> <p>The Baltimore Hackerspace
+  Open Hack night is an opportunity. It's an opportunity to show off your newest idea,
+  creation, or prototype, meet people with similar or different skill sets, and an
+  opportunity to have a peer review or brainstorming session done on your idea. It's
+  a great way to get your feet wet in the hackerspace that's right around the corner.
+  Everyone is welcome to come, seek advice, stay, collaborate, and contribute -- think
+  of it as a scheduled time when everyone meets to help out everyone else. The Baltimore
+  Hackerspace is an open-space, meaning members come and go, work on projects, and
+  collaborate with other members as they please.</p> "
+how_to_find_us: 6410 Landay Ave, Baltimore MD 21237
+visibility: public
