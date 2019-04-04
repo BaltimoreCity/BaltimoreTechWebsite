@@ -2,23 +2,23 @@
 created: 1532807934000
 duration: 7200000
 id: nlgnbqyzgbgb
-name: AI/Ml Fundamentals for Developers and Designers
-rsvp_limit: 25
+name: AI Ethics - AI Speaker Night with Justus Eapen
+rsvp_limit: 20
 date_in_series_pattern: false
 status: upcoming
-time: 1554418800000
+time: 1554415200000
 local_date: '2019-04-04'
-local_time: '19:00'
-updated: 1532807934000
+local_time: '18:00'
+updated: 1554388927000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 3
+yes_rsvp_count: 5
 venue:
   id: 17186232
   name: 3500 Boston St
   lat: 39.2779426574707
   lon: -76.56707000732422
-  repinned: false
+  repinned: true
   address_1: 3500 Boston St
   city: Baltimore
   country: us
@@ -40,8 +40,11 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/Baltimore-AI/events/nlgnbqyzgbgb/
-description: "<p>Expect an introduction to AI and ML fundamentals in a way that you
-  can apply to your projects and business.</p> <p>We’ll go over a bit of theory and
-  implementation. Bring a computer, take notes, follow along and learn!</p> "
-how_to_find_us: At the door call 4439874585 to be let in.
+description: "<p>Tonight we'll be hearing a short talk on AI Ethics. The biggest philosophical,
+  technical, and existential challenge of this century. Maybe ever.</p> <p>As usual,
+  the format is informal and discussion is encouraged.</p> <p>Agenda:<br/>6-7pm Networking
+  Hour<br/>7-8pm AI Ethics Lecture and Discussion<br/>8pm - Go to OLAR for Happy Hour</p>
+  <p>Please buzz 3-2-3-CALL to be let in.</p> <p>Text Justus @[masked] if you have
+  any problems.</p> "
+how_to_find_us: Please buzz 3-2-3-CALL to be let in.
 visibility: public
