@@ -8,16 +8,16 @@ status: upcoming
 time: 1557352800000
 local_date: '2019-05-08'
 local_time: '18:00'
-updated: 1554129275000
+updated: 1554340151000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 30
+yes_rsvp_count: 31
 venue:
   id: 26283308
   name: Betamore
   lat: 39.26340866088867
   lon: -76.61618041992188
-  repinned: false
+  repinned: true
   address_1: 101 W Dickman St
   city: Baltimore
   country: us
@@ -39,14 +39,15 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/Baltimore-UX-Meetup/events/260247986/
-description: "<p>Generating ideas (concepts, solutions, features - anything) can be
+description: '<p>Generating ideas (concepts, solutions, features - anything) can be
   fun and exciting and give you a lot of potential options. Great, right? Not if you
   lack a clear plan for next steps and down select. At the end of the day, the ideas
   you have are only of value if you have ways to critique and prioritize them for
   further development or actions. This session will cover methods you can use to capture
-  feedback and react to ideas in an actionable way. Additionally, we'll cover methods
+  feedback and react to ideas in an actionable way. Additionally, we''ll cover methods
   for organizing those ideas and helping prioritize next steps. These methods work
   great for groups but can also be done solo as needed. Additionally, they require
   very little set-up and very few materials - meaning once you understand them you
-  can almost immediately find ways to apply them to your work (or even personal life!).</p> "
+  can almost immediately find ways to apply them to your work (or even personal life!).</p>
+  <p>Our Meetup is sponsored by Fearless: <a href="http://fearless.tech/" class="linkified">http://fearless.tech/</a></p> '
 visibility: public
