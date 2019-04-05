@@ -5,6 +5,38 @@
   padding: 40px;
   background: #e6e6e6;
 
+  .pagination {
+    li.active a {
+      background: #449d44;
+      color: #fff;
+    }
+    li {
+      border-color: #449d44;
+      float: left;
+      border: 1px solid #aaa;
+      border-right: none;
+      list-style: none;
+      display: list-item;
+    }
+    li:first-child {
+      border-radius: 3px 0 0 3px;
+    }
+    li:last-child {
+      border-right: 1px solid #aaa;
+      border-radius: 0 3px 3px 0;
+    }
+    a.page {
+      color: #449d44;
+      width: 36px;
+      height: 34px;
+      line-height: 34px;
+      font-size: 16px;
+      display: block;
+      text-decoration: none;
+      text-align: center;
+    }
+  }
+
   .register-link {
     font-size: 14px;
     color: #333;
