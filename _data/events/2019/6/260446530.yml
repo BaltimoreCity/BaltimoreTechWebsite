@@ -1,0 +1,50 @@
+---
+created: 1554730658000
+duration: 7200000
+id: '260446530'
+name: Game Dev Meetup
+rsvp_limit: 25
+date_in_series_pattern: false
+status: upcoming
+time: 1559397600000
+local_date: '2019-06-01'
+local_time: '10:00'
+updated: 1554730658000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 2
+venue:
+  id: 25463234
+  name: Mosaic Conference Room (Front)
+  lat: 39.21121597290039
+  lon: -76.85832214355469
+  repinned: true
+  address_1: 'HCLS Central Branch, 10375 Little Patuxent Pkwy '
+  city: Columbia
+  country: us
+  localized_country_name: USA
+  zip: ''
+  state: MD
+group:
+  created: 1409100862000
+  name: Baltimore Indie Game Developers Group
+  id: 16622802
+  join_mode: open
+  lat: 39.25
+  lon: -76.69999694824219
+  urlname: Baltimore-Indie-Game-Developers-Group
+  who: Bigies
+  localized_location: Halethorpe, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Indie-Game-Developers-Group/events/260446530/
+description: "<p>Join us at the Howard County Columbia Branch Library to discuss game
+  development, talk shop, and work on your games! Anyone with an interest in game
+  design and development is welcome, from beginners to veteran professionals.</p>
+  <p>If you're working on a game, you're welcome to show it and have people playtest
+  it to offer feedback. There should be plenty of time to get down to business and
+  work on our own projects, too.</p> <p>Reminder: This meetup is at the Columbia Branch
+  in the Mosaic Room.</p> "
+visibility: public
