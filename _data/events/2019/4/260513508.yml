@@ -1,0 +1,63 @@
+---
+created: 1554922168000
+duration: 18000000
+id: '260513508'
+name: 'Polygraph Professional Networking '
+date_in_series_pattern: false
+status: upcoming
+time: 1555509600000
+local_date: '2019-04-17'
+local_time: '10:00'
+updated: 1554922168000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 26316021
+  name: DoubleTree by Hilton Hotel Baltimore - BWI Airport
+  lat: 39.20180892944336
+  lon: -76.68951416015625
+  repinned: false
+  address_1: 890 Elkridge Landing Rd
+  city: Linthicum Heights
+  country: us
+  localized_country_name: USA
+  zip: '21090'
+  state: MD
+group:
+  created: 1417539498000
+  name: TECHEXPO Polygraph Only Networking Event
+  id: 18227702
+  join_mode: open
+  lat: 39.209999084472656
+  lon: -76.66000366210938
+  urlname: TECHEXPO-Polygraph-Only-Networking-Event
+  who: CI/Full Scope Poly Professionals
+  localized_location: Linthicum Heights, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/TECHEXPO-Polygraph-Only-Networking-Event/events/260513508/
+description: '<p>Network with companies on-site.</p> <p>Wednesday, April 17<br/>10:00
+  AM – 3:00 PM<br/>DoubleTree by Hilton Baltimore – BWI Airport<br/>890 Elkridge Landing
+  Rd.<br/>Linthicum Heights, MD 21090<br/>Register: <a href="https://www.techexpousa.com/jobfair.cfm?jobfairid=1802"
+  class="linkified">https://www.techexpousa.com/jobfair.cfm?jobfairid=1802</a><br/>A
+  CI or Full Scope Polygraph is REQUIRED to attend.</p> <p>Thursday, April 18<br/>10:00
+  AM – 3:00 PM<br/>Westin Washington Dulles Airport Hotel<br/>2520 Wasser Terrace<br/>Herndon,
+  VA 20171<br/>Register: <a href="https://www.techexpousa.com/jobfair.cfm?jobfairid=1803"
+  class="linkified">https://www.techexpousa.com/jobfair.cfm?jobfairid=1803</a><br/>A
+  CI or Full Scope Polygraph is REQUIRED to attend.</p> <p>Feel free to share this
+  information with your network of security-cleared professionals that are qualified
+  to attend.</p> <p>Companies attending on April 17th Include (Partial List):<br/>Advantage
+  Engineering &amp; IT Solutions<br/>Assured Information Security<br/>AT&amp;T Government
+  Solutions<br/>Bridges Consulting<br/>FEDDATA<br/>Information Management Group<br/>IntelligenceCareers<br/>Leidos<br/>Peterson
+  Technologies<br/>ProObject<br/>Prophasys</p> <p>Companies attending on April 18th
+  Include (Partial List):<br/>Accenture Federal Services<br/>ALKU<br/>Altamira Technologies<br/>AT&amp;T
+  Government Solutions<br/>Deloitte<br/>IntelligenceCareers<br/>L3 Technologies Advanced
+  Programs<br/>Leidos<br/>LMI<br/>Perspecta<br/>Preferred Systems Solutions<br/>QVine
+  Corporation<br/>Tech USA Government Solutions<br/>Trinity Technology Partners<br/>U.S.
+  Cyber Command<br/>Vectrus</p> <p>For details and to view all upcoming networking
+  events: <a href="https://www.TechExpoUSA.com/JobFairs.cfm" class="linkified">https://www.TechExpoUSA.com/JobFairs.cfm</a></p>
+  <p>Feel free to contact us with any questions at[masked] ext. 230 / [masked]</p> '
+visibility: public
