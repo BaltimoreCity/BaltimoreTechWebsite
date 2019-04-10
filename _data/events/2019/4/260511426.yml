@@ -1,0 +1,49 @@
+---
+created: 1554917470000
+duration: 7200000
+id: '260511426'
+name: Ludum Dare 44 (weekend online/in-person)
+rsvp_limit: 20
+date_in_series_pattern: false
+status: upcoming
+time: 1556373600000
+local_date: '2019-04-27'
+local_time: '10:00'
+updated: 1554917470000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 26315822
+  name: Collage Room (back), HCLS Central Branch
+  lat: 39.2111930847168
+  lon: -76.85831451416016
+  repinned: false
+  address_1: 10375 Little Patuxent Pkwy
+  city: Columbia
+  country: us
+  localized_country_name: USA
+  zip: '21044'
+  state: md
+group:
+  created: 1409100862000
+  name: Baltimore Indie Game Developers Group
+  id: 16622802
+  join_mode: open
+  lat: 39.25
+  lon: -76.69999694824219
+  urlname: Baltimore-Indie-Game-Developers-Group
+  who: Bigies
+  localized_location: Halethorpe, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Indie-Game-Developers-Group/events/260511426/
+description: '<p>Ludum Dare 44: 9PM April 26 to 9PM April 29<br/><a href="https://ldjam.com/"
+  class="linkified">https://ldjam.com/</a></p> <p>Participate in Ludum Dare 44 online
+  over Slack with an opportunity to meet in-person Saturday morning at the Howard
+  County Columbia Branch Library.</p> <p>If you need a Slack invitation, message me
+  or one of the other organizers.</p> <p>Reminder: The Saturday 10AM in-person meetup
+  is at the Columbia Branch in the COLLAGE ROOM at the back of the second floor.</p> '
+visibility: public
