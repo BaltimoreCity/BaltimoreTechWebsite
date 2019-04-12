@@ -9,7 +9,7 @@ status: upcoming
 time: 1555263000000
 local_date: '2019-04-14'
 local_time: '13:30'
-updated: 1554991400000
+updated: 1555076647000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 7
@@ -42,7 +42,7 @@ group:
 link: https://www.meetup.com/Baltimore-AI/events/dgdmtqyzgbsb/
 description: '<p>Agenda:</p> <p>1:30 ~ 1:45<br/>Roundtable updates of lesson progress
   and challenges faced.</p> <p>1:45 ~ 2:00<br/>Boris Volfson will be demoing his FastAI
-  Image Recognition App using Render.</p> <p>2:30 ~ 5:00<br/>Individual study time.
+  Image Recognition App using Render.</p> <p>2:00 ~ 5:00<br/>Individual study time.
   (If you have questions or run into lesson issues during the study time, please send
   your questions to our Google Group (<a href="https://groups.google.com/forum/#!forum/baltimore-ai-deep-learning"
   class="linkified">https://groups.google.com/forum/#!forum/baltimore-ai-deep-learning</a>)
