@@ -1,8 +1,22 @@
 ---
 ---
 
-const events = [
+function normalizeTime(time) {
+  if (isNaN(time))
+    return time
+  minutes = time % 60
+  if (minutes<10) {
+    minutes = `0${minutes}`
+  }
+  hours = Math.floor(time / 60)
+  if (hours<10) {
+    hours = `0${hours}`
+  }
+  time = `${hours}:${minutes}`
+  return time
+}
 
+const events = [
   {% for year in site.data.events %}
     {% for month in year[1] %}
       {% for event_hash in month[1] %}
@@ -13,7 +27,7 @@ const events = [
   {% endfor %}
 ]
 .filter(event => moment(event.local_date).diff(moment(), 'day') >= 0)
-.sort((a, b) => moment(`${a.local_date} ${a.local_time}`).diff(moment(`${b.local_date} ${b.local_time}`)));
+.sort((a, b) => moment(`${a.local_date} ${normalizeTime(a.local_time)}`).diff(moment(`${b.local_date} ${normalizeTime(b.local_time)}`)));
 
 function initSearch() {
   // const options = {
