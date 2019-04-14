@@ -11,6 +11,9 @@ jobs:
       - run:
           name: Update events
           command: ruby tasks/grab_events.rb
+      - run:
+          name: checking yaml file formats
+          command: ruby tests/test_yaml_files.rb
       - add_ssh_keys:
           fingerprints:
             - "88:bd:de:81:4e:fa:e3:0b:5f:3a:41:64:51:95:44:47"
@@ -33,6 +36,9 @@ jobs:
       BUNDLE_PATH: ~/repo/vendor/bundle
     steps:
       - checkout
+      - run:
+          name: checking yaml file formats
+          command: ruby tests/test_yaml_files.rb
       - run:
           name: Update gem bundler
           command: gem update bundler
