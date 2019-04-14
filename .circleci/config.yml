@@ -10,7 +10,7 @@ jobs:
       - checkout
       - run:
           name: Update events
-          command: ruby grab_events.rb
+          command: ruby tasks/grab_events.rb
       - add_ssh_keys:
           fingerprints:
             - "88:bd:de:81:4e:fa:e3:0b:5f:3a:41:64:51:95:44:47"
