@@ -9,18 +9,18 @@
       <h6 class="text-uppercase">Community</h6>
       <ul class="list-unstyled">
         <li><a href="{{ '/work' | prepend: site.baseurl }}">Jobs</a></li>
-        <li><a href="{{ '/learn' | prepend: site.baseurl }}">Events</a></li>
+        <li><a href="{{ '/events' | prepend: site.baseurl }}">Events</a></li>
         <li><a href="{{ '/explore' | prepend: site.baseurl }}">People</a></li>
-        <li><a href="#">Companies</a></li>
+        <li><a href="{{ '/organizations' | prepend: site.baseurl }}">Companies</a></li>
       </ul>
     </div>
     <div class="col-sm">
       <h6 class="text-uppercase">Connect</h6>
       <ul class="list-unstyled">
-        <li><a href="#">Twitter</a></li>
-        <li><a href="#">Facebook</a></li>
-        <li><a href="#">Linkedin</a></li>
-        <li><a href="#">Slack</a></li>
+        <li><a href="{{site.data.socials[2].url}}">Twitter</a></li>
+        <li><a href="{{site.data.socials[0].url}}">Facebook</a></li>
+        <li><a href="{{site.data.socials[4].url}}">Linkedin</a></li>
+        <li><a href="{{site.data.socials[1].url}}">Slack</a></li>
       </ul>
     </div>
     <div class="col-sm">
