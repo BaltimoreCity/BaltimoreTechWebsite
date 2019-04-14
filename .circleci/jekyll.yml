@@ -1,0 +1,60 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Baltimore Tech
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Baltimore Tech is a community resource that enables businesses
+  and individuals to connect online and drive offline interactions. Our
+  team creates programming and infrastructure needed to develop,
+  grow and support Baltimore's innovation community. Baltimore
+  Tech is powered by Betamore, a non-profit whose mission is to
+  make Baltimore a leading global entrepreneurship destination and
+  Fearless, a full stack digital services firm in Baltimore.
+# baseurl: "/BaltimoreTechWebsite" # the subpath of your site, e.g. /blog
+baseurl: 'http://localhost:4000/'
+# url: "https://baltimorecity.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+copyright: "© 2019 Baltimore Tech. All rights reserved."
+google_maps_api_old: AIzaSyBHoSLf1eZT2T4qWXU4K3L2WhPr-UvEu2E
+google_maps_api: AIzaSyBW1qlXGYSnIJfoRrUH9OExFaHLvjipDbA
+# Build settings
+sass:
+  style: compressed
+markdown: kramdown
+plugins:
+  - jekyll-feed
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+collections:
+  jobs:
+    output: true
+    permalink: /:collection/:name
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - tmp
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
