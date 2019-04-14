@@ -55,10 +55,10 @@ jobs:
             - vendor/bundle
       - run:
           name: Jekyll build
-          command: bundle exec jekyll build
+          command: bundle exec jekyll build --config .circleci/jekyll.yml
       - run:
           name: HTML Proofing
-          command: bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external
+          command: bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --empty-alt-ignore
       - persist_to_workspace:
           root: ./
           paths:
