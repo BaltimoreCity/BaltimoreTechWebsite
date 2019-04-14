@@ -39,11 +39,12 @@ js-list:
             <div class="col-auto mb-3">
               <img
                 src="{{ org.image }}"
+                alt="{{ org.name }}"
                 class="thumbnail"
               />
             </div>
             <div class="col flex-grow-1">
-              <h3 class="font-weight-bold mb-4 org.name">{{ org.name }}</h3>
+              <h3 class="font-weight-bold mb-4 org.name">{{ org.name | escape }}</h3>
               <h6 class="font-weight-bold org.location">{{ org.location }}</h6>
             </div>
             <div class="col-auto">
@@ -58,7 +59,7 @@ js-list:
             </div>
           </div>
           <div>
-            <p class="description org.description">{{ org.description }}</p>
+            <p class="description org.description">{{ org.description | escape }}</p>
           </div>
         </div>
       </div>
@@ -66,9 +67,9 @@ js-list:
     </div>
     <div class="no-result">No Results</div>
     <ul class="pagination px-5">
-      <button class="prev"><</button>
+      <button class="prev">&lt;</button>
       <ul class="pager" />
-      <button class="next">></button>
+      <button class="next">&gt;</button>
     </ul>
   </div>
 </div>

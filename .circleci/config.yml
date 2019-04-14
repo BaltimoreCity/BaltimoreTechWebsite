@@ -10,7 +10,10 @@ jobs:
       - checkout
       - run:
           name: Update events
-          command: ruby grab_events.rb
+          command: ruby tasks/grab_events.rb
+      - run:
+          name: checking yaml file formats
+          command: ruby tests/test_yaml_files.rb
       - add_ssh_keys:
           fingerprints:
             - "88:bd:de:81:4e:fa:e3:0b:5f:3a:41:64:51:95:44:47"
@@ -34,6 +37,9 @@ jobs:
     steps:
       - checkout
       - run:
+          name: checking yaml file formats
+          command: ruby tests/test_yaml_files.rb
+      - run:
           name: Update gem bundler
           command: gem update bundler
       - restore_cache:
@@ -50,6 +56,9 @@ jobs:
       - run:
           name: Jekyll build
           command: bundle exec jekyll build
+      - run:
+          name: HTML Proofing
+          command: bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external
       - persist_to_workspace:
           root: ./
           paths:

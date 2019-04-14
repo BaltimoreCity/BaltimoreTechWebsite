@@ -59,6 +59,21 @@ function eventListing(containerId, initialDate = moment()) {
     return `<li>${moment(event.local_date).format("MM-DD-YYYY")} at ${moment(event.local_time, 'hh:mm').format('hh:mmA')} | ${event.name}&nbsp;&nbsp;<a href="${event.link}" target="_blank" class="btn btn-olive event-btn">sign up</a></li>`;
   }
 
+  function normalizeTime(time) {
+    if (isNaN(time))
+      return time
+    minutes = time % 60
+    if (minutes<10) {
+      minutes = `0${minutes}`
+    }
+    hours = Math.floor(time / 60)
+    if (hours<10) {
+      hours = `0${hours}`
+    }
+    time = `${hours}:${minutes}`
+    return time
+  }
+
   const render = function() {
     $listGroup.empty();
     const year = filterdate.year(),
@@ -70,8 +85,7 @@ function eventListing(containerId, initialDate = moment()) {
     }
 
     // sort the events
-    // events.sort((a, b) => moment(a.local_date).diff(moment(b.local_date)));
-    events.sort((a, b) => moment(`${a.local_date} ${a.local_time}`).diff(moment(`${b.local_date} ${b.local_time}`)))
+    events.sort((a, b) => moment(`${a.local_date} ${normalizeTime(a.local_time)}`).diff(moment(`${b.local_date} ${normalizeTime(b.local_time)}`)));
 
     const filteredEvents =
       filterEventType === "all" || filterEventType === 'meetup'
@@ -80,7 +94,6 @@ function eventListing(containerId, initialDate = moment()) {
 
     if (filteredEvents.length) {
       const eventsByDate = filteredEvents.reduce(function(acc, event) {
-        // console.log(moment(event.local_date+' '+event.local_time).diff(moment(), 'hour'))
         if (acc[event.local_date]) {
           acc[event.local_date].push(event);
         } else {

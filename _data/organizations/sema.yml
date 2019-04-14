@@ -1,7 +1,7 @@
 coordinate:
   lat: 39.3353048
   lng: -76.6198063
-description: '<a href=&#34;http://semalab.com&#34;>Sema</a> is a Baltimore-based software
+description: '<a href="http://semalab.com">Sema</a> is a Baltimore-based software
   startup working on a breathtaking problem relating to Machine Learning for Software
   Engineering (MLSE). We are pre-revenue, with significant investor and customer interest.
 
@@ -19,7 +19,7 @@ description: '<a href=&#34;http://semalab.com&#34;>Sema</a> is a Baltimore-based
 
 
   - Builders of amazing teams that are intense, growthful, and full of flow'
-image: null
+image: https://semasoftware.com/wp-content/uploads/2018/10/sema-logo-square.png
 location: 3811 Canterbury Road Suite 803, Baltimore, Maryland 21218
 name: Sema
 url: https://semalab.com/
