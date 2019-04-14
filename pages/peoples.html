@@ -42,7 +42,9 @@ js-list:
       <div class="col-sm-11 people-card {{ people.type  }}">
         <div class="row">
           <div class="col-sm-12 col-lg-3 mb-4 text-center">
-            <img src="{{ people.picture }}" alt="{{ people.name }}" class="people-thumbnail" />
+            {% if people.picture != '' %}
+              <img src="{{ people.picture }}" alt="{{ people.name }}" class="people-thumbnail" />
+            {% endif %}
           </div>
           <div class="col-sm-8 col-lg-7 mb-4">
             <h3 class="text-uppercase people.name">
@@ -110,9 +112,9 @@ js-list:
     </div>
     <div class="no-result">No Results</div>
     <ul class="pagination px-4">
-      <button class="prev"><</button>
+      <button class="prev">&lt;</button>
       <ul class="pager" />
-      <button class="next">></button>
+      <button class="next">&gt;</button>
     </ul>
   </div>
 </div>

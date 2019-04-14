@@ -161,7 +161,7 @@ js-list:
             <div class="event-details">
               <div class="event-type">#meetup</div>
               <h4>
-                <strong>{{ event.name }}</strong>
+                <strong>{{ event.name | escape }}</strong>
               </h4>
               <p>{{ event.venue.name }}</p>
               <a
