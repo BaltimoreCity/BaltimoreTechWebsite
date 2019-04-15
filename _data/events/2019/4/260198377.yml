@@ -8,7 +8,7 @@ status: upcoming
 time: 1555363800000
 local_date: '2019-04-15'
 local_time: '17:30'
-updated: 1553952779000
+updated: 1555358946000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 10
@@ -17,7 +17,7 @@ venue:
   name: Mount Vernon Marketplace
   lat: 39.296104431152344
   lon: -76.61844635009766
-  repinned: false
+  repinned: true
   address_1: 520 Park Ave
   city: Baltimore
   country: us
@@ -50,4 +50,6 @@ description: '<p>Let''s celebrate the end of the 2018 tax season with good food,
   put these meetups together. Ideally we''d like to have both city and county meetups
   and have more educational events. If you''d like to help, please contact Alex or
   Sam or bring your ideas to this next meetup.</p> <p>See you there!</p> '
+how_to_find_us: We should be in the front corner of the marketplace, right by The
+  Local Oyster.
 visibility: public
