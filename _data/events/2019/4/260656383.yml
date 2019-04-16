@@ -1,0 +1,66 @@
+---
+created: 1555369702000
+duration: 7200000
+id: '260656383'
+name: A practical approach to cloud security architecture and implementation
+date_in_series_pattern: false
+status: upcoming
+time: 1556145000000
+local_date: '2019-04-24'
+local_time: '18:30'
+updated: 1555369731000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 7
+venue:
+  id: 26117370
+  name: Oath
+  lat: 39.281578063964844
+  lon: -76.58032989501953
+  repinned: false
+  address_1: '2400 Boston St #300'
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21224'
+  state: MD
+group:
+  created: 1547169088000
+  name: AWS User Group Baltimore
+  id: 30894228
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: AWS-User-Group-Baltimore
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/AWS-User-Group-Baltimore/events/260656383/
+description: "<p>While cloud computing provides lower Infrastructure cost, higher
+  agility and faster delivery, it also presents higher operational and security risks
+  for a business critical assets; but a well-designed solution and security architecture
+  will keep businesses safe during and after migrating their assets to the cloud.</p>
+  <p>Max has researched and identified many of the security risks associated with
+  migrating to public cloud infrastructure.<br/>During the research, he also recommended
+  solutions and designed a secure cloud architecture to manage these risks; and his
+  recommendations are based on best practices that align with the AWS Well-Architected
+  Framework. This research was published at Cornell University in 2018.</p> <p>Speaker
+  Bio:<br/>Max Farnga is a Lead Solutions Architect for Security and Cloud Infrastructure,
+  he also has a Master in Information Security and an AWS Certified Solutions Architect
+  Associate. Prior to becoming a Solutions Architect, he spent years as an Infrastructure
+  Consultant where he helped to design, implement and support many IT systems around
+  the United States and other parts of the world.</p> <p>Max is coming to share many
+  practical cloud security and architecture approaches that meet the Well-Architected
+  Framework. This will be a great guidance for organizations looking to improve their
+  Cloud Security Posture as well as individuals looking to enhance their career path
+  in Cloud and Security.</p> <p>Agenda:</p> <p>• 6:30pm - Food &amp; networking</p>
+  <p>• 7:00pm - A practical approach to cloud security architecture and implementation</p>
+  <p>Refreshments</p> <p>Pizza &amp; Soft drinks</p> <p>Many thanks to Verizon Media
+  for hosting this meeting.<br/>Beacon Street Services for sponsoring us Pizza.<br/>And
+  also Accelebrate</p> <p>We will meet at Verizon Media previously called Oath in
+  Baltimore - their office is now at 2400 Boston St #300 · Baltimore, MD 21224. There
+  is plenty of free parking in the garage.</p> "
+visibility: public
