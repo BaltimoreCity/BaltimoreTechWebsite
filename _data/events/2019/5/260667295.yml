@@ -1,0 +1,46 @@
+---
+created: 1555414829000
+duration: 7200000
+id: '260667295'
+name: May Meeting
+date_in_series_pattern: false
+status: upcoming
+time: 1558389600000
+local_date: '2019-05-20'
+local_time: '18:00'
+updated: 1555414829000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 3
+venue:
+  id: 26201353
+  name: 10375 Little Patuxent Pkwy
+  lat: 39.2111930847168
+  lon: -76.85831451416016
+  repinned: true
+  address_1: 10375 Little Patuxent Pkwy
+  city: Columbia
+  country: us
+  localized_country_name: USA
+  zip: '21044'
+  state: MD
+group:
+  created: 1460331045000
+  name: Baltimore Splunk Meetup
+  id: 19824967
+  join_mode: open
+  lat: 39.40999984741211
+  lon: -76.58000183105469
+  urlname: Baltimore-Splunk-Meetup
+  who: Splunkers
+  localized_location: Towson, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Splunk-Meetup/events/260667295/
+description: "<p>HI THERE! We will meet in the Warfield Meeting Room HCLS Central
+  Branch, 10375 Little Patuxent Pkwy Columbia MD 21044. Please RSVP, so we can get
+  accurate count.</p> <p>Thanks!</p> "
+how_to_find_us: Warfield Conference Room
+visibility: public
