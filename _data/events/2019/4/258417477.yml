@@ -8,22 +8,21 @@ status: upcoming
 time: 1555626600000
 local_date: '2019-04-18'
 local_time: '18:30'
-updated: 1548527686000
+updated: 1555600284000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 26
+yes_rsvp_count: 27
 venue:
-  id: 25575435
-  name: Impact Hub Baltimore
-  lat: 39.31175231933594
-  lon: -76.61559295654297
-  repinned: true
-  address_1: 10 E North Ave
+  id: 26110189
+  name: Max's Taphouse
+  lat: 39.28264617919922
+  lon: -76.59300994873047
+  repinned: false
+  address_1: 737 S Broadway
   city: Baltimore
   country: us
   localized_country_name: USA
-  phone: '4437044635'
-  zip: '21202'
+  zip: '21231'
   state: MD
 group:
   created: 1497563382000
@@ -55,8 +54,4 @@ description: "<p>Socializing, networking &amp; getting to know your peers is alw
   good taste.</p> <p>On Inside nights, We encourage you to bring your gaming laptops,
   board &amp; table games, nerdy passions, side hobbies, board games etc. We’ll aim
   to provide group games, drinks, pizza and other snacks!</p> "
-how_to_find_us: Please note that there is NO FREE PARKING at the lot adjacent to Impact
-  Hub (10 E North Avenue). Attendees are advised to use nearby street parking, and
-  NOT the lot next to IH as this has caused some visitors to have their cars impounded
-  in the past.
 visibility: public
