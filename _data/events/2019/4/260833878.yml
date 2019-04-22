@@ -1,0 +1,45 @@
+---
+created: 1555961612000
+duration: 10800000
+id: '260833878'
+name: Community Give Away Day!
+date_in_series_pattern: false
+status: upcoming
+time: 1556229600000
+local_date: '2019-04-25'
+local_time: '18:00'
+updated: 1555961612000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 3
+venue:
+  id: 11842712
+  name: Baltimore Node
+  lat: 39.313438415527344
+  lon: -76.615966796875
+  repinned: false
+  address_1: 2106 N Lovegrove Street
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21218'
+  state: MD
+group:
+  created: 1344557752000
+  name: Baltimore Node Makerspace
+  id: 4511032
+  join_mode: open
+  lat: 39.33000183105469
+  lon: -76.61000061035156
+  urlname: BaltimoreNode
+  who: Makers
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/BaltimoreNode/events/260833878/
+description: "<p>We'll be giving away a lot of unwanted supplies and scrap FOR FREE.
+  Come by check out what we have to give away. It's recommended that you bring a large
+  bag. Feel free to stay afterwards for Open Hack Night.</p> "
+visibility: public
