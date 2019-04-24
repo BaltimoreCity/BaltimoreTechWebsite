@@ -8,7 +8,7 @@ status: upcoming
 time: 1557352800000
 local_date: '2019-05-08'
 local_time: '18:00'
-updated: 1554340151000
+updated: 1556142635000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 49
@@ -49,5 +49,8 @@ description: '<p>Generating ideas (concepts, solutions, features - anything) can
   great for groups but can also be done solo as needed. Additionally, they require
   very little set-up and very few materials - meaning once you understand them you
   can almost immediately find ways to apply them to your work (or even personal life!).</p>
-  <p>Our Meetup is sponsored by Fearless: <a href="http://fearless.tech/" class="linkified">http://fearless.tech/</a></p> '
+  <p>We thank our sponsors for their support!<br/>Betamore: <a href="https://betamore.com/"
+  class="linkified">https://betamore.com/</a><br/>Fearless: <a href="http://fearless.tech/"
+  class="linkified">http://fearless.tech/</a><br/>TEK Systems: <a href="https://www.teksystems.com/en"
+  class="linkified">https://www.teksystems.com/en</a></p> '
 visibility: public

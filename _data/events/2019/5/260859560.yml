@@ -1,0 +1,48 @@
+---
+created: 1556046048000
+duration: 18000000
+id: '260859560'
+name: Baltimore Hackerspace Celebrates its 10th birthday!
+date_in_series_pattern: false
+status: upcoming
+time: 1556985600000
+local_date: '2019-05-04'
+local_time: '12:00'
+updated: 1556139974000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 2
+venue:
+  id: 8768452
+  name: Baltimore Hackerspace
+  lat: 39.3040771484375
+  lon: -76.53608703613281
+  repinned: true
+  address_1: 6410 Landay Ave
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21237'
+  state: MD
+group:
+  created: 1345227737000
+  name: Baltimore Hackerspace
+  id: 4573252
+  join_mode: open
+  lat: 39.29999923706055
+  lon: -76.56999969482422
+  urlname: Baltimore-Hackerspace
+  who: Makers
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Hackerspace/events/260859560/
+description: "<p>Baltimore Hackerspace turns 10 this year! Help us celebrate 10 years
+  of hacking, breaking and making by coming and having a good time!<br/>Being that
+  our event is on May the fourth we couldn't help but make our theme Star Wars! Bring
+  your hand built light sabers, Your hand crafted blasters and heavily modified holochess
+  set. (we will accept other space/scifi related projects) If its a big one let us
+  know in advance.</p> "
+visibility: public
