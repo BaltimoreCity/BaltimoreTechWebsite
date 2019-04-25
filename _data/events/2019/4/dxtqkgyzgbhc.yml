@@ -10,7 +10,7 @@ local_time: '19:00'
 updated: 1494109197000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 8
+yes_rsvp_count: 9
 venue:
   id: 11842712
   name: Baltimore Node
