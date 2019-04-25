@@ -1,0 +1,79 @@
+---
+created: 1556161871000
+duration: 8100000
+id: '260902897'
+name: 'Data Science Student Showcase: Towson Edition'
+rsvp_limit: 150
+date_in_series_pattern: false
+status: upcoming
+time: 1559169000000
+local_date: '2019-05-29'
+local_time: '18:30'
+updated: 1556161896000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 6
+venue:
+  id: 26347555
+  name: University Union
+  lat: 39.393516540527344
+  lon: -76.61112976074219
+  repinned: false
+  address_1: 281 University Ave
+  city: Towson
+  country: us
+  localized_country_name: USA
+  zip: '21204'
+  state: MD
+group:
+  created: 1530147506000
+  name: Data Works MD
+  id: 29010629
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: DataWorks
+  who: Data Enthusiasts
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/DataWorks/events/260902897/
+description: '<p>Please join us in May as we visit Towson University to hear from
+  the next generation of data science superstars. We will be featuring several talks
+  on a range of topics from the students of Towson University.</p> <p>Agenda<br/>-------------------------------------------------<br/>6:30
+  PM -- Networking &amp; Food</p> <p>7:00 PM -- Greetings</p> <p>7:05 PM -- Student
+  Showcase</p> <p>8:45 PM -- Conclusion</p> <p>Location<br/>-------------------------------------------------<br/>Towson
+  University<br/>Union, Chesapeake Room<br/>Cross Campus Dr, Towson, MD 21204</p>
+  <p>Directions<br/>-------------------------------------------------<br/>The event
+  will be in the Chesapeake Room at the Union. More information can be found here:
+  <a href="https://www.towson.edu/campus/landmarks/union/" class="linkified">https://www.towson.edu/campus/landmarks/union/</a></p>
+  <p>Parking<br/>-------------------------------------------------<br/>Parking can
+  be found at the University Union Garage. Please refer to the campus map here: <a
+  href="https://www.towson.edu/maps/" class="linkified">https://www.towson.edu/maps/</a></p>
+  <p>Food and Drinks<br/>-------------------------------------------------<br/>Complimentary
+  food, such as pizza and chips, and non-alcoholic beverages will be provided.</p>
+  <p>Talks<br/>-------------------------------------------------<br/>Talk: Elasticsearch
+  for Business Intelligence and Application Insights<br/>Speaker: Sean Donnelly<br/>Elasticsearch
+  is a distributed, RESTful search and analytics engine capable of solving a growing
+  number of use cases. In this talk, I’ll discuss the fundamentals of storage and
+  retrieval in Elasticsearch, why we decided to use it for search in our applications,
+  and how you can also leverage it for both business intelligence and application
+  insights.</p> <p>Talk: Machine Learning for Requirements Engineering<br/>Speaker:
+  Jon Patton<br/>This project applies a number of machine learning, deep learning,
+  and NLP techniques to solve challenging problems in requirements engineering.</p>
+  <p>Speaker: Pu Tian<br/>Talk: An Asynchronous Distributed Deep Learning Based Intrusion
+  Detection System for IoT Devices<br/>Intrusion Detection Systems (IDS) in IoT devices
+  are crucial for cybersecurity. Existing models may fail due to increased traffic
+  pattern complexity and data complexity. To address these challenges, we propose
+  an asynchronous distributed deep learning based IDS in which only training weights
+  are shared and devices of heterogeneous computing power can train asynchronously.
+  Empirical results on a large network intrusion dataset show that the system achieves
+  high detection accuracy.</p> <p>Talk: Fortune 500 Company Performance Analysis Using
+  Social Networks<br/>Speaker: Yi-Shan Shir<br/>This presentation focus on studying
+  the correlation between financial performance and social media relationship and
+  behavior of Fortune 500 companies. The findings from this research can assist in
+  the prediction of Fortune 500 stock performance based on a number of social network
+  analysis metrics.</p> '
+visibility: public
