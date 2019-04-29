@@ -68,7 +68,7 @@ files.reject { |f| File.directory? f }.each do |meetup_file|
   usable = url.split(%r{www.meetup.com|\/}).last
   source = URI.parse "https://api.meetup.com/#{usable}/events/?key=#{TOKEN}"
   raw = Net::HTTP.get source
-  sleep 1
+  sleep 2
   next if raw == '[]' # no upcoming events
 
   data = JSON.parse raw
