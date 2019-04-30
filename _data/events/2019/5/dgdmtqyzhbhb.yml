@@ -3,13 +3,13 @@ created: 1552597810000
 duration: 12600000
 id: dgdmtqyzhbhb
 name: 'AI Class: Deep Learning'
-rsvp_limit: 15
+rsvp_limit: 12
 date_in_series_pattern: false
 status: upcoming
 time: 1557077400000
 local_date: '2019-05-05'
 local_time: '13:30'
-updated: 1556629256000
+updated: 1556661334000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 5
@@ -18,7 +18,7 @@ venue:
   name: 601 N Eutaw St
   lat: 39.295745849609375
   lon: -76.6212158203125
-  repinned: false
+  repinned: true
   address_1: 601 N Eutaw St
   city: Baltimore
   country: us
