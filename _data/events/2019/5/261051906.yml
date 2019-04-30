@@ -1,0 +1,43 @@
+---
+created: 1556650916000
+duration: 7200000
+id: '261051906'
+name: May GTG @ PubDog Columbia
+date_in_series_pattern: false
+status: upcoming
+time: 1559257200000
+local_date: '2019-05-30'
+local_time: '19:00'
+updated: 1556650965000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 3
+venue:
+  id: 23725800
+  name: Pub Dog
+  lat: 39.18754196166992
+  lon: -76.81861877441406
+  repinned: true
+  address_1: 8865 Stanford Blvd Ste 101
+  city: Columbia
+  country: US
+  localized_country_name: USA
+group:
+  created: 1283265660000
+  name: The Baltimore WordPress Group
+  id: 1699520
+  join_mode: open
+  lat: 39.310001373291016
+  lon: -76.58000183105469
+  urlname: The-Baltimore-WordPress-Group
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/The-Baltimore-WordPress-Group/events/261051906/
+description: "<p>The weather is starting to get better so lets get together for drinks
+  and food to catchup!</p> "
+visibility: public
+pro_is_email_shared: false
