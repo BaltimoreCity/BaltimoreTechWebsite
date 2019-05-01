@@ -9,16 +9,16 @@ status: upcoming
 time: 1557268200000
 local_date: '2019-05-07'
 local_time: '18:30'
-updated: 1534814400000
+updated: 1556725740000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 12
+yes_rsvp_count: 14
 venue:
   id: 25327988
   name: Betamore at City Garage
   lat: 39.26326370239258
   lon: -76.61634826660156
-  repinned: false
+  repinned: true
   address_1: 101 West Dickman Street
   city: Baltimore
   country: us
@@ -44,11 +44,19 @@ description: "<p>Join fellow Go programming enthusiasts, professionals and the j
   for an evening of presentations, learning and socializing.</p> <p>We aim to be a
   welcoming and inclusive group regardless of your skill level, race or gender identity.
   Don't hesitate to come and spend some quality time with us as we explore all that
-  Go has to offer.</p> <p>Speakers/Talks</p> <p>While we never run out of impromptu
-  Go topics to discuss at our meetings, if you'd like to give a full-length or even
-  a lightning talk on something you're working on or find interesting (relevant to
-  Go, of course), feel free to reach out and we'll put you on the agenda.</p> <p>Location</p>
-  <p>Our meetups are hosted at City Garage, 101 W. Dickman Street, Baltimore, MD 21230.
-  There's plenty of free parking and is right off of I-95 (via Exit 54).</p> <p>#golang</p> "
+  Go has to offer.</p> <p>Speakers/Talks</p> <p>This month we're looking forward to
+  the following two talks from our community members:</p> <p>Best Practices for Enums
+  and Timestamps by Chris Raborg<br/>Learn in what situations it makes sense to use
+  them and how they can make your libraries better.</p> <p>Conway's Game of Life in
+  Go by Mike Gaffney<br/>Let's dissect a Go implementation of Conway’s Game of Life
+  which runs in the terminal and pick up some neat tricks along the way.</p> <p>Go
+  Testing Best Practices by Johnny Boursiquot<br/>Learn the latest techniques and
+  review some oldies but goodies as well in this beginner-friendly Go testing talk.
+  We might even have some exercises for you to do at the meeting so come prepared!</p>
+  <p>If you'd like to give a full-length or even a lightning talk on something you're
+  working on or find interesting (relevant to Go, of course), feel free to reach out
+  and we'll put you on the agenda.</p> <p>Location</p> <p>Our meetups are hosted at
+  City Garage, 101 W. Dickman Street, Baltimore, MD 21230. There's plenty of free
+  parking and is right off of I-95 (via Exit 54).</p> <p>#golang</p> "
 visibility: public
 pro_is_email_shared: false
