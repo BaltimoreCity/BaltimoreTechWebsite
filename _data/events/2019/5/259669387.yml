@@ -9,7 +9,7 @@ status: upcoming
 time: 1557331200000
 local_date: '2019-05-08'
 local_time: '12:00'
-updated: 1552314586000
+updated: 1557154318000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 9
@@ -18,7 +18,7 @@ venue:
   name: Online Webinar
   lat: 39.29058074951172
   lon: -76.60926055908203
-  repinned: false
+  repinned: true
   address_1: Online Webinar
   city: Baltimore
   country: us
@@ -40,7 +40,9 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/BaltimoreTechiesforGood/events/259669387/
-description: "<p>Digital Marketing, website and SEO expert Zac Heisey will share his
+description: '<p>Digital Marketing, website and SEO expert Zac Heisey will share his
   top tips for optimizing your key online platforms, especially your website!</p>
-  <p>Log-in information will be provided closer to the date.</p> "
+  <p>Log-in information:<br/>Audio:[masked], Code-[masked]<br/>WebEx: <a href="https://apexsystems.webex.com/apexsystems/onstage/g.php?MTID=e7a7e321372d745daef9042e8295666a5"
+  class="linkified">https://apexsystems.webex.com/apexsystems/onstage/g.php?MTID=e7a7e321372d745daef9042e8295666a5</a>
+  and Password: Training</p> '
 visibility: public
