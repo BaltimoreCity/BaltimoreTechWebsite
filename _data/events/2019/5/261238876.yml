@@ -1,0 +1,69 @@
+---
+created: 1557173438000
+duration: 9000000
+id: '261238876'
+name: Design for How People Think
+rsvp_limit: 60
+date_in_series_pattern: false
+status: upcoming
+time: 1557268200000
+local_date: '2019-05-07'
+local_time: '18:30'
+updated: 1557174272000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 22734952
+  name: TEKSystems
+  lat: 39.20890426635742
+  lon: -76.67788696289062
+  repinned: true
+  address_1: 999 Corporate Blvd. Suite 200
+  city: Linthicum Heights
+  country: us
+  localized_country_name: USA
+  phone: 410-981-7500
+  zip: ''
+  state: MD
+group:
+  created: 1347839902000
+  name: Maryland Software Patterns and Practices
+  id: 4961322
+  join_mode: open
+  lat: 39.209999084472656
+  lon: -76.66000366210938
+  urlname: Maryland-Software-Patterns-Practices
+  who: Software Developers
+  localized_location: Linthicum Heights, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Maryland-Software-Patterns-Practices/events/261238876/
+description: '<p>Use brain science to build better products -- no psychology PhD required!</p>
+  <p>Companies spend enormous amounts of time and money designing the experience for
+  products and services. But in truth, “the” user experience isn’t a singular experience
+  at all. And it doesn’t happen on any screen – it happens in the mind. More specifically,
+  the six minds.</p> <p>Our speaker, John Whalen, is author of the just-released book
+  "Design for How People Think: Using Brain Science to Build Better Products". He
+  will describe how to uncover the conscious and subconscious needs of your users
+  using qualitative research techniques, and how to integrate what you’ve discovered
+  into your product and service designs.</p> <p>John Whalen, PhD, leads Brilliant
+  Experience, a DC-based UX consultancy known for transforming psychological user
+  insights into powerful business strategy and advanced UX innovations. He has a Masters
+  and PhD in Cognitive Science (Johns Hopkins University), has completed a Post Doctoral
+  Fellowship at UCLA, and was a Psychology Professor at the University of Delaware
+  before launching his company.</p> <p>As Partner, Psychological Insights &amp; Innovation
+  at Brilliant, John’s specialty is providing businesses with competitive advantages
+  by uncovering the spoken and unspoken needs of users through user research, and,
+  from those insights, producing powerful, actionable business and experience strategies.
+  His expert knowledge of human vision, attention and memory is relied on by Fortune
+  500 companies including Google, PayPal, Capital One, and Bloomberg.</p> <p>We will
+  meet at TEKsystems in Linthicum. There is plenty of free parking in front of the
+  building. Doors will open at 6:30 PM for pizza and conversation, and the presentation
+  will start at 7:00 PM. If you get there after 7:00 and find yourself locked out,
+  you will find our phone number posted on the front door. Call the number and someone
+  will come to let you in. Don''t be embarrassed - happens all the time.</p> <p>Many
+  thanks to our sponsor, TEKsystems, for hosting this meeting and providing pizza!</p> '
+visibility: public
