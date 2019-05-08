@@ -1,0 +1,43 @@
+---
+created: 1557325183000
+duration: 14400000
+id: '261287387'
+name: TECHEXPO Networking & Recruitment Cocktail Reception
+date_in_series_pattern: false
+status: upcoming
+time: 1557946800000
+local_date: '2019-05-15'
+local_time: '15:00'
+updated: 1557325183000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+group:
+  created: 1417539498000
+  name: TECHEXPO Polygraph Only Networking Event
+  id: 18227702
+  join_mode: open
+  lat: 39.209999084472656
+  lon: -76.66000366210938
+  urlname: TECHEXPO-Polygraph-Only-Networking-Event
+  who: CI/Full Scope Poly Professionals
+  localized_location: Linthicum Heights, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/TECHEXPO-Polygraph-Only-Networking-Event/events/261287387/
+description: '<p>If you have an active Security Clearance, Join us for an evening
+  of drinks &amp; hors d''oeuvres at this free Networking Reception:</p> <p>TECHEXPO
+  Networking &amp; Recruitment Cocktail Reception<br/>Wednesday, May 15, 3pm - 7pm<br/>Hilton
+  Washington Dulles Hotel, Herndon, VA<br/>Register: <a href="https://www.TechExpoUSA.com/jobfair.cfm?jobfairid=1811"
+  class="linkified">https://www.TechExpoUSA.com/jobfair.cfm?jobfairid=1811</a></p>
+  <p>A Secret Clearance or Above is Required to Attend.</p> <p>Bring your security-cleared
+  friends and colleagues and join us after work for a fun night of food, cocktails,
+  and networking!</p> <p>Even if you are currently employed, this is a great opportunity
+  to grow your professional network and build connections with recruiters and industry
+  colleagues.</p> <p>Meet with over a dozen companies &amp; organizations, including
+  Accenture, Leidos, US Marine Corps, MacAulay - Brown Inc., IntelligenceCareers,
+  Omitron, DynCorp International, L3 Applied Defense Solutions, OBXtek, Thorlabs AMVETS,
+  and many more!</p> <p>Bring copies of your resume with you!</p> '
+visibility: public
