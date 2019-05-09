@@ -1,0 +1,70 @@
+---
+created: 1557412041000
+duration: 7200000
+id: '261320080'
+name: Biometrics and Our Privacy Future
+date_in_series_pattern: false
+status: upcoming
+time: 1559169000000
+local_date: '2019-05-29'
+local_time: '18:30'
+updated: 1557429403000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 2
+venue:
+  id: 26220965
+  name: Univ-Baltimore School of Law
+  lat: 39.30583572387695
+  lon: -76.61587524414062
+  repinned: true
+  address_1: 1401 N Charles St
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21201'
+  state: MD
+group:
+  created: 1470164785000
+  name: Baltimore Legal Hackers Meetup
+  id: 20272171
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-Legal-Hackers-Meetup
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Legal-Hackers-Meetup/events/261320080/
+description: '<p>Biometrics and our Privacy Future</p> <p>Biometrics is the measurement
+  and analysis of physical or behavioral characteristics of a person, such as their
+  face, fingerprint, voice, or conduct as a means of verifying identity. Biometrics-based
+  applications can offer secure and user-friendly identity management and verification
+  solutions. However, biometrics pose a special threat to personal privacy because
+  they use characteristics intrinsic to you that can never be changed. Once a biometric
+  is compromised, it can be impossible to regain anonymity from those willing to misuse
+  it.</p> <p>Facial identification systems are increasingly being adopted by governments,
+  big tech, and banks. In the United States the legal rules protecting individuals
+  from abuse of these technologies are few and far between. However, recent legislative
+  developments indicate momentum may be building for significant privacy legislation
+  both at the state and national level. Come out to Legal Hackers on Wednesday 29
+  May to hear biometrics policy analyst, Christopher Anastasio, and privacy attorney
+  Razvan Miutescu discuss the present and future state of biometrics and privacy in
+  the United States.</p> <p>Christopher Anastasio is a consultant for Ideal Innovations
+  Incorporated in Arlington, VA. Chris has spent the past fifteen years working in
+  the Department of Defense (DoD) biometrics field, primarily as a policy analyst,
+  strategic planning consultant, and acquisition strategist, including as senior biometrics
+  policy analyst at the DoD Biometrics Task Force. <a href="https://www.linkedin.com/in/christopheranastasio/"
+  class="linkified">https://www.linkedin.com/in/christopheranastasio/</a></p> <p>Razvan
+  “Raz” Miutescu is a business, technology, and information governance attorney at
+  Whiteford Taylor Preston LLP in Baltimore. His practice focuses on privacy and data
+  security, information technology transactions and licensing, intellectual property,
+  and data management, including data broker transactions, cloud services, distributed
+  ledgers + blockchain, and related regulatory and compliance matters. <a href="https://www.linkedin.com/in/razvan-miutescu-83b44912/"
+  class="linkified">https://www.linkedin.com/in/razvan-miutescu-83b44912/</a></p>
+  <p>Image via www.vpnsrus.com</p> '
+how_to_find_us: AL 403 - Classroom
+visibility: public
