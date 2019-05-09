@@ -1,0 +1,54 @@
+---
+created: 1557365199000
+duration: 7200000
+id: pbdxxqyzpbqb
+name: Monthly B'more on Rails Meetup
+rsvp_limit: 65
+date_in_series_pattern: false
+status: upcoming
+time: 1573603200000
+local_date: '2019-11-12'
+local_time: '19:00'
+updated: 1557365199000
+utc_offset: -18000000
+waitlist_count: 0
+yes_rsvp_count: 0
+venue:
+  id: 26378588
+  name: 1300 Bank St
+  lat: 39.286643981933594
+  lon: -76.5987548828125
+  repinned: false
+  address_1: 1300 Bank St
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21231'
+  state: MD
+group:
+  created: 1161199720000
+  name: B'more on Rails
+  id: 347566
+  join_mode: open
+  lat: 39.29999923706055
+  lon: -76.61000061035156
+  urlname: bmore-on-rails
+  who: Rubyists
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/bmore-on-rails/events/pbdxxqyzpbqb/
+description: '<p>Join us for another round of Ruby, Rails, and more! On the agenda
+  this month:</p> <p>* You?</p> <p>Got something that you''d like to present? We still
+  have room for another short talk or two. Contact the organizers and let us know.
+  We especially love first time presenters and new perspectives! Even if you have
+  never presented anywhere before, we''d love to hear from you :)</p> <p>Talks are
+  generally no longer than 20-30 minutes (we can make exceptions if you need to rehearse
+  for a conference). Lightning talks (&lt;5 minutes) and shorter talks are also welcome.</p>
+  <p>Seriously, let us know if you''re at all interested!</p> <p>B''more on Rails
+  is dedicated to providing a harassment-free meetup experience for everyone. Our
+  Anti-Harassment Policy (<a href="http://www.meetup.com/bmore-on-rails/pages/B%27more_on_Rails_Anti-Harassment_Policy"
+  class="linkified">http://www.meetup.com/bmore-on-rails/pages/B%27more_on_Rails_Anti-Harassment_Policy</a>).</p> '
+visibility: public
