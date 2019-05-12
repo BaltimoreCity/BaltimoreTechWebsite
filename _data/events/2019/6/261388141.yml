@@ -1,0 +1,60 @@
+---
+created: 1557620715000
+duration: 5400000
+id: '261388141'
+name: 'Baltimore Meetup # 4 MuleSoft CI/CD or DEVOPS Round Table Discussion.'
+date_in_series_pattern: false
+status: upcoming
+time: 1560373200000
+local_date: '2019-06-12'
+local_time: '17:00'
+updated: 1557621302000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 26384491
+  name: Allegis Group, Inc
+  lat: 39.167381286621094
+  lon: -76.73554229736328
+  repinned: false
+  address_1: 7320 Parkway Drive South
+  city: Hanover
+  country: US
+  localized_country_name: USA
+group:
+  created: 1537896512000
+  name: Baltimore MuleSoft Meetup Group
+  id: 29957397
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-MuleSoft-Meetup-Group
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-MuleSoft-Meetup-Group/events/261388141/
+manual_attendance_count: 0
+description: '<p>REGISTRATIONS ARE NOT AVAILABLE ON MEETUP.COM - CONFIRM YOUR RSVP
+  ON OUR WEBSITE HERE:<br/><a href="https://meetups.mulesoft.com/events/details/mulesoft-baltimore-presents-baltimore-meetup-4-mulesoft-cicd-or-devops-round-table-discussion/"
+  class="linkified">https://meetups.mulesoft.com/events/details/mulesoft-baltimore-presents-baltimore-meetup-4-mulesoft-cicd-or-devops-round-table-discussion/</a>
+  Please join us on June 12th to be part of Round Table Discussion on MuleSoft CI/CD
+  or DevOps.&lt;/p&gt;The Agenda of the Discussion will be updated soon.&lt;/p&gt;</p>
+  <p>Agenda<br/>6:00 PM: Doors Open, Eat and Socialize<br/>6:05 PM: MuleSoft Connect<br/>6:10
+  PM: Benefits of a Meetup Speaker<br/>6:15 PM: Round Table Begins<br/>7:20 PM: Q
+  &amp; A<br/>7:30 PM: Wrap-up</p> <p>---</p> <p>Hosted By<br/>Manju Kumara Hanumanthappa,
+  Integration Developer<br/>Working as Lead Developer in Integration Domain from past
+  9+ years, Keen on solving integration problems.</p> <p>---</p> <p>Partner<br/>Allegis
+  Group (<a href="https://www.allegisgroup.com/" class="linkified">https://www.allegisgroup.com/</a>)<br/>At
+  Allegis Group, we exist to create opportunity – for our clients, our candidates,
+  and each other. Through a network of specialized companies, we connect great people
+  with great opportunities, helping businesses win and careers soar. We’re the global
+  leader in Talent Solutions. And, together with our network of specialized companies,
+  we are unified by a common purpose: to create significant opportunities for people
+  that, day by day, shape our world.</p> <p>---</p> <p>REGISTRATIONS ARE NOT AVAILABLE
+  ON MEETUP.COM - CONFIRM YOUR RSVP ON OUR WEBSITE HERE:<br/><a href="https://meetups.mulesoft.com/events/details/mulesoft-baltimore-presents-baltimore-meetup-4-mulesoft-cicd-or-devops-round-table-discussion/"
+  class="linkified">https://meetups.mulesoft.com/events/details/mulesoft-baltimore-presents-baltimore-meetup-4-mulesoft-cicd-or-devops-round-table-discussion/</a></p> '
+visibility: public
