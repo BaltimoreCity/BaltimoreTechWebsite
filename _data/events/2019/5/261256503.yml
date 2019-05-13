@@ -8,16 +8,16 @@ status: upcoming
 time: 1557784800000
 local_date: '2019-05-13'
 local_time: '18:00'
-updated: 1557236430000
+updated: 1557749744000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 6
+yes_rsvp_count: 5
 venue:
   id: 24556219
   name: Spark Baltimore
   lat: 39.28889083862305
   lon: -76.60699462890625
-  repinned: false
+  repinned: true
   address_1: 8 Market Place
   city: Baltimore
   country: us
@@ -45,15 +45,16 @@ description: '<p>Hey BWiT! May is Startup Grind''s global Women''s Entrepreneurs
   &amp; her husband Delali Dzirasa, President of Fearless. The event will also feature
   a roundtable discussion with local women-led tech focused groups: Women Techmakers
   Baltimore, Women In Bio-Capital Region, Moms As Entrepreneurs and others!</p> <p>*GET
-  TICKETS:*<br/><a href="http://bit.ly/WomenSUG" class="linkified">http://bit.ly/WomenSUG</a><br/>Tickets
-  - $20<br/>_use code "BWIT-SUG" for 25% off your ticket!_</p> <p>*ABOUT THIS EVENT:*<br/>Join
-  us for a candid conversation with Dr. Letitia Dzirasa, Baltimore City''s New Health
-  Commissioner &amp; her husband Delali Dzirasa, President of Fearless Solutions.
-  They will talk about their journey as a startup to ascending to civic leadership
-  to running a successful software company. Learn how you can support the women entrepreneurs
-  in your life.</p> <p>In addition we are bringing together women across the startup
-  and entrepreneurship ecosystem in Baltimore. Hear success stories from a wide variety
-  of female owned and operated businesses and what has helped them along the way.
-  Our panel currently includes: Baltimore Women in Tech, Women Techmakers, Women in
-  Bio, Code in the Schools, Moms as Entrepreneurs and Ladies Get Paid Baltimore.</p> '
+  TICKETS:*</p> <p>Tickets: $20 - <a href="http://bit.ly/WomenSUG" class="linkified">http://bit.ly/WomenSUG</a><br/>_use
+  code "BWIT-SUG" for 25% off your ticket!_</p> <p>Note: Your RSVP in Meetup.com does
+  not count as your ticket.</p> <p>*ABOUT THIS EVENT:*<br/>Join us for a candid conversation
+  with Dr. Letitia Dzirasa, Baltimore City''s New Health Commissioner &amp; her husband
+  Delali Dzirasa, President of Fearless Solutions. They will talk about their journey
+  as a startup to ascending to civic leadership to running a successful software company.
+  Learn how you can support the women entrepreneurs in your life.</p> <p>In addition
+  we are bringing together women across the startup and entrepreneurship ecosystem
+  in Baltimore. Hear success stories from a wide variety of female owned and operated
+  businesses and what has helped them along the way. Our panel currently includes:
+  Baltimore Women in Tech, Women Techmakers, Women in Bio, Code in the Schools, Moms
+  as Entrepreneurs and Ladies Get Paid Baltimore.</p> '
 visibility: public
