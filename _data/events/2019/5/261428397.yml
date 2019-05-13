@@ -1,0 +1,72 @@
+---
+created: 1557767975000
+duration: 12600000
+id: '261428397'
+name: 'AI Class: Deep Learning'
+rsvp_limit: 15
+date_in_series_pattern: false
+status: upcoming
+time: 1558287000000
+local_date: '2019-05-19'
+local_time: '13:30'
+updated: 1557767975000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 2
+venue:
+  id: 26100072
+  name: 3400 N Charles St
+  lat: 39.328739166259766
+  lon: -76.61952209472656
+  repinned: true
+  address_1: 3400 N Charles St
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21218'
+  state: MD
+group:
+  created: 1531342688000
+  name: Baltimore AI
+  id: 29209891
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-AI
+  who: AI Enthusiasts
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-AI/events/261428397/
+description: '<p>Agenda:</p> <p>1:30 ~ 1:45<br/>Roundtable updates of lesson progress
+  and challenges faced during the week.</p> <p>1:45 ~ 2:30<br/>Presentations by members
+  of our study group.</p> <p>2:30 ~ 5:00<br/>Individual study time. (If you have questions
+  or run into lesson issues during the study time, please send your questions to our
+  Google Group (<a href="https://groups.google.com/forum/#!forum/baltimore-ai-deep-learning"
+  class="linkified">https://groups.google.com/forum/#!forum/baltimore-ai-deep-learning</a>)
+  or Github. (<a href="https://github.com/jsandroid/FastAI_Baltimore" class="linkified">https://github.com/jsandroid/FastAI_Baltimore</a>))</p>
+  <p>_____________________<br/>Important info for new members joining our meetups
+  for the first time:</p> <p>Please fill out the Google form, we will send you an
+  email with all the instructions on joining group and to begin learning.</p> <p><a
+  href="https://forms.gle/c99gpkZWXNBj3nv89" class="linkified">https://forms.gle/c99gpkZWXNBj3nv89</a></p>
+  <p>This is a collaborative learning meetup. Our main focus is studying a deep learning
+  framework called FastAI. It is a revolutionary deep learning framework that can
+  train a model with far fewer lines of code than Keras.</p> <p>We do not have an
+  instructor for the course. Most of the lessons are self-paced. We encourage everyone
+  to learn together in a respectful and collaborative manner.</p> <p>Google Drive:<br/><a
+  href="https://drive.google.com/open?id=1clG3cSr0_HB8zd9lXmRxvy9WWwecd_Ze" class="linkified">https://drive.google.com/open?id=1clG3cSr0_HB8zd9lXmRxvy9WWwecd_Ze</a></p>
+  <p>Things we ask of you:<br/>* Come with an enthusiasm to learn. We are all students
+  here.<br/>* Be willing to share your insights and discoveries and help one another.<br/>*
+  Come with the willingness to problem solve.<br/>* You don''t need to establish yourself
+  as subject expert from the jump.<br/>* Be willing to make mistakes and ask dumb
+  questions.<br/>* Better to have a moment of injured pride than a lifetime carrying
+  ignorance.<br/>* Space is limited to 15 for most of our meetup dates. Please update
+  your RSVP accordingly and we hope to see you at the next meetup!<br/>* Come excited
+  to learn everything about machine learning and Fast AI</p> '
+how_to_find_us: |-
+  Free Street Parking
+
+  Rm 5017 or 5015(same room, 2 different numbers) -> C Level (Basement)
+visibility: public
