@@ -1,0 +1,64 @@
+---
+created: 1557778434000
+duration: 7200000
+id: '261433569'
+name: 'Round Table: Search Engine Optimization (SEO)'
+rsvp_limit: 40
+date_in_series_pattern: false
+status: upcoming
+time: 1558562400000
+local_date: '2019-05-22'
+local_time: '18:00'
+updated: 1557798681000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 2
+venue:
+  id: 25327988
+  name: Betamore at City Garage
+  lat: 39.26326370239258
+  lon: -76.61634826660156
+  repinned: true
+  address_1: 101 West Dickman Street
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: ''
+  state: MD
+group:
+  created: 1411519622000
+  name: Baltimore Techies for Good
+  id: 17176312
+  join_mode: approval
+  lat: 39.33000183105469
+  lon: -76.61000061035156
+  urlname: BaltimoreTechiesforGood
+  who: Techies for Good
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/BaltimoreTechiesforGood/events/261433569/
+description: '<p>For the 1st 30-45 minutes, we''ll be having a group discussion about
+  Search Engine Optimization (SEO) and how non-profits in our community are addressing
+  it strategically and tactically. This round table is a follow up to the webinar
+  on SEO that was provided on May 9th by Zac Heisey. Here are some questions we will
+  use to start the conversation:</p> <p>1. Are your websites responsive/fast and mobile
+  friendly?<br/>2. How are you building content partnerships?<br/>3. What are you
+  doing to get social mentions?<br/>4. How do you promote content? What was your process
+  for determining<br/>keywords/content (including any tools you used, like a keyword
+  recommender)?<br/>5. How have you successfully gotten mentioned in any news providers
+  or community associations?<br/>6. If you have done paid placements, how did you
+  determine the return on investment?</p> <p>If you weren''t able to attend the webinar
+  or need a refresher, a recording can be found here: <a href="https://bit.ly/2V9FptJ"
+  class="linkified">https://bit.ly/2V9FptJ</a></p> <p>The 2nd half of the meeting
+  will be small group breakouts helping nonprofits with any technology needs, which
+  could include: auditing website to identify improvement opportunities, fixing bugs/issues,
+  small enhancements like page additions, content tweaks, integrating plug-ins and/or
+  social media, etc.</p> <p>Nonprofits - It is very important that you come prepared
+  with an idea of what you need help with flushed out as best you can! Also, bring
+  your computer and any log-in information for your website so Tech Volunteers have
+  access.</p> <p>Food (likely pizza) and drinks will be provided!</p> '
+how_to_find_us: We'll be in the very back of Betamore, in the open room with the projector.
+visibility: public
