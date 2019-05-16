@@ -8,7 +8,7 @@ status: upcoming
 time: 1558389600000
 local_date: '2019-05-20'
 local_time: '18:00'
-updated: 1555414829000
+updated: 1558013268000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 22
@@ -41,6 +41,15 @@ group:
 link: https://www.meetup.com/Baltimore-Splunk-Meetup/events/260667295/
 description: "<p>HI THERE! We will meet in the Warfield Meeting Room HCLS Central
   Branch, 10375 Little Patuxent Pkwy Columbia MD 21044. Please RSVP, so we can get
-  accurate count.</p> <p>Thanks!</p> "
+  accurate count.</p> <p>We will be welcoming Chuck Frain who will be talking about
+  Organization with Org mode.</p> <p>So you’ve been spending some time Marie Kondo-ing
+  your life since the new<br/>year. One of the things you’ve discovered doesn’t spark
+  joy in your digital<br/>life organizer tools. Emacs Org mode may be what you’re
+  looking for.</p> <p>Org mode started in 2003 as an outlining tool with enhancements
+  for taking<br/>notes and TODO lists. As things go with such projects it has grown
+  and<br/>features are added over time. Some of the additional features enhance<br/>project
+  planning, authoring documents, task tracking and more utilizing the<br/>power of
+  Emacs Lisp. Org mode can help you consolidate many of your various<br/>tracking
+  tools. All in a plain text format.</p> <p>Thanks!</p> "
 how_to_find_us: Warfield Conference Room
 visibility: public
