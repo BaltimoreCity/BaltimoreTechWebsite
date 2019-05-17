@@ -1,0 +1,71 @@
+---
+created: 1558088407000
+duration: 7200000
+id: '261539746'
+name: The Top serverless Security Risks & How to Mitigate
+date_in_series_pattern: false
+status: upcoming
+time: 1559169000000
+local_date: '2019-05-29'
+local_time: '18:30'
+updated: 1558088471000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 5
+venue:
+  id: 26117370
+  name: Oath
+  lat: 39.281578063964844
+  lon: -76.58032989501953
+  repinned: true
+  address_1: '2400 Boston St #300'
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21224'
+  state: MD
+group:
+  created: 1547169088000
+  name: AWS User Group Baltimore
+  id: 30894228
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: AWS-User-Group-Baltimore
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/AWS-User-Group-Baltimore/events/261539746/
+description: "<p>Moving to serverless makes some things better and some things worse,
+  but pretty much nothing stays the same. The threats to your serverless apps are
+  consistent in many ways, but they may not look and act the same way. While serverless
+  reduces some of the top security threats, vulnerabilities within the application
+  layer remain. Additionally, some security threats become even worse and entirely
+  new challenges arise.</p> <p>Maintaining control and security requires a paradigm
+  shift in your thinking.</p> <p>In this presentation, Tsion will cover the security
+  advantages of serverless application architectures. Next, he’ll examine the top
+  6 serverless security challenges, along with solutions for mitigation, many of which
+  can be implemented immediately.</p> <p>1) How to deal with the loss of the perimeter<br/>2)
+  2 Steps to managing permissions in serverless<br/>3) Tackling the risks of vulnerable
+  application dependencies<br/>4) New tactics to battle the persistent problem of
+  bad code<br/>5) Mitigating denial-of-service, or the new serverless challenge ‘denial-of-wallet’<br/>6)
+  Reduce risks from container reuse (don’t be fooled by the ephemeral promise)</p>
+  <p>SpeakerBio:</p> <p>Prior to co-founding Protego, Tsion served as Chief Strategy
+  Officer for Gemalto’s Identity and Data Protection Division, where he was responsible
+  for developing global business and product strategies, and identifying and capitalizing
+  on emerging market trends within the information security market. Prior to assuming
+  his role as Chief Strategy Officer, he oversaw SafeNet’s (acquired by Gemalto in
+  2014) Data Protection product portfolio strategy and execution. Tsion joined the
+  company in April 2009 from Aladdin Knowledge Systems, where he led the company’s
+  global sales and marketing efforts. Prior to that role, he led Aladdin’s Content
+  Security business unit.</p> <p>Agenda:</p> <p>• 6:30pm - Food &amp; networking</p>
+  <p>• 7:00pm - The Top serverless Security Risks &amp; How to Mitigate</p> <p>Refreshments</p>
+  <p>Pizza &amp; Soft drinks</p> <p>Many thanks to Verizon Media for hosting this
+  meeting.<br/>Protego for sponsoring us Pizza.<br/>And also Accelebrate and Beacon
+  Street Services.</p> <p>We will meet at Verizon Media previously called Oath in
+  Baltimore - their office is now at 2400 Boston St #300 · Baltimore, MD 21224. There
+  is plenty of free parking in the garage.</p> "
+visibility: public
