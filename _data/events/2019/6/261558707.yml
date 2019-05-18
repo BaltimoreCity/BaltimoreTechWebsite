@@ -1,0 +1,57 @@
+---
+created: 1558138417000
+duration: 7200000
+id: '261558707'
+name: UX in Motion
+rsvp_limit: 60
+date_in_series_pattern: false
+status: upcoming
+time: 1560376800000
+local_date: '2019-06-12'
+local_time: '18:00'
+updated: 1558138483000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 26283308
+  name: Betamore
+  lat: 39.26340866088867
+  lon: -76.61618041992188
+  repinned: false
+  address_1: 101 W Dickman St
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21230'
+  state: MD
+group:
+  created: 1442183625000
+  name: Baltimore UX Meetup
+  id: 18928275
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-UX-Meetup
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-UX-Meetup/events/261558707/
+description: '<p>Motion is an integral part of our everyday interactions with the
+  world. It is also increasingly becoming a meaningful way to convey information through
+  the technology, systems, and services we all use. What are the principles that govern
+  our perception of motion, and how do these concepts influence the design of interactions
+  for our users? This session will cover a foundational understanding of the history
+  of animation, its transition to the web, and the way modern web interactions embrace
+  motion as a means to enrich user experience. There will also be a brief demo of
+  how developers and designers can work together to craft meaningful motion, and provide
+  next steps for those who are interested in exploring this engaging element in modern
+  UX.</p> <p>Presenters: Eric Smallwood and Mark Adkins, Bellese Technologies</p>
+  <p>We thank our sponsors for their support!<br/>Betamore: <a href="https://betamore.com/"
+  class="linkified">https://betamore.com/</a><br/>Fearless: <a href="http://fearless.tech/"
+  class="linkified">http://fearless.tech/</a><br/>TEK Systems: <a href="https://www.teksystems.com/en"
+  class="linkified">https://www.teksystems.com/en</a></p> '
+visibility: public
