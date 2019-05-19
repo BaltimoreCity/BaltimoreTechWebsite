@@ -9,7 +9,7 @@ status: upcoming
 time: 1558391400000
 local_date: '2019-05-20'
 local_time: '18:30'
-updated: 1558091819000
+updated: 1558277713000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 6
@@ -40,12 +40,16 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/Baltimore-Vim/events/260486910/
-description: "<p>OK, take two! February's meetup didn't happen, and it was disheartening!
+description: '<p>OK, take two! February''s meetup didn''t happen, and it was disheartening!
   But have no fear, there are many months left in 2019.</p> <p>Per usual meetup procedure,
-  we'll have our meeting gather at the VLP for presentation(s), and afterwards anyone
+  we''ll have our meeting gather at the VLP for presentation(s), and afterwards anyone
   who still wants to hang out can continue on to nearby food venues (location TBD).</p>
   <p>----</p> <p>Scheduled Talk(s):</p> <p>* Vim Regular Expressions - Daniel Weber</p>
-  <p>-----</p> <p>Scheduled Beer: TBA</p> "
+  <p>-----</p> <p>Scheduled Beer: Brewer''s Art "Resurrection", a 7% Belgian Dubbel.
+  Via The Beer Advocate: "During the fermentation of the first batch of this Abbey-style
+  dubbel, the yeast ''died'' and was ''resurrected'' by brewer Chris Cashell. Made
+  with five types of barley malt and lots of sugar, this beer is quite strong and
+  flavorful, without being too sweet."</p> '
 how_to_find_us: As usual, we will be in the office building across the street from
   the main VLP library building, on the second floor. The inside door will be locked,
   but someone will be listening for the knock.
