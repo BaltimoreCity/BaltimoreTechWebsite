@@ -1,0 +1,56 @@
+---
+created: 1558355911000
+duration: 2700000
+id: '261612970'
+name: Webinar - How to get results from Google Ad Grants
+rsvp_limit: 50
+date_in_series_pattern: false
+status: upcoming
+time: 1562860800000
+local_date: '2019-07-11'
+local_time: '12:00'
+updated: 1558355911000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 2
+venue:
+  id: 17638782
+  name: Online Webinar
+  lat: 39.29058074951172
+  lon: -76.60926055908203
+  repinned: true
+  address_1: Online Webinar
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: ''
+  state: MD
+group:
+  created: 1411519622000
+  name: Baltimore Techies for Good
+  id: 17176312
+  join_mode: approval
+  lat: 39.33000183105469
+  lon: -76.61000061035156
+  urlname: BaltimoreTechiesforGood
+  who: Techies for Good
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/BaltimoreTechiesforGood/events/261612970/
+description: "<p>Abstract:<br/>Managing a Google Ad Grants account is a balancing
+  act. Your need to know how to build out effective campaigns that target your ideal
+  audience while maintaining high quality scores for your ads. Learn how you can increase
+  your ad spend by considering things from the end user's perspective. Build better
+  ad campaigns, improve your landing pages, and learn expert keyword management techniques.
+  Join us and start getting more out of your Google Ad Grants account.</p> <p>Company
+  Bio<br/>Stephanie and Tim have a combined eighteen years of experience in digital
+  marketing. After meeting on the job at an ad agency, they discovered that many nonprofits
+  did not know they qualified for Google Ad Grants accounts. As a result nonprofit
+  were missing out on free funding for digital advertising and even paying for ads
+  when they didn't need to. Together, they started Good Intents to help nonprofits
+  connect with their grants and to provide specialized management for Google Ad Grants
+  accounts.</p> "
+visibility: public
