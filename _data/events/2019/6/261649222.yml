@@ -1,0 +1,38 @@
+---
+created: 1558460485000
+duration: 7200000
+id: '261649222'
+name: Future of 5G Discussion
+date_in_series_pattern: false
+status: upcoming
+time: 1560981600000
+local_date: '2019-06-19'
+local_time: '18:00'
+updated: 1558460485000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+group:
+  created: 1548256480000
+  name: Baltimore Disruptive Technology Group
+  id: 30993676
+  join_mode: open
+  lat: 39.27000045776367
+  lon: -76.62999725341797
+  urlname: Disruptive-Technologies-Series-Autonomous-Vehicles
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Disruptive-Technologies-Series-Autonomous-Vehicles/events/261649222/
+description: "<p>5G technology is poised to change the world. Cellular networks are
+  synonymous with everyday life thanks to their rapid progression over the past 45
+  years, from voice to text, web browsing, to now high-definition video streaming.
+  The 5G evolution brings another decade-long technological evolution. With<br/>high
+  download speeds, massive connectivity capabilities, ultra-low latency, and[masked]%
+  reliability, 5G will enable new applications, address new markets, and transform
+  how consumers and enterprises interact with the network.</p> <p>We will discuss
+  how this technology will impact and change our behavior.</p> "
+visibility: public
