@@ -1,29 +1,17 @@
 ---
-created: 1558445663000
+created: 1558447762000
 duration: 9000000
-id: '261642864'
-name: June Meeting
+id: '261643676'
+name: July Meeting
 date_in_series_pattern: false
 status: upcoming
-time: 1560808800000
-local_date: '2019-06-17'
+time: 1563228000000
+local_date: '2019-07-15'
 local_time: '18:00'
-updated: 1558445663000
+updated: 1558447762000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 3
-venue:
-  id: 24609202
-  name: 'Ellicott, HCLS Miller Branch, '
-  lat: 39.27267074584961
-  lon: -76.83958435058594
-  repinned: false
-  address_1: ", 9421 Frederick Rd Ellicott City MD 21042"
-  city: Ellicott City
-  country: us
-  localized_country_name: USA
-  zip: ''
-  state: MD
 group:
   created: 1460331045000
   name: Baltimore Splunk Meetup
@@ -38,9 +26,8 @@ group:
   country: us
   region: en_US
   timezone: US/Eastern
-link: https://www.meetup.com/Baltimore-Splunk-Meetup/events/261642864/
+link: https://www.meetup.com/Baltimore-Splunk-Meetup/events/261643676/
 description: "<p>HI THERE! We will meet in the Patapsco meeting room 9421 Frederick
   Rd Ellicott City MD 21042 Miller branch. Please RSVP, so we can get accurate count.</p>
   <p>Thanks!</p> "
-how_to_find_us: Patapasco Conference Room
 visibility: public

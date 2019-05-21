@@ -2,28 +2,28 @@
 created: 1552597810000
 duration: 21600000
 id: dgdmtqyzjbmb
-name: Baltimore.AI Dev-Con
+name: Baltimore AI Code Sprint
 rsvp_limit: 50
 date_in_series_pattern: false
 status: upcoming
 time: 1560002400000
 local_date: '2019-06-08'
 local_time: '10:00'
-updated: 1558301064000
+updated: 1558450297000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 2
 venue:
-  id: 26400688
-  name: University of Maryland, Baltimore County
-  lat: 39.25567626953125
-  lon: -76.71096801757812
+  id: 26404683
+  name: UMBC Training Centers
+  lat: 39.177433013916016
+  lon: -76.8011474609375
   repinned: false
-  address_1: 1000 Hilltop Cir
-  city: Baltimore
+  address_1: '6996 Columbia Gateway Dr #100'
+  city: Columbia
   country: us
   localized_country_name: USA
-  zip: '21250'
+  zip: '21046'
   state: MD
 group:
   created: 1531342688000
@@ -40,9 +40,18 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/Baltimore-AI/events/dgdmtqyzjbmb/
-description: "<p>First Baltimore.AI Dev-Con.</p> "
-how_to_find_us: |-
-  Free Street Parking
-
-  Rm 5017 or 5015(same room, 2 different numbers) -> C Level (Basement)
+description: "<p>----------------------------------<br/>Baltimore AI Code Sprint<br/>----------------------------------</p>
+  <p>Learn to Solve a Deep Learning Problem of Today</p> <p>What are the benefits
+  of Baltimore AI Code Sprint?<br/>• Meet new people<br/>• Team collaboration<br/>•
+  Add value to your CV<br/>• Recruiting &amp; finding talent<br/>• Personal satisfaction<br/>•
+  Having fun building something new</p> <p>Who can attend?<br/>Anyone who is interested
+  in:<br/>• AI &amp; Deep Learning<br/>• Loves to learn and build cool stuff</p> <p>Do
+  I need to have programming experience?<br/>• Some, but not required</p> <p>Do I
+  need a computer?<br/>• Yes, bring your laptop<br/>• Some software may be required
+  to be installed</p> <p>What should I bring?<br/>• Laptop<br/>• Good attitude<br/>•
+  Desire to learn</p> <p>Is it a team event?<br/>• Yes<br/>• Working on a project
+  giving you the opportunity to work in a real world problem</p> <p>When?<br/>Saturday,
+  June 8, 2019</p> <p>Where?<br/>UMBC Training Centers (Columbia)<br/>6996 Columbia
+  Gateway Dr #100, Columbia, MD 21046</p> <p>Parking?<br/>Free Parking!</p> "
+how_to_find_us: Free Street Parking
 visibility: public
