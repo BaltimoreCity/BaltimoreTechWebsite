@@ -3,13 +3,13 @@ created: 1552597810000
 duration: 21600000
 id: dgdmtqyzjbmb
 name: Baltimore AI Code Sprint
-rsvp_limit: 50
+rsvp_limit: 30
 date_in_series_pattern: false
 status: upcoming
 time: 1560002400000
 local_date: '2019-06-08'
 local_time: '10:00'
-updated: 1558450297000
+updated: 1558540372000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 3
@@ -18,7 +18,7 @@ venue:
   name: UMBC Training Centers
   lat: 39.177433013916016
   lon: -76.8011474609375
-  repinned: false
+  repinned: true
   address_1: '6996 Columbia Gateway Dr #100'
   city: Columbia
   country: us
