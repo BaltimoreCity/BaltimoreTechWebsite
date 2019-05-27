@@ -1,0 +1,26 @@
+---
+local_time: '17:30'
+local_date: '2019-06-13'
+link: https://www.meetup.com/Baltimore-Women-in-Computing-Meetup/events/261802795/
+visibility: public_limited
+group:
+  created: 1394655159000
+  name: Baltimore Women in Computing  Meetup
+  id: 13309992
+  join_mode: open
+  lat: 39.31999969482422
+  lon: -76.70999908447266
+  urlname: Baltimore-Women-in-Computing-Meetup
+  who: Baltimore Women in Computing
+  localized_location: Gwynn Oak, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+waitlist_count: 0
+yes_rsvp_count: 2
+duration: 5400000
+time: 1560461400000
+utc_offset: -14400000
+name: BWiC Reboot and Networking Session
+id: '261802795'
