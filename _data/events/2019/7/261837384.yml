@@ -1,0 +1,48 @@
+---
+created: 1559062847000
+duration: 9000000
+id: '261837384'
+name: Bmore VR Summer 2019 Meetup
+date_in_series_pattern: false
+status: upcoming
+time: 1562968800000
+local_date: '2019-07-12'
+local_time: '18:00'
+updated: 1559062847000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 3
+venue:
+  id: 24951694
+  name: City Garage
+  lat: 39.26286315917969
+  lon: -76.61593627929688
+  repinned: true
+  address_1: 101 W. Dickman St
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: ''
+  state: MD
+group:
+  created: 1444444528000
+  name: BmoreVR - Baltimore Virtual and Augmented Reality Meetup
+  id: 19012631
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.58999633789062
+  urlname: BmoreVR
+  who: VR Pioneers
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/BmoreVR/events/261837384/
+description: '<p>What better way to kick off the summer than with a Bmore VR Meetup!</p>
+  <p>On Friday, July 12 Bmore VR is returning with our usual open "Science Fair" layout
+  with demos from DMV companies showcasing their awesome VR/AR experiences.</p> <p>If
+  you’d like to demo your Augmented and Virtual Reality project(s) please send an
+  email to [masked]!</p> <p>Schedule:<br/>6:00PM - 6:45PM: Doors Open/Intros<br/>6:45PM
+  - 8:30PM: Demos/Networking</p> <p>Demos:<br/>TBD</p> '
+visibility: public
