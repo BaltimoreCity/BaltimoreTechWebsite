@@ -8,12 +8,12 @@ status: upcoming
 time: 1560373200000
 local_date: '2019-06-12'
 local_time: '17:00'
-updated: 1557621302000
+updated: 1559082010000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 1
 venue:
-  id: 26384491
+  id: 26420479
   name: Allegis Group, Inc
   lat: 39.167381286621094
   lon: -76.73554229736328
@@ -41,8 +41,13 @@ manual_attendance_count: 0
 description: '<p>REGISTRATIONS ARE NOT AVAILABLE ON MEETUP.COM - CONFIRM YOUR RSVP
   ON OUR WEBSITE HERE:<br/><a href="https://meetups.mulesoft.com/events/details/mulesoft-baltimore-presents-baltimore-meetup-4-mulesoft-cicd-or-devops-round-table-discussion/"
   class="linkified">https://meetups.mulesoft.com/events/details/mulesoft-baltimore-presents-baltimore-meetup-4-mulesoft-cicd-or-devops-round-table-discussion/</a>
-  Please join us on June 12th to be part of Round Table Discussion on MuleSoft CI/CD
-  or DevOps.&lt;/p&gt;The Agenda of the Discussion will be updated soon.&lt;/p&gt;</p>
+  &amp;nbsp;Please join us on June 12th to be part of Round Table Discussion on MuleSoft
+  CI/CD or DevOps. &lt;/p&gt;The Agenda is as below&lt;/p&gt;1.The Current State of
+  CI/CD?&lt;/p&gt; a. How Continuous Integration is achieved?&lt;/p&gt; b. How Continuous
+  Deployment is achieved?&lt;/p&gt; c. Continuous Delivery&lt;/p&gt; d. How the Code
+  Repository Managed?&lt;/p&gt; e. Challenges &lt;/p&gt;2.The Future Plan for CI/CD?&lt;/p&gt;3.The
+  tools being used/evaluated?&lt;/p&gt; a. Why are we using this tool, what feature
+  helped you most?&lt;/p&gt; b. What other features wish you had in the tool?&lt;/p&gt;</p>
   <p>Agenda<br/>6:00 PM: Doors Open, Eat and Socialize<br/>6:05 PM: MuleSoft Connect<br/>6:10
   PM: Benefits of a Meetup Speaker<br/>6:15 PM: Round Table Begins<br/>7:20 PM: Q
   &amp; A<br/>7:30 PM: Wrap-up</p> <p>---</p> <p>Hosted By<br/>Manju Kumara Hanumanthappa,
