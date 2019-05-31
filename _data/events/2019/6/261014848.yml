@@ -8,7 +8,7 @@ status: upcoming
 time: 1559599200000
 local_date: '2019-06-03'
 local_time: '18:00'
-updated: 1556760789000
+updated: 1559335990000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 69
@@ -43,31 +43,32 @@ description: '<p>Our June meetup features two presentations: Nick Schmidt of BLD
   LLC speaking on Fairness in Machine Learning and AI, and Alex Kaplunovich on Machine
   Learning Automation and Cloud Integration, specifically Automatic Hyperparameter
   Optimization for an Arbitrary DNN Model in Serverless Cloud. Doors open at 6 pm.
-  After a half-hour of networking and refreshments. Our program starts at 6:30 pm.</p>
-  <p>Alex''s talk: Despite the extreme popularity of neural networks, the step of
-  parameter tuning is manual for many data scientists. We automate the whole process.
-  Humans are not required to specify the hyper-parameters to optimize or run the tests.
-  We take an arbitrary Python/TensorFlow/Keras ML model code and its data file. We
-  automatically parse the model identifying hyper-parameters to tune, apply dynamic
-  code generation to make our model work with the hyperopt library, and optimize hyper-parameters
-  for the updated model code with the provided data in the Cloud.</p> <p>Nick''s talk:
-  There is a growing recognition that AI models have the potential to be biased or
-  discriminatory. Due to concerns about social justice, fear of perpetuating bias,
-  and the need to meet legal anti-discrimination requirements, it is essential that
-  the AI community address this issue and ensure that the models they put into production
-  treat people fairly. Nick will discuss ideas of fairness and how they apply to machine
-  learning. He will explore recent academic work on identifying and mitigating bias,
-  and discuss how his work in lending and employment can be applied to other industries.
-  Nick will explain how to measure whether an algorithm is fair and also demonstrate
-  the techniques that model builders can use to ameliorate bias when it is found.</p>
-  <p>Nicholas Schmidt is a Partner and the A.I. Practice Leader at BLDS, LLC (<a href="https://www.bldsllc.com/schmidt"
+  After a half-hour of networking and refreshments -- thanks to sponsor Miner &amp;
+  Kasch -- our program starts at 6:30 pm.</p> <p>Alex''s talk: Despite the extreme
+  popularity of neural networks, the step of parameter tuning is manual for many data
+  scientists. We automate the whole process. Humans are not required to specify the
+  hyper-parameters to optimize or run the tests. We take an arbitrary Python/TensorFlow/Keras
+  ML model code and its data file. We automatically parse the model identifying hyper-parameters
+  to tune, apply dynamic code generation to make our model work with the hyperopt
+  library, and optimize hyper-parameters for the updated model code with the provided
+  data in the Cloud.</p> <p>Nick''s talk: There is a growing recognition that AI models
+  have the potential to be biased or discriminatory. Due to concerns about social
+  justice, fear of perpetuating bias, and the need to meet legal anti-discrimination
+  requirements, it is essential that the AI community address this issue and ensure
+  that the models they put into production treat people fairly. Nick will discuss
+  ideas of fairness and how they apply to machine learning. He will explore recent
+  academic work on identifying and mitigating bias, and discuss how his work in lending
+  and employment can be applied to other industries. Nick will explain how to measure
+  whether an algorithm is fair and also demonstrate the techniques that model builders
+  can use to ameliorate bias when it is found.</p> <p>Nicholas Schmidt is a Partner
+  and the A.I. Practice Leader at BLDS, LLC (<a href="https://www.bldsllc.com/schmidt"
   class="linkified">https://www.bldsllc.com/schmidt</a>). He specializes in the application
   of statistics and economics to questions of law, regulatory compliance, and best
   practices in model governance.</p> <p>Alex Kaplunovich''s expertise lies in the
   areas of cloud and voice computing, machine learning, serverless architectures,
   and data analytics. He received his BSc degrees in Computer Science and Mathematics
   and his MSc degree in Computer Science from the University of Maryland. Presently,
-  Alex is finishing his PhD. in machine learning. Alex is a VP of Engineering at Advanced
-  Technology Experts, and a passionate proponent of cloud, voice and machine learning
+  Alex is finishing his PhD. in machine learning. Alex is a VP of Engineering at Advanced
+  Technology Experts, and a passionate proponent of cloud, voice and machine learning
   (AI) technologies.</p> '
 visibility: public
