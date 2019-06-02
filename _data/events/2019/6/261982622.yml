@@ -1,0 +1,36 @@
+---
+created: 1559498663000
+duration: 7200000
+id: '261982622'
+name: CNC Router Training
+date_in_series_pattern: false
+status: upcoming
+time: 1561073400000
+local_date: '2019-06-20'
+local_time: '19:30'
+updated: 1559499186000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+group:
+  created: 1344557752000
+  name: Baltimore Node Makerspace
+  id: 4511032
+  join_mode: open
+  lat: 39.33000183105469
+  lon: -76.61000061035156
+  urlname: BaltimoreNode
+  who: Makers
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/BaltimoreNode/events/261982622/
+description: '<p>This is a training for Members of the Baltimore Node on how to use
+  the CNC Router. A Computer Numerical Control Router can cut wood, plastics, and
+  composites with higher precision than conventional methods (jigsaw, table saw, miter
+  saw). The Baltimore Node has a CNC Router that is available to use for paying members
+  of the Node.</p> <p>You can read more about the CNC Router on the Node Wiki here:<br/><a
+  href="https://wiki.baltimorenode.org/CNC_Router_How-To_Guide" class="linkified">https://wiki.baltimorenode.org/CNC_Router_How-To_Guide</a></p> '
+visibility: public
