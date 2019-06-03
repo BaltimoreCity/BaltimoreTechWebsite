@@ -1,18 +1,18 @@
 ---
 created: 1552597810000
 duration: 12600000
-id: dgdmtqyzjbvb
+id: dgdmtqybchbwb
 name: 'AI Class: Deep Learning'
 rsvp_limit: 15
 date_in_series_pattern: false
 status: upcoming
-time: 1560706200000
-local_date: '2019-06-16'
+time: 1589736600000
+local_date: '2020-05-17'
 local_time: '13:30'
 updated: 1552597810000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 4
+yes_rsvp_count: 0
 venue:
   id: 26100072
   name: 3400 N Charles St
@@ -39,7 +39,7 @@ group:
   country: us
   region: en_US
   timezone: US/Eastern
-link: https://www.meetup.com/Baltimore-AI/events/dgdmtqyzjbvb/
+link: https://www.meetup.com/Baltimore-AI/events/dgdmtqybchbwb/
 description: '<p>We will be following the basic syllabus outlined in the article (<a
   href="https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48"
   class="linkified">https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48</a>)</p>
