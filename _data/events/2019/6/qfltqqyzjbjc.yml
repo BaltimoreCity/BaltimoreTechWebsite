@@ -1,17 +1,17 @@
 ---
 created: 1548703645000
-duration: 7200000
+duration: 5400000
 id: qfltqqyzjbjc
-name: Let's talk Elixir
+name: Prepare for Summer, the Check-In / Part 2
 date_in_series_pattern: false
 status: upcoming
 time: 1561590000000
 local_date: '2019-06-26'
 local_time: '19:00'
-updated: 1548703645000
+updated: 1559676019000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 2
+yes_rsvp_count: 3
 venue:
   id: 21779512
   name: SmartLogic LLC
@@ -39,10 +39,26 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/Baltimore-Elixir-and-Erlang-Meetup/events/qfltqqyzjbjc/
-description: '<p>Specific talks TBD, this will be updated when they are finalized.</p>
-  <p>If you have an idea for a talk you''d like to give, please send a message to
-  one of the organizers and we''ll make it happen!</p> <p>We are dedicated to providing
-  a harassment-free meetup experience for everyone. Please see our Code of Conduct
-  (<a href="https://www.meetup.com/Baltimore-Elixir-and-Erlang-Meetup/pages/28313285/Code_of_Conduct/"
+description: '<p>We had a great time at our May "Prepare fo Summer" event. For June,
+  the idea is to check-in on how any side projects or learning effort are going, and
+  get your questions asked.</p> <p>No matter your skill level or experience, this
+  event is for you! We had several people, even though with years of experience, sharpening
+  basic skills via some fun exercises at our May meetup.</p> <p>Even if you didn''t
+  make it to our May meetup, come join in June, and ensure you''re on track to make
+  the most of any foul weather that might come our way this summer. We hope to get
+  everyone on a great path and see awesome results at our September meetup. Don''t
+  miss it!</p> <p>====</p> <p>Prepare for Summer</p> <p>What does that mean? At some
+  point this summer the weather will be bad, or it will just be crazy hot and humid
+  outside. What will you do to make the best of your time indoors? How about some
+  Elixir!</p> <p>Our goals for this event are:<br/>1. Answer any questions someone
+  getting started with Elixir might have<br/>2. Ensure everyone has Elixir running
+  on their laptop<br/>3. Look at open source projects or learning efforts you can
+  undertake this summer<br/>4. Get help on any side projects you might be working
+  on<br/>5. Network!</p> <p>====</p> <p>We rely on the community to keep this meetup
+  going. Please consider suggesting a topic or activity, or even better, volunteer
+  to speak!</p> <p>If you have an idea for a talk you''d like to give, please send
+  a message to one of the organizers and we''ll make it happen!</p> <p>====</p> <p>We
+  are dedicated to providing a harassment-free meetup experience for everyone. Please
+  see our Code of Conduct (<a href="https://www.meetup.com/Baltimore-Elixir-and-Erlang-Meetup/pages/28313285/Code_of_Conduct/"
   class="linkified">https://www.meetup.com/Baltimore-Elixir-and-Erlang-Meetup/pages/28313285/Code_of_Conduct/</a>).</p> '
 visibility: public
