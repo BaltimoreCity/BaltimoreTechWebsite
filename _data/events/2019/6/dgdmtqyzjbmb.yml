@@ -9,7 +9,7 @@ status: upcoming
 time: 1560002400000
 local_date: '2019-06-08'
 local_time: '10:00'
-updated: 1558540372000
+updated: 1559786091000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 12
@@ -40,7 +40,19 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/Baltimore-AI/events/dgdmtqyzjbmb/
-description: "<p>----------------------------------<br/>Baltimore AI Code Sprint<br/>----------------------------------</p>
+description: '<p>10am - 11am Welcoming, Coffee and doughnuts, Team formation<br/>11am
+  - 1130am Project/Problem proposals<br/>1130am - 3pm Code! (and Pizza)<br/>3pm -
+  4pm Team Presentations</p> <p>This event will be less formal than other hackathons
+  or devcons you may have attended in the past. First hour is for people to come in
+  and get settled and to figure out your teams. 11am break out will feature all of
+  us discussing and pitching problems or projects that we can work on--so feel free
+  to come in with any idea that you''d like to build! After you''ve decided what your
+  team will work on, start coding! Pizza will be ordered and well conclude the event
+  with presentations!</p> <p>This is our group''s first attempt to make a devcon type
+  event (we plan on making a larger one come March 2020!!). We''re excited to see
+  you all!</p> <p>Code of Conduct: <a href="https://docs.google.com/document/d/1xT7qZBnKeftO8iZ6eb73Be4PV1r1Z_1slnE8VXxsZJ8/edit?usp=sharing"
+  class="linkified">https://docs.google.com/document/d/1xT7qZBnKeftO8iZ6eb73Be4PV1r1Z_1slnE8VXxsZJ8/edit?usp=sharing</a></p>
+  <p>----------------------------------<br/>Baltimore AI Code Sprint<br/>----------------------------------</p>
   <p>Learn to Solve a Deep Learning Problem of Today</p> <p>What are the benefits
   of Baltimore AI Code Sprint?<br/>• Meet new people<br/>• Team collaboration<br/>•
   Add value to your CV<br/>• Recruiting &amp; finding talent<br/>• Personal satisfaction<br/>•
@@ -52,6 +64,6 @@ description: "<p>----------------------------------<br/>Baltimore AI Code Sprint
   Desire to learn</p> <p>Is it a team event?<br/>• Yes<br/>• Working on a project
   giving you the opportunity to work in a real world problem</p> <p>When?<br/>Saturday,
   June 8, 2019</p> <p>Where?<br/>UMBC Training Centers (Columbia)<br/>6996 Columbia
-  Gateway Dr #100, Columbia, MD 21046</p> <p>Parking?<br/>Free Parking!</p> "
+  Gateway Dr #100, Columbia, MD 21046</p> <p>Parking?<br/>Free Parking!</p> '
 how_to_find_us: Free Street Parking
 visibility: public
