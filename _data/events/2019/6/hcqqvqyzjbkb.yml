@@ -8,16 +8,16 @@ status: upcoming
 time: 1559923200000
 local_date: '2019-06-07'
 local_time: '12:00'
-updated: 1554306875000
+updated: 1559833330000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 9
+yes_rsvp_count: 8
 venue:
   id: 26213534
   name: Spark Baltimore
   lat: 39.28878402709961
   lon: -76.60700988769531
-  repinned: false
+  repinned: true
   address_1: '8 Market Pl #300'
   city: Baltimore
   country: us
@@ -39,11 +39,19 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/Python-for-City-Government-Process-Improvement-P-4-CG/events/hcqqvqyzjbkb/
-description: '<p>Format</p> <p>Each python meet up will: 1) start with a short flash
-  talk demoing an idea, project, library of useful feature or function—the ‘talks’
-  section, 2) allow opportunities for folks to work individually on a short program
-  around a Python use case like data analysis or automation of a task—the ‘development’
-  section.</p> <p>Goals</p> <p>The meet up has 3 goals:</p> <p>1. Serve as a foundation
+description: '<p>Join us this month to talk about data analysis workflows using both
+  Python and R with Christine Zhang from The Baltimore Sun! She''ll talk through an
+  article/project she worked on where she needed to use both Python and R to help
+  parse and understand what the data said.</p> <p>Christine is a Data Journalist with
+  The Baltimore Sun where she reports news stories using data analysis and statistics
+  (using mostly R and Python). Before joining The Sun in 2018, she worked as a data
+  scientist at Two Sigma and was previously an OpenNews fellow at the Los Angeles
+  Times and a research analyst at the Brookings Institution. She has a B.A. from Smith
+  College and an M.A. from Columbia University.</p> <p>Read more about what she''s
+  up to here: <a href="https://twitter.com/christinezhang" class="linkified">https://twitter.com/christinezhang</a><br/><a
+  href="http://underthecurve.github.io/bylines/" class="linkified">http://underthecurve.github.io/bylines/</a><br/><a
+  href="https://www.baltimoresun.com/bal-christine-zhang-20180802-staff.html" class="linkified">https://www.baltimoresun.com/bal-christine-zhang-20180802-staff.html</a></p>
+  <p>Meetup Goals</p> <p>The meet up has 3 goals:</p> <p>1. Serve as a foundation
   for the creation of a Python eco-system in City government.</p> <p>2. Encourage
   and empower municipal employees to identify opportunities to ask and answer more
   complex questions and eliminate repetitive, labor or paper-intensive, non-value
