@@ -73,6 +73,11 @@ files.reject { |f| File.directory? f }.each do |meetup_file|
 
   data = JSON.parse raw
 
+  if !(data.is_a? Array) && data['errors']
+    p "#{data['errors'].first['code']}: #{data['errors'].first['message']}"
+    next
+  end
+
   data.each do |event|
     process_event event
   end
