@@ -8,7 +8,7 @@ status: upcoming
 time: 1560463200000
 local_date: '2019-06-13'
 local_time: '18:00'
-updated: 1556632566000
+updated: 1560279937000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 23
@@ -39,6 +39,10 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/Baltimore-DevOps-Meetup/events/261043395/
-description: "<p>Stay tuned for an agenda!<br/>Join the conversation on the Baltimore
-  Tech Slack: #devops</p> "
+description: "<p>After over a month's hiatus we're back with two exciting talks:<br/>Cory
+  Thomas will be discussing How Automation can Transform Security in a DevOps Environment<br/>And,
+  in what may be his last time attending Baltimore DevOps before he moves out to the
+  west coast, Stephen Leyva will be talking about Automation's Place in DevOps.</p>
+  <p>We'll also have our usual ice-breaker and a round-table discussion moderated
+  by Luke.</p> <p>Join the conversation on the Baltimore Tech Slack: #devops</p> "
 visibility: public
