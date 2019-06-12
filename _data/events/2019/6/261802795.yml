@@ -8,11 +8,11 @@ group:
   name: Baltimore Women in Computing  Meetup
   id: 13309992
   join_mode: open
-  lat: 39.31999969482422
-  lon: -76.70999908447266
+  lat: 39.150001525878906
+  lon: -76.80999755859375
   urlname: Baltimore-Women-in-Computing-Meetup
   who: Baltimore Women in Computing
-  localized_location: Gwynn Oak, MD
+  localized_location: Jessup, MD
   state: MD
   country: us
   region: en_US
