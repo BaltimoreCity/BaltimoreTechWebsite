@@ -1,0 +1,49 @@
+---
+created: 1521485067000
+duration: 7200000
+id: tddhcryzjbxb
+name: Prototyping with Sketch & Anima
+rsvp_limit: 30
+date_in_series_pattern: false
+status: upcoming
+time: 1562022000000
+local_date: '2019-07-01'
+local_time: '19:00'
+updated: 1560455886000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 3
+venue:
+  id: 19999412
+  name: 'TBA '
+  lat: 39.29058074951172
+  lon: -76.60926055908203
+  repinned: true
+  address_1: 1 TBA
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: ''
+  state: MD
+group:
+  created: 1521131649000
+  name: Product Design and Animation
+  id: 27838329
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Product-Design-and-Animation
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Product-Design-and-Animation/events/tddhcryzjbxb/
+description: "<p>Hello Everyone,</p> <p>We are currently looking for a place to meet
+  for our design workshops.If you have any suggestions or recommendations please let
+  me know.</p> <p>**** This workshop is pending until we secure a venue***<br/>Learn
+  how to create high-fidelity, interactive prototypes using the Anima plugin right
+  inside Sketch!</p> <p>High-Fidelity Prototypes enable you to share experiences rather
+  than clickable mockups.</p> <p>Bring your own laptop.</p> "
+visibility: public
