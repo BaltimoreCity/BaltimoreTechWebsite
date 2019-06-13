@@ -1,18 +1,18 @@
 ---
-created: 1552601070000
+created: 1560444515000
 duration: 7200000
-id: '259773241'
+id: '262290041'
 name: Casual BSD Meetup (SouthWest)
 rsvp_limit: 10
 date_in_series_pattern: false
 status: upcoming
-time: 1561590000000
-local_date: '2019-06-26'
+time: 1569538800000
+local_date: '2019-09-26'
 local_time: '19:00'
-updated: 1560444427000
+updated: 1560444515000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 2
+yes_rsvp_count: 1
 venue:
   id: 26120294
   name: The Ale House Columbia
@@ -39,9 +39,9 @@ group:
   country: us
   region: en_US
   timezone: US/Eastern
-link: https://www.meetup.com/CharmBUG/events/259773241/
+link: https://www.meetup.com/CharmBUG/events/262290041/
 description: "<p>The goal is to have a casual meetup, over food and drinks discussing
   anything related to BSD, Security, etc.</p> <p>This meetup will be South West of
-  Baltimore, in Columbia MD. (Note: Date changed to Wednesday, 6/26/19 at 7:00PM</p> "
+  Baltimore, in Columbia MD.</p> "
 how_to_find_us: Look for the CharmBUG logo
 visibility: public
