@@ -1,0 +1,74 @@
+---
+created: 1548518034000
+duration: 7200000
+id: hjgbxqyzkbgb
+name: Black Techies Study Group!
+date_in_series_pattern: false
+status: upcoming
+time: 1562884200000
+local_date: '2019-07-11'
+local_time: '18:30'
+updated: 1560520647000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 6
+venue:
+  id: 25575435
+  name: Impact Hub Baltimore
+  lat: 39.31175231933594
+  lon: -76.61559295654297
+  repinned: true
+  address_1: 10 E North Ave
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  phone: '4437044635'
+  zip: '21202'
+  state: MD
+group:
+  created: 1497563382000
+  name: Baltimore Black Techies Meetup
+  id: 24485464
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-Black-Techies-Meetup
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Black-Techies-Meetup/events/hjgbxqyzkbgb/
+description: '<p>We will be doing an extensive Web Development Fundamentals course
+  reinforced with projects that you can add to your portfolio along the way.</p> <p>What
+  you need:<br/>A laptop<br/>Have google chrome installed<br/>Have VSC code installed<br/>Have
+  Slack account</p> <p>Note: We can walk you through these steps if you''re having
+  difficulty.</p> <p>Please see links below:<br/><a href="https://www.google.com/chrome/"
+  class="linkified">https://www.google.com/chrome/</a><br/><a href="https://code.visualstudio.com/download"
+  class="linkified">https://code.visualstudio.com/download</a><br/><a href="https://join.slack.com/t/bmoreblacktechies/shared_invite/enQtNDIyMzk1ODM2ODY1LWQxODI2MThhMmYyOTgzMzkwM2FiYzk0Y2FmMTMxMzM5ODkyOTg4YWM0NmY4MTY3ZDY1M2VjMjZhMzdhMWVlZmI"
+  class="linkified">https://join.slack.com/t/bmoreblacktechies/shared_invite/enQtNDIyMzk1ODM2ODY1LWQxODI2MThhMmYyOTgzMzkwM2FiYzk0Y2FmMTMxMzM5ODkyOTg4YWM0NmY4MTY3ZDY1M2VjMjZhMzdhMWVlZmI</a></p>
+  <p>No prior coding experience required, come with an open-mind and willingness to
+  learn.</p> <p>Instructors:<br/>@Doug<br/>@Aaron Brooks<br/>@Ryan White</p> <p>This
+  wee''s meetup will be combined with our regular Project night.</p> <p>On project
+  nights we’ll dive head first into the projects with which we’re directly involved
+  &amp;/or most interested. If you’re still brand new to coding &amp; project development
+  and unsure how to directly contribute to an active project, that’s perfectly fine.
+  Participate as an observer and take notes; by doing so you will only learn &amp;
+  grow! Project leads &amp; more seasoned developers in our group are encouraged to
+  help our beginners learn, feel engaged and get their toes wet in whatever aspects
+  of projects they feel most comfortable. More than one project workshops may be going
+  on at once during these nights and ideas for new projects are always welcome. Some
+  of our projects in the works and those already suggested are not limited to but
+  also include:</p> <p>• Web design &amp; Front-end development<br/>• Chatbots<br/>•
+  Raspberry Pi configuration<br/>• Arduino configuration<br/>• Google APIs in practice<br/>•
+  Hardware &amp; Robotics</p> <p>• What to bring<br/>Brains + Computer</p> <p>• Important
+  to know<br/>If it''s your first time attending, please go through this onboarding
+  document to get all the necessary tools set up: <a href="https://docs.google.com/document/d/1JujPe0QZ8ag9k75vNo1eAEZqVrf3yFPAWMcMHWfmlak/edit?usp=sharing"
+  class="linkified">https://docs.google.com/document/d/1JujPe0QZ8ag9k75vNo1eAEZqVrf3yFPAWMcMHWfmlak/edit?usp=sharing</a></p>
+  <p>Hope to see you!</p> '
+how_to_find_us: Please note that there is NO FREE PARKING at the lot adjacent to Impact
+  Hub (10 E North Avenue). Attendees are advised to use nearby street parking, and
+  NOT the lot next to IH as this has caused some visitors to have their cars impounded
+  in the past.
+visibility: public
