@@ -2,14 +2,14 @@
 created: 1558460936000
 duration: 3600000
 id: '261649383'
-name: June 2019 Meetup - Topics TBA
+name: June 2019 Meetup - Cyber Intervention
 rsvp_limit: 20
 date_in_series_pattern: false
 status: upcoming
 time: 1560810600000
 local_date: '2019-06-17'
 local_time: '18:30'
-updated: 1558460936000
+updated: 1560791438000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 8
@@ -18,7 +18,7 @@ venue:
   name: Village Learning Place
   lat: 39.31864547729492
   lon: -76.61548614501953
-  repinned: false
+  repinned: true
   address_1: 2510 St. Paul St.
   city: Baltimore
   country: us
@@ -44,9 +44,14 @@ description: '<p>Thank you Daniel for presenting in May! Let''s see what June ha
   in store...</p> <p>Per usual meetup procedure, we''ll have our meeting gather at
   the VLP for presentation(s), and afterwards anyone who still wants to hang out can
   continue on to a nearby food venue.</p> <p>----</p> <p>Scheduled Talk(s):</p> <p>*
-  TBA: Perhaps you''d like to submit a talk at <a href="http://baltimorevim.org/submit-a-talk.html#form"
-  class="linkified">http://baltimorevim.org/submit-a-talk.html#form</a>?</p> <p>-----</p>
-  <p>Scheduled Beer: TBA</p> '
+  A Cyber Intervention of Web - Caroline D, 18 minutes</p> <p>* (If time available)
+  Perl and Vim (Beginner) - Stephen Belcher, 20 minutes</p> <p>-----</p> <p>Scheduled
+  Beer: Union Craft Brewers "Divine", a 6.5% IPA. "The hops are the breakout stars
+  in this Divine IPA. Plump, juicy, and oozing with tropical fruity charisma. Citra
+  and Mosaic have gotten all dressed up and are ready for their closeup. With an aroma
+  that’s big and bold and a body that’s soft and smooth, we’ve crafted this perversely
+  hoppy IPA to be as free spirited and full of character as Charm City itself. Reach
+  for the stars and grab a taste of the Divine."</p> '
 how_to_find_us: As usual, we will be in the office building across the street from
   the main VLP library building, on the second floor. The inside door will be locked,
   but someone will be listening for the knock.
