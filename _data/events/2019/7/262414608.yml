@@ -1,0 +1,49 @@
+---
+created: 1560866190000
+duration: 3600000
+id: '262414608'
+name: July 2019 Meetup - Topics TBA
+rsvp_limit: 20
+date_in_series_pattern: false
+status: upcoming
+time: 1563229800000
+local_date: '2019-07-15'
+local_time: '18:30'
+updated: 1560866190000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 23763215
+  name: Village Learning Place
+  lat: 39.31864547729492
+  lon: -76.61548614501953
+  repinned: false
+  address_1: 2510 St. Paul St.
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: ''
+  state: MD
+group:
+  created: 1428765460000
+  name: Baltimore Vim
+  id: 18542857
+  join_mode: open
+  lat: 39.33000183105469
+  lon: -76.61000061035156
+  urlname: Baltimore-Vim
+  who: Vimmers
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Vim/events/262414608/
+description: '<p>Thank you Caroline for presenting in June!</p> <p>Per usual meetup
+  procedure, in July we''ll gather at the VLP for presentation(s), and afterwards
+  anyone who still wants to hang out can continue on to a nearby food venue.</p> <p>----</p>
+  <p>Scheduled Talk(s):</p> <p>* TBA - There''s space for you to submit a talk! <a
+  href="http://baltimorevim.org/submit-a-talk.html#form" class="linkified">http://baltimorevim.org/submit-a-talk.html#form</a></p>
+  <p>-----</p> <p>Scheduled Beer: TBA</p> '
+visibility: public
