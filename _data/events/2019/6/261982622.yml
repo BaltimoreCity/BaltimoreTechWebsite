@@ -8,10 +8,22 @@ status: upcoming
 time: 1561073400000
 local_date: '2019-06-20'
 local_time: '19:30'
-updated: 1559499186000
+updated: 1560872148000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 1
+venue:
+  id: 11842712
+  name: Baltimore Node
+  lat: 39.313438415527344
+  lon: -76.615966796875
+  repinned: false
+  address_1: 2106 N Lovegrove Street
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21218'
+  state: MD
 group:
   created: 1344557752000
   name: Baltimore Node Makerspace
