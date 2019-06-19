@@ -1,0 +1,55 @@
+---
+created: 1560954030000
+duration: 7200000
+id: '262445300'
+name: " Introduction to Amazon SageMaker"
+date_in_series_pattern: false
+status: upcoming
+time: 1561590000000
+local_date: '2019-06-26'
+local_time: '19:00'
+updated: 1560955953000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 4
+venue:
+  id: 26117370
+  name: Oath
+  lat: 39.281578063964844
+  lon: -76.58032989501953
+  repinned: true
+  address_1: '2400 Boston St #300'
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21224'
+  state: MD
+group:
+  created: 1547169088000
+  name: AWS User Group Baltimore
+  id: 30894228
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: AWS-User-Group-Baltimore
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/AWS-User-Group-Baltimore/events/262445300/
+description: "<p>Amazon SageMaker is a managed machine learning service (MLaaS). SageMaker
+  lets you quickly build and train machine learning models and deploy them directly
+  into a hosted environment. In this presentation Karan Tandon will cover how to get
+  started and run SageMaker with examples.</p> <p>SpeakerBio:</p> <p>Karan Tandon
+  is the Founder of InstantXS, an AWS Technology partner. He has more than 20 years
+  of experience in building high performing solutions in the cloud for various clients
+  such as AOL, GEICO and Stansberry Research. He is also an AWS Certified Professional
+  Architect.</p> <p>Agenda:</p> <p>• 6:30pm - Food &amp; networking</p> <p>• 7:00pm
+  - Introduction to Amazon SageMaker</p> <p>Refreshments</p> <p>Pizza &amp; Soft drinks</p>
+  <p>Many thanks to Verizon Media for hosting this meeting.<br/>And also Accelebrate
+  and Beacon Street Services.</p> <p>We will meet at Verizon Media previously called
+  Oath in Baltimore - their office is now at 2400 Boston St #300 · Baltimore, MD 21224.
+  There is plenty of free parking in the garage.</p> "
+visibility: public
