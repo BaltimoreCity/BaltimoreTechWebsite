@@ -8,10 +8,10 @@ status: upcoming
 time: 1561069800000
 local_date: '2019-06-20'
 local_time: '18:30'
-updated: 1560570001000
+updated: 1561042313000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 8
+yes_rsvp_count: 9
 venue:
   id: 25612214
   name: Ida B's Table
@@ -52,8 +52,6 @@ description: "<p>Socializing, networking &amp; getting to know your peers is alw
   good taste.</p> <p>On Inside nights, We encourage you to bring your gaming laptops,
   board &amp; table games, nerdy passions, side hobbies, board games etc. We’ll aim
   to provide group games, drinks, pizza and other snacks!</p> "
-how_to_find_us: Please note that there is NO FREE PARKING at the lot adjacent to Impact
-  Hub (10 E North Avenue). Attendees are advised to use nearby street parking, and
-  NOT the lot next to IH as this has caused some visitors to have their cars impounded
-  in the past.
+how_to_find_us: Paid parking available on the street and nearby parking garages. May
+  be better to carpool if you can.
 visibility: public
