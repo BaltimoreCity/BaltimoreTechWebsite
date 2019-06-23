@@ -59,6 +59,7 @@ def process_event(event)
   File.open(outfile_name, 'w') { |outfile| outfile.write(event.to_yaml) }
 end
 
+retries = 1
 files = Dir.entries(MEETIPFOLDER)
 files.reject { |f| File.directory? f }.each do |meetup_file|
   file = "#{MEETIPFOLDER}#{meetup_file}"
@@ -67,11 +68,41 @@ files.reject { |f| File.directory? f }.each do |meetup_file|
   p url
   usable = url.split(%r{www.meetup.com|\/}).last
   source = URI.parse "https://api.meetup.com/#{usable}/events/?key=#{TOKEN}"
-  raw = Net::HTTP.get source
-  sleep 2
-  next if raw == '[]' # no upcoming events
+  begin
+    response = Net::HTTP.get_response source
+  rescue Net::OpenTimeout => e
+    sleep 60
+    retry
+  end
+  code = response.code
+  body = response.body
+  if code != '200'
+    if code == '404'
+      data = JSON.parse(body) rescue []
 
-  data = JSON.parse raw
+      if !(data.is_a? Array) && data['errors']
+        p "#{data['errors'].first['code']}: #{data['errors'].first['message']}"
+        next
+      end
+    end
+    retries += 1
+    p body
+    p code
+    if retries < 10
+      p "Waiting One Minute, retries = #{retries}"
+      sleep 60
+      redo
+    else
+      retries = 1
+      # too much retrying
+      next
+    end
+  end
+  retries = 1
+  sleep 3
+  next if body == '[]' # no upcoming events
+
+  data = JSON.parse body
 
   if !(data.is_a? Array) && data['errors']
     p "#{data['errors'].first['code']}: #{data['errors'].first['message']}"
