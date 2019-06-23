@@ -1,0 +1,55 @@
+---
+created: 1540304887000
+duration: 7200000
+id: slntkqybcjbfc
+name: Open Source Hack Night
+date_in_series_pattern: false
+status: upcoming
+time: 1592953200000
+local_date: '2020-06-23'
+local_time: '19:00'
+updated: 1540304887000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 0
+venue:
+  id: 24850846
+  name: 'Allovue, Inc.  '
+  lat: 39.32183837890625
+  lon: -76.62228393554688
+  repinned: true
+  address_1: 301 W 29th St, RHouse Suite 2003
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: ''
+  state: MD
+group:
+  created: 1161199720000
+  name: B'more on Rails
+  id: 347566
+  join_mode: open
+  lat: 39.29999923706055
+  lon: -76.61000061035156
+  urlname: bmore-on-rails
+  who: Rubyists
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/bmore-on-rails/events/slntkqybcjbfc/
+description: '<p>Come prepared with an idea or two for some open source code that
+  you''d like to hack on, be it a brand new gem, a new feature in an old gem, or just
+  some bug fixing. Bring your laptop and be prepared to hack or help someone else
+  out with their idea.</p> <p>We''ll break into pairs, or larger groups, or whatever
+  seems natural - and we''ll see how much we can accomplish in two to three hours.
+  There is no minimum skill level - hacking with other people is a great way to learn,
+  so if you don''t have any open source ambitions of your own, or you are still new
+  to coding, that''s okay! Come to help others, and come to learn. Feel free to bounce
+  around ideas in "Talk about this Meetup" below!</p> <p>Dinner is provided, usually
+  pizza &amp; soda. BYOB.</p> '
+how_to_find_us: Enter the doors on the left side of the building (just past the restaurant
+  entrance), head up to the second floor, then about 2/3 of the way down the hall
+  on your right.
+visibility: public
