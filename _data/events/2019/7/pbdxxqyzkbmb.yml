@@ -2,14 +2,14 @@
 created: 1557365199000
 duration: 7200000
 id: pbdxxqyzkbmb
-name: Monthly B'more on Rails Meetup
+name: WebGL Visualizations and more!
 rsvp_limit: 65
 date_in_series_pattern: false
 status: upcoming
 time: 1562713200000
 local_date: '2019-07-09'
 local_time: '19:00'
-updated: 1557365199000
+updated: 1562335773000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 3
@@ -18,7 +18,7 @@ venue:
   name: 1300 Bank St
   lat: 39.286643981933594
   lon: -76.5987548828125
-  repinned: false
+  repinned: true
   address_1: 1300 Bank St
   city: Baltimore
   country: us
@@ -41,14 +41,15 @@ group:
   timezone: US/Eastern
 link: https://www.meetup.com/bmore-on-rails/events/pbdxxqyzkbmb/
 description: '<p>Join us for another round of Ruby, Rails, and more! On the agenda
-  this month:</p> <p>* You?</p> <p>Got something that you''d like to present? We still
-  have room for another short talk or two. Contact the organizers and let us know.
-  We especially love first time presenters and new perspectives! Even if you have
-  never presented anywhere before, we''d love to hear from you :)</p> <p>Talks are
-  generally no longer than 20-30 minutes (we can make exceptions if you need to rehearse
-  for a conference). Lightning talks (&lt;5 minutes) and shorter talks are also welcome.</p>
-  <p>Seriously, let us know if you''re at all interested!</p> <p>B''more on Rails
-  is dedicated to providing a harassment-free meetup experience for everyone. Our
-  Anti-Harassment Policy (<a href="http://www.meetup.com/bmore-on-rails/pages/B%27more_on_Rails_Anti-Harassment_Policy"
+  this month:</p> <p>* WebGL Visualizations with Threejs and Babylonjs - Chris Strom<br/>*
+  You?</p> <p>Got something that you''d like to present? We still have room for another
+  short talk or two. Contact the organizers and let us know. We especially love first
+  time presenters and new perspectives! Even if you have never presented anywhere
+  before, we''d love to hear from you :)</p> <p>Talks are generally no longer than
+  20-30 minutes (we can make exceptions if you need to rehearse for a conference).
+  Lightning talks (&lt;5 minutes) and shorter talks are also welcome.</p> <p>Seriously,
+  let us know if you''re at all interested!</p> <p>B''more on Rails is dedicated to
+  providing a harassment-free meetup experience for everyone. Our Anti-Harassment
+  Policy (<a href="http://www.meetup.com/bmore-on-rails/pages/B%27more_on_Rails_Anti-Harassment_Policy"
   class="linkified">http://www.meetup.com/bmore-on-rails/pages/B%27more_on_Rails_Anti-Harassment_Policy</a>).</p> '
 visibility: public
