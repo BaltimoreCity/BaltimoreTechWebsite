@@ -10,7 +10,7 @@ time: 1562961600000
 local_date: '2019-07-12'
 local_time: '16:00'
 rsvp_close_offset: PT51H
-updated: 1542247035000
+updated: 1562463833000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 21
@@ -31,14 +31,20 @@ group:
 link: https://www.meetup.com/rladies-baltimore/events/254236104/
 description: '<p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the
   larger R-Ladies global organization (rladies.org) to promote gender diversity in
-  the R community.</p> <p>We will meet up at a local ice-cream shop on Friday July
-  12, 2019 from 4-5:30pm (location coming soon!).</p> <p>FAQ:<br/>Q: Are men welcome
-  to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission
-  is to encourage more women and non-binary individuals to get involved in the R community.
-  However, we ask that cis men come as guests of women and gender minorities to our
-  events to promote a sense support and encouragement for women and gender minorities
-  in the R community. Please help us by spreading the word about R-Ladies. Please
-  also take the time to review our code of conduct before you attend: <a href="https://github.com/rladies/starter-kit/wiki/Code-of-Conduct"
+  the R community.</p> <p>We will meet up at The Charmery Ice Cream Factory, a local
+  ice-cream shop on Friday July 12, 2019 from 4-5:30pm. There won''t be any presentations,
+  only fun networking and discussions and ice cream! Unfortunately, we haven''t found
+  a company to sponsor the ice cream. So everyone is own their own for buying their
+  own ice cream. However, it should be a good time nevertheless!</p> <p>Details on
+  the location:<br/>The Charmery Ice Cream Factory (<a href="http://www.thecharmery.com"
+  class="linkified">http://www.thecharmery.com</a>)<br/>1700 W 41st St #400, Baltimore,
+  MD 21211</p> <p>FAQ:<br/>Q: Are men welcome to attend R-Ladies events?<br/>A: Yes,
+  men are welcome at this event. Our mission is to encourage more women and non-binary
+  individuals to get involved in the R community. However, we ask that cis men come
+  as guests of women and gender minorities to our events to promote a sense support
+  and encouragement for women and gender minorities in the R community. Please help
+  us by spreading the word about R-Ladies. Please also take the time to review our
+  code of conduct before you attend: <a href="https://github.com/rladies/starter-kit/wiki/Code-of-Conduct"
   class="linkified">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct</a></p>
   <p>The term "women and gender minorities" is inclusive of individuals who identify
   as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender,
