@@ -1,0 +1,53 @@
+---
+created: 1562468860000
+duration: 7200000
+id: bbvndrybcfbmb
+name: Baltimore Bitcoin Downtown Happy Hour
+date_in_series_pattern: false
+status: upcoming
+time: 1583789400000
+local_date: '2020-03-09'
+local_time: '17:30'
+updated: 1562468860000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 0
+venue:
+  id: 26166006
+  name: Mount Vernon Marketplace
+  lat: 39.296104431152344
+  lon: -76.61844635009766
+  repinned: true
+  address_1: 520 Park Ave
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21201'
+  state: MD
+group:
+  created: 1378780575000
+  name: Baltimore Bitcoin
+  id: 10188812
+  join_mode: open
+  lat: 39.27000045776367
+  lon: -76.62999725341797
+  urlname: baltimorebitcoin
+  who: Bitcoiners
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/baltimorebitcoin/events/bbvndrybcfbmb/
+description: '<p>Our regular Downtown Happy Hour Networking Meetup in Central Baltimore''s
+  Mount Vernon Marketplace. It''s a nice laid back venue with lot''s of great food
+  and drink options: <a href="https://www.instagram.com/mountvernonmarketplace/" class="linkified">https://www.instagram.com/mountvernonmarketplace/</a>
+  . We list 5:30p - 7:30p but if everyone''s having a good time, we can always stay
+  later.</p> <p>This is a casual meetup where people can come and go as they please.
+  Any topics are welcomed to be discussed, from buying, selling, where to start, mining,
+  personal projects, trading, investing or anything else anyone wants to talk about.</p>
+  <p>Please join our new Telegram group chat: <a href="https://t.me/bmorebitcoin"
+  class="linkified">https://t.me/bmorebitcoin</a></p> '
+how_to_find_us: We should be in the front corner of the marketplace, right by The
+  Local Oyster.
+visibility: public
