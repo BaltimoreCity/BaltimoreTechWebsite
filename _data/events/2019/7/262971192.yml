@@ -1,0 +1,55 @@
+---
+created: 1562600084000
+duration: 10800000
+id: '262971192'
+name: Artificial Intelligence for Non-profits
+date_in_series_pattern: false
+status: upcoming
+time: 1563487200000
+local_date: '2019-07-18'
+local_time: '18:00'
+updated: 1562600084000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 6
+venue:
+  id: 26502479
+  name: Under Armour Global Headquarters
+  lat: 39.275089263916016
+  lon: -76.59138488769531
+  repinned: false
+  address_1: 1020 Hull St
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21230'
+  state: MD
+group:
+  created: 1411519622000
+  name: Baltimore Techies for Good
+  id: 17176312
+  join_mode: approval
+  lat: 39.33000183105469
+  lon: -76.61000061035156
+  urlname: BaltimoreTechiesforGood
+  who: Techies for Good
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/BaltimoreTechiesforGood/events/262971192/
+description: "<p>Join us for a presentation on Artificial Intelligence, what it means,
+  and how it can impact non-profits today and in the future. Learn about the basic
+  building blocks of AI and what it actually means in real world terms. Here about
+  actual uses cases from non-profits that are employing AI to improve the impact of
+  their work. Finally, learn what it will take to get your data ready and how you
+  can implement AI yourself.</p> <p>We will start at 6pm with food, and then the presentation
+  will be at 6:30. After the presentation, we will break out into groups to assist
+  any non-profits who have any technology needs. Non-profits, please bring any technology
+  problems or needs you have, as our techies are eager to assits you!</p> "
+how_to_find_us: Under Armour's Tide Point Campus has plenty of free parking and is
+  right off of I-95 (via Exit 55- Key Highway/Fort McHenry). Follow the sidewalk down
+  to the back of the Tide building facing the harbor. You will be looking for "Armour
+  U".
+visibility: public
