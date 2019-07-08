@@ -1,0 +1,53 @@
+---
+created: 1562617558000
+duration: 7200000
+id: '262980373'
+name: July Community Night
+date_in_series_pattern: false
+status: upcoming
+time: 1564005600000
+local_date: '2019-07-24'
+local_time: '18:00'
+updated: 1562617558000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 26213534
+  name: Spark Baltimore
+  lat: 39.28878402709961
+  lon: -76.60700988769531
+  repinned: true
+  address_1: '8 Market Pl #300'
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21202'
+  state: MD
+group:
+  created: 1478981954000
+  name: Code for Baltimore
+  id: 21148247
+  join_mode: open
+  lat: 39.29999923706055
+  lon: -76.61000061035156
+  urlname: Code-for-Baltimore
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Code-for-Baltimore/events/262980373/
+description: '<p>Join us for a Community Night! Please RSVP so we can get enough food.</p>
+  <p>We''ll gather for food and have a roundtable: Topic-TBD, and if you have a project
+  you''d like us to work on, come prepared to chat about it.</p> <p>If you''re new,
+  no worries! You can easily jump in wherever your skills are needed. Let us know
+  if you have any questions!</p> <p>Follow us on Twitter &amp; Instagram: @CodeForBmore</p>
+  <p>--<br/>Parking: You can utilize Spark''s SpotHero discount for garage parking.
+  Be sure to purchase your SpotHero ticket before entering the garage. (link: <a href="https://spothero.com/baltimore/spark-baltimore-parking?sha_affiliate=SPARK"
+  class="linkified">https://spothero.com/baltimore/spark-baltimore-parking?sha_affiliate=SPARK</a>)</p> '
+how_to_find_us: 'Enter Power Plant; glass door entrance to Spark is on left side at
+  back of venue, beside Ram''s Head. Call the number on the door to be let in. '
+visibility: public
+pro_is_email_shared: false
