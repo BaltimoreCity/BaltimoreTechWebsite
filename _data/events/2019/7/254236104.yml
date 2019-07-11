@@ -10,10 +10,22 @@ time: 1562961600000
 local_date: '2019-07-12'
 local_time: '16:00'
 rsvp_close_offset: PT51H
-updated: 1562463833000
+updated: 1562861248000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 24
+venue:
+  id: 26509108
+  name: The Charmery Ice Cream Factory
+  lat: 39.3363037109375
+  lon: -76.64423370361328
+  repinned: false
+  address_1: '1700 W 41st St #400'
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21211'
+  state: MD
 group:
   created: 1519623494000
   name: R-Ladies Baltimore
