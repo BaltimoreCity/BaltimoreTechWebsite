@@ -8,10 +8,10 @@ status: upcoming
 time: 1562968800000
 local_date: '2019-07-12'
 local_time: '18:00'
-updated: 1559062847000
+updated: 1562869744000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 48
+yes_rsvp_count: 47
 venue:
   id: 24951694
   name: City Garage
@@ -44,5 +44,18 @@ description: '<p>What better way to kick off the summer than with a Bmore VR Mee
   with demos from DMV companies showcasing their awesome VR/AR experiences.</p> <p>If
   you’d like to demo your Augmented and Virtual Reality project(s) please send an
   email to [masked]!</p> <p>Schedule:<br/>6:00PM - 6:45PM: Doors Open/Intros<br/>6:45PM
-  - 8:30PM: Demos/Networking</p> <p>Demos:<br/>TBD</p> '
+  - 8:30PM: Demos/Networking</p> <p>Demos:<br/>University of Baltimore Students -
+  ARGOS, an augmented reality guidance and operating system, was designed to meet
+  the specifications of the NASA SUITS design challenge. The system simulates the
+  assistance required by an astronaut during an extra-vehicular activity, such as
+  fixing an external component of a space vehicle.</p> <p>Molecular Jig - Pilot a
+  Nanobot on the cell’s surface on NanoCrasher VR, the beginning of a 3D adventure
+  in and out of cells that teach the fundamentals of nutrition and mental health.</p>
+  <p>Relativity Theory VR - Experience high-quality 3D virtual reality cinema content
+  that pushes the state of the art of 3D VR technology while telling enticing stories
+  that take audiences on highly immersive journey experiences.</p> <p>Space Telescope
+  Science Institution - Space Telescope Science Institute: Get up close and personal
+  with NASA’s James Webb Space Telescope. Come witness the immense scale of Webb,
+  learn about its engineering feats, or even take a journey into the heart of a protoplanetary
+  disk!</p> <p>AND MORE!</p> '
 visibility: public
