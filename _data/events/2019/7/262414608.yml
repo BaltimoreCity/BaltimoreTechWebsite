@@ -9,10 +9,10 @@ status: upcoming
 time: 1563229800000
 local_date: '2019-07-15'
 local_time: '18:30'
-updated: 1560866190000
+updated: 1563206178000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 3
+yes_rsvp_count: 4
 venue:
   id: 23763215
   name: Village Learning Place
@@ -43,7 +43,10 @@ link: https://www.meetup.com/Baltimore-Vim/events/262414608/
 description: '<p>Thank you Caroline for presenting in June!</p> <p>Per usual meetup
   procedure, in July we''ll gather at the VLP for presentation(s), and afterwards
   anyone who still wants to hang out can continue on to a nearby food venue.</p> <p>----</p>
-  <p>Scheduled Talk(s):</p> <p>* TBA - There''s space for you to submit a talk! <a
-  href="http://baltimorevim.org/submit-a-talk.html#form" class="linkified">http://baltimorevim.org/submit-a-talk.html#form</a></p>
-  <p>-----</p> <p>Scheduled Beer: TBA</p> '
+  <p>Scheduled Talk(s):</p> <p>• Vim Startup (Beginner) - Stephen Belcher, 15 Minutes</p>
+  <p>If you''ve never played with Vim''s startup flags, I don''t blame you; the coolest
+  stuff happens after you''re inside Vim. But, there are some interesting ways Vim
+  can be interacted with from the command line, and I''ll explore a few of those in
+  this talk.</p> <p>-----</p> <p>Scheduled Beer: Peabody Heights "Professor Trash
+  Wheel Blinded Me Wit Science", a 4.9% Witbier</p> '
 visibility: public
