@@ -1,0 +1,48 @@
+---
+created: 1563287542000
+duration: 7200000
+id: '263194125'
+name: AI Happy Hour at Monument City Brewing Company
+date_in_series_pattern: false
+status: upcoming
+time: 1565818200000
+local_date: '2019-08-14'
+local_time: '17:30'
+updated: 1563287952000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 4
+venue:
+  id: 26162102
+  name: Monument City Brewing Company
+  lat: 39.29269027709961
+  lon: -76.56268310546875
+  repinned: true
+  address_1: 1 N Haven St
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21224'
+  state: MD
+group:
+  created: 1534967427000
+  name: Artificial Intelligence Maryland (MD-AI)
+  id: 29597822
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Maryland-AI
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Maryland-AI/events/263194125/
+description: '<p>Let''s meet for drinks and informal discussion of all things AI:
+  technology, software and platforms, products and applications, the market and business
+  development, trends, etc.</p> <p>We''ll be at Baltimore''s Monument City Brewing
+  Company, <a href="http://www.monumentcitybrewing.com/" class="linkified">http://www.monumentcitybrewing.com/</a>.
+  We''ll have tables reserved just for the meetup. Drop by and stay for as long as
+  you wish. See you then!</p> '
+visibility: public
