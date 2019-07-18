@@ -8,10 +8,10 @@ status: upcoming
 time: 1565301600000
 local_date: '2019-08-08'
 local_time: '18:00'
-updated: 1563398418000
+updated: 1563470564000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 57
+yes_rsvp_count: 63
 venue:
   id: 26062940
   name: R. House
@@ -39,8 +39,8 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/technically-baltimore/events/262064055/
-description: "<p>Come connect with one another this year at R. House, make friends
-  and learn about local tech at this year's Super Meetup!</p> <p>The Super Meetup
+description: '<p>Come connect with one another this year at R. House, make friends
+  and learn about local tech at this year''s Super Meetup!</p> <p>The Super Meetup
   is a gathering of the most-connected members of the local tech, startup, and entrepreneurial
   scene. It’s a chance to make new friends and learn more about local tech and entrepreneurial
   resources and tech-focused meetup groups.</p> <p>What to expect:</p> <p>• Learn
@@ -48,11 +48,28 @@ description: "<p>Come connect with one another this year at R. House, make frien
   find out more ways to get involved.<br/>• Grab free beverages and chow down on some
   pay-as-you-go food at<br/>local food trucks<br/>• Bring plenty of business cards
   and lots of energy! We will even have field<br/>games such as cornhole.<br/>• Find
-  opportunities with the exhibiting sponsors (and grab some sweet<br/>swag)</p> <p>CHECK
-  BACK FOR PARTICIPATING MEETUPS!</p> <p>Thanks to our sponsors:<br/>• Asymmetrik,
-  Ltd. (asymmetrik.com)</p> <p>How to get involved?<br/>• If you are a meetup organizer
-  or member and want to get your group involved, contact Clayton Wert at [masked]<br/>•
-  Companies and organizations can learn about sponsorship at technical.ly/super-meetup-2019
-  or by contacting Aileen Connolly McNulty at [masked]<br/>•For partnership or product
-  demo opportunities, please reach out to Less Cardinal at [masked]</p> "
+  opportunities with the exhibiting sponsors (and grab some sweet<br/>swag)</p> <p>HANG
+  WITH THESE MEETUP GROUPS (More to come!)<br/>• B''More Agile in MD (<a href="http://www.meetup.com/BMore-Agile-in-MD/"
+  class="linkified">http://www.meetup.com/BMore-Agile-in-MD/</a>)<br/>•Baltimore Clojure
+  (<a href="http://www.meetup.com/Baltimore-Clojure/" class="linkified">http://www.meetup.com/Baltimore-Clojure/</a>)<br/>•
+  Baltimore Techies for Good (<a href="http://www.meetup.com/BaltimoreTechiesforGood/"
+  class="linkified">http://www.meetup.com/BaltimoreTechiesforGood/</a>)<br/>• BBB
+  of Greater MD (<a href="https://www.meetup.com/BBB-of-Greater-MD-Business-Community/"
+  class="linkified">https://www.meetup.com/BBB-of-Greater-MD-Business-Community/</a>)<br/>•
+  MD Cyber Community Meetup (<a href="https://www.meetup.com/MDcybercommunity/" class="linkified">https://www.meetup.com/MDcybercommunity/</a>)<br/>•
+  Professions on Purpose (<a href="https://www.meetup.com/Professions-on-Purpose/"
+  class="linkified">https://www.meetup.com/Professions-on-Purpose/</a>)<br/>• Baltmore
+  DevOps ( <a href="https://www.meetup.com/Baltimore-DevOps-Meetup/" class="linkified">https://www.meetup.com/Baltimore-DevOps-Meetup/</a>)<br/>•
+  Baltimore Black Techies (<a href="https://www.meetup.com/Baltimore-Black-Techies-Meetup/"
+  class="linkified">https://www.meetup.com/Baltimore-Black-Techies-Meetup/</a>)</p>
+  <p>THANKS TO OUR AMAZING SPONSORS!<br/>• Asymmetrik, Ltd. ((<a href="http://www.asymmetrik.com"
+  class="linkified">http://www.asymmetrik.com</a>)<br/>• University of Maryland, Baltimore
+  County (<a href="http://www.umbc.edu" class="linkified">http://www.umbc.edu</a>)<br/>•
+  Protenus, Inc. (<a href="https://www.protenus.com/" class="linkified">https://www.protenus.com/</a>)<br/>•
+  SmartLogic ((<a href="http://www.smartlogic.io" class="linkified">http://www.smartlogic.io</a>)</p>
+  <p>How to get involved?<br/>• If you are a meetup organizer or member and want to
+  get your group involved, contact Clayton Wert at [masked]<br/>• Companies and organizations
+  can learn about sponsorship at technical.ly/super-meetup-2019 or by contacting Aileen
+  Connolly McNulty at [masked]<br/>•For partnership or product demo opportunities,
+  please reach out to Less Cardinal at [masked]</p> '
 visibility: public
