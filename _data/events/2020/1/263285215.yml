@@ -1,19 +1,19 @@
 ---
-created: 1563504927000
+created: 1563539105000
 duration: 5400000
-id: '263279111'
-name: R-Ladies Baltimore -- Data Products and Presentations with R Markdown
+id: '263285215'
+name: 'R-Ladies Baltimore -- Shiny apps! '
 rsvp_limit: 60
 date_in_series_pattern: false
 status: upcoming
-time: 1568842200000
-local_date: '2019-09-18'
+time: 1580337000000
+local_date: '2020-01-29'
 local_time: '17:30'
 rsvp_close_offset: PT24H
-updated: 1563538810000
-utc_offset: -14400000
+updated: 1563542975000
+utc_offset: -18000000
 waitlist_count: 0
-yes_rsvp_count: 8
+yes_rsvp_count: 3
 group:
   created: 1519623494000
   name: R-Ladies Baltimore
@@ -28,20 +28,19 @@ group:
   country: us
   region: en_US
   timezone: US/Eastern
-link: https://www.meetup.com/rladies-baltimore/events/263279111/
+link: https://www.meetup.com/rladies-baltimore/events/263285215/
 description: "<p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the
   larger R-Ladies global organization (rladies.org) to promote gender diversity in
-  the R community.</p> <p>We will have an event on Wednesday September 18, 2019 from
-  5:30-7pm<br/>(location TBA). We will kickoff our Fall 2019 events with a meetup
-  discussing data presentations and data products using R Markdown, enabling reproducible
-  data analyses. We will also aim for discussing strategies on structuring your data
-  analysis folders.</p> <p>WHO is this for?<br/>- If you are new to R &amp; are short-budgeted
-  on time!<br/>- If you have to make a report or presentation from the results of
-  your analysis with R code, but don't know how!<br/>- If you want to learn about
-  alternative forms of data products with R!</p> <p>*If any/all of this is true, this
-  event might be for you!*</p> <p>AGENDA<br/>5:30–5:45 Meet &amp; Greet | \U0001F36A
+  the R community.</p> <p>We will have an event on Wednesday January 29, 2020 from
+  5:30-7pm<br/>(location TBA). We will have presentations discussing what are Shiny
+  apps, how you can you can build them, and demo-ing a few ones we love!</p> <p>WHO
+  is this for?<br/>- If you are new to R &amp; are short-budgeted on time!<br/>- If
+  you heard of this thing called 'Shiny' in R, but no idea what it is!<br/>- If you
+  know about Shiny apps, but no idea how to build one!<br/>- If you just want to see
+  some awesome examples of web applications in R!</p> <p>*If any/all of this is true,
+  this event might be for you!*</p> <p>AGENDA<br/>5:30–5:45 Meet &amp; Greet | \U0001F36A
   | Networking<br/>5:45–5:50 Who we are | Announcements | What's next<br/>5:50–6:30
-  Workshop: Data Products and Presentations with R Markdown<br/>6:30-6:45 Discussion
+  Presentation: What are Shiny Apps and how can you build one?<br/>6:30-6:45 Discussion
   with audience on other questions / resources<br/>6:45–7:00 More \U0001F36A and Networking</p>
   <p>Details on the location:<br/>TBA</p> <p>FAQ:<br/>Q: Are men welcome to attend
   R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage
