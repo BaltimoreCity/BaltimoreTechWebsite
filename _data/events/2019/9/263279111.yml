@@ -1,0 +1,65 @@
+---
+created: 1563504927000
+duration: 5400000
+id: '263279111'
+name: R-Ladies Baltimore -- Data Products and Presentations with R Markdown
+rsvp_limit: 60
+date_in_series_pattern: false
+status: upcoming
+time: 1568842200000
+local_date: '2019-09-18'
+local_time: '17:30'
+rsvp_close_offset: PT24H
+updated: 1563538810000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 6
+group:
+  created: 1519623494000
+  name: R-Ladies Baltimore
+  id: 27651413
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: rladies-baltimore
+  who: R-Ladies
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/rladies-baltimore/events/263279111/
+description: "<p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the
+  larger R-Ladies global organization (rladies.org) to promote gender diversity in
+  the R community.</p> <p>We will have an event on Wednesday September 18, 2019 from
+  5:30-7pm<br/>(location TBA). We will kickoff our Fall 2019 events with a meetup
+  discussing data presentations and data products using R Markdown, enabling reproducible
+  data analyses. We will also aim for discussing strategies on structuring your data
+  analysis folders.</p> <p>WHO is this for?<br/>- If you are new to R &amp; are short-budgeted
+  on time!<br/>- If you have to make a report or presentation from the results of
+  your analysis with R code, but don't know how!<br/>- If you want to learn about
+  alternative forms of data products with R!</p> <p>*If any/all of this is true, this
+  event might be for you!*</p> <p>AGENDA<br/>5:30–5:45 Meet &amp; Greet | \U0001F36A
+  | Networking<br/>5:45–5:50 Who we are | Announcements | What's next<br/>5:50–6:30
+  Workshop: Data Products and Presentations with R Markdown<br/>6:30-6:45 Discussion
+  with audience on other questions / resources<br/>6:45–7:00 More \U0001F36A and Networking</p>
+  <p>Details on the location:<br/>TBA</p> <p>FAQ:<br/>Q: Are men welcome to attend
+  R-Ladies events?<br/>A: Yes, men are welcome at this event. Our mission is to encourage
+  more women and non-binary individuals to get involved in the R community. However,
+  we ask that cis men come as guests of women and gender minorities to our events
+  to promote a sense support and encouragement for women and gender minorities in
+  the R community. Please help us by spreading the word about R-Ladies. Please also
+  take the time to review our code of conduct before you attend: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\"
+  class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct</a></p>
+  <p>The term \"women and gender minorities\" is inclusive of individuals who identify
+  as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender,
+  intersex, and all minority genders).</p> <p>Important to know:<br/>- If this is
+  your first R-Ladies event, please take a moment to review our R-Ladies Global code
+  of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\"
+  class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct</a></p>
+  <p>Finally, for more information:<br/>email: [masked]<br/>twitter: @RLadiesBmore<br/>website:
+  <a href=\"https://rladies-baltimore.github.io\" class=\"linkified\">https://rladies-baltimore.github.io</a><br/>facebook:
+  <a href=\"https://www.facebook.com/RLadiesBmore/\" class=\"linkified\">https://www.facebook.com/RLadiesBmore/</a><br/>meetup:
+  <a href=\"https://www.meetup.com/rladies-baltimore/\" class=\"linkified\">https://www.meetup.com/rladies-baltimore/</a></p> "
+visibility: public
+pro_is_email_shared: false

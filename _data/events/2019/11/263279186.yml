@@ -1,0 +1,78 @@
+---
+created: 1563505460000
+duration: 5400000
+id: '263279186'
+name: R-Ladies Baltimore -- Data visualizations & holiday designs!
+rsvp_limit: 60
+date_in_series_pattern: false
+status: upcoming
+time: 1574355600000
+local_date: '2019-11-21'
+local_time: '12:00'
+rsvp_close_offset: PT24H
+updated: 1563539176000
+utc_offset: -18000000
+waitlist_count: 0
+yes_rsvp_count: 3
+venue:
+  id: 10399812
+  name: Johns Hopkins Bloomberg School of Public Health
+  lat: 39.2979621887207
+  lon: -76.59085083007812
+  repinned: true
+  address_1: 615 North Wolfe Street
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21205'
+  state: MD
+group:
+  created: 1519623494000
+  name: R-Ladies Baltimore
+  id: 27651413
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: rladies-baltimore
+  who: R-Ladies
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/rladies-baltimore/events/263279186/
+description: "<p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for the
+  larger R-Ladies global organization (rladies.org) to promote gender diversity in
+  the R community.</p> <p>The next event is Thursday November 21, 2019 from 12-1:30pm
+  (615 N. Wolfe Street, Room TBA). Coffee, tea and cookies will be provided. This
+  meeting will include a group coding event. Last year we made holiday cards at our
+  November meetup. It was so much fun, that we are going to do it again! We will also
+  have a presentation on data visualization with the ggplot2 package from the tidy
+  verse.</p> <p>WHO is this for?<br/>- If you are new to R &amp; are short-budgeted
+  on time!<br/>- If you want to learn more about creating data visualizations in R,
+  but don't know how!<br/>- If you want to learn about how to make your own holiday
+  designs in R!</p> <p>*If any/all of this is true, this event might be for you!*</p>
+  <p>AGENDA<br/>12:00–12:15 Meet &amp; Greet | \U0001F36A | Set-up<br/>12:15–12:20
+  Who we are | Announcements | What's next<br/>12:20–12:45 Presentation: Data visualizations
+  with ggplot2<br/>12:45-1:10 Hands-on coding activity: Create your own holiday designs
+  in R!<br/>1:10-1:20 Holiday design showcase!<br/>1:20–1:30 Networking -- Any more
+  Qs?</p> <p>Details on the location:<br/>Johns Hopkins School of Public Health<br/>615
+  N. Wolfe Street<br/>Baltimore, MD 21205</p> <p>Room TBA</p> <p>FAQ:<br/>Q: Are men
+  welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our
+  mission is to encourage more women and non-binary individuals to get involved in
+  the R community. However, we ask that cis men come as guests of women and gender
+  minorities to our events to promote a sense support and encouragement for women
+  and gender minorities in the R community. Please help us by spreading the word about
+  R-Ladies. Please also take the time to review our code of conduct before you attend:
+  <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\" class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct</a></p>
+  <p>The term \"women and gender minorities\" is inclusive of individuals who identify
+  as female (trans and cis), trans-men, non-binary, genderqueer, genderfluid, agender,
+  intersex, and all minority genders).</p> <p>Important to know:<br/>- If this is
+  your first R-Ladies event, please take a moment to review our R-Ladies Global code
+  of conduct: <a href=\"https://github.com/rladies/starter-kit/wiki/Code-of-Conduct\"
+  class=\"linkified\">https://github.com/rladies/starter-kit/wiki/Code-of-Conduct</a></p>
+  <p>Finally, for more information:<br/>email: [masked]<br/>twitter: @RLadiesBmore<br/>facebook:
+  <a href=\"https://www.facebook.com/RLadiesBmore/\" class=\"linkified\">https://www.facebook.com/RLadiesBmore/</a><br/>meetup:
+  <a href=\"https://www.meetup.com/rladies-baltimore/\" class=\"linkified\">https://www.meetup.com/rladies-baltimore/</a></p> "
+visibility: public
+pro_is_email_shared: false
