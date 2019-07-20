@@ -2,13 +2,13 @@
 created: 1563580782000
 duration: 10800000
 id: '263301652'
-name: Baltimore Black Techies @  Technically's Super Meet Up
+name: Baltimore Black Techies @  Technical.ly's Super Meet Up
 date_in_series_pattern: false
 status: upcoming
 time: 1565301600000
 local_date: '2019-08-08'
 local_time: '18:00'
-updated: 1563580782000
+updated: 1563625081000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 1
@@ -17,7 +17,7 @@ venue:
   name: R. House
   lat: 39.32183074951172
   lon: -76.62211608886719
-  repinned: false
+  repinned: true
   address_1: 301 W 29th St
   city: Baltimore
   country: us
