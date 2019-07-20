@@ -1,0 +1,56 @@
+---
+created: 1563580782000
+duration: 10800000
+id: '263301652'
+name: Baltimore Black Techies @  Technically's Super Meet Up
+date_in_series_pattern: false
+status: upcoming
+time: 1565301600000
+local_date: '2019-08-08'
+local_time: '18:00'
+updated: 1563580782000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 26062940
+  name: R. House
+  lat: 39.32183074951172
+  lon: -76.62211608886719
+  repinned: false
+  address_1: 301 W 29th St
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21211'
+  state: MD
+group:
+  created: 1497563382000
+  name: Baltimore Black Techies Meetup
+  id: 24485464
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-Black-Techies-Meetup
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Black-Techies-Meetup/events/263301652/
+description: "<p>Come connect with one another, make friends and learn about local
+  tech at this year's Super Meetup!</p> <p>The Super Meetup is a gathering of the
+  most-connected members of the local tech, startup, and entrepreneurial scene. It’s
+  a chance to make new friends and learn more about local tech and entrepreneurial
+  resources and tech-focused meetup groups.</p> <p>The idea of the Super Meetup is
+  simple: meetups are integral to any tech scene. Every now and then, it makes sense
+  to rally the leaders of tech-related meetups in town and gather for one big mixer.
+  The idea is to connect people with groups they may not have otherwise known about.<br/>Be
+  sure to grab some food and drinks and hang with your favorite Meetups.</p> <p>What
+  to expect:<br/>• Learn about the participating meetups and chat with the organizers
+  one-on-one to find out more ways to get involved.<br/>• Grab free beverages and
+  snacks!<br/>• Bring plenty of business cards and lots of energy! There will be a
+  number of people you will want to network with.<br/>• Find opportunities with the
+  exhibiting sponsors (and grab some sweet swag)</p> "
+visibility: public
