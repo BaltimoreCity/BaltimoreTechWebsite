@@ -54,3 +54,4 @@ description: '<p>Always the first Wednesday of the month at 7pm!</p> <p>Speakers
   class="linkified">http://www.meetup.com/charmcityjs/pages/charmCityJS_Anti-Harassment_Policy</a>).</p> '
 how_to_find_us: 'Check here or twitter: https://twitter.com/charmcityjs'
 visibility: public
+member_pay_fee: false

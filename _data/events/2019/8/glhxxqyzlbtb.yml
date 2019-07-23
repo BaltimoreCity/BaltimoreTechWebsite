@@ -44,3 +44,4 @@ description: '<p><img src="http://baltimorenode.org/wp-content/uploads/2009/07/w
   cool and interesting people!</p> <p>We have about 10-15 people show up on a typical
   night. The vast majority just show up without RSVP.</p> '
 visibility: public
+member_pay_fee: false

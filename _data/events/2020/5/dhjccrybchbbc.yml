@@ -44,3 +44,4 @@ description: "<p>We meet, talk Drupal and maybe have a beer. Often we have a pre
   more about Drupal and meet other Drupalistas.</p> <p>Have a topic? Want to present?
   Have a new Drupal masterpiece? Let us know.</p> "
 visibility: public
+member_pay_fee: false

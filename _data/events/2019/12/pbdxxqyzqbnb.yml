@@ -52,3 +52,4 @@ description: '<p>Join us for another round of Ruby, Rails, and more! On the agen
   Anti-Harassment Policy (<a href="http://www.meetup.com/bmore-on-rails/pages/B%27more_on_Rails_Anti-Harassment_Policy"
   class="linkified">http://www.meetup.com/bmore-on-rails/pages/B%27more_on_Rails_Anti-Harassment_Policy</a>).</p> '
 visibility: public
+member_pay_fee: false

@@ -41,3 +41,4 @@ group:
 link: https://www.meetup.com/Baltimore-DevOps-Meetup/events/zjnzcryzqbqb/
 description: "<p>Join the conversation on the Baltimore Tech Slack: #devops</p> "
 visibility: public
+member_pay_fee: false

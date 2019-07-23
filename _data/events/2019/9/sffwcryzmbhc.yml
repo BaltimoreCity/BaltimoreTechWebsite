@@ -49,3 +49,4 @@ description: '<p>Specific talks TBD, this will be updated when they are finalize
   experience for everyone. Please see our Code of Conduct (<a href="https://www.meetup.com/Baltimore-Elixir-and-Erlang-Meetup/pages/28313285/Code_of_Conduct/"
   class="linkified">https://www.meetup.com/Baltimore-Elixir-and-Erlang-Meetup/pages/28313285/Code_of_Conduct/</a>).</p> '
 visibility: public
+member_pay_fee: false

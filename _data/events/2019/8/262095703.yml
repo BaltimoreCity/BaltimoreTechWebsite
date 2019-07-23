@@ -12,7 +12,7 @@ local_time: '10:00'
 updated: 1559831352000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 16
+yes_rsvp_count: 17
 venue:
   id: 25463234
   name: Mosaic Conference Room (Front)
@@ -48,3 +48,4 @@ description: "<p>Join us at the Howard County Columbia Branch Library to discuss
   work on our own projects, too.</p> <p>Reminder: This meetup is at the Columbia Branch
   in the Mosaic Room.</p> "
 visibility: public
+member_pay_fee: false

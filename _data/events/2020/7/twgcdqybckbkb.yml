@@ -52,3 +52,4 @@ description: "<p>Join fellow Go programming enthusiasts, professionals and the j
   There's plenty of free parking and is right off of I-95 (via Exit 54).</p> <p>#golang</p> "
 visibility: public
 pro_is_email_shared: false
+member_pay_fee: false
