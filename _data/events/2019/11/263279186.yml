@@ -10,15 +10,15 @@ time: 1574355600000
 local_date: '2019-11-21'
 local_time: '12:00'
 rsvp_close_offset: PT24H
-updated: 1563994592000
+updated: 1564019488000
 utc_offset: -18000000
 waitlist_count: 0
 yes_rsvp_count: 9
 venue:
   id: 10399812
   name: Johns Hopkins Bloomberg School of Public Health
-  lat: 39.2979621887207
-  lon: -76.59085083007812
+  lat: 39.29811096191406
+  lon: -76.59017181396484
   repinned: true
   address_1: 615 North Wolfe Street
   city: Baltimore
@@ -56,11 +56,11 @@ description: "<p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for t
   Who we are | Announcements | What's next<br/>12:20–12:45 Presentation: Data visualizations
   with ggplot2<br/>12:45-1:10 Hands-on coding activity: Create your own holiday designs
   in R!<br/>1:10-1:20 Holiday design showcase!<br/>1:20–1:30 Networking -- Any more
-  Qs?</p> <p>Details on the location:<br/>Johns Hopkins School of Public Health<br/>615
-  N. Wolfe Street<br/>Baltimore, MD 21205</p> <p>Room TBA</p> <p>FAQ:<br/>Q: Are men
-  welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event. Our
-  mission is to encourage more women and non-binary individuals to get involved in
-  the R community. However, we ask that cis men come as guests of women and gender
+  Qs?</p> <p>LOCATION:<br/>Johns Hopkins School of Public Health<br/>615 N. Wolfe
+  Street<br/>Baltimore, MD 21205</p> <p>Room E3609 (3rd floor)</p> <p>FAQ:<br/>Q:
+  Are men welcome to attend R-Ladies events?<br/>A: Yes, men are welcome at this event.
+  Our mission is to encourage more women and non-binary individuals to get involved
+  in the R community. However, we ask that cis men come as guests of women and gender
   minorities to our events to promote a sense support and encouragement for women
   and gender minorities in the R community. Please help us by spreading the word about
   R-Ladies. Please also take the time to review our code of conduct before you attend:
@@ -74,6 +74,7 @@ description: "<p>R-Ladies Baltimore (Bmore) is the local Baltimore chapter for t
   <p>Finally, for more information:<br/>email: [masked]<br/>twitter: @RLadiesBmore<br/>facebook:
   <a href=\"https://www.facebook.com/RLadiesBmore/\" class=\"linkified\">https://www.facebook.com/RLadiesBmore/</a><br/>meetup:
   <a href=\"https://www.meetup.com/rladies-baltimore/\" class=\"linkified\">https://www.meetup.com/rladies-baltimore/</a></p> "
+how_to_find_us: We will be in Room E3609 (Also known as the "Genome Cafe")
 visibility: public
 pro_is_email_shared: false
 member_pay_fee: false
