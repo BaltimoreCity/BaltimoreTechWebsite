@@ -1,0 +1,48 @@
+---
+created: 1564420283000
+duration: 7200000
+id: '263558416'
+name: Design System Basics -  Create symbols in Sketch for fast and consistent design.
+date_in_series_pattern: false
+status: upcoming
+time: 1565046000000
+local_date: '2019-08-05'
+local_time: '19:00'
+updated: 1564421182000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 26283308
+  name: Betamore
+  lat: 39.26340866088867
+  lon: -76.61618041992188
+  repinned: true
+  address_1: 101 W Dickman St
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21230'
+  state: MD
+group:
+  created: 1521131649000
+  name: Product Design and Development
+  id: 27838329
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Product-Design-Development
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Product-Design-Development/events/263558416/
+description: '<p>How to create symbols in Sketch, for simple, fast and consistent
+  design.</p> <p>We''ll be creating a set of design system components, to enable incredibly
+  quick, simple and consistent design.</p> <p>**Bring Your Laptop(Macbook)**</p> <p>You
+  can download a free trial of Sketch --&gt; www.sketchapp.com<br/>NB - Sketch works
+  on Apple computers only.</p> <p>We''ll also be raffling a "Sketch license"</p> '
+visibility: public
+member_pay_fee: false
