@@ -13,7 +13,7 @@ rsvp_close_offset: PT24H
 updated: 1564409915000
 utc_offset: -18000000
 waitlist_count: 0
-yes_rsvp_count: 6
+yes_rsvp_count: 8
 venue:
   id: 26523497
   name: 615 N Wolfe St
