@@ -1,6 +1,6 @@
 ---
 created: 1561557236000
-duration: 7200000
+duration: 10800000
 id: zjnzcryzlblb
 name: Baltimore DevOps Meetup
 date_in_series_pattern: false
@@ -8,21 +8,21 @@ status: upcoming
 time: 1565301600000
 local_date: '2019-08-08'
 local_time: '18:00'
-updated: 1561557237000
+updated: 1564674969000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 7
 venue:
-  id: 25327988
-  name: Betamore at City Garage
-  lat: 39.26326370239258
-  lon: -76.61634826660156
+  id: 26101835
+  name: 301 W 29th St
+  lat: 39.32172775268555
+  lon: -76.62223052978516
   repinned: false
-  address_1: 101 West Dickman Street
+  address_1: 301 W 29th St
   city: Baltimore
   country: us
   localized_country_name: USA
-  zip: ''
+  zip: '21211'
   state: MD
 group:
   created: 1537390196000
@@ -39,6 +39,22 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/Baltimore-DevOps-Meetup/events/zjnzcryzlblb/
-description: "<p>Join the conversation on the Baltimore Tech Slack: #devops</p> "
+description: "<p>Join the conversation on the Baltimore Tech Slack: #devops</p> <p>For
+  the August event, we will be joining the annual Super Meetup!</p> <p>Details<br/>Come
+  connect with one another, make friends and learn about local tech at this year's
+  Super Meetup! The Super Meetup is a gathering of the most-connected members of the
+  local tech, startup, and<br/>entrepreneurial scene. It’s a chance to make new friends
+  and learn more about local tech and entrepreneurial resources and tech-focused meetup
+  groups.</p> <p>The idea of the Super Meetup is simple: meetups are integral to any
+  tech scene. Every now and then, it makes sense to rally the leaders of tech-related
+  meetups in town and gather for one big mixer. The idea is to connect people with
+  groups they may not have otherwise known about.<br/>Be sure to grab some food and
+  drinks and hang with your favorite Meetups.</p> <p>What to expect:<br/>• Learn about
+  the participating meetups and chat with the organizers oneon-one to find out more
+  ways to get involved.<br/>• Grab free beverages and snacks!<br/>• Bring plenty of
+  business cards and lots of energy! There will be a number<br/>of people you will
+  want to network with.<br/>• Find opportunities with the exhibiting sponsors (and
+  grab some sweet<br/>swag)</p> <p>When and where:<br/>Thursday, August 8, 2019<br/>6:00
+  PM to 9:00 PM<br/>R. House Baltimore - 301 W 29th St · Baltimore, MD<br/>#SuperMeetup2019</p> "
 visibility: public
 member_pay_fee: false
