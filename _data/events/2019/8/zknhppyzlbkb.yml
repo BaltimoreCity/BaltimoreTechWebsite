@@ -9,16 +9,16 @@ status: upcoming
 time: 1565218800000
 local_date: '2019-08-07'
 local_time: '19:00'
-updated: 1523642177000
+updated: 1564696013000
 utc_offset: -14400000
 waitlist_count: 0
-yes_rsvp_count: 29
+yes_rsvp_count: 27
 venue:
   id: 25610164
   name: Oath
   lat: 39.2816162109375
   lon: -76.58175659179688
-  repinned: false
+  repinned: true
   address_1: 2400 Boston Street Suite 300
   city: Baltimore
   country: us
@@ -40,17 +40,21 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/charmcityjs/events/zknhppyzlbkb/
-description: '<p>Always the first Wednesday of the month at 7pm!</p> <p>Speakers this
-  month:</p> <p>• Speaker #1 - TBA (submit a talk! (<a href="https://github.com/charmcityjs/talks"
-  class="linkified">https://github.com/charmcityjs/talks</a>))</p> <p>• Speaker #2
-  - TBA (submit a talk! (<a href="https://github.com/charmcityjs/talks" class="linkified">https://github.com/charmcityjs/talks</a>))</p>
-  <p>• Speaker #3 - TBA (submit a talk! (<a href="https://github.com/charmcityjs/talks"
-  class="linkified">https://github.com/charmcityjs/talks</a>))</p> <p>We want to hear
-  from you! If you have an idea for a talk, submit a quick description through our
-  github page (<a href="https://github.com/charmCityJs/talks" class="linkified">https://github.com/charmCityJs/talks</a>)!
-  We especially love first time presenters and new perspectives. Don''t hesitate to
-  contact us directly with questions.</p> <p>We''re dedicated to providing a harassment-free
-  meetup experience for everyone. Our policy is here (<a href="http://www.meetup.com/charmcityjs/pages/charmCityJS_Anti-Harassment_Policy"
+description: '<p>After a month off, we''re back on Wednesday August 7th with a star-studded
+  speaker lineup!</p> <p>Speakers this month:</p> <p>• Jason Rhodes - Oh Great, Another
+  React Thing to Learn, Why Do We Even Need Hooks<br/>CharmCityJS co-founder Jason
+  Rhodes is back! You don''t want to miss this talk particularly for the memes and
+  gifs</p> <p>• Glen Goodwin - Advancing Focus (The Focus Subsystem for Web Browsers)<br/>Come
+  see fan-favorite Glen give his upcoming JSConf 2019 talk a test run!</p> <p>• Ken
+  Wheeler - (No title yet but probably something to do with React, sick beats, Flamethrowers,
+  Miller Light and/or America)<br/>You heard it right. React American Bad Boy Ken
+  Wheeler is back and we have literally no idea what he''s going to talk about yet
+  so you won''t want to miss it.</p> <p>We want to hear from you! If you have an idea
+  for a talk, submit a quick description through our github page (<a href="https://github.com/charmCityJs/talks"
+  class="linkified">https://github.com/charmCityJs/talks</a>)! We especially love
+  first time presenters and new perspectives. Don''t hesitate to contact us directly
+  with questions.</p> <p>We''re dedicated to providing a harassment-free meetup experience
+  for everyone. Our policy is here (<a href="http://www.meetup.com/charmcityjs/pages/charmCityJS_Anti-Harassment_Policy"
   class="linkified">http://www.meetup.com/charmcityjs/pages/charmCityJS_Anti-Harassment_Policy</a>).</p> '
 how_to_find_us: 'Check here or twitter: https://twitter.com/charmcityjs'
 visibility: public
