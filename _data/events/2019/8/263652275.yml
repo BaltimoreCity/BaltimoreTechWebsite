@@ -8,7 +8,7 @@ status: upcoming
 time: 1565303400000
 local_date: '2019-08-08'
 local_time: '18:30'
-updated: 1564686486000
+updated: 1564770104000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 6
@@ -46,7 +46,8 @@ description: '<p>GDG Baltimore is back and better than ever! We are kicking off 
   SDK created by Google that allows developers to create amazing apps that target
   multiple platforms from one codebase. For more information about Flutter please
   visit <a href="https://flutter.dev" class="linkified">https://flutter.dev</a></p>
-  <p>We look forward to seeing you!</p> <p>- GroovinChip</p> '
+  <p>We will be at Unleashed Technologies (Suite 105) in Columbia.</p> <p>We look
+  forward to seeing you!</p> <p>- GroovinChip</p> '
 visibility: public
 pro_is_email_shared: false
 member_pay_fee: false
