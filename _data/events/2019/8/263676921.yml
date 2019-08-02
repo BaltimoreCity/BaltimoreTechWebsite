@@ -1,0 +1,48 @@
+---
+created: 1564764276000
+duration: 14400000
+id: '263676921'
+name: TECHEXPO Polygraph-Only Networking Reception & Hiring Event
+date_in_series_pattern: false
+status: upcoming
+time: 1565895600000
+local_date: '2019-08-15'
+local_time: '15:00'
+updated: 1564764276000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 26316021
+  name: DoubleTree by Hilton Hotel Baltimore - BWI Airport
+  lat: 39.20180892944336
+  lon: -76.68951416015625
+  repinned: false
+  address_1: 890 Elkridge Landing Rd
+  city: Linthicum Heights
+  country: us
+  localized_country_name: USA
+  zip: '21090'
+  state: MD
+group:
+  created: 1417539498000
+  name: TECHEXPO Polygraph Only Networking Event
+  id: 18227702
+  join_mode: open
+  lat: 39.209999084472656
+  lon: -76.66000366210938
+  urlname: TECHEXPO-Polygraph-Only-Networking-Event
+  who: CI/Full Scope Poly Professionals
+  localized_location: Linthicum Heights, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/TECHEXPO-Polygraph-Only-Networking-Event/events/263676921/
+description: '<p>A CI, Lifestyle or Full Scope Polygraph is Required to Attend each
+  event.</p> <p>Whether you are seeking new career opportunities or currently employed,
+  invite your fellow polygraph-cleared colleagues and join us  for a fun night of
+  drinks, food and networking. We''ll be there until 7pm!</p> <p>RSVP: <a href="https://TechExpoUSA.com/event/poly-08152019/"
+  class="linkified">https://TechExpoUSA.com/event/poly-08152019/</a></p> '
+visibility: public
+member_pay_fee: false
