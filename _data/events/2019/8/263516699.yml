@@ -1,0 +1,76 @@
+---
+created: 1564266409000
+duration: 8100000
+id: '263516699'
+name: 'Data in the City: Analytics and Civic Data in Baltimore '
+rsvp_limit: 150
+date_in_series_pattern: false
+status: upcoming
+time: 1567031400000
+local_date: '2019-08-28'
+local_time: '18:30'
+updated: 1564853357000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 7
+venue:
+  id: 26283308
+  name: Betamore
+  lat: 39.26340866088867
+  lon: -76.61618041992188
+  repinned: true
+  address_1: 101 W Dickman St
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21230'
+  state: MD
+group:
+  created: 1530147506000
+  name: Data Works MD
+  id: 29010629
+  join_mode: open
+  lat: 39.119998931884766
+  lon: -76.79000091552734
+  urlname: DataWorks
+  who: Data Enthusiasts
+  localized_location: Annapolis Junction, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/DataWorks/events/263516699/
+description: '<p>Join us in August to learn how Baltimore City is using analytics
+  and civic data to improve.</p> <p>Agenda<br/>-------------------------------------------------<br/>6:30
+  PM -- Networking &amp; Food</p> <p>7:00 PM -- Greetings</p> <p>7:05 PM -- Real World
+  Civic Data &amp; Analytics in Baltimore City Government - Justin Elszasz and Babila
+  Lima</p> <p>8:30 PM -- Closing</p> <p>Location<br/>-------------------------------------------------<br/>Betamore
+  City Garage<br/>101 W Dickman Street<br/>Baltimore, MD 21230</p> <p>Parking<br/>-------------------------------------------------<br/>There
+  is ample free parking surrounding the building.</p> <p>Food and Drinks<br/>-------------------------------------------------<br/>Complimentary
+  food and drink will be provided.</p> <p>Talks<br/>-------------------------------------------------<br/>Real
+  World Civic Data &amp; Analytics in Baltimore City Government<br/>Does Baltimore
+  City government even know how to use data? Why is [insert service here] still paper-based?
+  Where are the hotspots for illegal dumping? Is President Trump right about the rats?</p>
+  <p>Smart cities, civic data use, and urban data analytics are all hot topics, but
+  what are the current capabilities and applications in our own city government? Justin
+  Elszasz and Babila Lima from the City of Baltimore will showcase a few examples
+  of how data is being used to improve city services for the residents of Baltimore,
+  from simple performance management to predictive analytics.</p> <p>Speakers<br/>-------------------------------------------------<br/>Justin
+  Elszasz<br/>Justin served as the data scientist for the Bloomberg Philanthropies-funded
+  Innovation Team in the Mayor’s Office before taking on his current role, where he
+  manages the CitiStat program and leads analysis across CitiStat and the Innovation
+  Team. With his previous organization, Navigant Consulting, Justin supported the
+  U.S. Department of Energy’s appliance standards program – the unsung hero of the
+  Obama administration’s climate change efforts – through analysis and developing
+  Federal regulations. He also used data science to improve utility energy efficiency
+  programs.</p> <p>Justin holds an M.S. in mechanical engineering from Columbia University,
+  where he researched applied data science in the energy sector and was a National
+  Science Foundation fellow in the “Integrative Graduate Education and Research Traineeship”,
+  with a program focus of “Solving Urbanization Challenges by Design”. He has prior
+  experience as a design engineer in the aerospace and medical device industries.
+  Justin can be reached at <a href="https://www.linkedin.com/in/justinelszasz/" class="linkified">https://www.linkedin.com/in/justinelszasz/</a></p>
+  <p>Organization<br/>-------------------------------------------------<br/>The Mayor’s
+  Office of Performance and Innovation includes the CitiStat performance management
+  team and the innovation team.<br/><a href="http://opi.baltimorecity.gov/" class="linkified">http://opi.baltimorecity.gov/</a></p> '
+visibility: public
+member_pay_fee: false
