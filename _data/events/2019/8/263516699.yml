@@ -30,11 +30,11 @@ group:
   name: Data Works MD
   id: 29010629
   join_mode: open
-  lat: 39.119998931884766
-  lon: -76.79000091552734
+  lat: 39.27000045776367
+  lon: -76.62999725341797
   urlname: DataWorks
   who: Data Enthusiasts
-  localized_location: Annapolis Junction, MD
+  localized_location: Baltimore, MD
   state: MD
   country: us
   region: en_US
