@@ -1,0 +1,60 @@
+---
+created: 1565020605000
+duration: 19800000
+id: '263749264'
+name: GDG Cloud Baltimore - September 2019 Meeting - Cloud Study Jam
+date_in_series_pattern: false
+status: upcoming
+time: 1568232000000
+local_date: '2019-09-11'
+local_time: '16:00'
+updated: 1565020617000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 25327988
+  name: Betamore at City Garage
+  lat: 39.26326370239258
+  lon: -76.61634826660156
+  repinned: true
+  address_1: 101 West Dickman Street
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: ''
+  state: MD
+group:
+  created: 1525904029000
+  name: GDG Cloud Baltimore
+  id: 28439225
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: GDG-Cloud-Baltimore
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/GDG-Cloud-Baltimore/events/263749264/
+description: "<p>September 2019 GDG Cloud Baltimore Meeting.</p> <p>Cloud Study Jam
+  - Machine Learning!<br/>A Study Jam is a collective learning program combining practical
+  developer experience with Google Cloud expertise.</p> <p>Join us for our upcoming
+  Cloud Study Jam and get hands-on experience with Machine Learning.</p> <p>After
+  the Study Jam, you’ll receive 30-days free access to the entire Qwiklabs catalogue,
+  so you can keep developing your skills at home.</p> <p>Complete all of the labs
+  in the session’s quest, and you’ll earn an additional free month of access to Qwiklabs
+  as well as a badge for your online profile.</p> <p>Bring a laptop and charger (PC,
+  Mac or Chromebook)! The labs will run on all of the latest versions of popular browsers.
+  For the best experience, make sure your laptop has Firefox or Chrome installed.
+  Don’t forget your charger.</p> <p>Agenda:<br/>4:00pm: Welcome<br/>4:30pm: Get free
+  access to Qwiklabs<br/>5:00 pm: Lab 1: Cloud ML Engine: Qwik Start<br/>6:00 pm:
+  Lab 2: Google Cloud Speech API: Qwik Start<br/>7:00 pm: Break<br/>7:30 pm: Lab 3:
+  Cloud Natural Language API: Qwik Start<br/>8:30 pm: Lab 4: Entity and Sentiment
+  Analysis with the Natural Language<br/>9:30pm: Celebration and Prize Announcements</p>
+  <p>Refreshments and snacks will be provided.</p> "
+visibility: public
+pro_is_email_shared: false
+member_pay_fee: false
