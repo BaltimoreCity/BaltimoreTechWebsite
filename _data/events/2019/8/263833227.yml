@@ -1,0 +1,52 @@
+---
+created: 1565270515000
+duration: 18000000
+id: '263833227'
+name: Battlebots Watch Party and Mammoth Demo
+date_in_series_pattern: false
+status: upcoming
+time: 1565388000000
+local_date: '2019-08-09'
+local_time: '18:00'
+updated: 1565270515000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 26561173
+  name: 6410 Landay Ave
+  lat: 39.30389404296875
+  lon: -76.5378189086914
+  repinned: false
+  address_1: 6410 Landay Ave
+  city: Baltimore
+  country: us
+  localized_country_name: USA
+  zip: '21237'
+  state: MD
+group:
+  created: 1345227737000
+  name: Baltimore Hackerspace
+  id: 4573252
+  join_mode: open
+  lat: 39.29999923706055
+  lon: -76.56999969482422
+  urlname: Baltimore-Hackerspace
+  who: Makers
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-Hackerspace/events/263833227/
+description: "<p>Come watch Episode 9 of BattleBots, featuring SBD's very own Mammoth!</p>
+  <p>This event is hosted by Mammoth's sponsor - The Baltimore Hackerspace. We'll
+  be doing demonstrations of the robot in the parking lot between 6:00pm and 8:00pm
+  - feel free to bring something fun for Mammoth to smash! We'll have pizza and soft
+  drinks free of charge, feel free to BYOB.</p> <p>This is a family friendly event,
+  so feel free to bring the kids!</p> <p>The two hour episode starts at 8:00pm and
+  continues till 10:00pm. We may smash a few more items afterwards in celebration
+  or frustration.</p> <p>We won't be charging for food and drink but will accept money.
+  We'll also be selling T-shirts and giving away stickers.</p> "
+visibility: public
+member_pay_fee: false
