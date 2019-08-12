@@ -2,13 +2,13 @@
 created: 1548519825000
 duration: 7200000
 id: '258416954'
-name: Bmore Black Techies Speaker / Presenter Night
+name: Bmore Black Techies Presenter Night | 3D Printing and Design
 date_in_series_pattern: false
 status: upcoming
 time: 1565908200000
 local_date: '2019-08-15'
 local_time: '18:30'
-updated: 1548519825000
+updated: 1565625326000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 22
@@ -40,9 +40,14 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/Baltimore-Black-Techies-Meetup/events/258416954/
-description: "<p>On speaker &amp; presenter night, we will feature either guest speakers
-  or our very own members who want to present on a particular topic as a host. Presentations
-  may consist solely of just pure instruction/dictation but can also involve hands-on
+description: "<p>Are you interested in 3D Printing, has it ever piqued your interest?
+  Join us today as John Fitzell of University of Maryland's Terrapin Lab presents
+  an introductory lesson on 3D Printing and Design.</p> <p>You will learn :<br/>How
+  to prepare models for 3D printing,<br/>How to set up models in the slicer software,
+  and<br/>How each different printer technologies work.</p> <p>________________________________________________________________________<br/>On
+  speaker &amp; presenter night, we will feature either guest speakers or our very
+  own members who want to present on a particular topic as a host. Presentations may
+  consist solely of just pure instruction/dictation but can also involve hands-on
   activity to engage the group as a whole as well. They should last anywhere from
   a minimum of fifteen minutes to a maximum of the duration of our entire group session
   and are relevant to the tech industry. If you would like to host a session on a
