@@ -1,0 +1,67 @@
+---
+created: 1565731514000
+duration: 5400000
+id: '263980015'
+name: Working Session on Salesforce Connector,Platform Events and Apex Calls in Mule
+  4
+date_in_series_pattern: false
+status: upcoming
+time: 1568235600000
+local_date: '2019-09-11'
+local_time: '17:00'
+updated: 1565731516000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 26570665
+  name: Allegis Group, Inc
+  lat: 39.167381286621094
+  lon: -76.73554229736328
+  repinned: false
+  address_1: 7320 Parkway Drive South
+  city: Hanover
+  country: US
+  localized_country_name: USA
+group:
+  created: 1537896512000
+  name: Baltimore MuleSoft Meetup Group
+  id: 29957397
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: Baltimore-MuleSoft-Meetup-Group
+  who: Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Baltimore-MuleSoft-Meetup-Group/events/263980015/
+manual_attendance_count: 0
+description: '<p>REGISTRATIONS ARE NOT AVAILABLE ON MEETUP.COM - CONFIRM YOUR RSVP
+  ON OUR WEBSITE HERE:<br/><a href="https://meetups.mulesoft.com/events/details/mulesoft-baltimore-presents-working-session-on-salesforce-connectorplatform-events-and-apex-calls-in-mule-4/"
+  class="linkified">https://meetups.mulesoft.com/events/details/mulesoft-baltimore-presents-working-session-on-salesforce-connectorplatform-events-and-apex-calls-in-mule-4/</a>
+  If you working/Interested in Mule 4 and want to Learn/Know How to interact with
+  Salesforce and How to Subscribe to Salesforce Events.&lt;/p&gt;Please join us to
+  see how to configure Mule4 Application to integrate with Salesforce.&lt;/p&gt;In
+  this Session, our Speaker will Code during Meetup and run applications to demonstrate
+  data flow and successful transactions.&lt;/p&gt;1.Salesforce Connector in Mule4&lt;/p&gt;2.How
+  to Consume/Subscribe to Salesforce Platform Event&lt;/p&gt;3.Calling Salesforce
+  Apex Class from Mule4&lt;/p&gt;</p> <p>Agenda<br/>6:00 PM: Doors Open, Eat and Socialize<br/>6:10
+  PM: Working Session on Mule 4 Begins<br/>7:20 PM: Q &amp; A</p> <p>---</p> <p>Hosted
+  By<br/>Manju Kumara Hanumanthappa, Integration Developer<br/>Working as Lead Developer
+  in Integration Domain from past 9+ years, Keen on solving integration problems.</p>
+  <p>---</p> <p>Partner<br/>Allegis Group (<a href="https://www.allegisgroup.com/"
+  class="linkified">https://www.allegisgroup.com/</a>)<br/>At Allegis Group, we exist
+  to create opportunity – for our clients, our candidates, and each other. Through
+  a network of specialized companies, we connect great people with great opportunities,
+  helping businesses win and careers soar. We’re the global leader in Talent Solutions.
+  And, together with our network of specialized companies, we are unified by a common
+  purpose: to create significant opportunities for people that, day by day, shape
+  our world.</p> <p>---</p> <p>REGISTRATIONS ARE NOT AVAILABLE ON MEETUP.COM - CONFIRM
+  YOUR RSVP ON OUR WEBSITE HERE:<br/><a href="https://meetups.mulesoft.com/events/details/mulesoft-baltimore-presents-working-session-on-salesforce-connectorplatform-events-and-apex-calls-in-mule-4/"
+  class="linkified">https://meetups.mulesoft.com/events/details/mulesoft-baltimore-presents-working-session-on-salesforce-connectorplatform-events-and-apex-calls-in-mule-4/</a></p> '
+visibility: public
+pro_is_email_shared: false
+member_pay_fee: false
