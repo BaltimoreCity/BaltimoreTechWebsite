@@ -1,29 +1,29 @@
 ---
 created: 1548520701000
-duration: 7200000
+duration: 10800000
 id: '258417563'
-name: Black Techies 2nd Anniversary Social!
+name: 'Baltimore Black Techies 2nd Anniversary Social! '
 date_in_series_pattern: false
 status: upcoming
-time: 1566075600000
-local_date: '2019-08-17'
+time: 1566680400000
+local_date: '2019-08-24'
 local_time: '17:00'
-updated: 1563578862000
+rsvp_close_offset: PT18H
+updated: 1565706919000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 19
 venue:
-  id: 25575435
-  name: Impact Hub Baltimore
-  lat: 39.31175231933594
-  lon: -76.61559295654297
-  repinned: true
-  address_1: 10 E North Ave
+  id: 26569820
+  name: The National Great Blacks In Wax Museum
+  lat: 39.31178283691406
+  lon: -76.59679412841797
+  repinned: false
+  address_1: 1601 E North Ave
   city: Baltimore
   country: us
   localized_country_name: USA
-  phone: '4437044635'
-  zip: '21202'
+  zip: '21213'
   state: MD
 group:
   created: 1497563382000
@@ -40,11 +40,23 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/Baltimore-Black-Techies-Meetup/events/258417563/
-description: "<p>Join us as we celebrate 2 years in the making of this great meetup
-  which began in July 2017!</p> <p>Location: TBA</p> "
-how_to_find_us: Please note that there is NO FREE PARKING at the lot adjacent to Impact
-  Hub (10 E North Avenue). Attendees are advised to use nearby street parking, and
-  NOT the lot next to IH as this has caused some visitors to have their cars impounded
-  in the past.
+description: "<p>Can you believe it?! Baltimore Black Techies Turns 2!</p> <p>Join
+  us as we celebrate 2 years in the making of our meetup which began in July 2017!
+  We've had members from different geographical areas, industry, race/ethnic group,
+  age group et al.</p> <p>The common denominator is that we have a sense of community.
+  We have been able to connect with and learn from the brightest minds in the Baltimore
+  area and beyond in the past year. Some techno-curious minds and those interested
+  in connecting with other tech professionals have graced us with their presence.</p>
+  <p>We have been blessed with a community of consistent members, supporters, partners,
+  and sponsors who we are happy to have grown with. It does take a village! We appreciate
+  you and hope you can make time to celebrate with our community.</p> <p>Here s a
+  brief agenda :<br/>5:00 PM - Tour of Great Blacks in Wax Museum. This will be a
+  1-hour tour, if you are interested, you must RSVP. We need a headcount to provide
+  ahead of time.<br/>6:00 PM - Fruit Cocktails,<br/>6:30 PM - Dinner, A Look Back
+  In Time, Why We Exist<br/>8:00 PM - Bust a Move! We'll end the night with a Soul
+  Train freestyle - show off your fave Baltimore Dance Moves.</p> <p>Please send any
+  questions to [masked]</p> "
+how_to_find_us: Free Parking is available for attendees. Museum staff advised to only
+  park on the Museum's Open Parking Lot.
 visibility: public
 member_pay_fee: false
