@@ -1,0 +1,53 @@
+---
+created: 1565792854000
+duration: 14400000
+id: '263998487'
+name: Explore Your Options Sept 5 in Linthicum - CI or FS Poly Cleared Job Fair
+date_in_series_pattern: false
+status: upcoming
+time: 1567706400000
+local_date: '2019-09-05'
+local_time: '14:00'
+updated: 1565792854000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 5047442
+  name: Doubletree BWI Airport
+  lat: 39.20166015625
+  lon: -76.68933868408203
+  repinned: true
+  address_1: 890 Elkridge Landing Rd.
+  city: Linthicum Heights
+  country: us
+  localized_country_name: USA
+  zip: '21090'
+  state: MD
+group:
+  created: 1455127079000
+  name: ClearedJobs.Net Polygraph Only Networking Events
+  id: 19550590
+  join_mode: open
+  lat: 39.209999084472656
+  lon: -76.66000366210938
+  urlname: ClearedJobs-Net-Polygraph-Only-Networking-Events
+  who: CI or FS Polygraph Professionals
+  localized_location: Linthicum Heights, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/ClearedJobs-Net-Polygraph-Only-Networking-Events/events/263998487/
+description: '<p>If you''ve got a CI or FS polygraph please join us. We''ll have hors
+  d''ouevres plus employers hiring for many different skill sets.</p> <p>Resumes submitted
+  by August 28 will be pre-screened by Employers, and some candidates will be selected
+  for private interviews during the job fair. Not all companies have the capacity
+  to review the full pre-registration file before the event, so if you''re not contacted,
+  don''t let that deter you from joining us! Any questions? Contact [masked].</p>
+  <p>Pre-register here: <a href="https://clearedjobs.net/job-fair/fair/99/" class="linkified">https://clearedjobs.net/job-fair/fair/99/</a></p>
+  <p>Our current list of employers includes:</p> <p>Axiologic Solutions<br/>Ball Aerospace<br/>Integrity
+  Technology Consultants<br/>Leidos<br/>Mission Essential<br/>SAIC<br/>and more to
+  come!</p> <p>Complimentary Resume Reviews during the event.</p> '
+visibility: public
+member_pay_fee: false
