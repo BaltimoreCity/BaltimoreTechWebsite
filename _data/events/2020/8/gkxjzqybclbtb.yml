@@ -1,0 +1,44 @@
+---
+created: 1557925548000
+duration: 7200000
+id: gkxjzqybclbtb
+name: Monthly Meeting
+date_in_series_pattern: false
+status: upcoming
+time: 1597510800000
+local_date: '2020-08-15'
+local_time: '13:00'
+updated: 1557925548000
+utc_offset: -14400000
+waitlist_count: 0
+yes_rsvp_count: 0
+venue:
+  id: 24818598
+  name: CCBC Rolling Rd Campus Catonsville, HTEC Building Room 101
+  lat: 39.25535202026367
+  lon: -76.72847747802734
+  repinned: false
+  address_1: 800 S. Rolling Rd
+  city: Catonsville
+  country: us
+  localized_country_name: USA
+  zip: ''
+  state: MD
+group:
+  created: 1475244282000
+  name: Catonsville Ubuntu-MD Loco Meetup
+  id: 20529376
+  join_mode: open
+  lat: 39.33000183105469
+  lon: -76.73999786376953
+  urlname: Catonsville-Ubuntu-MD-Loco-Meetup
+  who: Members
+  localized_location: Catonsville, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/Catonsville-Ubuntu-MD-Loco-Meetup/events/gkxjzqybclbtb/
+description: "<p>Ubuntu Linux related discussions and presentations</p> "
+visibility: public
+member_pay_fee: false
