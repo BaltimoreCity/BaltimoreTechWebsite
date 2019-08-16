@@ -6,10 +6,10 @@ name: Black Techies Project Night
 rsvp_limit: 20
 date_in_series_pattern: false
 status: upcoming
-time: 1576798200000
-local_date: '2019-12-19'
+time: 1576193400000
+local_date: '2019-12-12'
 local_time: '18:30'
-updated: 1548524580000
+updated: 1565917389000
 utc_offset: -18000000
 waitlist_count: 0
 yes_rsvp_count: 2
