@@ -1,0 +1,52 @@
+---
+created: 1566007026000
+duration: 7200000
+id: '264075877'
+name: CharmBUG Meeting - Tentative Talk
+rsvp_limit: 22
+date_in_series_pattern: false
+status: upcoming
+time: 1574380800000
+local_date: '2019-11-21'
+local_time: '19:00'
+updated: 1566007026000
+utc_offset: -18000000
+waitlist_count: 0
+yes_rsvp_count: 1
+venue:
+  id: 25082635
+  name: Onyx Point
+  lat: 39.19224548339844
+  lon: -76.72801971435547
+  repinned: true
+  address_1: 7050 Hi Tech Drive, Suite 102
+  city: Hanover
+  country: us
+  localized_country_name: USA
+  zip: ''
+  state: MD
+group:
+  created: 1450367558000
+  name: CharmBUG (Baltimore Area BSD User Group)
+  id: 19219857
+  join_mode: open
+  lat: 39.290000915527344
+  lon: -76.62000274658203
+  urlname: CharmBUG
+  who: BUG Members
+  localized_location: Baltimore, MD
+  state: MD
+  country: us
+  region: en_US
+  timezone: US/Eastern
+link: https://www.meetup.com/CharmBUG/events/264075877/
+description: "<p>Our next formal CharmBUG meeting will be held at Onyx Point in Hanover,
+  MD. The goal for this meeting will be to discuss any BUG topics, or general issues,
+  followed by a talk TBD.</p> <p>Information from Onyx Point:</p> <p>Our office building
+  may require assistance for wheelchair accessibility. Please use the telephone number
+  on the door if you have access issues or have arrived late. Restrooms and on-site
+  parking are available.</p> <p>Thanks go out to Onyx Point for allowing us to host
+  our CharmBUG meetup in their office space.</p> "
+how_to_find_us: We will be in their conference room.
+visibility: public
+member_pay_fee: false
