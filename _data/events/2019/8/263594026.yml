@@ -8,7 +8,7 @@ status: upcoming
 time: 1567029600000
 local_date: '2019-08-28'
 local_time: '18:00'
-updated: 1564516926000
+updated: 1566320983000
 utc_offset: -14400000
 waitlist_count: 0
 yes_rsvp_count: 9
@@ -39,14 +39,11 @@ group:
   region: en_US
   timezone: US/Eastern
 link: https://www.meetup.com/Code-for-Baltimore/events/263594026/
-description: '<p>Join us for a Hack Night! Please RSVP so we can get enough food.</p>
-  <p>We''ll gather for food and work on the Sync The City project OR if you have another
-  project you''d like to work on, come prepared to chat about it.</p> <p>If you''re
-  new, no worries! You can easily jump in wherever your skills are needed. Let us
-  know if you have any questions!</p> <p>Follow us on Twitter &amp; Instagram: @CodeForBmore</p>
-  <p>--<br/>Parking: You can utilize Spark''s SpotHero discount for garage parking.
-  Be sure to purchase your SpotHero ticket before entering the garage. (link: <a href="https://spothero.com/baltimore/spark-baltimore-parking?sha_affiliate=SPARK"
-  class="linkified">https://spothero.com/baltimore/spark-baltimore-parking?sha_affiliate=SPARK</a>)</p> '
+description: '<p>HACK NIGHT- CANCELED! hey guys, we''re canceling this hack night,
+  since a big majority of our members are interested in Data in the City, and there''s
+  an event on this. <a href="https://www.meetup.com/DataWorks/events/263516699/" class="linkified">https://www.meetup.com/DataWorks/events/263516699/</a></p>
+  <p>Please join us there, since this information will be really helpful for the projects
+  we''re working on.</p> <p>See you in our next meet up on Sep 11th, 2019.</p> '
 how_to_find_us: 'Enter Power Plant; glass door entrance to Spark is on left side at
   back of venue, beside Ram''s Head. Call the number on the door to be let in. '
 visibility: public
