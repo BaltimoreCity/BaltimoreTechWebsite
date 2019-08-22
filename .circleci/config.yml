@@ -9,9 +9,6 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Update events
-          command: ruby tasks/grab_events.rb
-      - run:
           name: checking yaml file formats
           command: ruby tests/test_yaml_files.rb
       - add_ssh_keys:
